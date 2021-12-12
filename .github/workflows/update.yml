@@ -32,7 +32,7 @@ jobs:
       run: |-
         if [[ -f "wanted.json" ]]; then cp wanted.json wanted-old.json; fi;
         python scrape.py
-        if [[ -f "wanted-old.json" ]]; then csv-diff wanted-old.json wanted.json --key=uid --singular=person --plural=people > message.txt; fi;
+        if [[ -f "wanted-old.json" ]]; then csv-diff wanted-old.json wanted.json --format=json --key=uid --singular=person --plural=people > message.txt; fi;
         git-history file wanted.db wanted.json --branch master --namespace wanted --id uid
     - name: Commit and push if it changed
       run: |-
