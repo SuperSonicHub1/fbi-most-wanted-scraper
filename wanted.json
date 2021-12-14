@@ -6,7 +6,7 @@
 				"name": "English"
 			},
 			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/shorty-navajo-3-2-2021.pdf/@@download/file/Shorty Navajo 3-2-2021.pdf",
+				"url": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty/shortynavajo.pdf/@@download/file/ShortyNavajo.pdf",
 				"name": "DIN\u00c9 BIZAAD K\u2019EHGO"
 			}
 		],
@@ -87,7 +87,7 @@
 		"reward_min": 0,
 		"url": "https://www.fbi.gov/wanted/seeking-info/zachariah-juwaun-shorty",
 		"possible_states": null,
-		"modified": "2021-12-14T18:21:19+00:00",
+		"modified": "2021-12-14T18:40:12+00:00",
 		"reward_max": 0,
 		"race": "native",
 		"height_max": 65,
@@ -70401,97 +70401,6 @@
 	},
 	{
 		"race_raw": "White",
-		"uid": "29ca32f5-9ecd-4404-aa2c-48f8131282fe",
-		"locations": null,
-		"person_classification": "Victim",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/download.pdf",
-				"name": "English"
-			}
-		],
-		"details": "<p>Steven Earl Kraft, Jr. was last seen near his residence in Benton Township, Michigan, on February 15, 2001. Kraft was out walking his two dogs between the hours of 7 and 8 p.m. and failed to return home for dinner. Although his two dogs were subsequently located, Kraft has not been seen since that time.</p>",
-		"publication": "2014-02-04T07:00:00",
-		"nationality": null,
-		"legat_names": null,
-		"sex": "Male",
-		"reward_max": 0,
-		"age_max": null,
-		"description": "February 15, 2001\r\nBenton Township, Michigan",
-		"possible_states": null,
-		"remarks": "<p>Steven Earl Kraft, Jr. was last known to be wearing a blue-green Charlotte Hornets basketball team jacket, a tan and white striped t-shirt, tan parachute pants, and black boots. He has ties to Milwaukee, Wisconsin, and Lexington, Kentucky.</p>",
-		"dates_of_birth_used": [
-			"January 11, 1989"
-		],
-		"subjects": [
-			"Kidnappings and Missing Persons"
-		],
-		"additional_information": null,
-		"age_min": null,
-		"place_of_birth": "Milwaukee, Wisconsin",
-		"languages": null,
-		"path": "/wanted/kidnap/steven-earl-kraft-jr-1",
-		"height_max": 62,
-		"race": "white",
-		"modified": "2021-11-16T14:55:33+00:00",
-		"images": [
-			{
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image"
-			},
-			{
-				"caption": "Age-progressed to 25 years.  Courtesy of NCMEC",
-				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png"
-			},
-			{
-				"caption": "",
-				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg"
-			},
-			{
-				"caption": "",
-				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg"
-			}
-		],
-		"eyes": "green",
-		"weight_min": 100,
-		"height_min": 62,
-		"status": "na",
-		"build": null,
-		"warning_message": null,
-		"coordinates": [],
-		"scars_and_marks": null,
-		"title": "STEVEN EARL KRAFT, JR.",
-		"hair_raw": "Sandy Brown",
-		"url": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1",
-		"aliases": null,
-		"reward_text": null,
-		"reward_min": 0,
-		"complexion": null,
-		"caution": null,
-		"weight_max": 100,
-		"occupations": null,
-		"age_range": null,
-		"suspects": null,
-		"field_offices": [
-			"detroit"
-		],
-		"ncic": null,
-		"eyes_raw": "Green",
-		"possible_countries": null,
-		"weight": "100 pounds (at time of disappearance)",
-		"hair": "brown",
-		"@id": "https://api.fbi.gov/@wanted-person/29ca32f5-9ecd-4404-aa2c-48f8131282fe"
-	},
-	{
-		"race_raw": "White",
 		"uid": "85ebb948-ef25-4e21-b528-7006734b542f",
 		"locations": null,
 		"person_classification": "Victim",
@@ -70612,6 +70521,97 @@
 		"weight": "35 pounds (at time of disappearance)",
 		"hair": "brown",
 		"@id": "https://api.fbi.gov/@wanted-person/85ebb948-ef25-4e21-b528-7006734b542f"
+	},
+	{
+		"race_raw": "White",
+		"uid": "29ca32f5-9ecd-4404-aa2c-48f8131282fe",
+		"locations": null,
+		"person_classification": "Victim",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/download.pdf",
+				"name": "English"
+			}
+		],
+		"details": "<p>Steven Earl Kraft, Jr. was last seen near his residence in Benton Township, Michigan, on February 15, 2001. Kraft was out walking his two dogs between the hours of 7 and 8 p.m. and failed to return home for dinner. Although his two dogs were subsequently located, Kraft has not been seen since that time.</p>",
+		"publication": "2014-02-04T07:00:00",
+		"nationality": null,
+		"legat_names": null,
+		"sex": "Male",
+		"reward_max": 0,
+		"age_max": null,
+		"description": "February 15, 2001\r\nBenton Township, Michigan",
+		"possible_states": null,
+		"remarks": "<p>Steven Earl Kraft, Jr. was last known to be wearing a blue-green Charlotte Hornets basketball team jacket, a tan and white striped t-shirt, tan parachute pants, and black boots. He has ties to Milwaukee, Wisconsin, and Lexington, Kentucky.</p>",
+		"dates_of_birth_used": [
+			"January 11, 1989"
+		],
+		"subjects": [
+			"Kidnappings and Missing Persons"
+		],
+		"additional_information": null,
+		"age_min": null,
+		"place_of_birth": "Milwaukee, Wisconsin",
+		"languages": null,
+		"path": "/wanted/kidnap/steven-earl-kraft-jr-1",
+		"height_max": 62,
+		"race": "white",
+		"modified": "2021-11-16T14:55:33+00:00",
+		"images": [
+			{
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image"
+			},
+			{
+				"caption": "Age-progressed to 25 years.  Courtesy of NCMEC",
+				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png"
+			},
+			{
+				"caption": "",
+				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg"
+			},
+			{
+				"caption": "",
+				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg"
+			}
+		],
+		"eyes": "green",
+		"weight_min": 100,
+		"height_min": 62,
+		"status": "na",
+		"build": null,
+		"warning_message": null,
+		"coordinates": [],
+		"scars_and_marks": null,
+		"title": "STEVEN EARL KRAFT, JR.",
+		"hair_raw": "Sandy Brown",
+		"url": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1",
+		"aliases": null,
+		"reward_text": null,
+		"reward_min": 0,
+		"complexion": null,
+		"caution": null,
+		"weight_max": 100,
+		"occupations": null,
+		"age_range": null,
+		"suspects": null,
+		"field_offices": [
+			"detroit"
+		],
+		"ncic": null,
+		"eyes_raw": "Green",
+		"possible_countries": null,
+		"weight": "100 pounds (at time of disappearance)",
+		"hair": "brown",
+		"@id": "https://api.fbi.gov/@wanted-person/29ca32f5-9ecd-4404-aa2c-48f8131282fe"
 	},
 	{
 		"race_raw": "White",
@@ -77418,6 +77418,98 @@
 		"@id": "https://api.fbi.gov/@wanted-person/09b16403453fef56f5b79c63091b1116"
 	},
 	{
+		"race_raw": "White",
+		"uid": "d52c79b4ff32763458d4a50fd70f3361",
+		"locations": null,
+		"person_classification": "Main",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/murders/alvin-scott/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/murders/alvin-scott/scottalvinturkish.pdf/@@download/file/scottalvinturkish.pdf",
+				"name": "T\u00fcrk\u00e7e'de"
+			}
+		],
+		"details": null,
+		"publication": "2010-09-07T22:55:00",
+		"nationality": "Turkish",
+		"legat_names": null,
+		"sex": "Male",
+		"reward_max": 0,
+		"age_max": null,
+		"description": "Unlawful Flight to Avoid Prosecution - Murder",
+		"possible_states": null,
+		"remarks": "<p>Scott is a naturalized citizen of the United States who may be traveling on a U.S. passport back to his native homeland of Turkey.</p>",
+		"dates_of_birth_used": [
+			"September 21, 1950",
+			"September 1, 1950"
+		],
+		"subjects": [
+			"Violent Crime - Murders"
+		],
+		"additional_information": null,
+		"age_min": null,
+		"place_of_birth": "Turkey",
+		"languages": null,
+		"path": "/wanted/murders/alvin-scott",
+		"height_max": 72,
+		"race": "white",
+		"modified": "2021-11-16T14:54:37+00:00",
+		"images": [
+			{
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image"
+			},
+			{
+				"caption": "",
+				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg"
+			},
+			{
+				"caption": "",
+				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg"
+			}
+		],
+		"eyes": "brown",
+		"weight_min": 170,
+		"height_min": 72,
+		"status": "na",
+		"build": null,
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND A SUICIDE RISK",
+		"coordinates": [],
+		"scars_and_marks": null,
+		"title": "ALVIN SCOTT",
+		"hair_raw": "Gray",
+		"url": "https://www.fbi.gov/wanted/murders/alvin-scott",
+		"aliases": [
+			"Ahmet Sehsuvar"
+		],
+		"reward_text": "The FBI is offering a reward for information leading directly to the arrest of Alvin Scott.",
+		"reward_min": 0,
+		"complexion": null,
+		"caution": "<p>Alvin Scott is wanted in connection with the murder of his estranged wife and her male companion in the Buckhead area of Atlanta, Georgia, on August 3, 2001. Both victims were shot numerous times in both the torso and the head. On August 4, 2001, a City of Atlanta arrest warrant was issued for Scott. Then, on August 7, 2001, the United States District Court, Northern District of Georgia, issued a federal arrest warrant for Scott charging him with unlawful flight to avoid prosecution.</p>",
+		"weight_max": 170,
+		"occupations": null,
+		"age_range": null,
+		"suspects": null,
+		"field_offices": [
+			"atlanta"
+		],
+		"ncic": "W101821986",
+		"eyes_raw": "Brown",
+		"possible_countries": null,
+		"weight": "170 pounds",
+		"hair": "gray",
+		"@id": "https://api.fbi.gov/@wanted-person/d52c79b4ff32763458d4a50fd70f3361"
+	},
+	{
 		"race_raw": "Black",
 		"uid": "6497efc926f214c3f18d95e51aad5946",
 		"locations": null,
@@ -77517,98 +77609,6 @@
 		"weight": "123 pounds",
 		"hair": "black",
 		"@id": "https://api.fbi.gov/@wanted-person/6497efc926f214c3f18d95e51aad5946"
-	},
-	{
-		"race_raw": "White",
-		"uid": "d52c79b4ff32763458d4a50fd70f3361",
-		"locations": null,
-		"person_classification": "Main",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/murders/alvin-scott/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/murders/alvin-scott/scottalvinturkish.pdf/@@download/file/scottalvinturkish.pdf",
-				"name": "T\u00fcrk\u00e7e'de"
-			}
-		],
-		"details": null,
-		"publication": "2010-09-07T22:55:00",
-		"nationality": "Turkish",
-		"legat_names": null,
-		"sex": "Male",
-		"reward_max": 0,
-		"age_max": null,
-		"description": "Unlawful Flight to Avoid Prosecution - Murder",
-		"possible_states": null,
-		"remarks": "<p>Scott is a naturalized citizen of the United States who may be traveling on a U.S. passport back to his native homeland of Turkey.</p>",
-		"dates_of_birth_used": [
-			"September 21, 1950",
-			"September 1, 1950"
-		],
-		"subjects": [
-			"Violent Crime - Murders"
-		],
-		"additional_information": null,
-		"age_min": null,
-		"place_of_birth": "Turkey",
-		"languages": null,
-		"path": "/wanted/murders/alvin-scott",
-		"height_max": 72,
-		"race": "white",
-		"modified": "2021-11-16T14:54:37+00:00",
-		"images": [
-			{
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image"
-			},
-			{
-				"caption": "",
-				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg"
-			},
-			{
-				"caption": "",
-				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg"
-			}
-		],
-		"eyes": "brown",
-		"weight_min": 170,
-		"height_min": 72,
-		"status": "na",
-		"build": null,
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND A SUICIDE RISK",
-		"coordinates": [],
-		"scars_and_marks": null,
-		"title": "ALVIN SCOTT",
-		"hair_raw": "Gray",
-		"url": "https://www.fbi.gov/wanted/murders/alvin-scott",
-		"aliases": [
-			"Ahmet Sehsuvar"
-		],
-		"reward_text": "The FBI is offering a reward for information leading directly to the arrest of Alvin Scott.",
-		"reward_min": 0,
-		"complexion": null,
-		"caution": "<p>Alvin Scott is wanted in connection with the murder of his estranged wife and her male companion in the Buckhead area of Atlanta, Georgia, on August 3, 2001. Both victims were shot numerous times in both the torso and the head. On August 4, 2001, a City of Atlanta arrest warrant was issued for Scott. Then, on August 7, 2001, the United States District Court, Northern District of Georgia, issued a federal arrest warrant for Scott charging him with unlawful flight to avoid prosecution.</p>",
-		"weight_max": 170,
-		"occupations": null,
-		"age_range": null,
-		"suspects": null,
-		"field_offices": [
-			"atlanta"
-		],
-		"ncic": "W101821986",
-		"eyes_raw": "Brown",
-		"possible_countries": null,
-		"weight": "170 pounds",
-		"hair": "gray",
-		"@id": "https://api.fbi.gov/@wanted-person/d52c79b4ff32763458d4a50fd70f3361"
 	},
 	{
 		"race_raw": "White (Hispanic)",
