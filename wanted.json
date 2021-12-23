@@ -84403,73 +84403,91 @@
 		"@id": "https://api.fbi.gov/@wanted-person/2af770ac3ceb4e3493ed5ac186bae197"
 	},
 	{
-		"warning_message": null,
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
 		"status": "na",
 		"possible_states": null,
-		"path": "/wanted/vicap/missing-persons/linda-carol-taylor---nashville-tennessee",
-		"aliases": null,
-		"hair": "brown",
-		"hair_raw": "Brown",
+		"path": "/wanted/murders/steven-giovanni-aguilar-medina",
+		"aliases": [
+			"\"Little One\"",
+			"\"Littleone\"",
+			"\"Trusty\"",
+			"Steven Aguilar",
+			"Steven Giovani Aguilar",
+			"Steven Giovanni Aguilar",
+			"Steven Giovanni Aguilar Medina",
+			"Steven Medina"
+		],
+		"hair": "black",
+		"hair_raw": "Black",
 		"languages": null,
-		"height_min": 63,
+		"height_min": 69,
 		"legat_names": null,
-		"place_of_birth": null,
+		"place_of_birth": "Los Angeles, California",
 		"files": [
 			{
 				"name": "English",
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/linda-carol-taylor---nashville-tennessee/taylor-1-1-19.pdf"
+				"url": "https://www.fbi.gov/wanted/murders/steven-giovanni-aguilar-medina/aguilar-medina-1-page-3-27-19.pdf"
+			},
+			{
+				"name": "EN ESPA\u00d1OL",
+				"url": "https://www.fbi.gov/wanted/murders/steven-giovanni-aguilar-medina/aguilar-medina-spanish-4-4-19.pdf/@@download/file/Aguilar-Medina Spanish 4-4-19.pdf"
 			}
 		],
-		"reward_text": null,
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/linda-carol-taylor---nashville-tennessee",
+		"reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the arrest of Steven Giovanni Aguilar-Medina.",
+		"url": "https://www.fbi.gov/wanted/murders/steven-giovanni-aguilar-medina",
 		"reward_min": 0,
-		"details": "<p>On April 24, 1983, Linda Carol Taylor was reported missing by her friends. Her friends advised they left Linda at apartment \"C\", located at 2120 Belmont Boulevard in Nashville, Tennessee, while they went out drinking. When her friends returned to pick her up, the apartment's occupant refused to allow them into the apartment and advised them that Linda had left. Linda Taylor has not been seen or heard from since. Foul play is suspected in this case.</p>",
+		"details": null,
 		"build": null,
 		"subjects": [
-			"ViCAP Missing Persons"
+			"Violent Crime - Murders"
 		],
 		"images": [
 			{
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/linda-carol-taylor---nashville-tennessee/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/linda-carol-taylor---nashville-tennessee/@@images/image/thumb",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/linda-carol-taylor---nashville-tennessee/@@images/image/large"
+				"original": "https://www.fbi.gov/wanted/murders/steven-giovanni-aguilar-medina/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/murders/steven-giovanni-aguilar-medina/@@images/image/thumb",
+				"caption": "Photograph taken in 2009",
+				"large": "https://www.fbi.gov/wanted/murders/steven-giovanni-aguilar-medina/@@images/image/large"
 			}
 		],
-		"publication": "2019-02-12T15:16:00",
+		"publication": "2019-02-13T09:03:00",
 		"reward_max": 0,
 		"modified": "2021-11-16T14:53:44+00:00",
-		"caution": null,
-		"sex": "Female",
-		"uid": "53638a603067411589c640f2b208273e",
-		"race_raw": "White",
+		"caution": "<p>Steven Giovanni Aguilar-Medina, a known gang member, is wanted for his alleged involvement in a murder and attempted murder in 2009.</p>\r\n<p>\u00a0</p>\r\n<p>On December 28, 2009, Steven Aguilar-Medina was allegedly driven to a rival gang area in Los Angeles, California, by his girlfriend, <a data-val=\"https://www.fbi.gov/wanted/murders/evelin-martinez\" data-linktype=\"external\" data-urltype=\"/view\" href=\"https://www.fbi.gov/wanted/murders/evelin-martinez\">Evelin Martinez</a>. Martinez then allegedly stopped her van, and Aguilar-Medina allegedly exited the vehicle and approached two individuals standing outside a home. Aguilar-Medina allegedly then shouted a gang term, then allegedly fired multiple shots at the two individuals, killing one.</p>\r\n<p>\u00a0</p>\r\n<p>Aguilar-Medina was charged with murder and attempted murder by the Superior Court of California, County of Los Angeles, and a state warrant was issued for his arrest on January 8, 2010. A federal arrest warrant was issued by the United States District Court, Central District of California, Los Angeles, California, on March 3, 2010, after Aguilar-Medina was charged federally with unlawful flight to avoid prosecution.</p>",
+		"sex": "Male",
+		"uid": "5a657cd539aa4d0ab12da8f1a469dd83",
+		"race_raw": "White (Hispanic)",
 		"additional_information": null,
-		"age_range": "34 years old (at the time of disappearance)",
-		"race": "white",
+		"age_range": null,
+		"race": "hispanic",
 		"suspects": null,
 		"possible_countries": null,
-		"nationality": null,
-		"field_offices": null,
+		"nationality": "American",
+		"field_offices": [
+			"losangeles"
+		],
 		"person_classification": "Main",
 		"locations": null,
-		"weight_max": 120,
+		"weight_max": 125,
 		"complexion": null,
-		"age_max": 34,
-		"title": "LINDA CAROL TAYLOR - NASHVILLE, TENNESSEE",
-		"age_min": 34,
+		"age_max": null,
+		"title": "STEVEN GIOVANNI AGUILAR-MEDINA",
+		"age_min": null,
 		"coordinates": [],
-		"weight": "120 pounds",
-		"ncic": null,
-		"eyes": "blue",
-		"description": "April 24, 1983\r\nNashville, Tennessee",
+		"weight": "125 pounds",
+		"ncic": "W163295545",
+		"eyes": "brown",
+		"description": "Unlawful Flight to Avoid Prosecution - Murder, Attempted Murder",
 		"occupations": null,
-		"eyes_raw": "Blue",
-		"dates_of_birth_used": null,
-		"remarks": null,
-		"height_max": 63,
-		"weight_min": 120,
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": [
+			"March 18, 1993",
+			"March 8, 1993"
+		],
+		"remarks": "<p>Aguilar-Medina may be residing in, and has ties to, Mexico.</p>",
+		"height_max": 69,
+		"weight_min": 125,
 		"scars_and_marks": null,
-		"@id": "https://api.fbi.gov/@wanted-person/53638a603067411589c640f2b208273e"
+		"@id": "https://api.fbi.gov/@wanted-person/5a657cd539aa4d0ab12da8f1a469dd83"
 	},
 	{
 		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
@@ -84562,85 +84580,6 @@
 		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
 		"status": "na",
 		"possible_states": null,
-		"path": "/wanted/cyber/mohamad-paryar",
-		"aliases": [
-			"l_bush_l",
-			"Mohamad Pk",
-			"MPK"
-		],
-		"hair": "black",
-		"hair_raw": "Black",
-		"languages": null,
-		"height_min": 68,
-		"legat_names": null,
-		"place_of_birth": "Iran",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/download.pdf"
-			},
-			{
-				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc",
-				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/paryarfarsi.pdf/@@download/file/ParyarFarsi.pdf"
-			}
-		],
-		"reward_text": null,
-		"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar",
-		"reward_min": 0,
-		"details": null,
-		"build": null,
-		"subjects": [
-			"Cyber's Most Wanted"
-		],
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/thumb",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/large"
-			}
-		],
-		"publication": "2019-02-07T19:23:00",
-		"reward_max": 0,
-		"modified": "2021-11-16T14:53:43+00:00",
-		"caution": "<p>Mohamad Paryar\u00a0is wanted for his alleged involvement in criminal activities to include computer intrusion and aggravated identity theft.\u00a0 Paryar was allegedly contracted to procure and provide technical support for\u00a0malware in furtherance of a malicious cyber campaign targeting current and former members of the\u00a0United States\u00a0Intelligence Community.\u00a0 Paryar allegedly conducted this activity at the behest of the Islamic Revolutionary Guard Corps (IRGC).\u00a0 On February 8, 2019, a grand jury in the United States District Court, District of Columbia, indicted Paryar, <a data-val=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\" data-linktype=\"external\" data-urltype=\"/view\" href=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\">and others</a>, and a federal arrest warrant was issued for him after he was charged with Conspiracy to Commit Computer Intrusion, Computer Intrusion, Aggravated Identity Theft, and\u00a0Aiding and Abetting.</p>\r\n<p>\u00a0</p>",
-		"sex": "Male",
-		"uid": "fcef299db11c4940867aeb66e3cdcd5c",
-		"race_raw": "White",
-		"additional_information": null,
-		"age_range": null,
-		"race": "white",
-		"suspects": null,
-		"possible_countries": null,
-		"nationality": "Iranian",
-		"field_offices": [
-			"washingtondc"
-		],
-		"person_classification": "Main",
-		"locations": null,
-		"weight_max": 160,
-		"complexion": null,
-		"age_max": null,
-		"title": "MOHAMAD PARYAR",
-		"age_min": null,
-		"coordinates": [],
-		"weight": "Approximately 160 pounds",
-		"ncic": null,
-		"eyes": "brown",
-		"description": "Conspiracy to Commit Computer Intrusion; Computer Intrusion; Aggravated Identity Theft; Aiding and Abetting",
-		"occupations": null,
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": null,
-		"remarks": null,
-		"height_max": 68,
-		"weight_min": 160,
-		"scars_and_marks": null,
-		"@id": "https://api.fbi.gov/@wanted-person/fcef299db11c4940867aeb66e3cdcd5c"
-	},
-	{
-		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
-		"status": "na",
-		"possible_states": null,
 		"path": "/wanted/cyber/copy_of_behzad-mesri",
 		"aliases": [
 			"Skote Vahshat"
@@ -84716,6 +84655,85 @@
 		"weight_min": 175,
 		"scars_and_marks": null,
 		"@id": "https://api.fbi.gov/@wanted-person/7cb18c1ab6594ccca93c81bddec8eb42"
+	},
+	{
+		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+		"status": "na",
+		"possible_states": null,
+		"path": "/wanted/cyber/mohamad-paryar",
+		"aliases": [
+			"l_bush_l",
+			"Mohamad Pk",
+			"MPK"
+		],
+		"hair": "black",
+		"hair_raw": "Black",
+		"languages": null,
+		"height_min": 68,
+		"legat_names": null,
+		"place_of_birth": "Iran",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/download.pdf"
+			},
+			{
+				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc",
+				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/paryarfarsi.pdf/@@download/file/ParyarFarsi.pdf"
+			}
+		],
+		"reward_text": null,
+		"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar",
+		"reward_min": 0,
+		"details": null,
+		"build": null,
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/thumb",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/large"
+			}
+		],
+		"publication": "2019-02-07T19:23:00",
+		"reward_max": 0,
+		"modified": "2021-11-16T14:53:43+00:00",
+		"caution": "<p>Mohamad Paryar\u00a0is wanted for his alleged involvement in criminal activities to include computer intrusion and aggravated identity theft.\u00a0 Paryar was allegedly contracted to procure and provide technical support for\u00a0malware in furtherance of a malicious cyber campaign targeting current and former members of the\u00a0United States\u00a0Intelligence Community.\u00a0 Paryar allegedly conducted this activity at the behest of the Islamic Revolutionary Guard Corps (IRGC).\u00a0 On February 8, 2019, a grand jury in the United States District Court, District of Columbia, indicted Paryar, <a data-val=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\" data-linktype=\"external\" data-urltype=\"/view\" href=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\">and others</a>, and a federal arrest warrant was issued for him after he was charged with Conspiracy to Commit Computer Intrusion, Computer Intrusion, Aggravated Identity Theft, and\u00a0Aiding and Abetting.</p>\r\n<p>\u00a0</p>",
+		"sex": "Male",
+		"uid": "fcef299db11c4940867aeb66e3cdcd5c",
+		"race_raw": "White",
+		"additional_information": null,
+		"age_range": null,
+		"race": "white",
+		"suspects": null,
+		"possible_countries": null,
+		"nationality": "Iranian",
+		"field_offices": [
+			"washingtondc"
+		],
+		"person_classification": "Main",
+		"locations": null,
+		"weight_max": 160,
+		"complexion": null,
+		"age_max": null,
+		"title": "MOHAMAD PARYAR",
+		"age_min": null,
+		"coordinates": [],
+		"weight": "Approximately 160 pounds",
+		"ncic": null,
+		"eyes": "brown",
+		"description": "Conspiracy to Commit Computer Intrusion; Computer Intrusion; Aggravated Identity Theft; Aiding and Abetting",
+		"occupations": null,
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": null,
+		"remarks": null,
+		"height_max": 68,
+		"weight_min": 160,
+		"scars_and_marks": null,
+		"@id": "https://api.fbi.gov/@wanted-person/fcef299db11c4940867aeb66e3cdcd5c"
 	},
 	{
 		"warning_message": null,
