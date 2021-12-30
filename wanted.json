@@ -3392,6 +3392,75 @@
 		"@id": "https://api.fbi.gov/@wanted-person/78c83b642784405ea41606677a3d8460"
 	},
 	{
+		"age_min": 17,
+		"modified": "2021-12-03T13:31:59+00:00",
+		"coordinates": [],
+		"weight_min": 130,
+		"publication": "2017-11-08T14:04:00",
+		"path": "/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana",
+		"hair_raw": "Brown, Red, Reddish Brown, Auburn (Shorter than collar-length)",
+		"sex": "Female",
+		"remarks": "<p>Clothing included a light-green tank top and anklet socks.</p>",
+		"reward_max": 0,
+		"ncic": null,
+		"reward_min": 0,
+		"age_max": 22,
+		"age_range": "17 - 22 years old",
+		"person_classification": "Main",
+		"languages": null,
+		"reward_text": null,
+		"race_raw": "White",
+		"height_max": 66,
+		"uid": "0b0514a636d34bc2acf19be6c075288a",
+		"status": "na",
+		"subjects": [
+			"ViCAP Unidentified Persons"
+		],
+		"locations": null,
+		"race": "white",
+		"weight_max": 130,
+		"place_of_birth": null,
+		"suspects": null,
+		"build": null,
+		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana",
+		"height_min": 66,
+		"possible_countries": null,
+		"details": "<p>On Sunday, May 3, 1992, the victim\u2019s remains were discovered laying along the eastside of the northbound entrance ramp from Indiana State Road 47 to Interstate 65. The victim was only wearing a light-green tank top and light-green anklet socks. The victim is believed to have died three to five days prior; however, the cause of death could not be determined. Foul play is suspected due to the condition of her recovery.</p>",
+		"dates_of_birth_used": null,
+		"weight": "130 pounds",
+		"occupations": null,
+		"title": "JANE DOE - BOONE COUNTY, INDIANA",
+		"complexion": null,
+		"aliases": null,
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/vicap-alert-2017-05-02-jane-doe-unidentified-remains-revised.pdf"
+			}
+		],
+		"field_offices": null,
+		"caution": null,
+		"possible_states": null,
+		"hair": "brown",
+		"legat_names": null,
+		"eyes_raw": null,
+		"scars_and_marks": "Tattoos included the following: \"MOM\" upper right arm; A cross and \"LOVE\" on the right breast; A cross on webbing between the index finger and thumb on the right hand.",
+		"nationality": null,
+		"additional_information": null,
+		"warning_message": null,
+		"description": "Boone County, Indiana\r\nMay 3, 1992",
+		"eyes": null,
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image/large",
+				"caption": null
+			}
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/0b0514a636d34bc2acf19be6c075288a"
+	},
+	{
 		"age_min": 28,
 		"modified": "2021-12-03T13:31:59+00:00",
 		"coordinates": [],
@@ -3465,75 +3534,6 @@
 			}
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/e384c7a7def64623859e860f502ed7d8"
-	},
-	{
-		"age_min": 17,
-		"modified": "2021-12-03T13:31:59+00:00",
-		"coordinates": [],
-		"weight_min": 130,
-		"publication": "2017-11-08T14:04:00",
-		"path": "/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana",
-		"hair_raw": "Brown, Red, Reddish Brown, Auburn (Shorter than collar-length)",
-		"sex": "Female",
-		"remarks": "<p>Clothing included a light-green tank top and anklet socks.</p>",
-		"reward_max": 0,
-		"ncic": null,
-		"reward_min": 0,
-		"age_max": 22,
-		"age_range": "17 - 22 years old",
-		"person_classification": "Main",
-		"languages": null,
-		"reward_text": null,
-		"race_raw": "White",
-		"height_max": 66,
-		"uid": "0b0514a636d34bc2acf19be6c075288a",
-		"status": "na",
-		"subjects": [
-			"ViCAP Unidentified Persons"
-		],
-		"locations": null,
-		"race": "white",
-		"weight_max": 130,
-		"place_of_birth": null,
-		"suspects": null,
-		"build": null,
-		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana",
-		"height_min": 66,
-		"possible_countries": null,
-		"details": "<p>On Sunday, May 3, 1992, the victim\u2019s remains were discovered laying along the eastside of the northbound entrance ramp from Indiana State Road 47 to Interstate 65. The victim was only wearing a light-green tank top and light-green anklet socks. The victim is believed to have died three to five days prior; however, the cause of death could not be determined. Foul play is suspected due to the condition of her recovery.</p>",
-		"dates_of_birth_used": null,
-		"weight": "130 pounds",
-		"occupations": null,
-		"title": "JANE DOE - BOONE COUNTY, INDIANA",
-		"complexion": null,
-		"aliases": null,
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/vicap-alert-2017-05-02-jane-doe-unidentified-remains-revised.pdf"
-			}
-		],
-		"field_offices": null,
-		"caution": null,
-		"possible_states": null,
-		"hair": "brown",
-		"legat_names": null,
-		"eyes_raw": null,
-		"scars_and_marks": "Tattoos included the following: \"MOM\" upper right arm; A cross and \"LOVE\" on the right breast; A cross on webbing between the index finger and thumb on the right hand.",
-		"nationality": null,
-		"additional_information": null,
-		"warning_message": null,
-		"description": "Boone County, Indiana\r\nMay 3, 1992",
-		"eyes": null,
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image/large",
-				"caption": null
-			}
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/0b0514a636d34bc2acf19be6c075288a"
 	},
 	{
 		"age_min": 30,
@@ -17844,84 +17844,6 @@
 		"age_min": null,
 		"modified": "2021-11-16T15:04:54+00:00",
 		"coordinates": [],
-		"weight_min": 225,
-		"publication": "2012-05-22T11:00:00",
-		"path": "/wanted/human-trafficking/shugang-li",
-		"hair_raw": "Black",
-		"sex": "Male",
-		"remarks": "<p>Li is a Chinese national who had permanent resident alien status and resided in Overland Park, Kansas City, Missouri, in 2006 and 2007. He may possibly be traveling with his wife, <a data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/human-trafficking/weili-pang\" href=\"https://www.fbi.gov/wanted/human-trafficking/weili-pang\" data-linktype=\"external\">Wei Li Pang</a>.</p>",
-		"reward_max": 0,
-		"ncic": null,
-		"reward_min": 0,
-		"age_max": null,
-		"age_range": null,
-		"person_classification": "Main",
-		"languages": null,
-		"reward_text": null,
-		"race_raw": "Asian",
-		"height_max": 70,
-		"uid": "5e63169958f4943635fa20b8215d7d8e",
-		"status": "na",
-		"subjects": [
-			"Human Trafficking"
-		],
-		"locations": null,
-		"race": "asian",
-		"weight_max": 225,
-		"place_of_birth": "People's Republic of China",
-		"suspects": null,
-		"build": null,
-		"url": "https://www.fbi.gov/wanted/human-trafficking/shugang-li",
-		"height_min": 70,
-		"possible_countries": null,
-		"details": null,
-		"dates_of_birth_used": [
-			"November 23, 1969"
-		],
-		"weight": "225 pounds",
-		"occupations": [
-			"Owner/operator of massage parlors"
-		],
-		"title": "SHU GANG LI",
-		"complexion": null,
-		"aliases": [
-			"James Li",
-			"Shugang Li"
-		],
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/human-trafficking/shugang-li/download.pdf"
-			}
-		],
-		"field_offices": [
-			"kansascity"
-		],
-		"caution": "<p>Shu Gang Li was charged in a four-count indictment by a federal grand jury for the United States District Court, Western District of Missouri, Kansas City, Missouri, in March of 2008. The indictment alleges that Li and his partners aided and abetted each other, and others, to transport females in interstate or foreign commerce with the intent that these females engage in prostitution inside massage parlors and elsewhere. Li and his partners allegedly transported at least five females in interstate commerce for illegal sexual activity between May of 2006, and May of 2007.</p>\r\n<p>\u00a0</p>\r\n<p>On March 11, 2008, a federal arrest warrant was issued for the arrest of Li.</p>",
-		"possible_states": null,
-		"hair": "black",
-		"legat_names": null,
-		"eyes_raw": "Brown",
-		"scars_and_marks": null,
-		"nationality": "Chinese",
-		"additional_information": null,
-		"warning_message": null,
-		"description": "Transporting Persons in Interstate Commerce for Illegal Sexual Activity",
-		"eyes": "brown",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/human-trafficking/shugang-li/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/human-trafficking/shugang-li/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/human-trafficking/shugang-li/@@images/image/large",
-				"caption": "Photograph taken in 2007"
-			}
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/5e63169958f4943635fa20b8215d7d8e"
-	},
-	{
-		"age_min": null,
-		"modified": "2021-11-16T15:04:54+00:00",
-		"coordinates": [],
 		"weight_min": 140,
 		"publication": "2012-06-06T11:00:00",
 		"path": "/wanted/human-trafficking/weili-pang",
@@ -17996,6 +17918,84 @@
 			}
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/5cdd19ce6f9e2e7d22881dc6d4c95e3a"
+	},
+	{
+		"age_min": null,
+		"modified": "2021-11-16T15:04:54+00:00",
+		"coordinates": [],
+		"weight_min": 225,
+		"publication": "2012-05-22T11:00:00",
+		"path": "/wanted/human-trafficking/shugang-li",
+		"hair_raw": "Black",
+		"sex": "Male",
+		"remarks": "<p>Li is a Chinese national who had permanent resident alien status and resided in Overland Park, Kansas City, Missouri, in 2006 and 2007. He may possibly be traveling with his wife, <a data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/human-trafficking/weili-pang\" href=\"https://www.fbi.gov/wanted/human-trafficking/weili-pang\" data-linktype=\"external\">Wei Li Pang</a>.</p>",
+		"reward_max": 0,
+		"ncic": null,
+		"reward_min": 0,
+		"age_max": null,
+		"age_range": null,
+		"person_classification": "Main",
+		"languages": null,
+		"reward_text": null,
+		"race_raw": "Asian",
+		"height_max": 70,
+		"uid": "5e63169958f4943635fa20b8215d7d8e",
+		"status": "na",
+		"subjects": [
+			"Human Trafficking"
+		],
+		"locations": null,
+		"race": "asian",
+		"weight_max": 225,
+		"place_of_birth": "People's Republic of China",
+		"suspects": null,
+		"build": null,
+		"url": "https://www.fbi.gov/wanted/human-trafficking/shugang-li",
+		"height_min": 70,
+		"possible_countries": null,
+		"details": null,
+		"dates_of_birth_used": [
+			"November 23, 1969"
+		],
+		"weight": "225 pounds",
+		"occupations": [
+			"Owner/operator of massage parlors"
+		],
+		"title": "SHU GANG LI",
+		"complexion": null,
+		"aliases": [
+			"James Li",
+			"Shugang Li"
+		],
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/human-trafficking/shugang-li/download.pdf"
+			}
+		],
+		"field_offices": [
+			"kansascity"
+		],
+		"caution": "<p>Shu Gang Li was charged in a four-count indictment by a federal grand jury for the United States District Court, Western District of Missouri, Kansas City, Missouri, in March of 2008. The indictment alleges that Li and his partners aided and abetted each other, and others, to transport females in interstate or foreign commerce with the intent that these females engage in prostitution inside massage parlors and elsewhere. Li and his partners allegedly transported at least five females in interstate commerce for illegal sexual activity between May of 2006, and May of 2007.</p>\r\n<p>\u00a0</p>\r\n<p>On March 11, 2008, a federal arrest warrant was issued for the arrest of Li.</p>",
+		"possible_states": null,
+		"hair": "black",
+		"legat_names": null,
+		"eyes_raw": "Brown",
+		"scars_and_marks": null,
+		"nationality": "Chinese",
+		"additional_information": null,
+		"warning_message": null,
+		"description": "Transporting Persons in Interstate Commerce for Illegal Sexual Activity",
+		"eyes": "brown",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/human-trafficking/shugang-li/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/human-trafficking/shugang-li/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/human-trafficking/shugang-li/@@images/image/large",
+				"caption": "Photograph taken in 2007"
+			}
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/5e63169958f4943635fa20b8215d7d8e"
 	},
 	{
 		"age_min": null,
@@ -40351,10 +40351,10 @@
 		"age_min": null,
 		"modified": "2021-11-16T14:59:47+00:00",
 		"coordinates": [],
-		"weight_min": null,
-		"publication": "2019-10-28T11:59:00",
-		"path": "/wanted/counterintelligence/ahmed-saad-m-almutairi",
-		"hair_raw": null,
+		"weight_min": 205,
+		"publication": "2019-10-28T11:22:00",
+		"path": "/wanted/counterintelligence/ali-hamad-a-alzabarah",
+		"hair_raw": "Black",
 		"sex": "Male",
 		"remarks": null,
 		"reward_max": 0,
@@ -40366,65 +40366,69 @@
 		"languages": null,
 		"reward_text": null,
 		"race_raw": null,
-		"height_max": null,
-		"uid": "126ac97fa13c4848b3ba66d03dbfd735",
+		"height_max": 65,
+		"uid": "c00891f136134e76a5eb24c7672de893",
 		"status": "na",
 		"subjects": [
 			"Counterintelligence"
 		],
 		"locations": null,
 		"race": null,
-		"weight_max": null,
+		"weight_max": 205,
 		"place_of_birth": "Saudi Arabia",
 		"suspects": null,
 		"build": null,
-		"url": "https://www.fbi.gov/wanted/counterintelligence/ahmed-saad-m-almutairi",
-		"height_min": null,
+		"url": "https://www.fbi.gov/wanted/counterintelligence/ali-hamad-a-alzabarah",
+		"height_min": 65,
 		"possible_countries": null,
 		"details": null,
 		"dates_of_birth_used": [
-			"December 1, 1988"
+			"September 8, 1983"
 		],
-		"weight": null,
+		"weight": "205 pounds",
 		"occupations": null,
-		"title": "AHMED SAAD M ALMUTAIRI",
+		"title": "ALI HAMAD A ALZABARAH",
 		"complexion": null,
-		"aliases": [
-			"Ahmed Aljbreen"
-		],
+		"aliases": null,
 		"files": [
 			{
 				"name": "English",
-				"url": "https://www.fbi.gov/wanted/counterintelligence/ahmed-saad-m-almutairi/download.pdf"
+				"url": "https://www.fbi.gov/wanted/counterintelligence/ali-hamad-a-alzabarah/download.pdf"
 			},
 			{
 				"name": "\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-				"url": "https://www.fbi.gov/wanted/counterintelligence/ahmed-saad-m-almutairi/almutairiarabic.pdf/@@download/file/almutairiarabic.pdf"
+				"url": "https://www.fbi.gov/wanted/counterintelligence/ali-hamad-a-alzabarah/alzabaraharabic.pdf/@@download/file/alzabaraharabic.pdf"
 			}
 		],
 		"field_offices": [
 			"sanfrancisco"
 		],
-		"caution": "<p>Ahmed Saad M Almutairi, who is more commonly known by the name Ahmed Aljbreen, is wanted for failing to register as an agent of a foreign government as required by United States law. \u00a0In 2014 and 2015, Almutairi allegedly took part in a scheme to steal proprietary and confidential user data from a U.S. company, Twitter,\u00a0for the benefit of the Kingdom of Saudi Arabia.\u00a0 The stolen data included email addresses, telephone numbers and internet protocol addresses of Saudi dissidents and critics of the Saudi government, among others.\u00a0 A federal arrest warrant was issued for Almutairi in the United States District Court, Northern District of California, on November 5, 2019, after he was charged with acting as an unregistered agent of a foreign government.</p>\r\n<p>\u00a0</p>",
+		"caution": "<p>Ali Hamad A Alzabarah is wanted for failing to register as an agent of a foreign government as required by United States law.\u00a0 In 2015, Alzabarah allegedly took part in a scheme to steal proprietary and confidential user data from a U.S. company, Twitter,\u00a0for the benefit of the Kingdom of Saudi Arabia.\u00a0 The stolen data included email addresses, telephone numbers and internet protocol addresses of Saudi dissidents and critics of the Saudi government, among others.\u00a0 A federal arrest warrant was issued for Alzabarah in the United States District Court, Northern District of California, on November 5, 2019, after he was charged with acting as an unregistered agent of a foreign government.</p>\r\n<p>\u00a0</p>",
 		"possible_states": null,
-		"hair": null,
+		"hair": "black",
 		"legat_names": null,
-		"eyes_raw": null,
+		"eyes_raw": "Brown",
 		"scars_and_marks": null,
 		"nationality": "Saudi Arabian",
 		"additional_information": null,
 		"warning_message": null,
 		"description": "Acting as an Unregistered Agent of a Foreign Government",
-		"eyes": null,
+		"eyes": "brown",
 		"images": [
 			{
-				"original": "https://www.fbi.gov/wanted/counterintelligence/ahmed-saad-m-almutairi/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/counterintelligence/ahmed-saad-m-almutairi/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/counterintelligence/ahmed-saad-m-almutairi/@@images/image/large",
-				"caption": "Photograph taken in 2016"
+				"original": "https://www.fbi.gov/wanted/counterintelligence/ali-hamad-a-alzabarah/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/counterintelligence/ali-hamad-a-alzabarah/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/counterintelligence/ali-hamad-a-alzabarah/@@images/image/large",
+				"caption": "Photograph taken in 2015"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/counterintelligence/ali-hamad-a-alzabarah/alzabarah2.jpg",
+				"thumb": "https://www.fbi.gov/wanted/counterintelligence/ali-hamad-a-alzabarah/alzabarah2.jpg/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/counterintelligence/ali-hamad-a-alzabarah/alzabarah2.jpg/@@images/image/large",
+				"caption": ""
 			}
 		],
-		"@id": "https://api.fbi.gov/@wanted-person/126ac97fa13c4848b3ba66d03dbfd735"
+		"@id": "https://api.fbi.gov/@wanted-person/c00891f136134e76a5eb24c7672de893"
 	},
 	{
 		"age_min": null,
@@ -41173,6 +41177,87 @@
 		"age_min": null,
 		"modified": "2021-11-16T14:59:42+00:00",
 		"coordinates": [],
+		"weight_min": null,
+		"publication": "2020-06-19T10:16:00",
+		"path": "/wanted/counterintelligence/vladimir-venkov",
+		"hair_raw": "Brown",
+		"sex": "Male",
+		"remarks": "<p>Venkov\u00a0speaks Russian and English.\u00a0 He has ties to\u00a0Russia.</p>",
+		"reward_max": 0,
+		"ncic": "W273129234",
+		"reward_min": 0,
+		"age_max": null,
+		"age_range": null,
+		"person_classification": "Main",
+		"languages": null,
+		"reward_text": "The FBI is offering a reward of up to $75,000 for information leading to the arrest of Vladimir Venkov.",
+		"race_raw": "White",
+		"height_max": null,
+		"uid": "c1759c2d2535436da3a28afde79823ed",
+		"status": "na",
+		"subjects": [
+			"Counterintelligence"
+		],
+		"locations": null,
+		"race": "white",
+		"weight_max": null,
+		"place_of_birth": null,
+		"suspects": null,
+		"build": null,
+		"url": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov",
+		"height_min": null,
+		"possible_countries": null,
+		"details": null,
+		"dates_of_birth_used": [
+			"May 28, 1990"
+		],
+		"weight": null,
+		"occupations": null,
+		"title": "VLADIMIR VENKOV",
+		"complexion": null,
+		"aliases": null,
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov/vladimir-venkov.pdf"
+			},
+			{
+				"name": "\u041d\u0410 \u0420\u0423\u0421\u0421\u041a\u041e\u041c",
+				"url": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov/venkovrussian.pdf/@@download/file/VenkovRussian.pdf"
+			},
+			{
+				"name": "\u043d\u0430 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456\u0439 \u043c\u043e\u0432\u0456",
+				"url": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov/venkovukrainian.pdf/@@download/file/VenkovUkrainian.pdf"
+			}
+		],
+		"field_offices": [
+			"washingtondc"
+		],
+		"caution": "<p>Vladimir Venkov is\u00a0wanted by the FBI for his alleged involvement in a <a data-urltype=\"/view\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/counterintelligence/2016-election-interference\" href=\"https://www.fbi.gov/wanted/counterintelligence/2016-election-interference\">conspiracy to defraud the United States</a> by impairing, obstructing, and defeating the lawful functions of the Federal Election Commission, the United States Department of Justice, and the United States Department of State.\u00a0 This occurred in Washington, D.C., from March of 2015 to February 16, 2018.\u00a0 Venkov worked within the St. Petersburg-based Internet Research Agency\u2019s (IRA) Translator Project, the company\u2019s US-focused contingent that allegedly conducted operations on social media platforms. \u00a0Venkov allegedly operated multiple United States personas on social media which he allegedly used to post and monitor content on behalf of the IRA.\u00a0 Venkov is also charged with aggravated identity theft after allegedly using personal information of actual Americans without their knowledge to open PayPal and bank accounts to pay for IRA-funded advertisements promoting IRA social media accounts and content.\u00a0 These actions were performed in support of the IRA\u2019s alleged efforts to reach significant numbers of Americans for the purposes of interfering with the United States political system, including the 2016 Presidential Election.</p>\r\n<p>\u00a0</p>\r\n<p>On February 16, 2018, a federal arrest warrant was issued for Vladimir Venkov in the United States District Court for the District of Columbia after he was charged with conspiracy to defraud the United States, aggravated identity theft, and aiding and abetting.</p>\r\n<p>\u00a0</p>",
+		"possible_states": null,
+		"hair": "brown",
+		"legat_names": null,
+		"eyes_raw": null,
+		"scars_and_marks": null,
+		"nationality": null,
+		"additional_information": null,
+		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+		"description": "Conspiracy to Defraud the United States; Aggravated Identity Theft (6 counts); Aiding and Abetting",
+		"eyes": null,
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov/@@images/image/large",
+				"caption": null
+			}
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/c1759c2d2535436da3a28afde79823ed"
+	},
+	{
+		"age_min": null,
+		"modified": "2021-11-16T14:59:42+00:00",
+		"coordinates": [],
 		"weight_min": 190,
 		"publication": "2021-02-17T13:24:00",
 		"path": "/wanted/additional/louis-sam-wyena-",
@@ -41324,87 +41409,6 @@
 			}
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/7e44e1a369274698b9feb6d297be85de"
-	},
-	{
-		"age_min": null,
-		"modified": "2021-11-16T14:59:42+00:00",
-		"coordinates": [],
-		"weight_min": null,
-		"publication": "2020-06-19T10:16:00",
-		"path": "/wanted/counterintelligence/vladimir-venkov",
-		"hair_raw": "Brown",
-		"sex": "Male",
-		"remarks": "<p>Venkov\u00a0speaks Russian and English.\u00a0 He has ties to\u00a0Russia.</p>",
-		"reward_max": 0,
-		"ncic": "W273129234",
-		"reward_min": 0,
-		"age_max": null,
-		"age_range": null,
-		"person_classification": "Main",
-		"languages": null,
-		"reward_text": "The FBI is offering a reward of up to $75,000 for information leading to the arrest of Vladimir Venkov.",
-		"race_raw": "White",
-		"height_max": null,
-		"uid": "c1759c2d2535436da3a28afde79823ed",
-		"status": "na",
-		"subjects": [
-			"Counterintelligence"
-		],
-		"locations": null,
-		"race": "white",
-		"weight_max": null,
-		"place_of_birth": null,
-		"suspects": null,
-		"build": null,
-		"url": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov",
-		"height_min": null,
-		"possible_countries": null,
-		"details": null,
-		"dates_of_birth_used": [
-			"May 28, 1990"
-		],
-		"weight": null,
-		"occupations": null,
-		"title": "VLADIMIR VENKOV",
-		"complexion": null,
-		"aliases": null,
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov/vladimir-venkov.pdf"
-			},
-			{
-				"name": "\u041d\u0410 \u0420\u0423\u0421\u0421\u041a\u041e\u041c",
-				"url": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov/venkovrussian.pdf/@@download/file/VenkovRussian.pdf"
-			},
-			{
-				"name": "\u043d\u0430 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456\u0439 \u043c\u043e\u0432\u0456",
-				"url": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov/venkovukrainian.pdf/@@download/file/VenkovUkrainian.pdf"
-			}
-		],
-		"field_offices": [
-			"washingtondc"
-		],
-		"caution": "<p>Vladimir Venkov is\u00a0wanted by the FBI for his alleged involvement in a <a data-urltype=\"/view\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/counterintelligence/2016-election-interference\" href=\"https://www.fbi.gov/wanted/counterintelligence/2016-election-interference\">conspiracy to defraud the United States</a> by impairing, obstructing, and defeating the lawful functions of the Federal Election Commission, the United States Department of Justice, and the United States Department of State.\u00a0 This occurred in Washington, D.C., from March of 2015 to February 16, 2018.\u00a0 Venkov worked within the St. Petersburg-based Internet Research Agency\u2019s (IRA) Translator Project, the company\u2019s US-focused contingent that allegedly conducted operations on social media platforms. \u00a0Venkov allegedly operated multiple United States personas on social media which he allegedly used to post and monitor content on behalf of the IRA.\u00a0 Venkov is also charged with aggravated identity theft after allegedly using personal information of actual Americans without their knowledge to open PayPal and bank accounts to pay for IRA-funded advertisements promoting IRA social media accounts and content.\u00a0 These actions were performed in support of the IRA\u2019s alleged efforts to reach significant numbers of Americans for the purposes of interfering with the United States political system, including the 2016 Presidential Election.</p>\r\n<p>\u00a0</p>\r\n<p>On February 16, 2018, a federal arrest warrant was issued for Vladimir Venkov in the United States District Court for the District of Columbia after he was charged with conspiracy to defraud the United States, aggravated identity theft, and aiding and abetting.</p>\r\n<p>\u00a0</p>",
-		"possible_states": null,
-		"hair": "brown",
-		"legat_names": null,
-		"eyes_raw": null,
-		"scars_and_marks": null,
-		"nationality": null,
-		"additional_information": null,
-		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
-		"description": "Conspiracy to Defraud the United States; Aggravated Identity Theft (6 counts); Aiding and Abetting",
-		"eyes": null,
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/counterintelligence/vladimir-venkov/@@images/image/large",
-				"caption": null
-			}
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/c1759c2d2535436da3a28afde79823ed"
 	},
 	{
 		"age_min": null,
@@ -83686,77 +83690,6 @@
 		"age_min": null,
 		"modified": "2021-11-16T14:53:47+00:00",
 		"coordinates": [],
-		"weight_min": null,
-		"publication": "2019-10-25T08:37:00",
-		"path": "/wanted/seeking-info/use-of-destructive-device",
-		"hair_raw": null,
-		"sex": null,
-		"remarks": null,
-		"reward_max": 0,
-		"ncic": null,
-		"reward_min": 0,
-		"age_max": null,
-		"age_range": null,
-		"person_classification": "Main",
-		"languages": null,
-		"reward_text": null,
-		"race_raw": null,
-		"height_max": null,
-		"uid": "0a24f87ee6f14a668debbfa8a58597e6",
-		"status": "na",
-		"subjects": [
-			"Seeking Information"
-		],
-		"locations": null,
-		"race": null,
-		"weight_max": null,
-		"place_of_birth": null,
-		"suspects": null,
-		"build": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/use-of-destructive-device",
-		"height_min": null,
-		"possible_countries": null,
-		"details": "<p>On July 17, 2019, at approximately 11:30pm, the individual seen in the photo was seen throwing a destructive device (molotov cocktail) at Police of Puerto Rico Agents during protests at La Fortaleza in San Juan, Puerto Rico.\u00a0</p>\r\n<p>\u00a0</p>",
-		"dates_of_birth_used": null,
-		"weight": null,
-		"occupations": null,
-		"title": "USE OF DESTRUCTIVE DEVICE",
-		"complexion": null,
-		"aliases": null,
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/seeking-info/use-of-destructive-device/download.pdf"
-			}
-		],
-		"field_offices": [
-			"sanjuan"
-		],
-		"caution": null,
-		"possible_states": null,
-		"hair": null,
-		"legat_names": null,
-		"eyes_raw": null,
-		"scars_and_marks": null,
-		"nationality": null,
-		"additional_information": null,
-		"warning_message": null,
-		"description": "San Juan, Puerto Rico\r\nJuly 17, 2019",
-		"eyes": null,
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/use-of-destructive-device/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/use-of-destructive-device/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/seeking-info/use-of-destructive-device/@@images/image/large",
-				"caption": null
-			}
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/0a24f87ee6f14a668debbfa8a58597e6"
-	},
-	{
-		"age_min": null,
-		"modified": "2021-11-16T14:53:47+00:00",
-		"coordinates": [],
 		"weight_min": 110,
 		"publication": "2019-08-13T08:16:00",
 		"path": "/wanted/parental-kidnappings/jenniferlea-settle",
@@ -83825,6 +83758,77 @@
 			}
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/c80b6cafc33d4e48a13547303c061993"
+	},
+	{
+		"age_min": null,
+		"modified": "2021-11-16T14:53:47+00:00",
+		"coordinates": [],
+		"weight_min": null,
+		"publication": "2019-10-25T08:37:00",
+		"path": "/wanted/seeking-info/use-of-destructive-device",
+		"hair_raw": null,
+		"sex": null,
+		"remarks": null,
+		"reward_max": 0,
+		"ncic": null,
+		"reward_min": 0,
+		"age_max": null,
+		"age_range": null,
+		"person_classification": "Main",
+		"languages": null,
+		"reward_text": null,
+		"race_raw": null,
+		"height_max": null,
+		"uid": "0a24f87ee6f14a668debbfa8a58597e6",
+		"status": "na",
+		"subjects": [
+			"Seeking Information"
+		],
+		"locations": null,
+		"race": null,
+		"weight_max": null,
+		"place_of_birth": null,
+		"suspects": null,
+		"build": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/use-of-destructive-device",
+		"height_min": null,
+		"possible_countries": null,
+		"details": "<p>On July 17, 2019, at approximately 11:30pm, the individual seen in the photo was seen throwing a destructive device (molotov cocktail) at Police of Puerto Rico Agents during protests at La Fortaleza in San Juan, Puerto Rico.\u00a0</p>\r\n<p>\u00a0</p>",
+		"dates_of_birth_used": null,
+		"weight": null,
+		"occupations": null,
+		"title": "USE OF DESTRUCTIVE DEVICE",
+		"complexion": null,
+		"aliases": null,
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/seeking-info/use-of-destructive-device/download.pdf"
+			}
+		],
+		"field_offices": [
+			"sanjuan"
+		],
+		"caution": null,
+		"possible_states": null,
+		"hair": null,
+		"legat_names": null,
+		"eyes_raw": null,
+		"scars_and_marks": null,
+		"nationality": null,
+		"additional_information": null,
+		"warning_message": null,
+		"description": "San Juan, Puerto Rico\r\nJuly 17, 2019",
+		"eyes": null,
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/use-of-destructive-device/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/use-of-destructive-device/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/seeking-info/use-of-destructive-device/@@images/image/large",
+				"caption": null
+			}
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/0a24f87ee6f14a668debbfa8a58597e6"
 	},
 	{
 		"age_min": null,
