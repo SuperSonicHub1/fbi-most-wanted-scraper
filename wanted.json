@@ -3259,6 +3259,75 @@
 		"@id": "https://api.fbi.gov/@wanted-person/7d60ad83779047dd95914d0d1bf79e11"
 	},
 	{
+		"path": "/wanted/vicap/unidentified-persons/unknown-victim---cresent-iowa",
+		"warning_message": null,
+		"description": "Crescent, Iowa\r\nMarch 29, 2020",
+		"suspects": null,
+		"caution": null,
+		"weight_max": 240,
+		"age_range": "18 to 45",
+		"images": [
+			{
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/unknown-victim---cresent-iowa/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/unknown-victim---cresent-iowa/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/unknown-victim---cresent-iowa/@@images/image"
+			}
+		],
+		"publication": "2021-10-05T08:02:00",
+		"eyes": "green",
+		"ncic": null,
+		"reward_max": 0,
+		"locations": null,
+		"scars_and_marks": null,
+		"nationality": null,
+		"height_min": 69,
+		"possible_countries": null,
+		"aliases": null,
+		"build": null,
+		"status": "na",
+		"field_offices": null,
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/unknown-victim---cresent-iowa/vivap-unidentified_human_remains-crescent-iowa.pdf"
+			}
+		],
+		"weight_min": 180,
+		"hair": "brown",
+		"age_min": 18,
+		"languages": null,
+		"modified": "2021-12-03T13:31:59+00:00",
+		"legat_names": null,
+		"complexion": null,
+		"person_classification": "Main",
+		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/unknown-victim---cresent-iowa",
+		"subjects": [
+			"ViCAP Unidentified Persons"
+		],
+		"weight": "180 to 240 pounds",
+		"hair_raw": "Brown or Black",
+		"place_of_birth": null,
+		"additional_information": null,
+		"reward_min": 0,
+		"age_max": 45,
+		"sex": "Male",
+		"details": "<p>On March 29, 2020, a right calf with an attached foot and a knee were found in a pond north of Council Bluffs, Iowa. The pond is located near I-680, just east of the Missouri River and the Nebraska state line. A grey and red Under Armor brand tennis shoe, size 13, was attached to the foot. The calf and knee had a vertical black tattoo on the outer side with letters that appear to spell \"REAPER.\"</p>\r\n<p>DNA testing confirmed the calf and knee belong to the same individual; the body parts had been intentionally severed. Forensic anthropology determined the unidentified remains belonged to a middle-aged white male who stood between 5\u20199\u201d to 5\u201911\u201d tall and weighed between 180 to 240 pounds. Genetic pigmentation testing suggested it is highly likely the male had brown or black hair and had either hazel or green eyes.</p>",
+		"possible_states": null,
+		"reward_text": null,
+		"uid": "b5a92137254e4854b9fba87bd0c521cb",
+		"dates_of_birth_used": null,
+		"coordinates": [],
+		"title": "UNKNOWN VICTIM - CRESCENT, IOWA",
+		"eyes_raw": "Hazel or Green",
+		"remarks": "<p>Distinguishing Characteristics: Vertical black tattoo on lower right leg with letters that appear to spell \"REAPER.\"</p>\r\n<p>Clothing/Belongings: Grey and red Under Armor brand tennis shoe, size 13</p>\r\n<p>\u00a0</p>",
+		"race": "white",
+		"height_max": 71,
+		"occupations": null,
+		"race_raw": "White",
+		"@id": "https://api.fbi.gov/@wanted-person/b5a92137254e4854b9fba87bd0c521cb"
+	},
+	{
 		"path": "/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois",
 		"warning_message": null,
 		"description": "October 2, 1976\r\nSeneca, Grundy County, Illinois",
@@ -3332,81 +3401,6 @@
 		"occupations": null,
 		"race_raw": "Black",
 		"@id": "https://api.fbi.gov/@wanted-person/921e16f4c7f44c37bf287ae748037e0c"
-	},
-	{
-		"path": "/wanted/vicap/unidentified-persons/john-doe---white-sands-new-mexico",
-		"warning_message": null,
-		"description": "White Sands, New Mexico\r\nAugust 19, 2017",
-		"suspects": null,
-		"caution": null,
-		"weight_max": null,
-		"age_range": "40 to 49 years old",
-		"images": [
-			{
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---white-sands-new-mexico/@@images/image/large",
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---white-sands-new-mexico/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---white-sands-new-mexico/@@images/image"
-			},
-			{
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---white-sands-new-mexico/vicapcar.jpg/@@images/image/large",
-				"caption": "Possible suspect vehicle",
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---white-sands-new-mexico/vicapcar.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---white-sands-new-mexico/vicapcar.jpg"
-			}
-		],
-		"publication": "2017-09-11T10:21:00",
-		"eyes": null,
-		"ncic": null,
-		"reward_max": 0,
-		"locations": null,
-		"scars_and_marks": "The unknown male had a tattoo of what was possibly a cross or an eagle on his left arm.",
-		"nationality": null,
-		"height_min": null,
-		"possible_countries": null,
-		"aliases": null,
-		"build": null,
-		"status": "na",
-		"field_offices": null,
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---white-sands-new-mexico/alert-nm.pdf"
-			}
-		],
-		"weight_min": null,
-		"hair": "black",
-		"age_min": 40,
-		"languages": null,
-		"modified": "2021-12-03T13:31:59+00:00",
-		"legat_names": null,
-		"complexion": null,
-		"person_classification": "Main",
-		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---white-sands-new-mexico",
-		"subjects": [
-			"ViCAP Unidentified Persons"
-		],
-		"weight": null,
-		"hair_raw": "Balding, with short black hair",
-		"place_of_birth": null,
-		"additional_information": null,
-		"reward_min": 0,
-		"age_max": 49,
-		"sex": "Male",
-		"details": "<p>On August 19, 2017, a ten-year-old female was involved in an attempted abduction at the White Sands National Monument in New Mexico. An unidentified white (possibly Native American) male grabbed the female and attempted to abduct her, but let go after a brief struggle. The suspect left the scene in a red, four-door sedan, possibly a Honda or Hyundai.</p>",
-		"possible_states": null,
-		"reward_text": null,
-		"uid": "78c83b642784405ea41606677a3d8460",
-		"dates_of_birth_used": null,
-		"coordinates": [],
-		"title": "JOHN DOE - WHITE SANDS, NEW MEXICO",
-		"eyes_raw": null,
-		"remarks": "<p>The unknown male was missing teeth, including one in the front. He wore a gold hoop earring, and possibly had a thin mustache.</p>\r\n<p>\u00a0</p>\r\n<p>The unknown male drove a red, four-door sedan - possibly a Honda or Hyundai.</p>",
-		"race": "native",
-		"height_max": null,
-		"occupations": null,
-		"race_raw": "White (possibly Native American)",
-		"@id": "https://api.fbi.gov/@wanted-person/78c83b642784405ea41606677a3d8460"
 	},
 	{
 		"path": "/wanted/vicap/unidentified-persons/unknown-victim---cresent-iowa",
@@ -10201,75 +10195,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/6679f2d5-4dce-48c0-974d-70c430f91609"
 	},
 	{
-		"path": "/wanted/vicap/missing-persons/marina-pearl-boelter",
-		"warning_message": null,
-		"description": "Bloomfield, Indiana\r\nJanuary 1, 2015",
-		"suspects": null,
-		"caution": null,
-		"weight_max": 120,
-		"age_range": "18",
-		"images": [
-			{
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image/large",
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image"
-			}
-		],
-		"publication": "2016-02-10T07:00:00",
-		"eyes": "blue",
-		"ncic": null,
-		"reward_max": 0,
-		"locations": null,
-		"scars_and_marks": null,
-		"nationality": null,
-		"height_min": 63,
-		"possible_countries": null,
-		"aliases": null,
-		"build": null,
-		"status": "na",
-		"field_offices": null,
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/vicap-boelter_marina-bloomfield-in-jan-1-2015.pdf"
-			}
-		],
-		"weight_min": 120,
-		"hair": "blond",
-		"age_min": 18,
-		"languages": null,
-		"modified": "2021-11-16T15:05:38+00:00",
-		"legat_names": null,
-		"complexion": null,
-		"person_classification": "Victim",
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter",
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"weight": "120 pounds",
-		"hair_raw": "Blonde/Strawberry blonde",
-		"place_of_birth": null,
-		"additional_information": null,
-		"reward_min": 0,
-		"age_max": 18,
-		"sex": "Female",
-		"details": "<p>On Friday, January 2, 2015, Marina Pearl Boelter was reported by her co-workers after she did not show up for work at the IGA grocery store, located off South Highway 231, Bloomfield, Indiana, on January 1, 2015. Marina Boelter was last observed at approximately 6:00 p.m., on December 31, 2014, after she left work at the old Sunoco gas station gravel lot directly north of IGA. She has not been seen since.</p>\r\n<p>Marina was last seen wearing pink and white Nike Shox shoes. Marina frequently wore a cross necklace.</p>",
-		"possible_states": null,
-		"reward_text": null,
-		"uid": "f42dc3a2-2c71-4cb1-b801-20eef76da7cc",
-		"dates_of_birth_used": null,
-		"coordinates": [],
-		"title": "MARINA PEARL BOELTER - BLOOMFIELD, INDIANA",
-		"eyes_raw": "Blue",
-		"remarks": null,
-		"race": "white",
-		"height_max": 63,
-		"occupations": null,
-		"race_raw": "White",
-		"@id": "https://api.fbi.gov/@wanted-person/f42dc3a2-2c71-4cb1-b801-20eef76da7cc"
-	},
-	{
 		"path": "/wanted/vicap/missing-persons/mary-ann-ruth-switalski-1",
 		"warning_message": null,
 		"description": "Chicago, Illinois\r\nJuly 15, 1963",
@@ -10343,6 +10268,75 @@
 		"occupations": null,
 		"race_raw": "White",
 		"@id": "https://api.fbi.gov/@wanted-person/a86eed5ea9a07a28b3ab6df96eec5bf1"
+	},
+	{
+		"path": "/wanted/vicap/missing-persons/marina-pearl-boelter",
+		"warning_message": null,
+		"description": "Bloomfield, Indiana\r\nJanuary 1, 2015",
+		"suspects": null,
+		"caution": null,
+		"weight_max": 120,
+		"age_range": "18",
+		"images": [
+			{
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image"
+			}
+		],
+		"publication": "2016-02-10T07:00:00",
+		"eyes": "blue",
+		"ncic": null,
+		"reward_max": 0,
+		"locations": null,
+		"scars_and_marks": null,
+		"nationality": null,
+		"height_min": 63,
+		"possible_countries": null,
+		"aliases": null,
+		"build": null,
+		"status": "na",
+		"field_offices": null,
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/vicap-boelter_marina-bloomfield-in-jan-1-2015.pdf"
+			}
+		],
+		"weight_min": 120,
+		"hair": "blond",
+		"age_min": 18,
+		"languages": null,
+		"modified": "2021-11-16T15:05:38+00:00",
+		"legat_names": null,
+		"complexion": null,
+		"person_classification": "Victim",
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter",
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"weight": "120 pounds",
+		"hair_raw": "Blonde/Strawberry blonde",
+		"place_of_birth": null,
+		"additional_information": null,
+		"reward_min": 0,
+		"age_max": 18,
+		"sex": "Female",
+		"details": "<p>On Friday, January 2, 2015, Marina Pearl Boelter was reported by her co-workers after she did not show up for work at the IGA grocery store, located off South Highway 231, Bloomfield, Indiana, on January 1, 2015. Marina Boelter was last observed at approximately 6:00 p.m., on December 31, 2014, after she left work at the old Sunoco gas station gravel lot directly north of IGA. She has not been seen since.</p>\r\n<p>Marina was last seen wearing pink and white Nike Shox shoes. Marina frequently wore a cross necklace.</p>",
+		"possible_states": null,
+		"reward_text": null,
+		"uid": "f42dc3a2-2c71-4cb1-b801-20eef76da7cc",
+		"dates_of_birth_used": null,
+		"coordinates": [],
+		"title": "MARINA PEARL BOELTER - BLOOMFIELD, INDIANA",
+		"eyes_raw": "Blue",
+		"remarks": null,
+		"race": "white",
+		"height_max": 63,
+		"occupations": null,
+		"race_raw": "White",
+		"@id": "https://api.fbi.gov/@wanted-person/f42dc3a2-2c71-4cb1-b801-20eef76da7cc"
 	},
 	{
 		"path": "/wanted/vicap/missing-persons/marion-bobby-gresham-sr",
@@ -11952,77 +11946,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/795b56d296002b14d6ee108567dc716d"
 	},
 	{
-		"path": "/wanted/vicap/missing-persons/helen-irene-tucker",
-		"warning_message": null,
-		"description": "January 20, 1994\r\nTacoma, Washington",
-		"suspects": null,
-		"caution": null,
-		"weight_max": 115,
-		"age_range": "27 years old (time of incident)",
-		"images": [
-			{
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/@@images/image/large",
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/@@images/image"
-			}
-		],
-		"publication": "2017-03-14T13:18:00",
-		"eyes": "blue",
-		"ncic": null,
-		"reward_max": 0,
-		"locations": null,
-		"scars_and_marks": "Tucker has a tattoo on a gnome on her left arm, and a rose on her right arm.",
-		"nationality": null,
-		"height_min": 63,
-		"possible_countries": null,
-		"aliases": [
-			"Helen Cook"
-		],
-		"build": null,
-		"status": "na",
-		"field_offices": null,
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/vicap-tucker-1-6-20.pdf"
-			}
-		],
-		"weight_min": 115,
-		"hair": "brown",
-		"age_min": 27,
-		"languages": null,
-		"modified": "2021-11-16T15:05:29+00:00",
-		"legat_names": null,
-		"complexion": null,
-		"person_classification": "Main",
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker",
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"weight": "115 pounds (approximately)",
-		"hair_raw": "Brown",
-		"place_of_birth": null,
-		"additional_information": null,
-		"reward_min": 0,
-		"age_max": 27,
-		"sex": "Female",
-		"details": "<p>In April of 2000, Helen Irene Tucker, aka Helen Cook, was reported missing. She was last seen on January 20, 1994, at the age of 27. Her last known location was in Tacoma, Washington, along Puyallup Avenue.</p>",
-		"possible_states": null,
-		"reward_text": null,
-		"uid": "e86a6f40f3ba4faca4c301a97e06db4f",
-		"dates_of_birth_used": null,
-		"coordinates": [],
-		"title": "HELEN IRENE TUCKER - TACOMA, WASHINGTON",
-		"eyes_raw": "Blue",
-		"remarks": "<p>Tucker is missing two teeth, one upper and one lower. She has fillings in twelve teeth.</p>",
-		"race": "white",
-		"height_max": 63,
-		"occupations": null,
-		"race_raw": "White",
-		"@id": "https://api.fbi.gov/@wanted-person/e86a6f40f3ba4faca4c301a97e06db4f"
-	},
-	{
 		"path": "/wanted/vicap/missing-persons/kelsie-jean-schelling",
 		"warning_message": null,
 		"description": "February 4, 2013\r\nPueblo, Colorado",
@@ -12110,6 +12033,77 @@
 		"occupations": null,
 		"race_raw": "White",
 		"@id": "https://api.fbi.gov/@wanted-person/6b70aa98796f40fb9a9cd1a7b5912f4d"
+	},
+	{
+		"path": "/wanted/vicap/missing-persons/helen-irene-tucker",
+		"warning_message": null,
+		"description": "January 20, 1994\r\nTacoma, Washington",
+		"suspects": null,
+		"caution": null,
+		"weight_max": 115,
+		"age_range": "27 years old (time of incident)",
+		"images": [
+			{
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/@@images/image"
+			}
+		],
+		"publication": "2017-03-14T13:18:00",
+		"eyes": "blue",
+		"ncic": null,
+		"reward_max": 0,
+		"locations": null,
+		"scars_and_marks": "Tucker has a tattoo on a gnome on her left arm, and a rose on her right arm.",
+		"nationality": null,
+		"height_min": 63,
+		"possible_countries": null,
+		"aliases": [
+			"Helen Cook"
+		],
+		"build": null,
+		"status": "na",
+		"field_offices": null,
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/vicap-tucker-1-6-20.pdf"
+			}
+		],
+		"weight_min": 115,
+		"hair": "brown",
+		"age_min": 27,
+		"languages": null,
+		"modified": "2021-11-16T15:05:29+00:00",
+		"legat_names": null,
+		"complexion": null,
+		"person_classification": "Main",
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker",
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"weight": "115 pounds (approximately)",
+		"hair_raw": "Brown",
+		"place_of_birth": null,
+		"additional_information": null,
+		"reward_min": 0,
+		"age_max": 27,
+		"sex": "Female",
+		"details": "<p>In April of 2000, Helen Irene Tucker, aka Helen Cook, was reported missing. She was last seen on January 20, 1994, at the age of 27. Her last known location was in Tacoma, Washington, along Puyallup Avenue.</p>",
+		"possible_states": null,
+		"reward_text": null,
+		"uid": "e86a6f40f3ba4faca4c301a97e06db4f",
+		"dates_of_birth_used": null,
+		"coordinates": [],
+		"title": "HELEN IRENE TUCKER - TACOMA, WASHINGTON",
+		"eyes_raw": "Blue",
+		"remarks": "<p>Tucker is missing two teeth, one upper and one lower. She has fillings in twelve teeth.</p>",
+		"race": "white",
+		"height_max": 63,
+		"occupations": null,
+		"race_raw": "White",
+		"@id": "https://api.fbi.gov/@wanted-person/e86a6f40f3ba4faca4c301a97e06db4f"
 	},
 	{
 		"path": "/wanted/vicap/missing-persons/simone-s-ridinger",
@@ -16921,6 +16915,94 @@
 		"@id": "https://api.fbi.gov/@wanted-person/238526d57b9dd0e1837599576ee0e0c6"
 	},
 	{
+		"path": "/wanted/cyber/firas-dardar",
+		"warning_message": null,
+		"description": "Conspiracy to Gain Unauthorized Access to and Damage Computers; Conspiracy to Convey False Information Regarding a Terrorist Attack; Conspiracy to Cause Mutiny of United States Military Members; Conspiracy to Commit Identity Theft, Conspiracy to Commit Access Device Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Commit Wire Fraud; Conspiracy to Violate Syrian Sanctions Regulations; Conspiracy to Receive the Proceeds of Extortion; Conspiracy to Send an Unlawful Interstate Communication",
+		"suspects": null,
+		"caution": "<p>Firas Dardar is wanted for his alleged involvement in the Syrian Electronic Army (SEA), a group of individuals who allegedly commit hacks in support of the Syrian Regime. It is alleged that, between September of 2011 and January of 2014, Dardar committed dozens of cyber attacks against United States government agencies, media organizations, and private organizations under the SEA banner while using the online nickname, \"The Shadow\". On June 12, 2014, a criminal complaint was filed in the United States District Court, Eastern District of Virginia, Alexandria, Virginia, charging Dardar with conspiring to violate numerous laws related to the commission of computer intrusions.</p>\r\n<p>\u00a0</p>\r\n<p>Additionally, Dardar is also suspected of being responsible for a series of cyber extortion schemes targeting a variety of American and international companies. A separate criminal complaint charging Dardar with these cyber extortion schemes was filed on September 29, 2015.</p>",
+		"weight_max": null,
+		"age_range": null,
+		"images": [
+			{
+				"large": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image"
+			}
+		],
+		"publication": "2016-03-10T07:00:00",
+		"eyes": "brown",
+		"ncic": null,
+		"reward_max": 0,
+		"locations": null,
+		"scars_and_marks": null,
+		"nationality": "Syrian",
+		"height_min": null,
+		"possible_countries": null,
+		"aliases": [
+			"Firas Nur Al Din Dardar",
+			"Firas Nural Din Dardar",
+			"Firas Nour Alden Dardar",
+			"Feras Firas Nur-al-Din",
+			"Firas Derdar",
+			"Firas Drdr",
+			"Feras Dardar",
+			"\"The Shadow\"",
+			"\"Ethical Dragon\"",
+			"\"Ethical Spectrum\""
+		],
+		"build": null,
+		"status": "na",
+		"field_offices": [
+			"washingtondc"
+		],
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/download.pdf"
+			},
+			{
+				"name": "\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/dardararabic.pdf/@@download/file/dardararabic.pdf"
+			}
+		],
+		"weight_min": null,
+		"hair": "brown",
+		"age_min": null,
+		"languages": null,
+		"modified": "2021-11-16T15:04:59+00:00",
+		"legat_names": null,
+		"complexion": null,
+		"person_classification": "Main",
+		"url": "https://www.fbi.gov/wanted/cyber/firas-dardar",
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"weight": null,
+		"hair_raw": "Dark Brown",
+		"place_of_birth": "Homs, Syria",
+		"additional_information": null,
+		"reward_min": 0,
+		"age_max": null,
+		"sex": "Male",
+		"details": null,
+		"possible_states": null,
+		"reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest of Firas Dardar.",
+		"uid": "cd2c80af-771e-4b11-b052-c2255f4e010e",
+		"dates_of_birth_used": [
+			"March 3, 1989"
+		],
+		"coordinates": [],
+		"title": "FIRAS DARDAR",
+		"eyes_raw": "Brown",
+		"remarks": "<p>Dardar is known to be a smoker. He is believed to be residing in Homs, Syria.</p>",
+		"race": "white",
+		"height_max": null,
+		"occupations": null,
+		"race_raw": "White",
+		"@id": "https://api.fbi.gov/@wanted-person/cd2c80af-771e-4b11-b052-c2255f4e010e"
+	},
+	{
 		"path": "/wanted/cyber/ahmed-al-agha",
 		"warning_message": null,
 		"description": "Conspiracy to Gain Unauthorized Access to and Damage Computers; Conspiracy to Convey False Information Regarding a Terrorist Attack; Conspiracy to Cause Mutiny of United States Military Members; Conspiracy to Commit Identity Theft; Conspiracy to Commit Access Device Fraud",
@@ -17015,94 +17097,6 @@
 		"occupations": null,
 		"race_raw": "White",
 		"@id": "https://api.fbi.gov/@wanted-person/2ec40393-a9f3-4a1f-ad20-ac71787c5869"
-	},
-	{
-		"path": "/wanted/cyber/firas-dardar",
-		"warning_message": null,
-		"description": "Conspiracy to Gain Unauthorized Access to and Damage Computers; Conspiracy to Convey False Information Regarding a Terrorist Attack; Conspiracy to Cause Mutiny of United States Military Members; Conspiracy to Commit Identity Theft, Conspiracy to Commit Access Device Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Commit Wire Fraud; Conspiracy to Violate Syrian Sanctions Regulations; Conspiracy to Receive the Proceeds of Extortion; Conspiracy to Send an Unlawful Interstate Communication",
-		"suspects": null,
-		"caution": "<p>Firas Dardar is wanted for his alleged involvement in the Syrian Electronic Army (SEA), a group of individuals who allegedly commit hacks in support of the Syrian Regime. It is alleged that, between September of 2011 and January of 2014, Dardar committed dozens of cyber attacks against United States government agencies, media organizations, and private organizations under the SEA banner while using the online nickname, \"The Shadow\". On June 12, 2014, a criminal complaint was filed in the United States District Court, Eastern District of Virginia, Alexandria, Virginia, charging Dardar with conspiring to violate numerous laws related to the commission of computer intrusions.</p>\r\n<p>\u00a0</p>\r\n<p>Additionally, Dardar is also suspected of being responsible for a series of cyber extortion schemes targeting a variety of American and international companies. A separate criminal complaint charging Dardar with these cyber extortion schemes was filed on September 29, 2015.</p>",
-		"weight_max": null,
-		"age_range": null,
-		"images": [
-			{
-				"large": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/large",
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image"
-			}
-		],
-		"publication": "2016-03-10T07:00:00",
-		"eyes": "brown",
-		"ncic": null,
-		"reward_max": 0,
-		"locations": null,
-		"scars_and_marks": null,
-		"nationality": "Syrian",
-		"height_min": null,
-		"possible_countries": null,
-		"aliases": [
-			"Firas Nur Al Din Dardar",
-			"Firas Nural Din Dardar",
-			"Firas Nour Alden Dardar",
-			"Feras Firas Nur-al-Din",
-			"Firas Derdar",
-			"Firas Drdr",
-			"Feras Dardar",
-			"\"The Shadow\"",
-			"\"Ethical Dragon\"",
-			"\"Ethical Spectrum\""
-		],
-		"build": null,
-		"status": "na",
-		"field_offices": [
-			"washingtondc"
-		],
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/download.pdf"
-			},
-			{
-				"name": "\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/dardararabic.pdf/@@download/file/dardararabic.pdf"
-			}
-		],
-		"weight_min": null,
-		"hair": "brown",
-		"age_min": null,
-		"languages": null,
-		"modified": "2021-11-16T15:04:59+00:00",
-		"legat_names": null,
-		"complexion": null,
-		"person_classification": "Main",
-		"url": "https://www.fbi.gov/wanted/cyber/firas-dardar",
-		"subjects": [
-			"Cyber's Most Wanted"
-		],
-		"weight": null,
-		"hair_raw": "Dark Brown",
-		"place_of_birth": "Homs, Syria",
-		"additional_information": null,
-		"reward_min": 0,
-		"age_max": null,
-		"sex": "Male",
-		"details": null,
-		"possible_states": null,
-		"reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest of Firas Dardar.",
-		"uid": "cd2c80af-771e-4b11-b052-c2255f4e010e",
-		"dates_of_birth_used": [
-			"March 3, 1989"
-		],
-		"coordinates": [],
-		"title": "FIRAS DARDAR",
-		"eyes_raw": "Brown",
-		"remarks": "<p>Dardar is known to be a smoker. He is believed to be residing in Homs, Syria.</p>",
-		"race": "white",
-		"height_max": null,
-		"occupations": null,
-		"race_raw": "White",
-		"@id": "https://api.fbi.gov/@wanted-person/cd2c80af-771e-4b11-b052-c2255f4e010e"
 	},
 	{
 		"path": "/wanted/cyber/evgeniy-mikhailovich-bogachev",
@@ -48195,6 +48189,94 @@
 		"@id": "https://api.fbi.gov/@wanted-person/ed585b2b8c6a46749a62771ebb4da2fb"
 	},
 	{
+		"path": "/wanted/cyber/china-mss-guangdong-state-security-department-hackers",
+		"warning_message": null,
+		"description": "Unauthorized Access; Conspiracy to Access Without Authorization and Damage Computers; Conspiracy to Commit Theft of Trade Secrets; Conspiracy to Commit Wire Fraud; Aggravated Identity Theft",
+		"suspects": null,
+		"caution": "<p>On July 7, 2020, a grand jury in the United States District Court for the Eastern District of Washington indicted Li Xiaoyu and Dong Jiazhi for their alleged participation in a long-running campaign of computer network operations targeting the networks of United States and foreign companies across a wide variety of industries, including high tech manufacturing; civil, heavy, and medical device engineering; business, educational, and gaming software; solar energy; pharmaceuticals; and defense.\u00a0 The indictment highlighted Li and Dong's alleged actions, including a recent focus on COVID-19 research, testing, and treatment; the targeting of political dissidents, religious minorities, and human rights advocates in mainland China, Hong Kong, the United States, and Canada; and the intrusions into corporate networks of countries in Europe and Asia.</p>\r\n<p>\u00a0</p>\r\n<p>Some of Li and Dong\u2019s network operations were allegedly undertaken for their own economic benefits, while others were allegedly for the benefits of China\u2019s Ministry of State Security (MSS), including the Guangdong State Security Department.</p>\r\n<p>\u00a0</p>",
+		"weight_max": null,
+		"age_range": null,
+		"images": [
+			{
+				"large": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/@@images/image"
+			},
+			{
+				"large": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/xiaoyu.jpg/@@images/image/large",
+				"caption": "Li Xiaoyu",
+				"thumb": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/xiaoyu.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/xiaoyu.jpg"
+			},
+			{
+				"large": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/silhouette.jpg/@@images/image/large",
+				"caption": "Dong Jiazhi",
+				"thumb": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/silhouette.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/silhouette.jpg"
+			}
+		],
+		"publication": "2020-07-06T15:34:00",
+		"eyes": null,
+		"ncic": null,
+		"reward_max": 0,
+		"locations": null,
+		"scars_and_marks": null,
+		"nationality": null,
+		"height_min": null,
+		"possible_countries": null,
+		"aliases": null,
+		"build": null,
+		"status": "na",
+		"field_offices": [
+			"seattle"
+		],
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/xiaoyuweb.pdf"
+			},
+			{
+				"name": "\u7528\u4e2d\u6587\uff08\u8868\u8fbe Chinese (Simplified)",
+				"url": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/xiaoyuchinese.pdf/@@download/file/XiaoyuChinese.pdf"
+			}
+		],
+		"weight_min": null,
+		"hair": null,
+		"age_min": null,
+		"languages": null,
+		"modified": "2021-11-16T14:58:59+00:00",
+		"legat_names": null,
+		"complexion": null,
+		"person_classification": "Main",
+		"url": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers",
+		"subjects": [
+			"Cyber's Most Wanted",
+			"China Threat"
+		],
+		"weight": null,
+		"hair_raw": null,
+		"place_of_birth": null,
+		"additional_information": null,
+		"reward_min": 0,
+		"age_max": null,
+		"sex": null,
+		"details": null,
+		"possible_states": null,
+		"reward_text": null,
+		"uid": "c069bad56f694a5685b851da86b53638",
+		"dates_of_birth_used": null,
+		"coordinates": [],
+		"title": "CHINA MSS GUANGDONG STATE SECURITY DEPARTMENT HACKERS",
+		"eyes_raw": null,
+		"remarks": null,
+		"race": null,
+		"height_max": null,
+		"occupations": null,
+		"race_raw": null,
+		"@id": "https://api.fbi.gov/@wanted-person/c069bad56f694a5685b851da86b53638"
+	},
+	{
 		"path": "/wanted/seeking-info/ali-hage-zaki-jalil",
 		"warning_message": null,
 		"description": "Bombing of Alas Chiricanas Airlines Flight 00901\r\nJuly 19, 1994\r\nPanama",
@@ -48294,94 +48376,6 @@
 		"occupations": null,
 		"race_raw": null,
 		"@id": "https://api.fbi.gov/@wanted-person/052b0a948f4344c9b2864e53f1b0c97f"
-	},
-	{
-		"path": "/wanted/cyber/china-mss-guangdong-state-security-department-hackers",
-		"warning_message": null,
-		"description": "Unauthorized Access; Conspiracy to Access Without Authorization and Damage Computers; Conspiracy to Commit Theft of Trade Secrets; Conspiracy to Commit Wire Fraud; Aggravated Identity Theft",
-		"suspects": null,
-		"caution": "<p>On July 7, 2020, a grand jury in the United States District Court for the Eastern District of Washington indicted Li Xiaoyu and Dong Jiazhi for their alleged participation in a long-running campaign of computer network operations targeting the networks of United States and foreign companies across a wide variety of industries, including high tech manufacturing; civil, heavy, and medical device engineering; business, educational, and gaming software; solar energy; pharmaceuticals; and defense.\u00a0 The indictment highlighted Li and Dong's alleged actions, including a recent focus on COVID-19 research, testing, and treatment; the targeting of political dissidents, religious minorities, and human rights advocates in mainland China, Hong Kong, the United States, and Canada; and the intrusions into corporate networks of countries in Europe and Asia.</p>\r\n<p>\u00a0</p>\r\n<p>Some of Li and Dong\u2019s network operations were allegedly undertaken for their own economic benefits, while others were allegedly for the benefits of China\u2019s Ministry of State Security (MSS), including the Guangdong State Security Department.</p>\r\n<p>\u00a0</p>",
-		"weight_max": null,
-		"age_range": null,
-		"images": [
-			{
-				"large": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/@@images/image/large",
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/@@images/image"
-			},
-			{
-				"large": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/xiaoyu.jpg/@@images/image/large",
-				"caption": "Li Xiaoyu",
-				"thumb": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/xiaoyu.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/xiaoyu.jpg"
-			},
-			{
-				"large": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/silhouette.jpg/@@images/image/large",
-				"caption": "Dong Jiazhi",
-				"thumb": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/silhouette.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/silhouette.jpg"
-			}
-		],
-		"publication": "2020-07-06T15:34:00",
-		"eyes": null,
-		"ncic": null,
-		"reward_max": 0,
-		"locations": null,
-		"scars_and_marks": null,
-		"nationality": null,
-		"height_min": null,
-		"possible_countries": null,
-		"aliases": null,
-		"build": null,
-		"status": "na",
-		"field_offices": [
-			"seattle"
-		],
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/xiaoyuweb.pdf"
-			},
-			{
-				"name": "\u7528\u4e2d\u6587\uff08\u8868\u8fbe Chinese (Simplified)",
-				"url": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers/xiaoyuchinese.pdf/@@download/file/XiaoyuChinese.pdf"
-			}
-		],
-		"weight_min": null,
-		"hair": null,
-		"age_min": null,
-		"languages": null,
-		"modified": "2021-11-16T14:58:59+00:00",
-		"legat_names": null,
-		"complexion": null,
-		"person_classification": "Main",
-		"url": "https://www.fbi.gov/wanted/cyber/china-mss-guangdong-state-security-department-hackers",
-		"subjects": [
-			"Cyber's Most Wanted",
-			"China Threat"
-		],
-		"weight": null,
-		"hair_raw": null,
-		"place_of_birth": null,
-		"additional_information": null,
-		"reward_min": 0,
-		"age_max": null,
-		"sex": null,
-		"details": null,
-		"possible_states": null,
-		"reward_text": null,
-		"uid": "c069bad56f694a5685b851da86b53638",
-		"dates_of_birth_used": null,
-		"coordinates": [],
-		"title": "CHINA MSS GUANGDONG STATE SECURITY DEPARTMENT HACKERS",
-		"eyes_raw": null,
-		"remarks": null,
-		"race": null,
-		"height_max": null,
-		"occupations": null,
-		"race_raw": null,
-		"@id": "https://api.fbi.gov/@wanted-person/c069bad56f694a5685b851da86b53638"
 	},
 	{
 		"path": "/wanted/seeking-info/joette-jojo-malone",
@@ -70825,92 +70819,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/3bac29c6da7c549502ed97f9d17fd4ec"
 	},
 	{
-		"path": "/wanted/kidnap/tina-marie-finley",
-		"warning_message": null,
-		"description": "Plummer, Idaho\r\nMarch 8, 1988",
-		"suspects": null,
-		"caution": null,
-		"weight_max": 135,
-		"age_range": null,
-		"images": [
-			{
-				"large": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/@@images/image/large",
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/@@images/image"
-			},
-			{
-				"large": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-3.jpg/@@images/image/large",
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-3.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-3.jpg"
-			},
-			{
-				"large": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-2.jpg/@@images/image/large",
-				"caption": "Photograph taken in 1987",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-2.jpg"
-			}
-		],
-		"publication": "2017-02-28T13:27:00",
-		"eyes": "brown",
-		"ncic": null,
-		"reward_max": 0,
-		"locations": null,
-		"scars_and_marks": null,
-		"nationality": null,
-		"height_min": 66,
-		"possible_countries": null,
-		"aliases": null,
-		"build": null,
-		"status": "na",
-		"field_offices": [
-			"saltlakecity"
-		],
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/download.pdf"
-			}
-		],
-		"weight_min": 135,
-		"hair": "brown",
-		"age_min": null,
-		"languages": null,
-		"modified": "2021-11-16T14:55:31+00:00",
-		"legat_names": null,
-		"complexion": null,
-		"person_classification": "Main",
-		"url": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley",
-		"subjects": [
-			"Kidnappings and Missing Persons",
-			"Indian Country"
-		],
-		"weight": "135 pounds (at the time of disappearance)",
-		"hair_raw": "Brown",
-		"place_of_birth": "Washington",
-		"additional_information": null,
-		"reward_min": 0,
-		"age_max": null,
-		"sex": "Female",
-		"details": "<p>Tina Marie Finley, a 25 year-old member of the Coeur d'Alene (Idaho) Tribe of Indians, has been missing since March 8, 1988. She was last seen in Plummer, Idaho, and was reported missing days later. The investigation suggests she may have been the victim of foul play.</p>\r\n<p>\u00a0</p>\r\n<p>This case is being investigated by the FBI's Coeur d'Alene Resident Agency and the Coeur d'Alene Tribal Police Department.</p>",
-		"possible_states": null,
-		"reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the location of Tina Marie Finley.",
-		"uid": "7b3bb4e7149e40ba980c84461694b1ff",
-		"dates_of_birth_used": [
-			"August 25, 1962"
-		],
-		"coordinates": [],
-		"title": "TINA MARIE FINLEY",
-		"eyes_raw": "Brown",
-		"remarks": null,
-		"race": "native",
-		"height_max": 66,
-		"occupations": null,
-		"race_raw": "Native American",
-		"@id": "https://api.fbi.gov/@wanted-person/7b3bb4e7149e40ba980c84461694b1ff"
-	},
-	{
 		"path": "/wanted/kidnap/paul-edwin-overby-jr",
 		"warning_message": null,
 		"description": "Circa Mid-May 2014\r\nKhost Province, Afghanistan",
@@ -71012,6 +70920,92 @@
 		],
 		"race_raw": "White",
 		"@id": "https://api.fbi.gov/@wanted-person/75978c9432b642279b0346b6245660a9"
+	},
+	{
+		"path": "/wanted/kidnap/tina-marie-finley",
+		"warning_message": null,
+		"description": "Plummer, Idaho\r\nMarch 8, 1988",
+		"suspects": null,
+		"caution": null,
+		"weight_max": 135,
+		"age_range": null,
+		"images": [
+			{
+				"large": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/@@images/image"
+			},
+			{
+				"large": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-3.jpg/@@images/image/large",
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-3.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-3.jpg"
+			},
+			{
+				"large": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-2.jpg/@@images/image/large",
+				"caption": "Photograph taken in 1987",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-2.jpg"
+			}
+		],
+		"publication": "2017-02-28T13:27:00",
+		"eyes": "brown",
+		"ncic": null,
+		"reward_max": 0,
+		"locations": null,
+		"scars_and_marks": null,
+		"nationality": null,
+		"height_min": 66,
+		"possible_countries": null,
+		"aliases": null,
+		"build": null,
+		"status": "na",
+		"field_offices": [
+			"saltlakecity"
+		],
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/download.pdf"
+			}
+		],
+		"weight_min": 135,
+		"hair": "brown",
+		"age_min": null,
+		"languages": null,
+		"modified": "2021-11-16T14:55:31+00:00",
+		"legat_names": null,
+		"complexion": null,
+		"person_classification": "Main",
+		"url": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley",
+		"subjects": [
+			"Kidnappings and Missing Persons",
+			"Indian Country"
+		],
+		"weight": "135 pounds (at the time of disappearance)",
+		"hair_raw": "Brown",
+		"place_of_birth": "Washington",
+		"additional_information": null,
+		"reward_min": 0,
+		"age_max": null,
+		"sex": "Female",
+		"details": "<p>Tina Marie Finley, a 25 year-old member of the Coeur d'Alene (Idaho) Tribe of Indians, has been missing since March 8, 1988. She was last seen in Plummer, Idaho, and was reported missing days later. The investigation suggests she may have been the victim of foul play.</p>\r\n<p>\u00a0</p>\r\n<p>This case is being investigated by the FBI's Coeur d'Alene Resident Agency and the Coeur d'Alene Tribal Police Department.</p>",
+		"possible_states": null,
+		"reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the location of Tina Marie Finley.",
+		"uid": "7b3bb4e7149e40ba980c84461694b1ff",
+		"dates_of_birth_used": [
+			"August 25, 1962"
+		],
+		"coordinates": [],
+		"title": "TINA MARIE FINLEY",
+		"eyes_raw": "Brown",
+		"remarks": null,
+		"race": "native",
+		"height_max": 66,
+		"occupations": null,
+		"race_raw": "Native American",
+		"@id": "https://api.fbi.gov/@wanted-person/7b3bb4e7149e40ba980c84461694b1ff"
 	},
 	{
 		"path": "/wanted/kidnap/amy-lynn-bradley",
@@ -77314,6 +77308,98 @@
 		"@id": "https://api.fbi.gov/@wanted-person/09b16403453fef56f5b79c63091b1116"
 	},
 	{
+		"path": "/wanted/murders/alvin-scott",
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND A SUICIDE RISK",
+		"description": "Unlawful Flight to Avoid Prosecution - Murder",
+		"suspects": null,
+		"caution": "<p>Alvin Scott is wanted in connection with the murder of his estranged wife and her male companion in the Buckhead area of Atlanta, Georgia, on August 3, 2001. Both victims were shot numerous times in both the torso and the head. On August 4, 2001, a City of Atlanta arrest warrant was issued for Scott. Then, on August 7, 2001, the United States District Court, Northern District of Georgia, issued a federal arrest warrant for Scott charging him with unlawful flight to avoid prosecution.</p>",
+		"weight_max": 170,
+		"age_range": null,
+		"images": [
+			{
+				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image"
+			},
+			{
+				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg/@@images/image/large",
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg"
+			},
+			{
+				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg/@@images/image/large",
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg"
+			}
+		],
+		"publication": "2010-09-07T22:55:00",
+		"eyes": "brown",
+		"ncic": "W101821986",
+		"reward_max": 0,
+		"locations": null,
+		"scars_and_marks": null,
+		"nationality": "Turkish",
+		"height_min": 72,
+		"possible_countries": null,
+		"aliases": [
+			"Ahmet Sehsuvar"
+		],
+		"build": null,
+		"status": "na",
+		"field_offices": [
+			"atlanta"
+		],
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/murders/alvin-scott/download.pdf"
+			},
+			{
+				"name": "T\u00fcrk\u00e7e'de",
+				"url": "https://www.fbi.gov/wanted/murders/alvin-scott/scottalvinturkish.pdf/@@download/file/scottalvinturkish.pdf"
+			}
+		],
+		"weight_min": 170,
+		"hair": "gray",
+		"age_min": null,
+		"languages": null,
+		"modified": "2021-11-16T14:54:37+00:00",
+		"legat_names": null,
+		"complexion": null,
+		"person_classification": "Main",
+		"url": "https://www.fbi.gov/wanted/murders/alvin-scott",
+		"subjects": [
+			"Violent Crime - Murders"
+		],
+		"weight": "170 pounds",
+		"hair_raw": "Gray",
+		"place_of_birth": "Turkey",
+		"additional_information": null,
+		"reward_min": 0,
+		"age_max": null,
+		"sex": "Male",
+		"details": null,
+		"possible_states": null,
+		"reward_text": "The FBI is offering a reward for information leading directly to the arrest of Alvin Scott.",
+		"uid": "d52c79b4ff32763458d4a50fd70f3361",
+		"dates_of_birth_used": [
+			"September 21, 1950",
+			"September 1, 1950"
+		],
+		"coordinates": [],
+		"title": "ALVIN SCOTT",
+		"eyes_raw": "Brown",
+		"remarks": "<p>Scott is a naturalized citizen of the United States who may be traveling on a U.S. passport back to his native homeland of Turkey.</p>",
+		"race": "white",
+		"height_max": 72,
+		"occupations": null,
+		"race_raw": "White",
+		"@id": "https://api.fbi.gov/@wanted-person/d52c79b4ff32763458d4a50fd70f3361"
+	},
+	{
 		"path": "/wanted/murders/rosemary-lorraine-godbolt-molder",
 		"warning_message": "SHOULD BE CONSIDERED AN ESCAPE RISK",
 		"description": "Crime On a Government Reservation - Homicide",
@@ -77413,98 +77499,6 @@
 		],
 		"race_raw": "Black",
 		"@id": "https://api.fbi.gov/@wanted-person/6497efc926f214c3f18d95e51aad5946"
-	},
-	{
-		"path": "/wanted/murders/alvin-scott",
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND A SUICIDE RISK",
-		"description": "Unlawful Flight to Avoid Prosecution - Murder",
-		"suspects": null,
-		"caution": "<p>Alvin Scott is wanted in connection with the murder of his estranged wife and her male companion in the Buckhead area of Atlanta, Georgia, on August 3, 2001. Both victims were shot numerous times in both the torso and the head. On August 4, 2001, a City of Atlanta arrest warrant was issued for Scott. Then, on August 7, 2001, the United States District Court, Northern District of Georgia, issued a federal arrest warrant for Scott charging him with unlawful flight to avoid prosecution.</p>",
-		"weight_max": 170,
-		"age_range": null,
-		"images": [
-			{
-				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image/large",
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image"
-			},
-			{
-				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg/@@images/image/large",
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg"
-			},
-			{
-				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg/@@images/image/large",
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg"
-			}
-		],
-		"publication": "2010-09-07T22:55:00",
-		"eyes": "brown",
-		"ncic": "W101821986",
-		"reward_max": 0,
-		"locations": null,
-		"scars_and_marks": null,
-		"nationality": "Turkish",
-		"height_min": 72,
-		"possible_countries": null,
-		"aliases": [
-			"Ahmet Sehsuvar"
-		],
-		"build": null,
-		"status": "na",
-		"field_offices": [
-			"atlanta"
-		],
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/murders/alvin-scott/download.pdf"
-			},
-			{
-				"name": "T\u00fcrk\u00e7e'de",
-				"url": "https://www.fbi.gov/wanted/murders/alvin-scott/scottalvinturkish.pdf/@@download/file/scottalvinturkish.pdf"
-			}
-		],
-		"weight_min": 170,
-		"hair": "gray",
-		"age_min": null,
-		"languages": null,
-		"modified": "2021-11-16T14:54:37+00:00",
-		"legat_names": null,
-		"complexion": null,
-		"person_classification": "Main",
-		"url": "https://www.fbi.gov/wanted/murders/alvin-scott",
-		"subjects": [
-			"Violent Crime - Murders"
-		],
-		"weight": "170 pounds",
-		"hair_raw": "Gray",
-		"place_of_birth": "Turkey",
-		"additional_information": null,
-		"reward_min": 0,
-		"age_max": null,
-		"sex": "Male",
-		"details": null,
-		"possible_states": null,
-		"reward_text": "The FBI is offering a reward for information leading directly to the arrest of Alvin Scott.",
-		"uid": "d52c79b4ff32763458d4a50fd70f3361",
-		"dates_of_birth_used": [
-			"September 21, 1950",
-			"September 1, 1950"
-		],
-		"coordinates": [],
-		"title": "ALVIN SCOTT",
-		"eyes_raw": "Brown",
-		"remarks": "<p>Scott is a naturalized citizen of the United States who may be traveling on a U.S. passport back to his native homeland of Turkey.</p>",
-		"race": "white",
-		"height_max": 72,
-		"occupations": null,
-		"race_raw": "White",
-		"@id": "https://api.fbi.gov/@wanted-person/d52c79b4ff32763458d4a50fd70f3361"
 	},
 	{
 		"path": "/wanted/murders/juan-dios-garza",
