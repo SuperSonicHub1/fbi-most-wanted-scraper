@@ -55609,88 +55609,101 @@
 		"@id": "https://api.fbi.gov/@wanted-person/c94c17d82f0fe90a7885165e9c18974f"
 	},
 	{
-		"weight_min": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/assault-and-vehicle-robbery-indian-country",
+		"weight_min": 155,
+		"url": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky",
 		"reward_max": 0,
 		"locations": null,
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/assault-and-vehicle-robbery-indian-country/assault-and-vehicle-robbery-indian-country-8-5x11-web.pdf",
+				"url": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky/download.pdf",
 				"name": "English"
 			}
 		],
 		"complexion": null,
-		"path": "/wanted/seeking-info/assault-and-vehicle-robbery-indian-country",
-		"possible_states": null,
+		"path": "/wanted/kidnap/ryan-braden-chicovsky",
+		"possible_states": [
+			"US-WA"
+		],
 		"scars_and_marks": null,
 		"caution": null,
-		"details": "<p>An enrolled member of the Navajo Nation was assaulted and his vehicle was stolen on the night of April 29, 2021, near the entrance gate of Weeminuche Construction Authority, the gravel pit operated by the Ute Mountain Ute. The assault resulted in numerous injuries to the victim\u2019s face and head that required stitches and caused a concussion and brain bleed. His cell phone and wallet were in the truck, and his work tools were in the truck bed at the time of the assault and robbery.</p>\r\n<p>The stolen vehicle is described as a 2015 Chevrolet Colorado 2WD crew cab short bed with Arizona tag CAF1572. The VIN is 1GCGSAE30F1176700 and the truck has a cracked windshield, black marks near the driver\u2019s side front fender, and an \u201cAztec Strong\u201d sticker in the rear window.</p>",
-		"eyes_raw": null,
-		"legat_names": null,
-		"hair_raw": null,
+		"details": "<p>Ryan Braden Chicovsky was teaching English in China when he travelled to Laos on vacation. He was last seen on or about March 13, 2006, leaving the Khemkong Guesthouse in Xiangkok, a remote river village in Northwestern Laos.</p>\r\n<p>\u00a0</p>\r\n<p>His backpack, clothes, money, passport, boots, and toiletries were all discovered in his room. Approximately three weeks after the reported disappearance, local villagers discovered Chicovsky's camera, room key, and T-shirt four kilometers north of Xiangkok. The condition of the items indicates they had been kept inside and out of the rain.</p>",
+		"eyes_raw": "Blue",
+		"legat_names": [
+			"asia-1"
+		],
+		"hair_raw": "Brown",
 		"coordinates": [],
 		"field_offices": [
-			"denver"
+			"seattle"
 		],
 		"build": null,
 		"warning_message": null,
-		"race_raw": null,
-		"title": "ASSAULT AND VEHICLE ROBBERY - INDIAN COUNTRY",
-		"possible_countries": null,
+		"race_raw": "White",
+		"title": "RYAN BRADEN CHICOVSKY",
+		"possible_countries": [
+			"CHN"
+		],
 		"aliases": null,
 		"status": "na",
 		"modified": "2021-11-16T14:57:55+00:00",
 		"person_classification": "Main",
-		"remarks": null,
-		"dates_of_birth_used": null,
-		"hair": null,
+		"remarks": "<p>Chicovsky typically wore a braided rope/bead necklace.</p>",
+		"dates_of_birth_used": [
+			"May 3, 1981"
+		],
+		"hair": "brown",
 		"suspects": null,
-		"place_of_birth": null,
-		"height_max": null,
+		"place_of_birth": "Mount Vernon, Washington",
+		"height_max": 71,
 		"age_range": null,
-		"publication": "2021-05-14T14:58:00",
+		"publication": "2010-09-13T11:25:00",
 		"subjects": [
-			"Seeking Information",
-			"Indian Country"
+			"Kidnappings and Missing Persons"
 		],
 		"ncic": null,
 		"age_min": null,
 		"languages": null,
 		"images": [
 			{
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/seeking-info/assault-and-vehicle-robbery-indian-country/@@images/image/large",
-				"original": "https://www.fbi.gov/wanted/seeking-info/assault-and-vehicle-robbery-indian-country/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/assault-and-vehicle-robbery-indian-country/@@images/image/thumb"
+				"caption": "Photograph taken in 2006",
+				"large": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky/@@images/image/thumb"
 			},
 			{
-				"caption": "Example photograph of victim's vehicle",
-				"large": "https://www.fbi.gov/wanted/seeking-info/assault-and-vehicle-robbery-indian-country/wht-chev-front-1-dn.jpg/@@images/image/large",
-				"original": "https://www.fbi.gov/wanted/seeking-info/assault-and-vehicle-robbery-indian-country/wht-chev-front-1-dn.jpg",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/assault-and-vehicle-robbery-indian-country/wht-chev-front-1-dn.jpg/@@images/image/thumb"
+				"caption": "Photograph taken in 2005",
+				"large": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky/chikovsky_rb2.jpg/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky/chikovsky_rb2.jpg",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky/chikovsky_rb2.jpg/@@images/image/thumb"
 			},
 			{
-				"caption": "Example photograph of victim's vehicle",
-				"large": "https://www.fbi.gov/wanted/seeking-info/assault-and-vehicle-robbery-indian-country/wht-chev-profile-2-dn.jpg/@@images/image/large",
-				"original": "https://www.fbi.gov/wanted/seeking-info/assault-and-vehicle-robbery-indian-country/wht-chev-profile-2-dn.jpg",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/assault-and-vehicle-robbery-indian-country/wht-chev-profile-2-dn.jpg/@@images/image/thumb"
+				"caption": "Photograph taken in 2005",
+				"large": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky/chikovsky_rb3.jpg/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky/chikovsky_rb3.jpg",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky/chikovsky_rb3.jpg/@@images/image/thumb"
+			},
+			{
+				"caption": "",
+				"large": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky/ryan_photo1.jpg/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky/ryan_photo1.jpg",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/ryan-braden-chicovsky/ryan_photo1.jpg/@@images/image/thumb"
 			}
 		],
 		"reward_text": null,
 		"reward_min": 0,
-		"sex": null,
-		"race": null,
-		"weight": null,
+		"sex": "Male",
+		"race": "white",
+		"weight": "155 pounds",
 		"age_max": null,
 		"additional_information": null,
-		"uid": "145f0f14b6a24ab88c2b389207f059c1",
+		"uid": "c94c17d82f0fe90a7885165e9c18974f",
 		"occupations": null,
 		"nationality": null,
-		"height_min": null,
-		"weight_max": null,
-		"description": "Towaoc, Colorado\r\nApril 29, 2021",
-		"eyes": null,
-		"@id": "https://api.fbi.gov/@wanted-person/145f0f14b6a24ab88c2b389207f059c1"
+		"height_min": 71,
+		"weight_max": 155,
+		"description": "March 13, 2006\r\nXiangkok, Laos",
+		"eyes": "blue",
+		"@id": "https://api.fbi.gov/@wanted-person/c94c17d82f0fe90a7885165e9c18974f"
 	},
 	{
 		"weight_min": null,
