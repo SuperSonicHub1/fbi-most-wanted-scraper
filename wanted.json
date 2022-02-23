@@ -14,7 +14,7 @@
 			"columbia"
 		],
 		"locations": null,
-		"reward_text": "The FBI is offering a reward of $10,000 for information leading to the arrest and conviction of the person(s) responsible for the murders of Tasjunique Graham and Bailey Simon.",
+		"reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest and conviction of the person(s) responsible for the murders of Tasjunique Graham and Bailey Simon.",
 		"hair": null,
 		"ncic": null,
 		"dates_of_birth_used": null,
@@ -67,7 +67,7 @@
 		"reward_min": 0,
 		"url": "https://www.fbi.gov/wanted/seeking-info/tasjunique-graham-and-bailey-simon",
 		"possible_states": null,
-		"modified": "2022-02-22T18:22:41+00:00",
+		"modified": "2022-02-23T16:08:50+00:00",
 		"reward_max": 0,
 		"race": null,
 		"height_max": null,
@@ -52798,81 +52798,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/006a72aaf3bb483383ed8dccea3c5dcb"
 	},
 	{
-		"description": "Conspiracy to Commit Computer Hacking; Conspiracy to Commit Wire Fraud; Computer Fraud - Unauthorized Access for Private Financial Gain; Wire Fraud; Aggravated Identity Theft",
-		"coordinates": [],
-		"place_of_birth": "Zanjan, Iran",
-		"legat_names": null,
-		"reward_text": null,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/cyber/seyed-ali-mirkarimi/download.pdf",
-				"name": "English"
-			}
-		],
-		"age_max": null,
-		"reward_min": 0,
-		"weight_min": 185,
-		"scars_and_marks": null,
-		"title": "SEYED ALI MIRKARIMI",
-		"age_range": null,
-		"path": "/wanted/cyber/seyed-ali-mirkarimi",
-		"publication": "2018-02-22T12:31:00",
-		"subjects": [
-			"Cyber's Most Wanted"
-		],
-		"weight_max": 185,
-		"dates_of_birth_used": [
-			"September 20, 1983"
-		],
-		"age_min": null,
-		"reward_max": 0,
-		"height_min": 72,
-		"suspects": null,
-		"build": null,
-		"remarks": "<p>Mirkarimi\u00a0is known to speak Farsi and resides in Iran.</p>",
-		"ncic": "W483102942",
-		"field_offices": [
-			"newyork"
-		],
-		"languages": null,
-		"sex": "Male",
-		"hair": "brown",
-		"eyes_raw": "Brown",
-		"race": "white",
-		"status": "na",
-		"eyes": "brown",
-		"person_classification": "Main",
-		"height_max": 72,
-		"uid": "10ea377f22a54c8eb72d3b1eef23e2e2",
-		"aliases": [
-			"\"Mohsen\" Mirkarimi"
-		],
-		"nationality": "Iranian",
-		"possible_states": null,
-		"occupations": null,
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/cyber/seyed-ali-mirkarimi/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/seyed-ali-mirkarimi/@@images/image",
-				"large": "https://www.fbi.gov/wanted/cyber/seyed-ali-mirkarimi/@@images/image/large"
-			}
-		],
-		"details": null,
-		"url": "https://www.fbi.gov/wanted/cyber/seyed-ali-mirkarimi",
-		"weight": "185 pounds",
-		"modified": "2021-11-16T14:58:21+00:00",
-		"additional_information": null,
-		"possible_countries": null,
-		"complexion": null,
-		"hair_raw": "Brown",
-		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
-		"locations": null,
-		"caution": "<p>Seyed Ali Mirkarimi\u00a0is wanted for his alleged involvement in criminal activities, including obtaining unauthorized access to computer systems, stealing proprietary data from those systems, and selling that stolen data to Iranian customers such as Iranian universities and the Iranian government.\u00a0\u00a0Mirkarimi was a contractor for the <a href=\"https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers\" data-urltype=\"/view\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers\">Mabna Institute</a>, a private government contractor based in the Islamic Republic of Iran that performed this work for the Iranian government, at the behest of the Islamic Revolutionary Guard Corps.\u00a0 Victims of the scheme included approximately 144 universities in the United States, 176 foreign universities in 21 countries, five federal and state government agencies in the United States, 36 private companies in the United States, 11 foreign private companies, and two international non-governmental organizations.\u00a0\u00a0 On February 7, 2018, a grand jury sitting in the United States District Court for the Southern District of New York indicted\u00a0Mirkarimi on computer intrusion, wire fraud, and aggravated identity theft charges, and a federal arrest warrant has been issued for his arrest.</p>",
-		"race_raw": "White",
-		"@id": "https://api.fbi.gov/@wanted-person/10ea377f22a54c8eb72d3b1eef23e2e2"
-	},
-	{
 		"description": "November 30, 2018",
 		"coordinates": [],
 		"place_of_birth": null,
@@ -52950,6 +52875,81 @@
 		"caution": null,
 		"race_raw": null,
 		"@id": "https://api.fbi.gov/@wanted-person/03a7c6ea1f4d4c3cb21d0224d481a2b8"
+	},
+	{
+		"description": "Conspiracy to Commit Computer Hacking; Conspiracy to Commit Wire Fraud; Computer Fraud - Unauthorized Access for Private Financial Gain; Wire Fraud; Aggravated Identity Theft",
+		"coordinates": [],
+		"place_of_birth": "Zanjan, Iran",
+		"legat_names": null,
+		"reward_text": null,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/cyber/seyed-ali-mirkarimi/download.pdf",
+				"name": "English"
+			}
+		],
+		"age_max": null,
+		"reward_min": 0,
+		"weight_min": 185,
+		"scars_and_marks": null,
+		"title": "SEYED ALI MIRKARIMI",
+		"age_range": null,
+		"path": "/wanted/cyber/seyed-ali-mirkarimi",
+		"publication": "2018-02-22T12:31:00",
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"weight_max": 185,
+		"dates_of_birth_used": [
+			"September 20, 1983"
+		],
+		"age_min": null,
+		"reward_max": 0,
+		"height_min": 72,
+		"suspects": null,
+		"build": null,
+		"remarks": "<p>Mirkarimi\u00a0is known to speak Farsi and resides in Iran.</p>",
+		"ncic": "W483102942",
+		"field_offices": [
+			"newyork"
+		],
+		"languages": null,
+		"sex": "Male",
+		"hair": "brown",
+		"eyes_raw": "Brown",
+		"race": "white",
+		"status": "na",
+		"eyes": "brown",
+		"person_classification": "Main",
+		"height_max": 72,
+		"uid": "10ea377f22a54c8eb72d3b1eef23e2e2",
+		"aliases": [
+			"\"Mohsen\" Mirkarimi"
+		],
+		"nationality": "Iranian",
+		"possible_states": null,
+		"occupations": null,
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/cyber/seyed-ali-mirkarimi/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cyber/seyed-ali-mirkarimi/@@images/image",
+				"large": "https://www.fbi.gov/wanted/cyber/seyed-ali-mirkarimi/@@images/image/large"
+			}
+		],
+		"details": null,
+		"url": "https://www.fbi.gov/wanted/cyber/seyed-ali-mirkarimi",
+		"weight": "185 pounds",
+		"modified": "2021-11-16T14:58:21+00:00",
+		"additional_information": null,
+		"possible_countries": null,
+		"complexion": null,
+		"hair_raw": "Brown",
+		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+		"locations": null,
+		"caution": "<p>Seyed Ali Mirkarimi\u00a0is wanted for his alleged involvement in criminal activities, including obtaining unauthorized access to computer systems, stealing proprietary data from those systems, and selling that stolen data to Iranian customers such as Iranian universities and the Iranian government.\u00a0\u00a0Mirkarimi was a contractor for the <a href=\"https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers\" data-urltype=\"/view\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers\">Mabna Institute</a>, a private government contractor based in the Islamic Republic of Iran that performed this work for the Iranian government, at the behest of the Islamic Revolutionary Guard Corps.\u00a0 Victims of the scheme included approximately 144 universities in the United States, 176 foreign universities in 21 countries, five federal and state government agencies in the United States, 36 private companies in the United States, 11 foreign private companies, and two international non-governmental organizations.\u00a0\u00a0 On February 7, 2018, a grand jury sitting in the United States District Court for the Southern District of New York indicted\u00a0Mirkarimi on computer intrusion, wire fraud, and aggravated identity theft charges, and a federal arrest warrant has been issued for his arrest.</p>",
+		"race_raw": "White",
+		"@id": "https://api.fbi.gov/@wanted-person/10ea377f22a54c8eb72d3b1eef23e2e2"
 	},
 	{
 		"description": "Unlawful Flight to Avoid Prosecution - Felony Murder",
