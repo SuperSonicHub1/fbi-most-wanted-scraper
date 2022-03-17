@@ -42,7 +42,7 @@
 		"complexion": null,
 		"build": null,
 		"details": null,
-		"status": "na",
+		"status": "captured",
 		"legat_names": null,
 		"eyes": "blue",
 		"person_classification": "Main",
@@ -66,7 +66,7 @@
 		"reward_min": 0,
 		"url": "https://www.fbi.gov/wanted/cei/kenneth-eric-mack",
 		"possible_states": null,
-		"modified": "2022-03-17T12:36:36+00:00",
+		"modified": "2022-03-17T19:07:43+00:00",
 		"reward_max": 0,
 		"race": "white",
 		"height_max": 66,
@@ -7674,81 +7674,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/7d60ad83779047dd95914d0d1bf79e11"
 	},
 	{
-		"remarks": null,
-		"possible_states": null,
-		"age_max": 27,
-		"age_min": 15,
-		"additional_information": null,
-		"subjects": [
-			"ViCAP Unidentified Persons"
-		],
-		"dates_of_birth_used": null,
-		"height_max": 67,
-		"path": "/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois",
-		"languages": null,
-		"place_of_birth": null,
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/@@images/image/large",
-				"caption": null
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/jane-doe-4-grundy-county-il.jpg",
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/jane-doe-4-grundy-county-il.jpg/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/jane-doe-4-grundy-county-il.jpg/@@images/image/large",
-				"caption": ""
-			}
-		],
-		"modified": "2021-12-03T13:31:59+00:00",
-		"race": "black",
-		"eyes_raw": "Brown",
-		"uid": "921e16f4c7f44c37bf287ae748037e0c",
-		"race_raw": "Black",
-		"hair_raw": "Black",
-		"person_classification": "Main",
-		"publication": "2019-01-28T08:55:00",
-		"reward_max": 0,
-		"sex": "Female",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/vicap-alert-2019-01-02-unidentified-homicide-victim-pdf-1.pdf"
-			}
-		],
-		"details": "<p>On October 2, 1976, an unidentified black female was found dead from a gunshot wound to her head along U.S. Route 6 in Seneca, Grundy County, Illinois. She had been deceased for approximately one day. Her description is documented above. For additional information and photographs regarding this victim, refer to the National Missing and Unidentified Persons System (NamUs) database, case report number UP17621.</p>\r\n<p>\u00a0</p>",
-		"description": "October 2, 1976\r\nSeneca, Grundy County, Illinois",
-		"weight_max": 150,
-		"caution": null,
-		"locations": null,
-		"complexion": null,
-		"reward_min": 0,
-		"field_offices": null,
-		"suspects": null,
-		"age_range": "15 to 27 years old  (estimated)",
-		"occupations": null,
-		"possible_countries": null,
-		"legat_names": null,
-		"ncic": null,
-		"hair": "black",
-		"weight": "150 pounds (estimated)",
-		"eyes": "brown",
-		"build": null,
-		"status": "na",
-		"height_min": 67,
-		"weight_min": 150,
-		"title": "JANE DOE - SENECA, GRUNDY COUNTY, ILLINOIS",
-		"scars_and_marks": "Jane Doe has a scar on her right hip and a scar or birth mark on her lower right abdomen.",
-		"coordinates": [],
-		"warning_message": null,
-		"nationality": null,
-		"reward_text": null,
-		"aliases": null,
-		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois",
-		"@id": "https://api.fbi.gov/@wanted-person/921e16f4c7f44c37bf287ae748037e0c"
-	},
-	{
 		"remarks": "<p>The unknown male was missing teeth, including one in the front. He wore a gold hoop earring, and possibly had a thin mustache.</p>\r\n<p>\u00a0</p>\r\n<p>The unknown male drove a red, four-door sedan - possibly a Honda or Hyundai.</p>",
 		"possible_states": null,
 		"age_max": 49,
@@ -7891,6 +7816,81 @@
 		"aliases": null,
 		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/unknown-victim---cresent-iowa",
 		"@id": "https://api.fbi.gov/@wanted-person/b5a92137254e4854b9fba87bd0c521cb"
+	},
+	{
+		"remarks": null,
+		"possible_states": null,
+		"age_max": 27,
+		"age_min": 15,
+		"additional_information": null,
+		"subjects": [
+			"ViCAP Unidentified Persons"
+		],
+		"dates_of_birth_used": null,
+		"height_max": 67,
+		"path": "/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois",
+		"languages": null,
+		"place_of_birth": null,
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/@@images/image/large",
+				"caption": null
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/jane-doe-4-grundy-county-il.jpg",
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/jane-doe-4-grundy-county-il.jpg/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/jane-doe-4-grundy-county-il.jpg/@@images/image/large",
+				"caption": ""
+			}
+		],
+		"modified": "2021-12-03T13:31:59+00:00",
+		"race": "black",
+		"eyes_raw": "Brown",
+		"uid": "921e16f4c7f44c37bf287ae748037e0c",
+		"race_raw": "Black",
+		"hair_raw": "Black",
+		"person_classification": "Main",
+		"publication": "2019-01-28T08:55:00",
+		"reward_max": 0,
+		"sex": "Female",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/vicap-alert-2019-01-02-unidentified-homicide-victim-pdf-1.pdf"
+			}
+		],
+		"details": "<p>On October 2, 1976, an unidentified black female was found dead from a gunshot wound to her head along U.S. Route 6 in Seneca, Grundy County, Illinois. She had been deceased for approximately one day. Her description is documented above. For additional information and photographs regarding this victim, refer to the National Missing and Unidentified Persons System (NamUs) database, case report number UP17621.</p>\r\n<p>\u00a0</p>",
+		"description": "October 2, 1976\r\nSeneca, Grundy County, Illinois",
+		"weight_max": 150,
+		"caution": null,
+		"locations": null,
+		"complexion": null,
+		"reward_min": 0,
+		"field_offices": null,
+		"suspects": null,
+		"age_range": "15 to 27 years old  (estimated)",
+		"occupations": null,
+		"possible_countries": null,
+		"legat_names": null,
+		"ncic": null,
+		"hair": "black",
+		"weight": "150 pounds (estimated)",
+		"eyes": "brown",
+		"build": null,
+		"status": "na",
+		"height_min": 67,
+		"weight_min": 150,
+		"title": "JANE DOE - SENECA, GRUNDY COUNTY, ILLINOIS",
+		"scars_and_marks": "Jane Doe has a scar on her right hip and a scar or birth mark on her lower right abdomen.",
+		"coordinates": [],
+		"warning_message": null,
+		"nationality": null,
+		"reward_text": null,
+		"aliases": null,
+		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois",
+		"@id": "https://api.fbi.gov/@wanted-person/921e16f4c7f44c37bf287ae748037e0c"
 	},
 	{
 		"remarks": null,
@@ -31442,89 +31442,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/0ee996e4bb9549bc8935500656fcef61"
 	},
 	{
-		"remarks": "<p>Ochichenko is alleged to have been a Russian military intelligence officer, assigned to Unit 74455.\u00a0 He was last known to be located in Moscow, Russia.</p>",
-		"possible_states": null,
-		"age_max": null,
-		"age_min": null,
-		"additional_information": null,
-		"subjects": [
-			"Cyber's Most Wanted"
-		],
-		"dates_of_birth_used": [
-			"November 8, 1992"
-		],
-		"height_max": null,
-		"path": "/wanted/cyber/artem-valeryevich-ochichenko",
-		"languages": null,
-		"place_of_birth": "Sosnovka, Russia",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko/@@images/image/large",
-				"caption": null
-			}
-		],
-		"modified": "2021-11-16T15:02:20+00:00",
-		"race": "white",
-		"eyes_raw": "Brown",
-		"uid": "1545a007a9d7402eb9b0d5145c5d758d",
-		"race_raw": "White",
-		"hair_raw": "Brown",
-		"person_classification": "Main",
-		"publication": "2020-10-07T12:08:00",
-		"reward_max": 0,
-		"sex": "Male",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko/ochichenko-8-5x11-web.pdf"
-			},
-			{
-				"name": "\u041d\u0410 \u0420\u0423\u0421\u0421\u041a\u041e\u041c",
-				"url": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko/ochichenkorussian.pdf/@@download/file/OchichenkoRussian.pdf"
-			},
-			{
-				"name": "\u043d\u0430 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456\u0439 \u043c\u043e\u0432\u0456",
-				"url": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko/ochichenkoukrainian.pdf/@@download/file/OchichenkoUkrainian.pdf"
-			}
-		],
-		"details": null,
-		"description": "Conspiracy to Commit an Offense Against the United States; False Registration of a Domain Name; Conspiracy to Commit Wire Fraud; Wire Fraud; Intentional Damage to Protected Computers; Aggravated Identity Theft",
-		"weight_max": null,
-		"caution": "<p>On October 15, 2020, a federal grand jury sitting in the Western District of Pennsylvania returned an indictment against six Russian military intelligence officers for their alleged roles in targeting and compromising computer systems worldwide, including those relating to critical infrastructure in Ukraine, a political campaign in France, and the country of Georgia; international victims of the \u201cNotPetya\u201d malware attacks (including critical infrastructure providers); and international victims associated with the 2018 Winter Olympic Games and investigations of nerve agent attacks that have been publicly attributed to the Russian government. The indictment charges the defendants, Artem Valeryevich Ochichenko, <a data-urltype=\"/view\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/yuriy-sergeyevich-andrienko\" data-val=\"https://www.fbi.gov/wanted/cyber/yuriy-sergeyevich-andrienko\">Yuriy Sergeyevich Andrienko</a>, <a data-urltype=\"/view\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/sergey-vladimirovich-detistov\" data-val=\"https://www.fbi.gov/wanted/cyber/sergey-vladimirovich-detistov\">Sergey Vladimirovich Detistov</a>, <a data-urltype=\"/view\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/pavel-valeryevich-frolov\" data-val=\"https://www.fbi.gov/wanted/cyber/pavel-valeryevich-frolov\">Pavel Valeryevich Frolov</a>, <a data-urltype=\"/view\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\">Anatoliy Sergeyevich Kovalev</a>, and <a data-urltype=\"/view\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/petr-nikolayevich-pliskin\" data-val=\"https://www.fbi.gov/wanted/cyber/petr-nikolayevich-pliskin\">Petr Nikolayevich Pliskin</a>, with a computer hacking conspiracy intended to deploy destructive malware and take other disruptive actions, for the strategic benefit of Russia, through unauthorized access to victims\u2019 computers.\u00a0 The indictment also charges these defendants with false registration of a domain name, conspiracy to commit wire fraud, wire fraud, intentional damage to protected computers, aggravated identity theft, and aiding and abetting those crimes. The United States\u00a0District Court for the Western District of Pennsylvania issued a federal\u00a0arrest warrant for Artem Valeryevich Ochichenko upon the grand jury\u2019s return of the indictment.</p>\r\n<p>\u00a0</p>",
-		"locations": null,
-		"complexion": null,
-		"reward_min": 0,
-		"field_offices": null,
-		"suspects": null,
-		"age_range": null,
-		"occupations": [
-			"Officer in the Russian Federation's Main Intelligence Directorate of the General Staff (GRU)"
-		],
-		"possible_countries": null,
-		"legat_names": null,
-		"ncic": null,
-		"hair": "brown",
-		"weight": null,
-		"eyes": "brown",
-		"build": null,
-		"status": "na",
-		"height_min": null,
-		"weight_min": null,
-		"title": "ARTEM VALERYEVICH OCHICHENKO",
-		"scars_and_marks": null,
-		"coordinates": [],
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
-		"nationality": "Russian",
-		"reward_text": null,
-		"aliases": [
-			"\u0410\u0440\u0442\u0435\u043c \u0412\u0430\u043b\u0435\u0440\u044c\u0435\u0432\u0438\u0447 \u041e\u0447\u0438\u0447\u0435\u043d\u043a\u043e"
-		],
-		"url": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko",
-		"@id": "https://api.fbi.gov/@wanted-person/1545a007a9d7402eb9b0d5145c5d758d"
-	},
-	{
 		"remarks": null,
 		"possible_states": null,
 		"age_max": null,
@@ -31608,6 +31525,89 @@
 		],
 		"url": "https://www.fbi.gov/wanted/seeking-info/kenneth-knute-haugen",
 		"@id": "https://api.fbi.gov/@wanted-person/ed4aaf8f0d5e41d9b06b56e8ec9f52b4"
+	},
+	{
+		"remarks": "<p>Ochichenko is alleged to have been a Russian military intelligence officer, assigned to Unit 74455.\u00a0 He was last known to be located in Moscow, Russia.</p>",
+		"possible_states": null,
+		"age_max": null,
+		"age_min": null,
+		"additional_information": null,
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"dates_of_birth_used": [
+			"November 8, 1992"
+		],
+		"height_max": null,
+		"path": "/wanted/cyber/artem-valeryevich-ochichenko",
+		"languages": null,
+		"place_of_birth": "Sosnovka, Russia",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko/@@images/image/large",
+				"caption": null
+			}
+		],
+		"modified": "2021-11-16T15:02:20+00:00",
+		"race": "white",
+		"eyes_raw": "Brown",
+		"uid": "1545a007a9d7402eb9b0d5145c5d758d",
+		"race_raw": "White",
+		"hair_raw": "Brown",
+		"person_classification": "Main",
+		"publication": "2020-10-07T12:08:00",
+		"reward_max": 0,
+		"sex": "Male",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko/ochichenko-8-5x11-web.pdf"
+			},
+			{
+				"name": "\u041d\u0410 \u0420\u0423\u0421\u0421\u041a\u041e\u041c",
+				"url": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko/ochichenkorussian.pdf/@@download/file/OchichenkoRussian.pdf"
+			},
+			{
+				"name": "\u043d\u0430 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456\u0439 \u043c\u043e\u0432\u0456",
+				"url": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko/ochichenkoukrainian.pdf/@@download/file/OchichenkoUkrainian.pdf"
+			}
+		],
+		"details": null,
+		"description": "Conspiracy to Commit an Offense Against the United States; False Registration of a Domain Name; Conspiracy to Commit Wire Fraud; Wire Fraud; Intentional Damage to Protected Computers; Aggravated Identity Theft",
+		"weight_max": null,
+		"caution": "<p>On October 15, 2020, a federal grand jury sitting in the Western District of Pennsylvania returned an indictment against six Russian military intelligence officers for their alleged roles in targeting and compromising computer systems worldwide, including those relating to critical infrastructure in Ukraine, a political campaign in France, and the country of Georgia; international victims of the \u201cNotPetya\u201d malware attacks (including critical infrastructure providers); and international victims associated with the 2018 Winter Olympic Games and investigations of nerve agent attacks that have been publicly attributed to the Russian government. The indictment charges the defendants, Artem Valeryevich Ochichenko, <a data-urltype=\"/view\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/yuriy-sergeyevich-andrienko\" data-val=\"https://www.fbi.gov/wanted/cyber/yuriy-sergeyevich-andrienko\">Yuriy Sergeyevich Andrienko</a>, <a data-urltype=\"/view\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/sergey-vladimirovich-detistov\" data-val=\"https://www.fbi.gov/wanted/cyber/sergey-vladimirovich-detistov\">Sergey Vladimirovich Detistov</a>, <a data-urltype=\"/view\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/pavel-valeryevich-frolov\" data-val=\"https://www.fbi.gov/wanted/cyber/pavel-valeryevich-frolov\">Pavel Valeryevich Frolov</a>, <a data-urltype=\"/view\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\">Anatoliy Sergeyevich Kovalev</a>, and <a data-urltype=\"/view\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/cyber/petr-nikolayevich-pliskin\" data-val=\"https://www.fbi.gov/wanted/cyber/petr-nikolayevich-pliskin\">Petr Nikolayevich Pliskin</a>, with a computer hacking conspiracy intended to deploy destructive malware and take other disruptive actions, for the strategic benefit of Russia, through unauthorized access to victims\u2019 computers.\u00a0 The indictment also charges these defendants with false registration of a domain name, conspiracy to commit wire fraud, wire fraud, intentional damage to protected computers, aggravated identity theft, and aiding and abetting those crimes. The United States\u00a0District Court for the Western District of Pennsylvania issued a federal\u00a0arrest warrant for Artem Valeryevich Ochichenko upon the grand jury\u2019s return of the indictment.</p>\r\n<p>\u00a0</p>",
+		"locations": null,
+		"complexion": null,
+		"reward_min": 0,
+		"field_offices": null,
+		"suspects": null,
+		"age_range": null,
+		"occupations": [
+			"Officer in the Russian Federation's Main Intelligence Directorate of the General Staff (GRU)"
+		],
+		"possible_countries": null,
+		"legat_names": null,
+		"ncic": null,
+		"hair": "brown",
+		"weight": null,
+		"eyes": "brown",
+		"build": null,
+		"status": "na",
+		"height_min": null,
+		"weight_min": null,
+		"title": "ARTEM VALERYEVICH OCHICHENKO",
+		"scars_and_marks": null,
+		"coordinates": [],
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+		"nationality": "Russian",
+		"reward_text": null,
+		"aliases": [
+			"\u0410\u0440\u0442\u0435\u043c \u0412\u0430\u043b\u0435\u0440\u044c\u0435\u0432\u0438\u0447 \u041e\u0447\u0438\u0447\u0435\u043d\u043a\u043e"
+		],
+		"url": "https://www.fbi.gov/wanted/cyber/artem-valeryevich-ochichenko",
+		"@id": "https://api.fbi.gov/@wanted-person/1545a007a9d7402eb9b0d5145c5d758d"
 	},
 	{
 		"remarks": null,
@@ -51923,85 +51923,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/b659218ef3554ffe960878620f184cb6"
 	},
 	{
-		"remarks": "<p>Walker is known by most as \u201dFaye\u201d.</p>",
-		"possible_states": null,
-		"age_max": null,
-		"age_min": null,
-		"additional_information": null,
-		"subjects": [
-			"Kidnappings and Missing Persons"
-		],
-		"dates_of_birth_used": [
-			"June 24, 1956"
-		],
-		"height_max": 67,
-		"path": "/wanted/kidnap/wanda-faye-walker",
-		"languages": null,
-		"place_of_birth": "Nashville, Tennessee",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/@@images/image/large",
-				"caption": "Photograph taken in 2016"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/walker2.jpg",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/walker2.jpg/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/walker2.jpg/@@images/image/large",
-				"caption": ""
-			}
-		],
-		"modified": "2021-11-16T14:58:37+00:00",
-		"race": "black",
-		"eyes_raw": "Brown",
-		"uid": "e5fe0946743b4abca3499f49fb267098",
-		"race_raw": "Black",
-		"hair_raw": "Brown \u2013 Dyed Blonde",
-		"person_classification": "Main",
-		"publication": "2021-09-21T08:16:00",
-		"reward_max": 0,
-		"sex": "Female",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/download.pdf"
-			}
-		],
-		"details": "<p>Wanda Faye Walker, who at the time was 60 years old, was last seen leaving her residence in the 1400 block of 11th Avenue South, Nashville, Tennessee, on October 4, 2016. She had been residing there with her cousin. After three days of not being able to find their grandmother, the family reported Wanda missing to police.</p>\r\n<p>\u00a0</p>\r\n<p>Wanda was an employee of the local Dollar Tree store and had missed two days of work, which was unlike her.\u00a0 Her car was located one week later in the 1000 block of Wade Avenue.\u00a0 The car contained many of her personal belongings that she would have taken with her had she simply run away.\u00a0 The car also contained evidence of a struggle.\u00a0 It is believed that Wanda had a physical confrontation with someone that she knew.\u00a0 This person then drove Wanda\u2019s car to the location on Wade Avenue and left it in that area because of their familiarity with the location.\u00a0 Also located inside the car was a significant amount of plant material, called privet.</p>\r\n<p>\u00a0</p>",
-		"description": "October 4, 2016\r\nNashville, Tennessee",
-		"weight_max": 180,
-		"caution": null,
-		"locations": null,
-		"complexion": null,
-		"reward_min": 0,
-		"field_offices": [
-			"memphis"
-		],
-		"suspects": null,
-		"age_range": null,
-		"occupations": null,
-		"possible_countries": null,
-		"legat_names": null,
-		"ncic": null,
-		"hair": "brown",
-		"weight": "180 pounds",
-		"eyes": "brown",
-		"build": null,
-		"status": "na",
-		"height_min": 67,
-		"weight_min": 180,
-		"title": "WANDA FAYE WALKER",
-		"scars_and_marks": null,
-		"coordinates": [],
-		"warning_message": null,
-		"nationality": "American",
-		"reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest and conviction of anyone involved in this case.",
-		"aliases": null,
-		"url": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker",
-		"@id": "https://api.fbi.gov/@wanted-person/e5fe0946743b4abca3499f49fb267098"
-	},
-	{
 		"remarks": null,
 		"possible_states": null,
 		"age_max": null,
@@ -52079,6 +52000,85 @@
 		"aliases": null,
 		"url": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel",
 		"@id": "https://api.fbi.gov/@wanted-person/7e7d6aca17a64b919be681951e994465"
+	},
+	{
+		"remarks": "<p>Walker is known by most as \u201dFaye\u201d.</p>",
+		"possible_states": null,
+		"age_max": null,
+		"age_min": null,
+		"additional_information": null,
+		"subjects": [
+			"Kidnappings and Missing Persons"
+		],
+		"dates_of_birth_used": [
+			"June 24, 1956"
+		],
+		"height_max": 67,
+		"path": "/wanted/kidnap/wanda-faye-walker",
+		"languages": null,
+		"place_of_birth": "Nashville, Tennessee",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/@@images/image/large",
+				"caption": "Photograph taken in 2016"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/walker2.jpg",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/walker2.jpg/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/walker2.jpg/@@images/image/large",
+				"caption": ""
+			}
+		],
+		"modified": "2021-11-16T14:58:37+00:00",
+		"race": "black",
+		"eyes_raw": "Brown",
+		"uid": "e5fe0946743b4abca3499f49fb267098",
+		"race_raw": "Black",
+		"hair_raw": "Brown \u2013 Dyed Blonde",
+		"person_classification": "Main",
+		"publication": "2021-09-21T08:16:00",
+		"reward_max": 0,
+		"sex": "Female",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker/download.pdf"
+			}
+		],
+		"details": "<p>Wanda Faye Walker, who at the time was 60 years old, was last seen leaving her residence in the 1400 block of 11th Avenue South, Nashville, Tennessee, on October 4, 2016. She had been residing there with her cousin. After three days of not being able to find their grandmother, the family reported Wanda missing to police.</p>\r\n<p>\u00a0</p>\r\n<p>Wanda was an employee of the local Dollar Tree store and had missed two days of work, which was unlike her.\u00a0 Her car was located one week later in the 1000 block of Wade Avenue.\u00a0 The car contained many of her personal belongings that she would have taken with her had she simply run away.\u00a0 The car also contained evidence of a struggle.\u00a0 It is believed that Wanda had a physical confrontation with someone that she knew.\u00a0 This person then drove Wanda\u2019s car to the location on Wade Avenue and left it in that area because of their familiarity with the location.\u00a0 Also located inside the car was a significant amount of plant material, called privet.</p>\r\n<p>\u00a0</p>",
+		"description": "October 4, 2016\r\nNashville, Tennessee",
+		"weight_max": 180,
+		"caution": null,
+		"locations": null,
+		"complexion": null,
+		"reward_min": 0,
+		"field_offices": [
+			"memphis"
+		],
+		"suspects": null,
+		"age_range": null,
+		"occupations": null,
+		"possible_countries": null,
+		"legat_names": null,
+		"ncic": null,
+		"hair": "brown",
+		"weight": "180 pounds",
+		"eyes": "brown",
+		"build": null,
+		"status": "na",
+		"height_min": 67,
+		"weight_min": 180,
+		"title": "WANDA FAYE WALKER",
+		"scars_and_marks": null,
+		"coordinates": [],
+		"warning_message": null,
+		"nationality": "American",
+		"reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest and conviction of anyone involved in this case.",
+		"aliases": null,
+		"url": "https://www.fbi.gov/wanted/kidnap/wanda-faye-walker",
+		"@id": "https://api.fbi.gov/@wanted-person/e5fe0946743b4abca3499f49fb267098"
 	},
 	{
 		"remarks": "<p>Markowski was last seen wearing a green shirt, blue jeans, and black shoes. At the time of her disappearance, she was missing her baby molars.</p>",
@@ -80323,6 +80323,85 @@
 		"@id": "https://api.fbi.gov/@wanted-person/5a657cd539aa4d0ab12da8f1a469dd83"
 	},
 	{
+		"remarks": null,
+		"possible_states": null,
+		"age_max": null,
+		"age_min": null,
+		"additional_information": null,
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"dates_of_birth_used": null,
+		"height_max": 68,
+		"path": "/wanted/cyber/mohamad-paryar",
+		"languages": null,
+		"place_of_birth": "Iran",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/large",
+				"caption": null
+			}
+		],
+		"modified": "2021-11-16T14:53:43+00:00",
+		"race": "white",
+		"eyes_raw": "Brown",
+		"uid": "fcef299db11c4940867aeb66e3cdcd5c",
+		"race_raw": "White",
+		"hair_raw": "Black",
+		"person_classification": "Main",
+		"publication": "2019-02-07T19:23:00",
+		"reward_max": 0,
+		"sex": "Male",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/download.pdf"
+			},
+			{
+				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc",
+				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/paryarfarsi.pdf/@@download/file/ParyarFarsi.pdf"
+			}
+		],
+		"details": null,
+		"description": "Conspiracy to Commit Computer Intrusion; Computer Intrusion; Aggravated Identity Theft; Aiding and Abetting",
+		"weight_max": 160,
+		"caution": "<p>Mohamad Paryar\u00a0is wanted for his alleged involvement in criminal activities to include computer intrusion and aggravated identity theft.\u00a0 Paryar was allegedly contracted to procure and provide technical support for\u00a0malware in furtherance of a malicious cyber campaign targeting current and former members of the\u00a0United States\u00a0Intelligence Community.\u00a0 Paryar allegedly conducted this activity at the behest of the Islamic Revolutionary Guard Corps (IRGC).\u00a0 On February 8, 2019, a grand jury in the United States District Court, District of Columbia, indicted Paryar, <a data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\" href=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\" data-linktype=\"external\">and others</a>, and a federal arrest warrant was issued for him after he was charged with Conspiracy to Commit Computer Intrusion, Computer Intrusion, Aggravated Identity Theft, and\u00a0Aiding and Abetting.</p>\r\n<p>\u00a0</p>",
+		"locations": null,
+		"complexion": null,
+		"reward_min": 0,
+		"field_offices": [
+			"washingtondc"
+		],
+		"suspects": null,
+		"age_range": null,
+		"occupations": null,
+		"possible_countries": null,
+		"legat_names": null,
+		"ncic": null,
+		"hair": "black",
+		"weight": "Approximately 160 pounds",
+		"eyes": "brown",
+		"build": null,
+		"status": "na",
+		"height_min": 68,
+		"weight_min": 160,
+		"title": "MOHAMAD PARYAR",
+		"scars_and_marks": null,
+		"coordinates": [],
+		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+		"nationality": "Iranian",
+		"reward_text": null,
+		"aliases": [
+			"l_bush_l",
+			"Mohamad Pk",
+			"MPK"
+		],
+		"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar",
+		"@id": "https://api.fbi.gov/@wanted-person/fcef299db11c4940867aeb66e3cdcd5c"
+	},
+	{
 		"remarks": "<p>Mesri is known to speak Farsi and\u00a0resides in Iran.</p>",
 		"possible_states": null,
 		"age_max": null,
@@ -80401,85 +80480,6 @@
 		],
 		"url": "https://www.fbi.gov/wanted/cyber/copy_of_behzad-mesri",
 		"@id": "https://api.fbi.gov/@wanted-person/7cb18c1ab6594ccca93c81bddec8eb42"
-	},
-	{
-		"remarks": null,
-		"possible_states": null,
-		"age_max": null,
-		"age_min": null,
-		"additional_information": null,
-		"subjects": [
-			"Cyber's Most Wanted"
-		],
-		"dates_of_birth_used": null,
-		"height_max": 68,
-		"path": "/wanted/cyber/mohamad-paryar",
-		"languages": null,
-		"place_of_birth": "Iran",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/large",
-				"caption": null
-			}
-		],
-		"modified": "2021-11-16T14:53:43+00:00",
-		"race": "white",
-		"eyes_raw": "Brown",
-		"uid": "fcef299db11c4940867aeb66e3cdcd5c",
-		"race_raw": "White",
-		"hair_raw": "Black",
-		"person_classification": "Main",
-		"publication": "2019-02-07T19:23:00",
-		"reward_max": 0,
-		"sex": "Male",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/download.pdf"
-			},
-			{
-				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc",
-				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/paryarfarsi.pdf/@@download/file/ParyarFarsi.pdf"
-			}
-		],
-		"details": null,
-		"description": "Conspiracy to Commit Computer Intrusion; Computer Intrusion; Aggravated Identity Theft; Aiding and Abetting",
-		"weight_max": 160,
-		"caution": "<p>Mohamad Paryar\u00a0is wanted for his alleged involvement in criminal activities to include computer intrusion and aggravated identity theft.\u00a0 Paryar was allegedly contracted to procure and provide technical support for\u00a0malware in furtherance of a malicious cyber campaign targeting current and former members of the\u00a0United States\u00a0Intelligence Community.\u00a0 Paryar allegedly conducted this activity at the behest of the Islamic Revolutionary Guard Corps (IRGC).\u00a0 On February 8, 2019, a grand jury in the United States District Court, District of Columbia, indicted Paryar, <a data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\" href=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\" data-linktype=\"external\">and others</a>, and a federal arrest warrant was issued for him after he was charged with Conspiracy to Commit Computer Intrusion, Computer Intrusion, Aggravated Identity Theft, and\u00a0Aiding and Abetting.</p>\r\n<p>\u00a0</p>",
-		"locations": null,
-		"complexion": null,
-		"reward_min": 0,
-		"field_offices": [
-			"washingtondc"
-		],
-		"suspects": null,
-		"age_range": null,
-		"occupations": null,
-		"possible_countries": null,
-		"legat_names": null,
-		"ncic": null,
-		"hair": "black",
-		"weight": "Approximately 160 pounds",
-		"eyes": "brown",
-		"build": null,
-		"status": "na",
-		"height_min": 68,
-		"weight_min": 160,
-		"title": "MOHAMAD PARYAR",
-		"scars_and_marks": null,
-		"coordinates": [],
-		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
-		"nationality": "Iranian",
-		"reward_text": null,
-		"aliases": [
-			"l_bush_l",
-			"Mohamad Pk",
-			"MPK"
-		],
-		"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar",
-		"@id": "https://api.fbi.gov/@wanted-person/fcef299db11c4940867aeb66e3cdcd5c"
 	},
 	{
 		"remarks": "<p>Serrano may be residing in Mexico. He has previously resided in Bellflower, California.</p>",
