@@ -8944,81 +8944,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/7d60ad83779047dd95914d0d1bf79e11"
 	},
 	{
-		"age_min": 15,
-		"weight": "150 pounds (estimated)",
-		"height_max": 67,
-		"modified": "2021-12-03T13:31:59+00:00",
-		"weight_max": 150,
-		"path": "/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois",
-		"publication": "2019-01-28T08:55:00",
-		"ncic": null,
-		"reward_min": 0,
-		"locations": null,
-		"height_min": 67,
-		"person_classification": "Main",
-		"remarks": null,
-		"dates_of_birth_used": null,
-		"weight_min": 150,
-		"eyes_raw": "Brown",
-		"eyes": "brown",
-		"warning_message": null,
-		"build": null,
-		"reward_max": 0,
-		"hair_raw": "Black",
-		"scars_and_marks": "Jane Doe has a scar on her right hip and a scar or birth mark on her lower right abdomen.",
-		"status": "na",
-		"coordinates": [],
-		"suspects": null,
-		"nationality": null,
-		"possible_states": null,
-		"race": "black",
-		"aliases": null,
-		"title": "JANE DOE - SENECA, GRUNDY COUNTY, ILLINOIS",
-		"caution": null,
-		"subjects": [
-			"ViCAP Unidentified Persons"
-		],
-		"complexion": null,
-		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois",
-		"uid": "921e16f4c7f44c37bf287ae748037e0c",
-		"reward_text": null,
-		"age_max": 27,
-		"additional_information": null,
-		"occupations": null,
-		"images": [
-			{
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/@@images/image/large",
-				"caption": null,
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/@@images/image/thumb"
-			},
-			{
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/jane-doe-4-grundy-county-il.jpg/@@images/image/large",
-				"caption": "",
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/jane-doe-4-grundy-county-il.jpg",
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/jane-doe-4-grundy-county-il.jpg/@@images/image/thumb"
-			}
-		],
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/vicap-alert-2019-01-02-unidentified-homicide-victim-pdf-1.pdf",
-				"name": "English"
-			}
-		],
-		"description": "October 2, 1976\r\nSeneca, Grundy County, Illinois",
-		"field_offices": null,
-		"race_raw": "Black",
-		"languages": null,
-		"details": "<p>On October 2, 1976, an unidentified black female was found dead from a gunshot wound to her head along U.S. Route 6 in Seneca, Grundy County, Illinois. She had been deceased for approximately one day. Her description is documented above. For additional information and photographs regarding this victim, refer to the National Missing and Unidentified Persons System (NamUs) database, case report number UP17621.</p>\r\n<p>\u00a0</p>",
-		"hair": "black",
-		"age_range": "15 to 27 years old  (estimated)",
-		"place_of_birth": null,
-		"possible_countries": null,
-		"sex": "Female",
-		"legat_names": null,
-		"@id": "https://api.fbi.gov/@wanted-person/921e16f4c7f44c37bf287ae748037e0c"
-	},
-	{
 		"age_min": 40,
 		"weight": null,
 		"height_max": null,
@@ -9161,6 +9086,81 @@
 		"sex": "Male",
 		"legat_names": null,
 		"@id": "https://api.fbi.gov/@wanted-person/b5a92137254e4854b9fba87bd0c521cb"
+	},
+	{
+		"age_min": 15,
+		"weight": "150 pounds (estimated)",
+		"height_max": 67,
+		"modified": "2021-12-03T13:31:59+00:00",
+		"weight_max": 150,
+		"path": "/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois",
+		"publication": "2019-01-28T08:55:00",
+		"ncic": null,
+		"reward_min": 0,
+		"locations": null,
+		"height_min": 67,
+		"person_classification": "Main",
+		"remarks": null,
+		"dates_of_birth_used": null,
+		"weight_min": 150,
+		"eyes_raw": "Brown",
+		"eyes": "brown",
+		"warning_message": null,
+		"build": null,
+		"reward_max": 0,
+		"hair_raw": "Black",
+		"scars_and_marks": "Jane Doe has a scar on her right hip and a scar or birth mark on her lower right abdomen.",
+		"status": "na",
+		"coordinates": [],
+		"suspects": null,
+		"nationality": null,
+		"possible_states": null,
+		"race": "black",
+		"aliases": null,
+		"title": "JANE DOE - SENECA, GRUNDY COUNTY, ILLINOIS",
+		"caution": null,
+		"subjects": [
+			"ViCAP Unidentified Persons"
+		],
+		"complexion": null,
+		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois",
+		"uid": "921e16f4c7f44c37bf287ae748037e0c",
+		"reward_text": null,
+		"age_max": 27,
+		"additional_information": null,
+		"occupations": null,
+		"images": [
+			{
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/@@images/image/large",
+				"caption": null,
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/@@images/image/thumb"
+			},
+			{
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/jane-doe-4-grundy-county-il.jpg/@@images/image/large",
+				"caption": "",
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/jane-doe-4-grundy-county-il.jpg",
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/jane-doe-4-grundy-county-il.jpg/@@images/image/thumb"
+			}
+		],
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---seneca-grundy-county-illinois/vicap-alert-2019-01-02-unidentified-homicide-victim-pdf-1.pdf",
+				"name": "English"
+			}
+		],
+		"description": "October 2, 1976\r\nSeneca, Grundy County, Illinois",
+		"field_offices": null,
+		"race_raw": "Black",
+		"languages": null,
+		"details": "<p>On October 2, 1976, an unidentified black female was found dead from a gunshot wound to her head along U.S. Route 6 in Seneca, Grundy County, Illinois. She had been deceased for approximately one day. Her description is documented above. For additional information and photographs regarding this victim, refer to the National Missing and Unidentified Persons System (NamUs) database, case report number UP17621.</p>\r\n<p>\u00a0</p>",
+		"hair": "black",
+		"age_range": "15 to 27 years old  (estimated)",
+		"place_of_birth": null,
+		"possible_countries": null,
+		"sex": "Female",
+		"legat_names": null,
+		"@id": "https://api.fbi.gov/@wanted-person/921e16f4c7f44c37bf287ae748037e0c"
 	},
 	{
 		"age_min": 28,
@@ -11731,85 +11731,117 @@
 	},
 	{
 		"age_min": null,
-		"weight": "210 pounds",
-		"height_max": 69,
+		"weight": "140 pounds",
+		"height_max": 67,
 		"modified": "2021-11-16T15:06:09+00:00",
-		"weight_max": 210,
-		"path": "/wanted/seeking-info/carmen-charger",
-		"publication": "2020-04-17T08:26:00",
-		"ncic": null,
+		"weight_max": 140,
+		"path": "/wanted/additional/trung-duc-lu",
+		"publication": "2020-04-29T12:04:00",
+		"ncic": "W660651561",
 		"reward_min": 0,
 		"locations": null,
-		"height_min": 69,
+		"height_min": 67,
 		"person_classification": "Main",
-		"remarks": "<p>Charger was an enrolled member of the Cheyenne River Sioux Tribe Indian Reservation.</p>",
+		"remarks": "<p>Trung Duc Lu was born in the Republic of Vietnam and moved to the United States as a teenager.\u00a0 He has strong ties to New York City, where he resided in the borough of Queens.\u00a0 Lu was last confirmed to be in the Republic of Vietnam.\u00a0 He speaks both English and Vietnamese.</p>\r\n<p>Lu is a suspected member of the Born to Kill street gang, also known as BTK or Canal Boys.</p>",
 		"dates_of_birth_used": [
-			"October 23, 1979"
+			"October 1, 1980",
+			"December 2, 1979",
+			"December 9, 1979",
+			"November 13, 1980",
+			"October 1, 1981",
+			"October 10, 1982"
 		],
-		"weight_min": 210,
+		"weight_min": 140,
 		"eyes_raw": "Brown",
 		"eyes": "brown",
-		"warning_message": null,
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN INTERNATIONAL FLIGHT RISK",
 		"build": null,
 		"reward_max": 0,
-		"hair_raw": "Brown",
-		"scars_and_marks": "Charger had 15 diamonds tattooed on the right side of her face.",
+		"hair_raw": "Black",
+		"scars_and_marks": "Lu has numerous tattoos including a dragon in the center of his back with the words \u201cAsian Pride\u201d in large script above it, and an unknown tattoo over his left pectoral.  Both of his upper arms are heavily tattooed including a dragon and claw design and a tiger.",
 		"status": "na",
 		"coordinates": [],
 		"suspects": null,
-		"nationality": "American",
+		"nationality": "Vietnamese",
 		"possible_states": null,
-		"race": "native",
+		"race": "asian",
 		"aliases": [
-			"\"Happy\""
+			"Trung D. Lu",
+			"Tuan Hoang",
+			"Phong Le",
+			"Phong Van Le",
+			"Brendan Lu",
+			"Calvin Lu",
+			"Trung Lu",
+			"Duc Trung",
+			"Duc L. Trung",
+			"Lu Trung",
+			"\"B\""
 		],
-		"title": "CARMEN CHARGER",
-		"caution": null,
+		"title": "TRUNG DUC LU",
+		"caution": "<p>Trung Duc Lu is wanted in connection with the August 2014 torture, kidnapping, and murder of two Vietnamese brothers in Philadelphia, Pennsylvania.\u00a0 A third male was also tortured and kidnapped, but managed to survive the attack.\u00a0 On July 10, 2019, a federal arrest warrant was issued for Lu in the United States District Court, Eastern District of Pennsylvania, Philadelphia, Pennsylvania, after he was charged with\u00a0Conspiracy to Commit Kidnapping; Kidnapping (3 Counts); Interstate Travel in Aid of Racketeering; Conspiracy to Collect an Extension of Credit by Extortionate Means; Collection of an Extension of Credit by Extortionate Means; Conspiracy to Distribute Marijuana; and Aiding and Abetting.</p>\r\n<p>\u00a0</p>",
 		"subjects": [
-			"Seeking Information",
-			"Indian Country"
+			"Additional Violent Crimes"
 		],
 		"complexion": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/carmen-charger",
-		"uid": "66802fe008634da18d76070e809e2271",
-		"reward_text": "The FBI is offering a reward of up to $10,000 for information that leads to an arrest and conviction in this case.",
+		"url": "https://www.fbi.gov/wanted/additional/trung-duc-lu",
+		"uid": "d1af1b9c5c3648ebb1cf926cb8c4fb09",
+		"reward_text": "The FBI is offering a reward of up to $10,000 for information leading directly to the arrest of Trung Duc Lu.",
 		"age_max": null,
 		"additional_information": null,
-		"occupations": null,
+		"occupations": [
+			"Nail Technician"
+		],
 		"images": [
 			{
-				"large": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/@@images/image/large",
-				"caption": "Carmen Charger",
-				"original": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/@@images/image/thumb"
+				"large": "https://www.fbi.gov/wanted/additional/trung-duc-lu/@@images/image/large",
+				"caption": null,
+				"original": "https://www.fbi.gov/wanted/additional/trung-duc-lu/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/additional/trung-duc-lu/@@images/image/thumb"
 			},
 			{
-				"large": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/delmas_traversie.png/@@images/image/large",
-				"caption": "Delmas Traversie, Jr.",
-				"original": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/delmas_traversie.png",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/delmas_traversie.png/@@images/image/thumb"
+				"large": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglutattoo2.jpg/@@images/image/large",
+				"caption": "",
+				"original": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglutattoo2.jpg",
+				"thumb": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglutattoo2.jpg/@@images/image/thumb"
+			},
+			{
+				"large": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglutattoo1.jpg/@@images/image/large",
+				"caption": "",
+				"original": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglutattoo1.jpg",
+				"thumb": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglutattoo1.jpg/@@images/image/thumb"
+			},
+			{
+				"large": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglu2.jpg/@@images/image/large",
+				"caption": "",
+				"original": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglu2.jpg",
+				"thumb": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglu2.jpg/@@images/image/thumb"
 			}
 		],
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/download.pdf",
+				"url": "https://www.fbi.gov/wanted/additional/trung-duc-lu/download.pdf",
 				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trungluvietnamese.pdf/@@download/file/trungluvietnamese.pdf",
+				"name": "Trong ti\u1ebfng vi\u1ec7t"
 			}
 		],
-		"description": "Homicide Victim\r\nEagle Butte, South Dakota\r\nMarch 2019",
+		"description": "Conspiracy to Commit Kidnapping; Kidnapping (3 Counts); Interstate Travel in Aid of Racketeering; Conspiracy to Collect an Extension of Credit by Extortionate Means; Collection of an Extension of Credit by Extortionate Means; Conspiracy to Distribute Marijuana; Aiding and Abetting",
 		"field_offices": [
-			"minneapolis"
+			"philadelphia"
 		],
-		"race_raw": "Native American",
+		"race_raw": "Asian",
 		"languages": null,
-		"details": "<p>The Federal Bureau of Investigation's Minneapolis Field Office, Pierre, South Dakota, Resident Agency, along with the Cheyenne River Sioux Tribe Law Enforcement Services, is seeking the public\u2019s assistance in identifying the unknown individual(s) responsible for the murders of Carmen Charger and <a data-urltype=\"_direct_\" data-val=\"b659218ef3554ffe960878620f184cb6\" data-linktype=\"internal\" href=\"https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-\">Delmas Traversie, Jr.</a>, in Eagle Butte, South Dakota, in March of 2019.</p>\r\n<p>From March 13, 2019, through March 15, 2019, a snow storm occurred in most of South Dakota. Charger, 39, and Traversie, Jr., 63, were killed at House 717, No Heart Housing, in Eagle Butte around that time. Anyone with information related to their deaths or related to the presence of individuals frequenting House 717 around the time of this snow storm is asked to contact the FBI.</p>",
-		"hair": "brown",
+		"details": null,
+		"hair": "black",
 		"age_range": null,
-		"place_of_birth": "Rapid City, South Dakota",
+		"place_of_birth": "Republic of Vietnam",
 		"possible_countries": null,
-		"sex": "Female",
+		"sex": "Male",
 		"legat_names": null,
-		"@id": "https://api.fbi.gov/@wanted-person/66802fe008634da18d76070e809e2271"
+		"@id": "https://api.fbi.gov/@wanted-person/d1af1b9c5c3648ebb1cf926cb8c4fb09"
 	},
 	{
 		"age_min": null,
@@ -64656,81 +64688,6 @@
 	},
 	{
 		"age_min": null,
-		"weight": "170 pounds",
-		"height_max": 68,
-		"modified": "2021-11-16T14:56:41+00:00",
-		"weight_max": 170,
-		"path": "/wanted/wcc/yousef-kurdy",
-		"publication": "2014-10-24T07:00:00",
-		"ncic": "W564321853",
-		"reward_min": 0,
-		"locations": null,
-		"height_min": 68,
-		"person_classification": "Main",
-		"remarks": null,
-		"dates_of_birth_used": [
-			"March 8, 1948"
-		],
-		"weight_min": 170,
-		"eyes_raw": "Brown",
-		"eyes": "brown",
-		"warning_message": null,
-		"build": "Stocky",
-		"reward_max": 0,
-		"hair_raw": "Black",
-		"scars_and_marks": null,
-		"status": "na",
-		"coordinates": [],
-		"suspects": null,
-		"nationality": "Syrian",
-		"possible_states": null,
-		"race": "white",
-		"aliases": [
-			"Yousef M. Kurdy"
-		],
-		"title": "YOUSEF KURDY",
-		"caution": "<p>Yousef Kurdy is wanted for allegedly submitting claims for more than 35,000 office visits with Medicare and Medi-Cal patients, submitting hundreds of fraudulent claims when office visits never took place, billing for treating patients during times when he was not present, and failing to pay federal taxes for three years.</p>\r\n<p>\u00a0</p>\r\n<p>On January 26, 2012, a federal arrest warrant was issued for Kurdy by the United States District Court, Southern District of California, after he was charged with health care fraud; aggravated identity theft; receipt of kickbacks for patient referrals; income tax evasion; aiding and abetting; and criminal forfeiture. Kurdy was scheduled to self-surrender on January 30, 2012, but he failed to appear on that date. Kurdy fled the country and may be in Syria or Lebanon.</p>",
-		"subjects": [
-			"White-Collar Crime"
-		],
-		"complexion": null,
-		"url": "https://www.fbi.gov/wanted/wcc/yousef-kurdy",
-		"uid": "fabd733e-6f85-48a1-b954-7c91e23b626e",
-		"reward_text": null,
-		"age_max": null,
-		"additional_information": null,
-		"occupations": null,
-		"images": [
-			{
-				"large": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image/large",
-				"caption": "Photograph taken in April 2006",
-				"original": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image/thumb"
-			}
-		],
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/download.pdf",
-				"name": "English"
-			}
-		],
-		"description": "Health Care Fraud; Aggravated Identity Theft; Receipt of Kickbacks for Patient Referrals; Income Tax Evasion; Aiding and Abetting; and Criminal Forfeiture",
-		"field_offices": [
-			"sandiego"
-		],
-		"race_raw": "White",
-		"languages": null,
-		"details": null,
-		"hair": "black",
-		"age_range": null,
-		"place_of_birth": "Allepo, Syria",
-		"possible_countries": null,
-		"sex": "Male",
-		"legat_names": null,
-		"@id": "https://api.fbi.gov/@wanted-person/fabd733e-6f85-48a1-b954-7c91e23b626e"
-	},
-	{
-		"age_min": null,
 		"weight": "220 pounds",
 		"height_max": 72,
 		"modified": "2021-11-16T14:56:41+00:00",
@@ -64818,6 +64775,81 @@
 		"sex": "Male",
 		"legat_names": null,
 		"@id": "https://api.fbi.gov/@wanted-person/e46cd583b92047dc97e46419d09e5ac5"
+	},
+	{
+		"age_min": null,
+		"weight": "170 pounds",
+		"height_max": 68,
+		"modified": "2021-11-16T14:56:41+00:00",
+		"weight_max": 170,
+		"path": "/wanted/wcc/yousef-kurdy",
+		"publication": "2014-10-24T07:00:00",
+		"ncic": "W564321853",
+		"reward_min": 0,
+		"locations": null,
+		"height_min": 68,
+		"person_classification": "Main",
+		"remarks": null,
+		"dates_of_birth_used": [
+			"March 8, 1948"
+		],
+		"weight_min": 170,
+		"eyes_raw": "Brown",
+		"eyes": "brown",
+		"warning_message": null,
+		"build": "Stocky",
+		"reward_max": 0,
+		"hair_raw": "Black",
+		"scars_and_marks": null,
+		"status": "na",
+		"coordinates": [],
+		"suspects": null,
+		"nationality": "Syrian",
+		"possible_states": null,
+		"race": "white",
+		"aliases": [
+			"Yousef M. Kurdy"
+		],
+		"title": "YOUSEF KURDY",
+		"caution": "<p>Yousef Kurdy is wanted for allegedly submitting claims for more than 35,000 office visits with Medicare and Medi-Cal patients, submitting hundreds of fraudulent claims when office visits never took place, billing for treating patients during times when he was not present, and failing to pay federal taxes for three years.</p>\r\n<p>\u00a0</p>\r\n<p>On January 26, 2012, a federal arrest warrant was issued for Kurdy by the United States District Court, Southern District of California, after he was charged with health care fraud; aggravated identity theft; receipt of kickbacks for patient referrals; income tax evasion; aiding and abetting; and criminal forfeiture. Kurdy was scheduled to self-surrender on January 30, 2012, but he failed to appear on that date. Kurdy fled the country and may be in Syria or Lebanon.</p>",
+		"subjects": [
+			"White-Collar Crime"
+		],
+		"complexion": null,
+		"url": "https://www.fbi.gov/wanted/wcc/yousef-kurdy",
+		"uid": "fabd733e-6f85-48a1-b954-7c91e23b626e",
+		"reward_text": null,
+		"age_max": null,
+		"additional_information": null,
+		"occupations": null,
+		"images": [
+			{
+				"large": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image/large",
+				"caption": "Photograph taken in April 2006",
+				"original": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image/thumb"
+			}
+		],
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/download.pdf",
+				"name": "English"
+			}
+		],
+		"description": "Health Care Fraud; Aggravated Identity Theft; Receipt of Kickbacks for Patient Referrals; Income Tax Evasion; Aiding and Abetting; and Criminal Forfeiture",
+		"field_offices": [
+			"sandiego"
+		],
+		"race_raw": "White",
+		"languages": null,
+		"details": null,
+		"hair": "black",
+		"age_range": null,
+		"place_of_birth": "Allepo, Syria",
+		"possible_countries": null,
+		"sex": "Male",
+		"legat_names": null,
+		"@id": "https://api.fbi.gov/@wanted-person/fabd733e-6f85-48a1-b954-7c91e23b626e"
 	},
 	{
 		"age_min": null,
