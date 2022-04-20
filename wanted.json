@@ -10228,7 +10228,7 @@
 		"@id": "https://api.fbi.gov/@wanted-person/b5a92137254e4854b9fba87bd0c521cb"
 	},
 	{
-		"path": "/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina",
+		"path": "/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana",
 		"languages": null,
 		"coordinates": [],
 		"field_offices": null,
@@ -10238,72 +10238,66 @@
 		"possible_countries": null,
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/revised-vicap-yemasee-sc-6-2021.pdf",
+				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/vicap-alert-2017-05-02-jane-doe-unidentified-remains-revised.pdf",
 				"name": "English"
 			}
 		],
 		"place_of_birth": null,
 		"modified": "2021-12-03T13:31:59+00:00",
-		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina",
-		"age_min": 28,
-		"age_max": 35,
-		"weight_max": 118,
-		"hair_raw": "Naturally dark brown, but dyed red",
-		"eyes": "brown",
+		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana",
+		"age_min": 17,
+		"age_max": 22,
+		"weight_max": 130,
+		"hair_raw": "Brown, Red, Reddish Brown, Auburn (Shorter than collar-length)",
+		"eyes": null,
 		"ncic": null,
 		"hair": "brown",
-		"weight": "118 pounds",
+		"weight": "130 pounds",
 		"occupations": null,
-		"height_min": 63,
-		"race_raw": "Hispanic (Possibly)",
-		"scars_and_marks": "Scar on neck from thyroid surgery; hysterectomy scar on abdomen; double-pierced ears.",
-		"age_range": "28 to 35 years old",
-		"remarks": null,
-		"description": "Yemasse, South Carolina\r\nMay 24, 1995",
-		"weight_min": 118,
+		"height_min": 66,
+		"race_raw": "White",
+		"scars_and_marks": "Tattoos included the following: \"MOM\" upper right arm; A cross and \"LOVE\" on the right breast; A cross on webbing between the index finger and thumb on the right hand.",
+		"age_range": "17 - 22 years old",
+		"remarks": "<p>Clothing included a light-green tank top and anklet socks.</p>",
+		"description": "Boone County, Indiana\r\nMay 3, 1992",
+		"weight_min": 130,
 		"locations": null,
 		"person_classification": "Main",
 		"possible_states": null,
 		"warning_message": null,
-		"details": "<p>On May 24, 1995, the body of a deceased female was recovered from a ditch along Cotton Hall Road in Yemassee, South Carolina. She was recovered wearing only a pair of white underwear. The victim had been murdered prior to being transported and dumped along the roadside.</p>",
+		"details": "<p>On Sunday, May 3, 1992, the victim\u2019s remains were discovered laying along the eastside of the northbound entrance ramp from Indiana State Road 47 to Interstate 65. The victim was only wearing a light-green tank top and light-green anklet socks. The victim is believed to have died three to five days prior; however, the cause of death could not be determined. Foul play is suspected due to the condition of her recovery.</p>",
 		"nationality": null,
 		"additional_information": null,
-		"height_max": 63,
+		"height_max": 66,
 		"reward_text": null,
 		"complexion": null,
 		"legat_names": null,
-		"title": "JANE DOE - YEMASSEE, SOUTH CAROLINA",
+		"title": "JANE DOE - BOONE COUNTY, INDIANA",
 		"subjects": [
 			"ViCAP Unidentified Persons"
 		],
-		"publication": "2018-02-20T10:16:00",
+		"publication": "2017-11-08T14:04:00",
 		"images": [
 			{
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/@@images/image/large",
-				"caption": "Likeness of Victim",
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/@@images/image/thumb"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/yemasee-sc-2.png",
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/yemasee-sc-2.png/@@images/image/large",
-				"caption": "Likeness of Victim",
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/yemasee-sc-2.png/@@images/image/thumb"
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image/thumb"
 			}
 		],
 		"build": null,
 		"reward_min": 0,
 		"dates_of_birth_used": null,
-		"eyes_raw": "Brown",
+		"eyes_raw": null,
 		"suspects": null,
-		"race": "hispanic",
+		"race": "white",
 		"caution": null,
-		"uid": "e384c7a7def64623859e860f502ed7d8",
+		"uid": "0b0514a636d34bc2acf19be6c075288a",
 		"sex": "Female",
-		"@id": "https://api.fbi.gov/@wanted-person/e384c7a7def64623859e860f502ed7d8"
+		"@id": "https://api.fbi.gov/@wanted-person/0b0514a636d34bc2acf19be6c075288a"
 	},
 	{
-		"path": "/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina",
+		"path": "/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana",
 		"languages": null,
 		"coordinates": [],
 		"field_offices": null,
@@ -10313,69 +10307,63 @@
 		"possible_countries": null,
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/revised-vicap-yemasee-sc-6-2021.pdf",
+				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/vicap-alert-2017-05-02-jane-doe-unidentified-remains-revised.pdf",
 				"name": "English"
 			}
 		],
 		"place_of_birth": null,
 		"modified": "2021-12-03T13:31:59+00:00",
-		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina",
-		"age_min": 28,
-		"age_max": 35,
-		"weight_max": 118,
-		"hair_raw": "Naturally dark brown, but dyed red",
-		"eyes": "brown",
+		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana",
+		"age_min": 17,
+		"age_max": 22,
+		"weight_max": 130,
+		"hair_raw": "Brown, Red, Reddish Brown, Auburn (Shorter than collar-length)",
+		"eyes": null,
 		"ncic": null,
 		"hair": "brown",
-		"weight": "118 pounds",
+		"weight": "130 pounds",
 		"occupations": null,
-		"height_min": 63,
-		"race_raw": "Hispanic (Possibly)",
-		"scars_and_marks": "Scar on neck from thyroid surgery; hysterectomy scar on abdomen; double-pierced ears.",
-		"age_range": "28 to 35 years old",
-		"remarks": null,
-		"description": "Yemasse, South Carolina\r\nMay 24, 1995",
-		"weight_min": 118,
+		"height_min": 66,
+		"race_raw": "White",
+		"scars_and_marks": "Tattoos included the following: \"MOM\" upper right arm; A cross and \"LOVE\" on the right breast; A cross on webbing between the index finger and thumb on the right hand.",
+		"age_range": "17 - 22 years old",
+		"remarks": "<p>Clothing included a light-green tank top and anklet socks.</p>",
+		"description": "Boone County, Indiana\r\nMay 3, 1992",
+		"weight_min": 130,
 		"locations": null,
 		"person_classification": "Main",
 		"possible_states": null,
 		"warning_message": null,
-		"details": "<p>On May 24, 1995, the body of a deceased female was recovered from a ditch along Cotton Hall Road in Yemassee, South Carolina. She was recovered wearing only a pair of white underwear. The victim had been murdered prior to being transported and dumped along the roadside.</p>",
+		"details": "<p>On Sunday, May 3, 1992, the victim\u2019s remains were discovered laying along the eastside of the northbound entrance ramp from Indiana State Road 47 to Interstate 65. The victim was only wearing a light-green tank top and light-green anklet socks. The victim is believed to have died three to five days prior; however, the cause of death could not be determined. Foul play is suspected due to the condition of her recovery.</p>",
 		"nationality": null,
 		"additional_information": null,
-		"height_max": 63,
+		"height_max": 66,
 		"reward_text": null,
 		"complexion": null,
 		"legat_names": null,
-		"title": "JANE DOE - YEMASSEE, SOUTH CAROLINA",
+		"title": "JANE DOE - BOONE COUNTY, INDIANA",
 		"subjects": [
 			"ViCAP Unidentified Persons"
 		],
-		"publication": "2018-02-20T10:16:00",
+		"publication": "2017-11-08T14:04:00",
 		"images": [
 			{
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/@@images/image/large",
-				"caption": "Likeness of Victim",
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/@@images/image/thumb"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/yemasee-sc-2.png",
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/yemasee-sc-2.png/@@images/image/large",
-				"caption": "Likeness of Victim",
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/yemasee-sc-2.png/@@images/image/thumb"
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image/thumb"
 			}
 		],
 		"build": null,
 		"reward_min": 0,
 		"dates_of_birth_used": null,
-		"eyes_raw": "Brown",
+		"eyes_raw": null,
 		"suspects": null,
-		"race": "hispanic",
+		"race": "white",
 		"caution": null,
-		"uid": "e384c7a7def64623859e860f502ed7d8",
+		"uid": "0b0514a636d34bc2acf19be6c075288a",
 		"sex": "Female",
-		"@id": "https://api.fbi.gov/@wanted-person/e384c7a7def64623859e860f502ed7d8"
+		"@id": "https://api.fbi.gov/@wanted-person/0b0514a636d34bc2acf19be6c075288a"
 	},
 	{
 		"path": "/wanted/vicap/unidentified-persons/jane-doe---naples-florida",
@@ -60136,77 +60124,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/06120140-3707-461a-845b-42bcdc833f37"
 	},
 	{
-		"path": "/wanted/seeking-info/jason-ellis",
-		"languages": null,
-		"coordinates": [],
-		"field_offices": [
-			"louisville"
-		],
-		"aliases": null,
-		"reward_max": 99999,
-		"status": "na",
-		"possible_countries": null,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/download.pdf",
-				"name": "English"
-			}
-		],
-		"place_of_birth": null,
-		"modified": "2021-11-16T14:57:37+00:00",
-		"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis",
-		"age_min": null,
-		"age_max": null,
-		"weight_max": null,
-		"hair_raw": null,
-		"eyes": null,
-		"ncic": null,
-		"hair": null,
-		"weight": null,
-		"occupations": null,
-		"height_min": null,
-		"race_raw": null,
-		"scars_and_marks": null,
-		"age_range": null,
-		"remarks": null,
-		"description": "Murder Victim\r\nBardstown, Kentucky\r\nMay 25, 2013",
-		"weight_min": null,
-		"locations": null,
-		"person_classification": "Victim",
-		"possible_states": null,
-		"warning_message": null,
-		"details": "<p>On May\u00a025\u00a02013, Officer Jason Ellis was\u00a0killed\u00a0after finishing his shift for the Bardstown, Kentucky Police Department.\u00a0\u00a0Ellis\u00a0had\u00a0signed off on the radio\u00a0and was driving home when he encountered branches blocking the road\u00a0on\u00a0exit 34 of the Bluegrass Parkway in Bardstown, Kentucky.\u00a0\u00a0To\u00a0ensure\u00a0the safety of the public, he got out of his vehicle to clear the branches.\u00a0While\u00a0attempting to remove the\u00a0debris,\u00a0he\u00a0was\u00a0\u00a0shot\u00a0several times and died shortly after.\u00a0Officer Ellis was discovered by a passing motorist. He was a K-9 handler (narcotics dog) for the police department in addition to his patrol duties. Outside of work, he was heavily involved in the community including coaching youth baseball.\u00a0<br />\u00a0</p>",
-		"nationality": null,
-		"additional_information": null,
-		"height_max": null,
-		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the identification, arrest and conviction of the individual(s) responsible for the death of Bardstown, Kentucky Police Officer Jason Ellis.",
-		"complexion": null,
-		"legat_names": null,
-		"title": "JASON ELLIS",
-		"subjects": [
-			"Seeking Information"
-		],
-		"publication": "2013-07-22T07:00:00",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/large",
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/thumb"
-			}
-		],
-		"build": null,
-		"reward_min": 10000,
-		"dates_of_birth_used": null,
-		"eyes_raw": null,
-		"suspects": null,
-		"race": null,
-		"caution": null,
-		"uid": "75215c7f-5dc0-4dfc-a750-4b248cf29a4e",
-		"sex": "",
-		"@id": "https://api.fbi.gov/@wanted-person/75215c7f-5dc0-4dfc-a750-4b248cf29a4e"
-	},
-	{
 		"path": "/wanted/seeking-info/curtis-dean-anderson",
 		"languages": null,
 		"coordinates": [],
@@ -60305,6 +60222,77 @@
 		"uid": "e45312fb-109a-4565-87ec-a39d74c85031",
 		"sex": "",
 		"@id": "https://api.fbi.gov/@wanted-person/e45312fb-109a-4565-87ec-a39d74c85031"
+	},
+	{
+		"path": "/wanted/seeking-info/jason-ellis",
+		"languages": null,
+		"coordinates": [],
+		"field_offices": [
+			"louisville"
+		],
+		"aliases": null,
+		"reward_max": 99999,
+		"status": "na",
+		"possible_countries": null,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/download.pdf",
+				"name": "English"
+			}
+		],
+		"place_of_birth": null,
+		"modified": "2021-11-16T14:57:37+00:00",
+		"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis",
+		"age_min": null,
+		"age_max": null,
+		"weight_max": null,
+		"hair_raw": null,
+		"eyes": null,
+		"ncic": null,
+		"hair": null,
+		"weight": null,
+		"occupations": null,
+		"height_min": null,
+		"race_raw": null,
+		"scars_and_marks": null,
+		"age_range": null,
+		"remarks": null,
+		"description": "Murder Victim\r\nBardstown, Kentucky\r\nMay 25, 2013",
+		"weight_min": null,
+		"locations": null,
+		"person_classification": "Victim",
+		"possible_states": null,
+		"warning_message": null,
+		"details": "<p>On May\u00a025\u00a02013, Officer Jason Ellis was\u00a0killed\u00a0after finishing his shift for the Bardstown, Kentucky Police Department.\u00a0\u00a0Ellis\u00a0had\u00a0signed off on the radio\u00a0and was driving home when he encountered branches blocking the road\u00a0on\u00a0exit 34 of the Bluegrass Parkway in Bardstown, Kentucky.\u00a0\u00a0To\u00a0ensure\u00a0the safety of the public, he got out of his vehicle to clear the branches.\u00a0While\u00a0attempting to remove the\u00a0debris,\u00a0he\u00a0was\u00a0\u00a0shot\u00a0several times and died shortly after.\u00a0Officer Ellis was discovered by a passing motorist. He was a K-9 handler (narcotics dog) for the police department in addition to his patrol duties. Outside of work, he was heavily involved in the community including coaching youth baseball.\u00a0<br />\u00a0</p>",
+		"nationality": null,
+		"additional_information": null,
+		"height_max": null,
+		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the identification, arrest and conviction of the individual(s) responsible for the death of Bardstown, Kentucky Police Officer Jason Ellis.",
+		"complexion": null,
+		"legat_names": null,
+		"title": "JASON ELLIS",
+		"subjects": [
+			"Seeking Information"
+		],
+		"publication": "2013-07-22T07:00:00",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/thumb"
+			}
+		],
+		"build": null,
+		"reward_min": 10000,
+		"dates_of_birth_used": null,
+		"eyes_raw": null,
+		"suspects": null,
+		"race": null,
+		"caution": null,
+		"uid": "75215c7f-5dc0-4dfc-a750-4b248cf29a4e",
+		"sex": "",
+		"@id": "https://api.fbi.gov/@wanted-person/75215c7f-5dc0-4dfc-a750-4b248cf29a4e"
 	},
 	{
 		"path": "/wanted/seeking-info/john-jacoby",
@@ -62296,11 +62284,11 @@
 		"@id": "https://api.fbi.gov/@wanted-person/ee2684cba1b2494ebdba8ab700a50e21"
 	},
 	{
-		"path": "/wanted/seeking-info/joel-wesley-shrum",
+		"path": "/wanted/seeking-info/murder-victims-2",
 		"languages": null,
 		"coordinates": [],
 		"field_offices": [
-			"washingtondc"
+			"newyork"
 		],
 		"aliases": null,
 		"reward_max": 0,
@@ -62308,21 +62296,13 @@
 		"possible_countries": null,
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/download.pdf",
+				"url": "https://www.fbi.gov/file-repository/mvhhomicides2.pdf",
 				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrumarabic.pdf/@@download/file/shrumarabic.pdf",
-				"name": "\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrumturkish.pdf/@@download/file/shrumturkish.pdf",
-				"name": "T\u00fcrk\u00e7e'de"
 			}
 		],
 		"place_of_birth": null,
 		"modified": "2021-11-16T14:57:21+00:00",
-		"url": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum",
+		"url": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2",
 		"age_min": null,
 		"age_max": null,
 		"weight_max": null,
@@ -62337,36 +62317,60 @@
 		"scars_and_marks": null,
 		"age_range": null,
 		"remarks": null,
-		"description": "Murder Victim\r\nTa'izz, Yemen\r\nMarch 18, 2012",
+		"description": "Mount Vernon, New York\r\n2011 to 2016",
 		"weight_min": null,
 		"locations": null,
 		"person_classification": "Victim",
 		"possible_states": null,
 		"warning_message": null,
-		"details": "<p>On March 18, 2012,\u00a0United States\u00a0citizen Joel Wesley Shrum was driving to his place of employment in Ta\u2019izz, Yemen, when two gunmen armed with AK-47s approached Shrum\u2019s vehicle on a motorcycle and fired on the vehicle.\u00a0 Shrum was pronounced dead\u00a0at the scene.\u00a0 Al-Qaida in the Arabian Peninsula (AQAP) claimed responsibility for the murder.\u00a0\u00a0At the time of his death, Shrum worked at the International Training and Development Center as an administrator and English teacher.\u00a0 He was living in Yemen with his wife and two young children.</p>\r\n<p>\u00a0</p>",
+		"details": "<p>The FBI Westchester County Safe Streets Gang Task Force\u00a0and the Mount Vernon Police Department are\u00a0asking for the public\u2019s help\u00a0with identifying the suspects responsible for\u00a0several homicides in Mount Vernon, New York.\u00a0 The murders date back to 2011 and involve the following cases:</p>\r\n<p>\u00a0</p>\r\n<p>Rubin Davis was shot and killed on June 26, 2011, at the 4th Street Park.</p>\r\n<p>Dean Daniels was shot and killed on September 22, 2014, near Park Avenue and East Prospect Place.</p>\r\n<p>Jovelle Stewart was shot and killed on March 27, 2016, near 141 North High Street.</p>\r\n<p>Wilbert Francis was shot and killed on June 10, 2016, near the area of 125 South 2nd Avenue.</p>\r\n<p>Mario Frater was shot and killed on August 31, 2016, near 14 West 4th Street.</p>\r\n<p>\u00a0</p>",
 		"nationality": null,
 		"additional_information": null,
 		"height_max": null,
-		"reward_text": "The Rewards for Justice Program, United States Department of State, is offering a reward of up to $5,000,000 for information leading to the arrest or conviction in any country of any individual who committed, conspired to commit, or aided or abetted in the commission of, the murder of United States citizen Joel Wesley Shrum.",
+		"reward_text": "The FBI is offering a reward of up to $5,000 for information leading to an arrest in these cases.",
 		"complexion": null,
 		"legat_names": null,
-		"title": "JOEL WESLEY SHRUM",
+		"title": "MURDER VICTIMS",
 		"subjects": [
 			"Seeking Information"
 		],
-		"publication": "2017-02-22T09:41:00",
+		"publication": "2017-03-29T12:25:00",
 		"images": [
 			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/@@images/image/large",
 				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/@@images/image/thumb"
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/@@images/image/thumb"
 			},
 			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrum2.jpg",
-				"large": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrum2.jpg/@@images/image/large",
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrum2.jpg/@@images/image/thumb"
+				"original": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhdavis.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhdavis.jpg/@@images/image/large",
+				"caption": "Rubin Davis",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhdavis.jpg/@@images/image/thumb"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhdanielsa.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhdanielsa.jpg/@@images/image/large",
+				"caption": "Dean Daniels",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhdanielsa.jpg/@@images/image/thumb"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhstewartc-1.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhstewartc-1.jpg/@@images/image/large",
+				"caption": "Jovelle Stewart",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhstewartc-1.jpg/@@images/image/thumb"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhfrancis.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhfrancis.jpg/@@images/image/large",
+				"caption": "Wilbert Francis",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhfrancis.jpg/@@images/image/thumb"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhfrater.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhfrater.jpg/@@images/image/large",
+				"caption": "Mario Frater",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/murder-victims-2/mvhfrater.jpg/@@images/image/thumb"
 			}
 		],
 		"build": null,
@@ -62376,9 +62380,9 @@
 		"suspects": null,
 		"race": null,
 		"caution": null,
-		"uid": "b638425c72dd4ae290339fd989d48faf",
+		"uid": "ee2684cba1b2494ebdba8ab700a50e21",
 		"sex": null,
-		"@id": "https://api.fbi.gov/@wanted-person/b638425c72dd4ae290339fd989d48faf"
+		"@id": "https://api.fbi.gov/@wanted-person/ee2684cba1b2494ebdba8ab700a50e21"
 	},
 	{
 		"path": "/wanted/seeking-info/brian-bole",
@@ -65343,81 +65347,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/40cae769220c0a2c4dac0b799d9abbff"
 	},
 	{
-		"path": "/wanted/wcc/yousef-kurdy",
-		"languages": null,
-		"coordinates": [],
-		"field_offices": [
-			"sandiego"
-		],
-		"aliases": [
-			"Yousef M. Kurdy"
-		],
-		"reward_max": 0,
-		"status": "na",
-		"possible_countries": null,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/download.pdf",
-				"name": "English"
-			}
-		],
-		"place_of_birth": "Allepo, Syria",
-		"modified": "2021-11-16T14:56:41+00:00",
-		"url": "https://www.fbi.gov/wanted/wcc/yousef-kurdy",
-		"age_min": null,
-		"age_max": null,
-		"weight_max": 170,
-		"hair_raw": "Black",
-		"eyes": "brown",
-		"ncic": "W564321853",
-		"hair": "black",
-		"weight": "170 pounds",
-		"occupations": null,
-		"height_min": 68,
-		"race_raw": "White",
-		"scars_and_marks": null,
-		"age_range": null,
-		"remarks": null,
-		"description": "Health Care Fraud; Aggravated Identity Theft; Receipt of Kickbacks for Patient Referrals; Income Tax Evasion; Aiding and Abetting; and Criminal Forfeiture",
-		"weight_min": 170,
-		"locations": null,
-		"person_classification": "Main",
-		"possible_states": null,
-		"warning_message": null,
-		"details": null,
-		"nationality": "Syrian",
-		"additional_information": null,
-		"height_max": 68,
-		"reward_text": null,
-		"complexion": null,
-		"legat_names": null,
-		"title": "YOUSEF KURDY",
-		"subjects": [
-			"White-Collar Crime"
-		],
-		"publication": "2014-10-24T07:00:00",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image",
-				"large": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image/large",
-				"caption": "Photograph taken in April 2006",
-				"thumb": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image/thumb"
-			}
-		],
-		"build": "Stocky",
-		"reward_min": 0,
-		"dates_of_birth_used": [
-			"March 8, 1948"
-		],
-		"eyes_raw": "Brown",
-		"suspects": null,
-		"race": "white",
-		"caution": "<p>Yousef Kurdy is wanted for allegedly submitting claims for more than 35,000 office visits with Medicare and Medi-Cal patients, submitting hundreds of fraudulent claims when office visits never took place, billing for treating patients during times when he was not present, and failing to pay federal taxes for three years.</p>\r\n<p>\u00a0</p>\r\n<p>On January 26, 2012, a federal arrest warrant was issued for Kurdy by the United States District Court, Southern District of California, after he was charged with health care fraud; aggravated identity theft; receipt of kickbacks for patient referrals; income tax evasion; aiding and abetting; and criminal forfeiture. Kurdy was scheduled to self-surrender on January 30, 2012, but he failed to appear on that date. Kurdy fled the country and may be in Syria or Lebanon.</p>",
-		"uid": "fabd733e-6f85-48a1-b954-7c91e23b626e",
-		"sex": "Male",
-		"@id": "https://api.fbi.gov/@wanted-person/fabd733e-6f85-48a1-b954-7c91e23b626e"
-	},
-	{
 		"path": "/wanted/wcc/ayitey-ayayee-amim",
 		"languages": null,
 		"coordinates": [],
@@ -65506,6 +65435,81 @@
 		"uid": "e46cd583b92047dc97e46419d09e5ac5",
 		"sex": "Male",
 		"@id": "https://api.fbi.gov/@wanted-person/e46cd583b92047dc97e46419d09e5ac5"
+	},
+	{
+		"path": "/wanted/wcc/yousef-kurdy",
+		"languages": null,
+		"coordinates": [],
+		"field_offices": [
+			"sandiego"
+		],
+		"aliases": [
+			"Yousef M. Kurdy"
+		],
+		"reward_max": 0,
+		"status": "na",
+		"possible_countries": null,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/download.pdf",
+				"name": "English"
+			}
+		],
+		"place_of_birth": "Allepo, Syria",
+		"modified": "2021-11-16T14:56:41+00:00",
+		"url": "https://www.fbi.gov/wanted/wcc/yousef-kurdy",
+		"age_min": null,
+		"age_max": null,
+		"weight_max": 170,
+		"hair_raw": "Black",
+		"eyes": "brown",
+		"ncic": "W564321853",
+		"hair": "black",
+		"weight": "170 pounds",
+		"occupations": null,
+		"height_min": 68,
+		"race_raw": "White",
+		"scars_and_marks": null,
+		"age_range": null,
+		"remarks": null,
+		"description": "Health Care Fraud; Aggravated Identity Theft; Receipt of Kickbacks for Patient Referrals; Income Tax Evasion; Aiding and Abetting; and Criminal Forfeiture",
+		"weight_min": 170,
+		"locations": null,
+		"person_classification": "Main",
+		"possible_states": null,
+		"warning_message": null,
+		"details": null,
+		"nationality": "Syrian",
+		"additional_information": null,
+		"height_max": 68,
+		"reward_text": null,
+		"complexion": null,
+		"legat_names": null,
+		"title": "YOUSEF KURDY",
+		"subjects": [
+			"White-Collar Crime"
+		],
+		"publication": "2014-10-24T07:00:00",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image",
+				"large": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image/large",
+				"caption": "Photograph taken in April 2006",
+				"thumb": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image/thumb"
+			}
+		],
+		"build": "Stocky",
+		"reward_min": 0,
+		"dates_of_birth_used": [
+			"March 8, 1948"
+		],
+		"eyes_raw": "Brown",
+		"suspects": null,
+		"race": "white",
+		"caution": "<p>Yousef Kurdy is wanted for allegedly submitting claims for more than 35,000 office visits with Medicare and Medi-Cal patients, submitting hundreds of fraudulent claims when office visits never took place, billing for treating patients during times when he was not present, and failing to pay federal taxes for three years.</p>\r\n<p>\u00a0</p>\r\n<p>On January 26, 2012, a federal arrest warrant was issued for Kurdy by the United States District Court, Southern District of California, after he was charged with health care fraud; aggravated identity theft; receipt of kickbacks for patient referrals; income tax evasion; aiding and abetting; and criminal forfeiture. Kurdy was scheduled to self-surrender on January 30, 2012, but he failed to appear on that date. Kurdy fled the country and may be in Syria or Lebanon.</p>",
+		"uid": "fabd733e-6f85-48a1-b954-7c91e23b626e",
+		"sex": "Male",
+		"@id": "https://api.fbi.gov/@wanted-person/fabd733e-6f85-48a1-b954-7c91e23b626e"
 	},
 	{
 		"path": "/wanted/parental-kidnappings/charles-martin-vosseler/william-martin-vosseler",
@@ -69164,97 +69168,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/96f0c564ca64130607ceaaca1d09b643"
 	},
 	{
-		"path": "/wanted/kidnap/steven-earl-kraft-jr-1",
-		"languages": null,
-		"coordinates": [],
-		"field_offices": [
-			"detroit"
-		],
-		"aliases": null,
-		"reward_max": 0,
-		"status": "na",
-		"possible_countries": null,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/download.pdf",
-				"name": "English"
-			}
-		],
-		"place_of_birth": "Milwaukee, Wisconsin",
-		"modified": "2021-11-16T14:55:33+00:00",
-		"url": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1",
-		"age_min": null,
-		"age_max": null,
-		"weight_max": 100,
-		"hair_raw": "Sandy Brown",
-		"eyes": "green",
-		"ncic": null,
-		"hair": "brown",
-		"weight": "100 pounds (at time of disappearance)",
-		"occupations": null,
-		"height_min": 62,
-		"race_raw": "White",
-		"scars_and_marks": null,
-		"age_range": null,
-		"remarks": "<p>Steven Earl Kraft, Jr. was last known to be wearing a blue-green Charlotte Hornets basketball team jacket, a tan and white striped t-shirt, tan parachute pants, and black boots. He has ties to Milwaukee, Wisconsin, and Lexington, Kentucky.</p>",
-		"description": "February 15, 2001\r\nBenton Township, Michigan",
-		"weight_min": 100,
-		"locations": null,
-		"person_classification": "Victim",
-		"possible_states": null,
-		"warning_message": null,
-		"details": "<p>Steven Earl Kraft, Jr. was last seen near his residence in Benton Township, Michigan, on February 15, 2001. Kraft was out walking his two dogs between the hours of 7 and 8 p.m. and failed to return home for dinner. Although his two dogs were subsequently located, Kraft has not been seen since that time.</p>",
-		"nationality": null,
-		"additional_information": null,
-		"height_max": 62,
-		"reward_text": null,
-		"complexion": null,
-		"legat_names": null,
-		"title": "STEVEN EARL KRAFT, JR.",
-		"subjects": [
-			"Kidnappings and Missing Persons"
-		],
-		"publication": "2014-02-04T07:00:00",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image",
-				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image/large",
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image/thumb"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png",
-				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png/@@images/image/large",
-				"caption": "Age-progressed to 25 years.  Courtesy of NCMEC",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png/@@images/image/thumb"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg",
-				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg/@@images/image/large",
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg/@@images/image/thumb"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg",
-				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg/@@images/image/large",
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg/@@images/image/thumb"
-			}
-		],
-		"build": null,
-		"reward_min": 0,
-		"dates_of_birth_used": [
-			"January 11, 1989"
-		],
-		"eyes_raw": "Green",
-		"suspects": null,
-		"race": "white",
-		"caution": null,
-		"uid": "29ca32f5-9ecd-4404-aa2c-48f8131282fe",
-		"sex": "Male",
-		"@id": "https://api.fbi.gov/@wanted-person/29ca32f5-9ecd-4404-aa2c-48f8131282fe"
-	},
-	{
 		"path": "/wanted/kidnap/william-ebeneezer-jones-jr",
 		"languages": null,
 		"coordinates": [],
@@ -69376,6 +69289,97 @@
 		"uid": "85ebb948-ef25-4e21-b528-7006734b542f",
 		"sex": "Male",
 		"@id": "https://api.fbi.gov/@wanted-person/85ebb948-ef25-4e21-b528-7006734b542f"
+	},
+	{
+		"path": "/wanted/kidnap/steven-earl-kraft-jr-1",
+		"languages": null,
+		"coordinates": [],
+		"field_offices": [
+			"detroit"
+		],
+		"aliases": null,
+		"reward_max": 0,
+		"status": "na",
+		"possible_countries": null,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/download.pdf",
+				"name": "English"
+			}
+		],
+		"place_of_birth": "Milwaukee, Wisconsin",
+		"modified": "2021-11-16T14:55:33+00:00",
+		"url": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1",
+		"age_min": null,
+		"age_max": null,
+		"weight_max": 100,
+		"hair_raw": "Sandy Brown",
+		"eyes": "green",
+		"ncic": null,
+		"hair": "brown",
+		"weight": "100 pounds (at time of disappearance)",
+		"occupations": null,
+		"height_min": 62,
+		"race_raw": "White",
+		"scars_and_marks": null,
+		"age_range": null,
+		"remarks": "<p>Steven Earl Kraft, Jr. was last known to be wearing a blue-green Charlotte Hornets basketball team jacket, a tan and white striped t-shirt, tan parachute pants, and black boots. He has ties to Milwaukee, Wisconsin, and Lexington, Kentucky.</p>",
+		"description": "February 15, 2001\r\nBenton Township, Michigan",
+		"weight_min": 100,
+		"locations": null,
+		"person_classification": "Victim",
+		"possible_states": null,
+		"warning_message": null,
+		"details": "<p>Steven Earl Kraft, Jr. was last seen near his residence in Benton Township, Michigan, on February 15, 2001. Kraft was out walking his two dogs between the hours of 7 and 8 p.m. and failed to return home for dinner. Although his two dogs were subsequently located, Kraft has not been seen since that time.</p>",
+		"nationality": null,
+		"additional_information": null,
+		"height_max": 62,
+		"reward_text": null,
+		"complexion": null,
+		"legat_names": null,
+		"title": "STEVEN EARL KRAFT, JR.",
+		"subjects": [
+			"Kidnappings and Missing Persons"
+		],
+		"publication": "2014-02-04T07:00:00",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image",
+				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image/thumb"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png",
+				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png/@@images/image/large",
+				"caption": "Age-progressed to 25 years.  Courtesy of NCMEC",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png/@@images/image/thumb"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg",
+				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg/@@images/image/large",
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg/@@images/image/thumb"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg",
+				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg/@@images/image/large",
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg/@@images/image/thumb"
+			}
+		],
+		"build": null,
+		"reward_min": 0,
+		"dates_of_birth_used": [
+			"January 11, 1989"
+		],
+		"eyes_raw": "Green",
+		"suspects": null,
+		"race": "white",
+		"caution": null,
+		"uid": "29ca32f5-9ecd-4404-aa2c-48f8131282fe",
+		"sex": "Male",
+		"@id": "https://api.fbi.gov/@wanted-person/29ca32f5-9ecd-4404-aa2c-48f8131282fe"
 	},
 	{
 		"path": "/wanted/kidnap/suzanne-g.-lyall",
