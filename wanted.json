@@ -10228,7 +10228,7 @@
 		"@id": "https://api.fbi.gov/@wanted-person/b5a92137254e4854b9fba87bd0c521cb"
 	},
 	{
-		"path": "/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina",
+		"path": "/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana",
 		"languages": null,
 		"coordinates": [],
 		"field_offices": null,
@@ -10238,69 +10238,63 @@
 		"possible_countries": null,
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/revised-vicap-yemasee-sc-6-2021.pdf",
+				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/vicap-alert-2017-05-02-jane-doe-unidentified-remains-revised.pdf",
 				"name": "English"
 			}
 		],
 		"place_of_birth": null,
 		"modified": "2021-12-03T13:31:59+00:00",
-		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina",
-		"age_min": 28,
-		"age_max": 35,
-		"weight_max": 118,
-		"hair_raw": "Naturally dark brown, but dyed red",
-		"eyes": "brown",
+		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana",
+		"age_min": 17,
+		"age_max": 22,
+		"weight_max": 130,
+		"hair_raw": "Brown, Red, Reddish Brown, Auburn (Shorter than collar-length)",
+		"eyes": null,
 		"ncic": null,
 		"hair": "brown",
-		"weight": "118 pounds",
+		"weight": "130 pounds",
 		"occupations": null,
-		"height_min": 63,
-		"race_raw": "Hispanic (Possibly)",
-		"scars_and_marks": "Scar on neck from thyroid surgery; hysterectomy scar on abdomen; double-pierced ears.",
-		"age_range": "28 to 35 years old",
-		"remarks": null,
-		"description": "Yemasse, South Carolina\r\nMay 24, 1995",
-		"weight_min": 118,
+		"height_min": 66,
+		"race_raw": "White",
+		"scars_and_marks": "Tattoos included the following: \"MOM\" upper right arm; A cross and \"LOVE\" on the right breast; A cross on webbing between the index finger and thumb on the right hand.",
+		"age_range": "17 - 22 years old",
+		"remarks": "<p>Clothing included a light-green tank top and anklet socks.</p>",
+		"description": "Boone County, Indiana\r\nMay 3, 1992",
+		"weight_min": 130,
 		"locations": null,
 		"person_classification": "Main",
 		"possible_states": null,
 		"warning_message": null,
-		"details": "<p>On May 24, 1995, the body of a deceased female was recovered from a ditch along Cotton Hall Road in Yemassee, South Carolina. She was recovered wearing only a pair of white underwear. The victim had been murdered prior to being transported and dumped along the roadside.</p>",
+		"details": "<p>On Sunday, May 3, 1992, the victim\u2019s remains were discovered laying along the eastside of the northbound entrance ramp from Indiana State Road 47 to Interstate 65. The victim was only wearing a light-green tank top and light-green anklet socks. The victim is believed to have died three to five days prior; however, the cause of death could not be determined. Foul play is suspected due to the condition of her recovery.</p>",
 		"nationality": null,
 		"additional_information": null,
-		"height_max": 63,
+		"height_max": 66,
 		"reward_text": null,
 		"complexion": null,
 		"legat_names": null,
-		"title": "JANE DOE - YEMASSEE, SOUTH CAROLINA",
+		"title": "JANE DOE - BOONE COUNTY, INDIANA",
 		"subjects": [
 			"ViCAP Unidentified Persons"
 		],
-		"publication": "2018-02-20T10:16:00",
+		"publication": "2017-11-08T14:04:00",
 		"images": [
 			{
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/@@images/image/large",
-				"caption": "Likeness of Victim",
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/@@images/image/thumb"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/yemasee-sc-2.png",
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/yemasee-sc-2.png/@@images/image/large",
-				"caption": "Likeness of Victim",
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---yemassee-south-carolina/yemasee-sc-2.png/@@images/image/thumb"
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana/@@images/image/thumb"
 			}
 		],
 		"build": null,
 		"reward_min": 0,
 		"dates_of_birth_used": null,
-		"eyes_raw": "Brown",
+		"eyes_raw": null,
 		"suspects": null,
-		"race": "hispanic",
+		"race": "white",
 		"caution": null,
-		"uid": "e384c7a7def64623859e860f502ed7d8",
+		"uid": "0b0514a636d34bc2acf19be6c075288a",
 		"sex": "Female",
-		"@id": "https://api.fbi.gov/@wanted-person/e384c7a7def64623859e860f502ed7d8"
+		"@id": "https://api.fbi.gov/@wanted-person/0b0514a636d34bc2acf19be6c075288a"
 	},
 	{
 		"path": "/wanted/vicap/unidentified-persons/jane-doe---boone-county-indiana",
@@ -18372,77 +18366,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/795b56d296002b14d6ee108567dc716d"
 	},
 	{
-		"path": "/wanted/vicap/missing-persons/helen-irene-tucker",
-		"languages": null,
-		"coordinates": [],
-		"field_offices": null,
-		"aliases": [
-			"Helen Cook"
-		],
-		"reward_max": 0,
-		"status": "na",
-		"possible_countries": null,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/vicap-tucker-1-6-20.pdf",
-				"name": "English"
-			}
-		],
-		"place_of_birth": null,
-		"modified": "2021-11-16T15:05:29+00:00",
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker",
-		"age_min": 27,
-		"age_max": 27,
-		"weight_max": 115,
-		"hair_raw": "Brown",
-		"eyes": "blue",
-		"ncic": null,
-		"hair": "brown",
-		"weight": "115 pounds (approximately)",
-		"occupations": null,
-		"height_min": 63,
-		"race_raw": "White",
-		"scars_and_marks": "Tucker has a tattoo on a gnome on her left arm, and a rose on her right arm.",
-		"age_range": "27 years old (time of incident)",
-		"remarks": "<p>Tucker is missing two teeth, one upper and one lower. She has fillings in twelve teeth.</p>",
-		"description": "January 20, 1994\r\nTacoma, Washington",
-		"weight_min": 115,
-		"locations": null,
-		"person_classification": "Main",
-		"possible_states": null,
-		"warning_message": null,
-		"details": "<p>In April of 2000, Helen Irene Tucker, aka Helen Cook, was reported missing. She was last seen on January 20, 1994, at the age of 27. Her last known location was in Tacoma, Washington, along Puyallup Avenue.</p>",
-		"nationality": null,
-		"additional_information": null,
-		"height_max": 63,
-		"reward_text": null,
-		"complexion": null,
-		"legat_names": null,
-		"title": "HELEN IRENE TUCKER - TACOMA, WASHINGTON",
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"publication": "2017-03-14T13:18:00",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/@@images/image/large",
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/@@images/image/thumb"
-			}
-		],
-		"build": null,
-		"reward_min": 0,
-		"dates_of_birth_used": null,
-		"eyes_raw": "Blue",
-		"suspects": null,
-		"race": "white",
-		"caution": null,
-		"uid": "e86a6f40f3ba4faca4c301a97e06db4f",
-		"sex": "Female",
-		"@id": "https://api.fbi.gov/@wanted-person/e86a6f40f3ba4faca4c301a97e06db4f"
-	},
-	{
 		"path": "/wanted/vicap/missing-persons/kelsie-jean-schelling",
 		"languages": null,
 		"coordinates": [],
@@ -18530,6 +18453,77 @@
 		"uid": "6b70aa98796f40fb9a9cd1a7b5912f4d",
 		"sex": "Female",
 		"@id": "https://api.fbi.gov/@wanted-person/6b70aa98796f40fb9a9cd1a7b5912f4d"
+	},
+	{
+		"path": "/wanted/vicap/missing-persons/helen-irene-tucker",
+		"languages": null,
+		"coordinates": [],
+		"field_offices": null,
+		"aliases": [
+			"Helen Cook"
+		],
+		"reward_max": 0,
+		"status": "na",
+		"possible_countries": null,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/vicap-tucker-1-6-20.pdf",
+				"name": "English"
+			}
+		],
+		"place_of_birth": null,
+		"modified": "2021-11-16T15:05:29+00:00",
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker",
+		"age_min": 27,
+		"age_max": 27,
+		"weight_max": 115,
+		"hair_raw": "Brown",
+		"eyes": "blue",
+		"ncic": null,
+		"hair": "brown",
+		"weight": "115 pounds (approximately)",
+		"occupations": null,
+		"height_min": 63,
+		"race_raw": "White",
+		"scars_and_marks": "Tucker has a tattoo on a gnome on her left arm, and a rose on her right arm.",
+		"age_range": "27 years old (time of incident)",
+		"remarks": "<p>Tucker is missing two teeth, one upper and one lower. She has fillings in twelve teeth.</p>",
+		"description": "January 20, 1994\r\nTacoma, Washington",
+		"weight_min": 115,
+		"locations": null,
+		"person_classification": "Main",
+		"possible_states": null,
+		"warning_message": null,
+		"details": "<p>In April of 2000, Helen Irene Tucker, aka Helen Cook, was reported missing. She was last seen on January 20, 1994, at the age of 27. Her last known location was in Tacoma, Washington, along Puyallup Avenue.</p>",
+		"nationality": null,
+		"additional_information": null,
+		"height_max": 63,
+		"reward_text": null,
+		"complexion": null,
+		"legat_names": null,
+		"title": "HELEN IRENE TUCKER - TACOMA, WASHINGTON",
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"publication": "2017-03-14T13:18:00",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/helen-irene-tucker/@@images/image/thumb"
+			}
+		],
+		"build": null,
+		"reward_min": 0,
+		"dates_of_birth_used": null,
+		"eyes_raw": "Blue",
+		"suspects": null,
+		"race": "white",
+		"caution": null,
+		"uid": "e86a6f40f3ba4faca4c301a97e06db4f",
+		"sex": "Female",
+		"@id": "https://api.fbi.gov/@wanted-person/e86a6f40f3ba4faca4c301a97e06db4f"
 	},
 	{
 		"path": "/wanted/vicap/missing-persons/simone-s-ridinger",
@@ -27961,6 +27955,85 @@
 		"@id": "https://api.fbi.gov/@wanted-person/dbdbc0ea-5037-450c-af71-1814898dd7c2"
 	},
 	{
+		"path": "/wanted/dt/ishmail-muslim-ali",
+		"languages": null,
+		"coordinates": [],
+		"field_offices": [
+			"newyork"
+		],
+		"aliases": [
+			"Ishmael Muslim Ali",
+			"Ismail Muslim Ali",
+			"Ronald LaBeet",
+			"Ismael LaBeet",
+			"Ishmael LaBeet"
+		],
+		"reward_max": 0,
+		"status": "na",
+		"possible_countries": null,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/dt/ishmail-muslim-ali/download.pdf",
+				"name": "English"
+			}
+		],
+		"place_of_birth": null,
+		"modified": "2021-11-16T15:03:53+00:00",
+		"url": "https://www.fbi.gov/wanted/dt/ishmail-muslim-ali",
+		"age_min": null,
+		"age_max": null,
+		"weight_max": 180,
+		"hair_raw": "Black",
+		"eyes": "brown",
+		"ncic": "W365136032",
+		"hair": "black",
+		"weight": "180 pounds",
+		"occupations": null,
+		"height_min": 74,
+		"race_raw": "Black",
+		"scars_and_marks": null,
+		"age_range": null,
+		"remarks": "<p>Ali may reside in Cuba with his wife and children.</p>",
+		"description": "Crime Aboard an Aircraft - Aircraft Piracy",
+		"weight_min": 180,
+		"locations": null,
+		"person_classification": "Main",
+		"possible_states": null,
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+		"details": null,
+		"nationality": null,
+		"additional_information": null,
+		"height_max": 75,
+		"reward_text": null,
+		"complexion": null,
+		"legat_names": null,
+		"title": "ISHMAIL MUSLIM ALI",
+		"subjects": [
+			"Domestic Terrorism"
+		],
+		"publication": "2014-08-19T07:00:00",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/dt/ishmail-muslim-ali/@@images/image",
+				"large": "https://www.fbi.gov/wanted/dt/ishmail-muslim-ali/@@images/image/large",
+				"caption": "Photograph taken in 1980",
+				"thumb": "https://www.fbi.gov/wanted/dt/ishmail-muslim-ali/@@images/image/thumb"
+			}
+		],
+		"build": null,
+		"reward_min": 0,
+		"dates_of_birth_used": [
+			"August 12, 1947"
+		],
+		"eyes_raw": "Brown",
+		"suspects": null,
+		"race": "black",
+		"caution": "<p>Ishmail Muslim Ali is wanted for his alleged involvement in the December 31, 1984, hijacking of American Airlines Flight 626 en route from St. Croix, United States Virgin Islands, to John F. Kennedy International Airport in Queens, New York. Ali, who was aboard the plane as a prisoner being transferred from the islands to a prison in New York, allegedly used a handgun hidden in the bathroom of the plane to hijack the plane to Havana, Cuba. At the time of the crime, Ali was serving eight life sentences for the murders of eight tourists in St. Croix.</p>\r\n<p>\u00a0</p>\r\n<p>A federal arrest warrant was issued for Ali in the United States District Court, Eastern District of New York, on April 17, 1985, after he was charged with aircraft piracy.</p>",
+		"uid": "a0809455-97de-484a-9a5a-cedad65123fc",
+		"sex": "Male",
+		"@id": "https://api.fbi.gov/@wanted-person/a0809455-97de-484a-9a5a-cedad65123fc"
+	},
+	{
 		"path": "/wanted/dt/leo-frederick-burt",
 		"languages": null,
 		"coordinates": [],
@@ -28056,85 +28129,6 @@
 		"uid": "976d4ddb72ba332b23a1b2480b000e0d",
 		"sex": "Male",
 		"@id": "https://api.fbi.gov/@wanted-person/976d4ddb72ba332b23a1b2480b000e0d"
-	},
-	{
-		"path": "/wanted/dt/ishmail-muslim-ali",
-		"languages": null,
-		"coordinates": [],
-		"field_offices": [
-			"newyork"
-		],
-		"aliases": [
-			"Ishmael Muslim Ali",
-			"Ismail Muslim Ali",
-			"Ronald LaBeet",
-			"Ismael LaBeet",
-			"Ishmael LaBeet"
-		],
-		"reward_max": 0,
-		"status": "na",
-		"possible_countries": null,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/dt/ishmail-muslim-ali/download.pdf",
-				"name": "English"
-			}
-		],
-		"place_of_birth": null,
-		"modified": "2021-11-16T15:03:53+00:00",
-		"url": "https://www.fbi.gov/wanted/dt/ishmail-muslim-ali",
-		"age_min": null,
-		"age_max": null,
-		"weight_max": 180,
-		"hair_raw": "Black",
-		"eyes": "brown",
-		"ncic": "W365136032",
-		"hair": "black",
-		"weight": "180 pounds",
-		"occupations": null,
-		"height_min": 74,
-		"race_raw": "Black",
-		"scars_and_marks": null,
-		"age_range": null,
-		"remarks": "<p>Ali may reside in Cuba with his wife and children.</p>",
-		"description": "Crime Aboard an Aircraft - Aircraft Piracy",
-		"weight_min": 180,
-		"locations": null,
-		"person_classification": "Main",
-		"possible_states": null,
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
-		"details": null,
-		"nationality": null,
-		"additional_information": null,
-		"height_max": 75,
-		"reward_text": null,
-		"complexion": null,
-		"legat_names": null,
-		"title": "ISHMAIL MUSLIM ALI",
-		"subjects": [
-			"Domestic Terrorism"
-		],
-		"publication": "2014-08-19T07:00:00",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/dt/ishmail-muslim-ali/@@images/image",
-				"large": "https://www.fbi.gov/wanted/dt/ishmail-muslim-ali/@@images/image/large",
-				"caption": "Photograph taken in 1980",
-				"thumb": "https://www.fbi.gov/wanted/dt/ishmail-muslim-ali/@@images/image/thumb"
-			}
-		],
-		"build": null,
-		"reward_min": 0,
-		"dates_of_birth_used": [
-			"August 12, 1947"
-		],
-		"eyes_raw": "Brown",
-		"suspects": null,
-		"race": "black",
-		"caution": "<p>Ishmail Muslim Ali is wanted for his alleged involvement in the December 31, 1984, hijacking of American Airlines Flight 626 en route from St. Croix, United States Virgin Islands, to John F. Kennedy International Airport in Queens, New York. Ali, who was aboard the plane as a prisoner being transferred from the islands to a prison in New York, allegedly used a handgun hidden in the bathroom of the plane to hijack the plane to Havana, Cuba. At the time of the crime, Ali was serving eight life sentences for the murders of eight tourists in St. Croix.</p>\r\n<p>\u00a0</p>\r\n<p>A federal arrest warrant was issued for Ali in the United States District Court, Eastern District of New York, on April 17, 1985, after he was charged with aircraft piracy.</p>",
-		"uid": "a0809455-97de-484a-9a5a-cedad65123fc",
-		"sex": "Male",
-		"@id": "https://api.fbi.gov/@wanted-person/a0809455-97de-484a-9a5a-cedad65123fc"
 	},
 	{
 		"path": "/wanted/dt/elizabeth-anna-duke",
@@ -51255,6 +51249,85 @@
 		"@id": "https://api.fbi.gov/@wanted-person/c18bb989cf854661bcb5cdddf1f1ccda"
 	},
 	{
+		"path": "/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois",
+		"languages": null,
+		"coordinates": [],
+		"field_offices": null,
+		"aliases": null,
+		"reward_max": 0,
+		"status": "na",
+		"possible_countries": null,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace-vicap-7921.pdf/@@download/file/Wallace ViCAP 7921.pdf",
+				"name": "Wallace ViCAP 7921.pdf"
+			}
+		],
+		"place_of_birth": null,
+		"modified": "2021-11-16T14:58:58+00:00",
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois",
+		"age_min": 34,
+		"age_max": 34,
+		"weight_max": 135,
+		"hair_raw": "Brown, worn collar-length",
+		"eyes": "brown",
+		"ncic": null,
+		"hair": "brown",
+		"weight": "135 pounds",
+		"occupations": null,
+		"height_min": 63,
+		"race_raw": "White",
+		"scars_and_marks": null,
+		"age_range": "34 years old (at time of disappearance)",
+		"remarks": "<p>Wallace wore prescription glasses with plastic frames.</p>",
+		"description": "July 20, 1990\r\nUrbana, Illinois",
+		"weight_min": 135,
+		"locations": null,
+		"person_classification": "Main",
+		"possible_states": null,
+		"warning_message": null,
+		"details": "<p>Theresa Anne Wallace was last seen at her apartment located in the 1100 block of South Lierman Avenue in Urbana, Illinois, on the afternoon of July 2,1990. She has not been seen or heard from since.</p>\r\n<p>That same evening, Wallace's vehicle was observed at the Clark-Lindsey Village retirement home, although Wallace had no connections there. One week later, Urbana Police recovered Wallace\u2019s vehicle in a residential area in the 2000 Block of South Vawter Street in Urbana, Illinois.</p>\r\n<p>Due to a previous automobile accident, Wallace suffered brain damage that resulted in her not being able to conduct a normal conversation and needing to be in constant contact with family and friends.</p>",
+		"nationality": null,
+		"additional_information": null,
+		"height_max": 63,
+		"reward_text": null,
+		"complexion": null,
+		"legat_names": null,
+		"title": "THERESA ANNE WALLACE - URBANA, ILLINOIS",
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"publication": "2021-07-09T10:13:00",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image/large",
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image/thumb"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png/@@images/image/large",
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png/@@images/image/thumb"
+			}
+		],
+		"build": null,
+		"reward_min": 0,
+		"dates_of_birth_used": null,
+		"eyes_raw": "Brown",
+		"suspects": null,
+		"race": "white",
+		"caution": null,
+		"uid": "7663df35b5e245148e027f43cc8151ae",
+		"sex": "Female",
+		"@id": "https://api.fbi.gov/@wanted-person/7663df35b5e245148e027f43cc8151ae"
+	},
+	{
 		"path": "/wanted/murders/marco-antonio-garay",
 		"languages": null,
 		"coordinates": [],
@@ -51352,85 +51425,6 @@
 		"uid": "4f300a2b46ff49b6accf78ae85a43aec",
 		"sex": "Male",
 		"@id": "https://api.fbi.gov/@wanted-person/4f300a2b46ff49b6accf78ae85a43aec"
-	},
-	{
-		"path": "/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois",
-		"languages": null,
-		"coordinates": [],
-		"field_offices": null,
-		"aliases": null,
-		"reward_max": 0,
-		"status": "na",
-		"possible_countries": null,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace-vicap-7921.pdf/@@download/file/Wallace ViCAP 7921.pdf",
-				"name": "Wallace ViCAP 7921.pdf"
-			}
-		],
-		"place_of_birth": null,
-		"modified": "2021-11-16T14:58:58+00:00",
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois",
-		"age_min": 34,
-		"age_max": 34,
-		"weight_max": 135,
-		"hair_raw": "Brown, worn collar-length",
-		"eyes": "brown",
-		"ncic": null,
-		"hair": "brown",
-		"weight": "135 pounds",
-		"occupations": null,
-		"height_min": 63,
-		"race_raw": "White",
-		"scars_and_marks": null,
-		"age_range": "34 years old (at time of disappearance)",
-		"remarks": "<p>Wallace wore prescription glasses with plastic frames.</p>",
-		"description": "July 20, 1990\r\nUrbana, Illinois",
-		"weight_min": 135,
-		"locations": null,
-		"person_classification": "Main",
-		"possible_states": null,
-		"warning_message": null,
-		"details": "<p>Theresa Anne Wallace was last seen at her apartment located in the 1100 block of South Lierman Avenue in Urbana, Illinois, on the afternoon of July 2,1990. She has not been seen or heard from since.</p>\r\n<p>That same evening, Wallace's vehicle was observed at the Clark-Lindsey Village retirement home, although Wallace had no connections there. One week later, Urbana Police recovered Wallace\u2019s vehicle in a residential area in the 2000 Block of South Vawter Street in Urbana, Illinois.</p>\r\n<p>Due to a previous automobile accident, Wallace suffered brain damage that resulted in her not being able to conduct a normal conversation and needing to be in constant contact with family and friends.</p>",
-		"nationality": null,
-		"additional_information": null,
-		"height_max": 63,
-		"reward_text": null,
-		"complexion": null,
-		"legat_names": null,
-		"title": "THERESA ANNE WALLACE - URBANA, ILLINOIS",
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"publication": "2021-07-09T10:13:00",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image/large",
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image/thumb"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png/@@images/image/large",
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png/@@images/image/thumb"
-			}
-		],
-		"build": null,
-		"reward_min": 0,
-		"dates_of_birth_used": null,
-		"eyes_raw": "Brown",
-		"suspects": null,
-		"race": "white",
-		"caution": null,
-		"uid": "7663df35b5e245148e027f43cc8151ae",
-		"sex": "Female",
-		"@id": "https://api.fbi.gov/@wanted-person/7663df35b5e245148e027f43cc8151ae"
 	},
 	{
 		"path": "/wanted/seeking-info/las-cruces-church-bombings",
