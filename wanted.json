@@ -1629,6 +1629,85 @@
 		"@id": "https://api.fbi.gov/@wanted-person/53638a603067411589c640f2b208273e"
 	},
 	{
+		"weight_min": 160,
+		"description": "Conspiracy to Commit Computer Intrusion; Computer Intrusion; Aggravated Identity Theft; Aiding and Abetting",
+		"reward_min": 0,
+		"weight_max": 160,
+		"suspects": null,
+		"possible_countries": null,
+		"locations": null,
+		"additional_information": null,
+		"sex": "Male",
+		"details": null,
+		"languages": null,
+		"ncic": null,
+		"race_raw": "White",
+		"path": "/wanted/cyber/mohamad-paryar",
+		"uid": "fcef299db11c4940867aeb66e3cdcd5c",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/download.pdf"
+			},
+			{
+				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc",
+				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/paryarfarsi.pdf/@@download/file/ParyarFarsi.pdf"
+			}
+		],
+		"legat_names": null,
+		"hair_raw": "Black",
+		"reward_text": null,
+		"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar",
+		"possible_states": null,
+		"nationality": "Iranian",
+		"complexion": null,
+		"build": null,
+		"hair": "black",
+		"aliases": [
+			"l_bush_l",
+			"Mohamad Pk",
+			"MPK"
+		],
+		"coordinates": [],
+		"height_min": 68,
+		"publication": "2019-02-07T19:23:00",
+		"occupations": null,
+		"status": "na",
+		"age_range": null,
+		"person_classification": "Main",
+		"title": "MOHAMAD PARYAR",
+		"modified": "2022-11-10T14:20:27+00:00",
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"field_offices": [
+			"washingtondc"
+		],
+		"height_max": 68,
+		"place_of_birth": "Iran",
+		"race": "white",
+		"scars_and_marks": null,
+		"remarks": null,
+		"eyes_raw": "Brown",
+		"weight": "Approximately 160 pounds",
+		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+		"eyes": "brown",
+		"reward_max": 0,
+		"age_min": null,
+		"dates_of_birth_used": null,
+		"caution": "<p>Mohamad Paryar\u00a0is wanted for his alleged involvement in criminal activities to include computer intrusion and aggravated identity theft.\u00a0 Paryar was allegedly contracted to procure and provide technical support for\u00a0malware in furtherance of a malicious cyber campaign targeting current and former members of the\u00a0United States\u00a0Intelligence Community.\u00a0 Paryar allegedly conducted this activity at the behest of the Islamic Revolutionary Guard Corps (IRGC).\u00a0 On February 8, 2019, a grand jury in the United States District Court, District of Columbia, indicted Paryar, <a data-urltype=\"/view\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\" href=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\">and others</a>, and a federal arrest warrant was issued for him after he was charged with Conspiracy to Commit Computer Intrusion, Computer Intrusion, Aggravated Identity Theft, and\u00a0Aiding and Abetting.</p>\r\n<p>\u00a0</p>",
+		"images": [
+			{
+				"thumb": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/large",
+				"caption": null,
+				"original": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image"
+			}
+		],
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/fcef299db11c4940867aeb66e3cdcd5c"
+	},
+	{
 		"weight_min": 175,
 		"description": "Computer Intrusion; Aggravated Identity Theft; Aiding and Abetting; Computer Fraud \u2013 Unauthorized Access to a Protected Computer; Wire Fraud; Computer Fraud \u2013 Threatening to Impair the Confidentiality of Information; Computer Fraud \u2013 Threatening to Damage a Protected Computer/Impair the Confidentiality of Information; Interstate Transmission of an Extortionate Communication",
 		"reward_min": 0,
@@ -1707,75 +1786,6 @@
 		],
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/7cb18c1ab6594ccca93c81bddec8eb42"
-	},
-	{
-		"weight_min": 120,
-		"description": "April 24, 1983\r\nNashville, Tennessee",
-		"reward_min": 0,
-		"weight_max": 120,
-		"suspects": null,
-		"possible_countries": null,
-		"locations": null,
-		"additional_information": null,
-		"sex": "Female",
-		"details": "<p>On April 24, 1983, Linda Carol Taylor was reported missing by her friends. Her friends advised they left Linda at apartment \"C\", located at 2120 Belmont Boulevard in Nashville, Tennessee, while they went out drinking. When her friends returned to pick her up, the apartment's occupant refused to allow them into the apartment and advised them that Linda had left. Linda Taylor has not been seen or heard from since. Foul play is suspected in this case.</p>",
-		"languages": null,
-		"ncic": null,
-		"race_raw": "White",
-		"path": "/wanted/vicap/missing-persons/linda-carol-taylor---nashville-tennessee",
-		"uid": "53638a603067411589c640f2b208273e",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/linda-carol-taylor---nashville-tennessee/taylor-1-1-19.pdf"
-			}
-		],
-		"legat_names": null,
-		"hair_raw": "Brown",
-		"reward_text": null,
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/linda-carol-taylor---nashville-tennessee",
-		"possible_states": null,
-		"nationality": null,
-		"complexion": null,
-		"build": null,
-		"hair": "brown",
-		"aliases": null,
-		"coordinates": [],
-		"height_min": 63,
-		"publication": "2019-02-12T15:16:00",
-		"occupations": null,
-		"status": "na",
-		"age_range": "34 years old (at the time of disappearance)",
-		"person_classification": "Main",
-		"title": "LINDA CAROL TAYLOR - NASHVILLE, TENNESSEE",
-		"modified": "2022-11-10T14:20:27+00:00",
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"field_offices": null,
-		"height_max": 63,
-		"place_of_birth": null,
-		"race": "white",
-		"scars_and_marks": null,
-		"remarks": null,
-		"eyes_raw": "Blue",
-		"weight": "120 pounds",
-		"warning_message": null,
-		"eyes": "blue",
-		"reward_max": 0,
-		"age_min": 34,
-		"dates_of_birth_used": null,
-		"caution": null,
-		"images": [
-			{
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/linda-carol-taylor---nashville-tennessee/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/linda-carol-taylor---nashville-tennessee/@@images/image/large",
-				"caption": null,
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/linda-carol-taylor---nashville-tennessee/@@images/image"
-			}
-		],
-		"age_max": 34,
-		"@id": "https://api.fbi.gov/@wanted-person/53638a603067411589c640f2b208273e"
 	},
 	{
 		"weight_min": 218,
@@ -72735,6 +72745,92 @@
 		"@id": "https://api.fbi.gov/@wanted-person/3bac29c6da7c549502ed97f9d17fd4ec"
 	},
 	{
+		"weight_min": 135,
+		"description": "Plummer, Idaho\r\nMarch 8, 1988",
+		"reward_min": 0,
+		"weight_max": 135,
+		"suspects": null,
+		"possible_countries": null,
+		"locations": null,
+		"additional_information": null,
+		"sex": "Female",
+		"details": "<p>Tina Marie Finley, a 25 year-old member of the Coeur d'Alene (Idaho) Tribe of Indians, has been missing since March 8, 1988. She was last seen in Plummer, Idaho, and was reported missing days later. The investigation suggests she may have been the victim of foul play.</p>\r\n<p>\u00a0</p>\r\n<p>This case is being investigated by the FBI's Coeur d'Alene Resident Agency and the Coeur d'Alene Tribal Police Department.</p>",
+		"languages": null,
+		"ncic": null,
+		"race_raw": "Native American",
+		"path": "/wanted/kidnap/tina-marie-finley",
+		"uid": "7b3bb4e7149e40ba980c84461694b1ff",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/download.pdf"
+			}
+		],
+		"legat_names": null,
+		"hair_raw": "Brown",
+		"reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the location of Tina Marie Finley.",
+		"url": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley",
+		"possible_states": null,
+		"nationality": null,
+		"complexion": null,
+		"build": null,
+		"hair": "brown",
+		"aliases": null,
+		"coordinates": [],
+		"height_min": 66,
+		"publication": "2017-02-28T13:27:00",
+		"occupations": null,
+		"status": "na",
+		"age_range": null,
+		"person_classification": "Main",
+		"title": "TINA MARIE FINLEY",
+		"modified": "2021-11-16T14:55:31+00:00",
+		"subjects": [
+			"Kidnappings and Missing Persons",
+			"Indian Country"
+		],
+		"field_offices": [
+			"saltlakecity"
+		],
+		"height_max": 66,
+		"place_of_birth": "Washington",
+		"race": "native",
+		"scars_and_marks": null,
+		"remarks": null,
+		"eyes_raw": "Brown",
+		"weight": "135 pounds (at the time of disappearance)",
+		"warning_message": null,
+		"eyes": "brown",
+		"reward_max": 0,
+		"age_min": null,
+		"dates_of_birth_used": [
+			"August 25, 1962"
+		],
+		"caution": null,
+		"images": [
+			{
+				"thumb": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/@@images/image/large",
+				"caption": null,
+				"original": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/@@images/image"
+			},
+			{
+				"thumb": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-3.jpg/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-3.jpg/@@images/image/large",
+				"caption": "",
+				"original": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-3.jpg"
+			},
+			{
+				"thumb": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-2.jpg/@@images/image/thumb",
+				"large": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-2.jpg/@@images/image/large",
+				"caption": "Photograph taken in 1987",
+				"original": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-2.jpg"
+			}
+		],
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/7b3bb4e7149e40ba980c84461694b1ff"
+	},
+	{
 		"weight_min": 170,
 		"description": "Circa Mid-May 2014\r\nKhost Province, Afghanistan",
 		"reward_min": 0,
@@ -72836,92 +72932,6 @@
 		],
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/75978c9432b642279b0346b6245660a9"
-	},
-	{
-		"weight_min": 135,
-		"description": "Plummer, Idaho\r\nMarch 8, 1988",
-		"reward_min": 0,
-		"weight_max": 135,
-		"suspects": null,
-		"possible_countries": null,
-		"locations": null,
-		"additional_information": null,
-		"sex": "Female",
-		"details": "<p>Tina Marie Finley, a 25 year-old member of the Coeur d'Alene (Idaho) Tribe of Indians, has been missing since March 8, 1988. She was last seen in Plummer, Idaho, and was reported missing days later. The investigation suggests she may have been the victim of foul play.</p>\r\n<p>\u00a0</p>\r\n<p>This case is being investigated by the FBI's Coeur d'Alene Resident Agency and the Coeur d'Alene Tribal Police Department.</p>",
-		"languages": null,
-		"ncic": null,
-		"race_raw": "Native American",
-		"path": "/wanted/kidnap/tina-marie-finley",
-		"uid": "7b3bb4e7149e40ba980c84461694b1ff",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/download.pdf"
-			}
-		],
-		"legat_names": null,
-		"hair_raw": "Brown",
-		"reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the location of Tina Marie Finley.",
-		"url": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley",
-		"possible_states": null,
-		"nationality": null,
-		"complexion": null,
-		"build": null,
-		"hair": "brown",
-		"aliases": null,
-		"coordinates": [],
-		"height_min": 66,
-		"publication": "2017-02-28T13:27:00",
-		"occupations": null,
-		"status": "na",
-		"age_range": null,
-		"person_classification": "Main",
-		"title": "TINA MARIE FINLEY",
-		"modified": "2021-11-16T14:55:31+00:00",
-		"subjects": [
-			"Kidnappings and Missing Persons",
-			"Indian Country"
-		],
-		"field_offices": [
-			"saltlakecity"
-		],
-		"height_max": 66,
-		"place_of_birth": "Washington",
-		"race": "native",
-		"scars_and_marks": null,
-		"remarks": null,
-		"eyes_raw": "Brown",
-		"weight": "135 pounds (at the time of disappearance)",
-		"warning_message": null,
-		"eyes": "brown",
-		"reward_max": 0,
-		"age_min": null,
-		"dates_of_birth_used": [
-			"August 25, 1962"
-		],
-		"caution": null,
-		"images": [
-			{
-				"thumb": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/@@images/image/large",
-				"caption": null,
-				"original": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/@@images/image"
-			},
-			{
-				"thumb": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-3.jpg/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-3.jpg/@@images/image/large",
-				"caption": "",
-				"original": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-3.jpg"
-			},
-			{
-				"thumb": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-2.jpg/@@images/image/thumb",
-				"large": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-2.jpg/@@images/image/large",
-				"caption": "Photograph taken in 1987",
-				"original": "https://www.fbi.gov/wanted/kidnap/tina-marie-finley/finley-2.jpg"
-			}
-		],
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/7b3bb4e7149e40ba980c84461694b1ff"
 	},
 	{
 		"weight_min": 120,
