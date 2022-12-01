@@ -41413,81 +41413,6 @@
 	{
 		"scars_and_marks": null,
 		"person_classification": "Main",
-		"height_max": 64,
-		"build": null,
-		"remarks": null,
-		"caution": null,
-		"race_raw": "Black",
-		"languages": null,
-		"hair": "black",
-		"uid": "66d995f098d74fe296ae392f1015c28a",
-		"suspects": null,
-		"publication": "2022-03-21T07:56:00",
-		"warning_message": null,
-		"race": "black",
-		"occupations": null,
-		"possible_countries": null,
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"field_offices": null,
-		"ncic": null,
-		"sex": "Female",
-		"legat_names": null,
-		"complexion": null,
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee",
-		"coordinates": [],
-		"height_min": 64,
-		"eyes_raw": "Brown",
-		"age_max": 30,
-		"title": "OLIVETTE LYVONIA TURNER - NASHVILLE, TENNESSEE",
-		"weight_max": 120,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/o_turner.pdf",
-				"name": "English"
-			}
-		],
-		"hair_raw": "Black / Red",
-		"weight_min": 100,
-		"place_of_birth": null,
-		"nationality": null,
-		"reward_text": null,
-		"locations": null,
-		"eyes": "brown",
-		"description": "May 1, 1989\r\nNashville, Tennessee",
-		"additional_information": null,
-		"reward_max": 0,
-		"weight": "100 to 120 pounds",
-		"path": "/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee",
-		"aliases": null,
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/turner2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/turner2.jpg",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/turner2.jpg/@@images/image/large"
-			}
-		],
-		"reward_min": 0,
-		"status": "na",
-		"details": "<p>Olivette Lyvonia Turner was last seen on May 1, 1989, in Nashville, Tennessee.\u00a0 She told her family she planned to visit her aunt in Pennsylvania.\u00a0 On May 17, 1989, Turner was reported missing by her sister after family had not heard from her and she had not shown up at her aunt\u2019s home.\u00a0 Her aunt was unaware of Turner\u2019s potential visit.\u00a0 Investigation disclosed that Turner was known to visit truck stops and hitchhike with truckers as a mode of transportation.</p>\r\n<p>\u00a0</p>",
-		"age_min": 30,
-		"age_range": "30 years old (at time of disappearance)",
-		"possible_states": null,
-		"modified": "2022-11-30T16:40:53+00:00",
-		"dates_of_birth_used": null,
-		"@id": "https://api.fbi.gov/@wanted-person/66d995f098d74fe296ae392f1015c28a"
-	},
-	{
-		"scars_and_marks": null,
-		"person_classification": "Main",
 		"height_max": 66,
 		"build": null,
 		"remarks": "<p>Quiboloy has ties to Calabasas, California, Las Vegas, Nevada, and Kapolei, Hawaii.\u00a0</p>",
@@ -41567,6 +41492,81 @@
 			"April 25, 1950"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/646f7e1f7c26487db6857a9a07f663af"
+	},
+	{
+		"scars_and_marks": null,
+		"person_classification": "Main",
+		"height_max": 64,
+		"build": null,
+		"remarks": null,
+		"caution": null,
+		"race_raw": "Black",
+		"languages": null,
+		"hair": "black",
+		"uid": "66d995f098d74fe296ae392f1015c28a",
+		"suspects": null,
+		"publication": "2022-03-21T07:56:00",
+		"warning_message": null,
+		"race": "black",
+		"occupations": null,
+		"possible_countries": null,
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"field_offices": null,
+		"ncic": null,
+		"sex": "Female",
+		"legat_names": null,
+		"complexion": null,
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee",
+		"coordinates": [],
+		"height_min": 64,
+		"eyes_raw": "Brown",
+		"age_max": 30,
+		"title": "OLIVETTE LYVONIA TURNER - NASHVILLE, TENNESSEE",
+		"weight_max": 120,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/o_turner.pdf",
+				"name": "English"
+			}
+		],
+		"hair_raw": "Black / Red",
+		"weight_min": 100,
+		"place_of_birth": null,
+		"nationality": null,
+		"reward_text": null,
+		"locations": null,
+		"eyes": "brown",
+		"description": "May 1, 1989\r\nNashville, Tennessee",
+		"additional_information": null,
+		"reward_max": 0,
+		"weight": "100 to 120 pounds",
+		"path": "/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee",
+		"aliases": null,
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/turner2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/turner2.jpg",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/turner2.jpg/@@images/image/large"
+			}
+		],
+		"reward_min": 0,
+		"status": "na",
+		"details": "<p>Olivette Lyvonia Turner was last seen on May 1, 1989, in Nashville, Tennessee.\u00a0 She told her family she planned to visit her aunt in Pennsylvania.\u00a0 On May 17, 1989, Turner was reported missing by her sister after family had not heard from her and she had not shown up at her aunt\u2019s home.\u00a0 Her aunt was unaware of Turner\u2019s potential visit.\u00a0 Investigation disclosed that Turner was known to visit truck stops and hitchhike with truckers as a mode of transportation.</p>\r\n<p>\u00a0</p>",
+		"age_min": 30,
+		"age_range": "30 years old (at time of disappearance)",
+		"possible_states": null,
+		"modified": "2022-11-30T16:40:53+00:00",
+		"dates_of_birth_used": null,
+		"@id": "https://api.fbi.gov/@wanted-person/66d995f098d74fe296ae392f1015c28a"
 	},
 	{
 		"scars_and_marks": null,
@@ -43481,77 +43481,6 @@
 	{
 		"scars_and_marks": null,
 		"person_classification": "Main",
-		"height_max": null,
-		"build": null,
-		"remarks": null,
-		"caution": null,
-		"race_raw": null,
-		"languages": null,
-		"hair": null,
-		"uid": "472cfe0962c54fdb803233f65ca84d78",
-		"suspects": null,
-		"publication": "2021-09-14T09:32:00",
-		"warning_message": null,
-		"race": null,
-		"occupations": null,
-		"possible_countries": null,
-		"subjects": [
-			"Seeking Information"
-		],
-		"field_offices": [
-			"cincinnati"
-		],
-		"ncic": null,
-		"sex": null,
-		"legat_names": null,
-		"complexion": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/olivia-kurtz",
-		"coordinates": [],
-		"height_min": null,
-		"eyes_raw": null,
-		"age_max": null,
-		"title": "OLIVIA KURTZ",
-		"weight_max": null,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/olivia-kurtz/download.pdf",
-				"name": "English"
-			}
-		],
-		"hair_raw": null,
-		"weight_min": null,
-		"place_of_birth": null,
-		"nationality": null,
-		"reward_text": "<b>The FBI is offering a reward of up to $25,000 for information leading to the identification, arrest, and prosecution of the subject(s) responsible for the murder of Olivia Kurtz.<b>",
-		"locations": null,
-		"eyes": null,
-		"description": "Homicide Victim \r\nColumbus, Ohio \r\nMay 22, 2021",
-		"additional_information": null,
-		"reward_max": 0,
-		"weight": null,
-		"path": "/wanted/seeking-info/olivia-kurtz",
-		"aliases": null,
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/olivia-kurtz/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/olivia-kurtz/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/olivia-kurtz/@@images/image/large"
-			}
-		],
-		"reward_min": 0,
-		"status": "na",
-		"details": "<p>On May 22, 2021,\u00a0an impromptu party with hundreds of teens and young adults was held at Bicentennial Park in Columbus, Ohio. At approximately 11:51 P.M., the Columbus Police Department responded to a shooting at Bicentennial Park where six victims had been shot. One of the victims, Olivia Kurtz, was transported to the hospital where she was pronounced dead.\u00a0</p>\r\n<p>The homicide investigation initiated by the Columbus Police Department has revealed the shooting may be associated with other shootings in the city.</p>",
-		"age_min": null,
-		"age_range": null,
-		"possible_states": null,
-		"modified": "2022-11-30T16:40:42+00:00",
-		"dates_of_birth_used": null,
-		"@id": "https://api.fbi.gov/@wanted-person/472cfe0962c54fdb803233f65ca84d78"
-	},
-	{
-		"scars_and_marks": null,
-		"person_classification": "Main",
 		"height_max": 69,
 		"build": null,
 		"remarks": "<p>Emms is known to reside in the United Arab Emirates (UAE) and was known to be in Saudi Arabia in or about March of 2022.\u00a0 He has family residing in the United Kingdom.\u00a0 Emms has been known to establish various business interests in multiple countries to include UAE, Malta, Gibraltar, and throughout Europe.</p>",
@@ -43724,6 +43653,77 @@
 		"modified": "2022-11-30T16:40:42+00:00",
 		"dates_of_birth_used": null,
 		"@id": "https://api.fbi.gov/@wanted-person/a7c16c09d70a449989cc510b8a794f39"
+	},
+	{
+		"scars_and_marks": null,
+		"person_classification": "Main",
+		"height_max": null,
+		"build": null,
+		"remarks": null,
+		"caution": null,
+		"race_raw": null,
+		"languages": null,
+		"hair": null,
+		"uid": "472cfe0962c54fdb803233f65ca84d78",
+		"suspects": null,
+		"publication": "2021-09-14T09:32:00",
+		"warning_message": null,
+		"race": null,
+		"occupations": null,
+		"possible_countries": null,
+		"subjects": [
+			"Seeking Information"
+		],
+		"field_offices": [
+			"cincinnati"
+		],
+		"ncic": null,
+		"sex": null,
+		"legat_names": null,
+		"complexion": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/olivia-kurtz",
+		"coordinates": [],
+		"height_min": null,
+		"eyes_raw": null,
+		"age_max": null,
+		"title": "OLIVIA KURTZ",
+		"weight_max": null,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/olivia-kurtz/download.pdf",
+				"name": "English"
+			}
+		],
+		"hair_raw": null,
+		"weight_min": null,
+		"place_of_birth": null,
+		"nationality": null,
+		"reward_text": "<b>The FBI is offering a reward of up to $25,000 for information leading to the identification, arrest, and prosecution of the subject(s) responsible for the murder of Olivia Kurtz.<b>",
+		"locations": null,
+		"eyes": null,
+		"description": "Homicide Victim \r\nColumbus, Ohio \r\nMay 22, 2021",
+		"additional_information": null,
+		"reward_max": 0,
+		"weight": null,
+		"path": "/wanted/seeking-info/olivia-kurtz",
+		"aliases": null,
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/olivia-kurtz/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/olivia-kurtz/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/olivia-kurtz/@@images/image/large"
+			}
+		],
+		"reward_min": 0,
+		"status": "na",
+		"details": "<p>On May 22, 2021,\u00a0an impromptu party with hundreds of teens and young adults was held at Bicentennial Park in Columbus, Ohio. At approximately 11:51 P.M., the Columbus Police Department responded to a shooting at Bicentennial Park where six victims had been shot. One of the victims, Olivia Kurtz, was transported to the hospital where she was pronounced dead.\u00a0</p>\r\n<p>The homicide investigation initiated by the Columbus Police Department has revealed the shooting may be associated with other shootings in the city.</p>",
+		"age_min": null,
+		"age_range": null,
+		"possible_states": null,
+		"modified": "2022-11-30T16:40:42+00:00",
+		"dates_of_birth_used": null,
+		"@id": "https://api.fbi.gov/@wanted-person/472cfe0962c54fdb803233f65ca84d78"
 	},
 	{
 		"scars_and_marks": null,
@@ -44974,6 +44974,77 @@
 	},
 	{
 		"scars_and_marks": null,
+		"person_classification": "Victim",
+		"height_max": null,
+		"build": null,
+		"remarks": null,
+		"caution": null,
+		"race_raw": null,
+		"languages": null,
+		"hair": null,
+		"uid": "569e5d14a4964a328baeca98a03a503b",
+		"suspects": null,
+		"publication": "2019-04-08T09:13:00",
+		"warning_message": null,
+		"race": null,
+		"occupations": null,
+		"possible_countries": null,
+		"subjects": [
+			"Seeking Information"
+		],
+		"field_offices": [
+			"buffalo"
+		],
+		"ncic": null,
+		"sex": null,
+		"legat_names": null,
+		"complexion": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem",
+		"coordinates": [],
+		"height_min": null,
+		"eyes_raw": null,
+		"age_max": null,
+		"title": "BADRALDEEN MOHAMAD ELWASEEM",
+		"weight_max": null,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/download.pdf",
+				"name": "English"
+			}
+		],
+		"hair_raw": null,
+		"weight_min": null,
+		"place_of_birth": null,
+		"nationality": null,
+		"reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the arrest of the person(s) responsible for the shooting death of Badraldeen Mohamad Elwaseem.",
+		"locations": null,
+		"eyes": null,
+		"description": "Murder Victim\r\nBuffalo, New York\r\nApril 6, 2019",
+		"additional_information": null,
+		"reward_max": 0,
+		"weight": null,
+		"path": "/wanted/seeking-info/badraldeen-mohamad-elwaseem",
+		"aliases": null,
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image/large"
+			}
+		],
+		"reward_min": 0,
+		"status": "na",
+		"details": "<p>Law enforcement officials are seeking information regarding the murder of 12-year-old Badraldeen Mohamad Elwaseem who was shot and killed on April 6, 2019, in Buffalo, New York. Badraldeen was in the kitchen\u00a0of his apartment around 8:30 p.m. when he was fatally shot in the head by a stray bullet.\u00a0</p>\r\n<p>\u00a0</p>",
+		"age_min": null,
+		"age_range": null,
+		"possible_states": null,
+		"modified": "2022-11-30T16:40:34+00:00",
+		"dates_of_birth_used": null,
+		"@id": "https://api.fbi.gov/@wanted-person/569e5d14a4964a328baeca98a03a503b"
+	},
+	{
+		"scars_and_marks": null,
 		"person_classification": "Main",
 		"height_max": null,
 		"build": null,
@@ -45150,77 +45221,6 @@
 			"April 11, 1973"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/111d297d44f74c05820b8e363c85525b"
-	},
-	{
-		"scars_and_marks": null,
-		"person_classification": "Victim",
-		"height_max": null,
-		"build": null,
-		"remarks": null,
-		"caution": null,
-		"race_raw": null,
-		"languages": null,
-		"hair": null,
-		"uid": "569e5d14a4964a328baeca98a03a503b",
-		"suspects": null,
-		"publication": "2019-04-08T09:13:00",
-		"warning_message": null,
-		"race": null,
-		"occupations": null,
-		"possible_countries": null,
-		"subjects": [
-			"Seeking Information"
-		],
-		"field_offices": [
-			"buffalo"
-		],
-		"ncic": null,
-		"sex": null,
-		"legat_names": null,
-		"complexion": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem",
-		"coordinates": [],
-		"height_min": null,
-		"eyes_raw": null,
-		"age_max": null,
-		"title": "BADRALDEEN MOHAMAD ELWASEEM",
-		"weight_max": null,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/download.pdf",
-				"name": "English"
-			}
-		],
-		"hair_raw": null,
-		"weight_min": null,
-		"place_of_birth": null,
-		"nationality": null,
-		"reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the arrest of the person(s) responsible for the shooting death of Badraldeen Mohamad Elwaseem.",
-		"locations": null,
-		"eyes": null,
-		"description": "Murder Victim\r\nBuffalo, New York\r\nApril 6, 2019",
-		"additional_information": null,
-		"reward_max": 0,
-		"weight": null,
-		"path": "/wanted/seeking-info/badraldeen-mohamad-elwaseem",
-		"aliases": null,
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image/large"
-			}
-		],
-		"reward_min": 0,
-		"status": "na",
-		"details": "<p>Law enforcement officials are seeking information regarding the murder of 12-year-old Badraldeen Mohamad Elwaseem who was shot and killed on April 6, 2019, in Buffalo, New York. Badraldeen was in the kitchen\u00a0of his apartment around 8:30 p.m. when he was fatally shot in the head by a stray bullet.\u00a0</p>\r\n<p>\u00a0</p>",
-		"age_min": null,
-		"age_range": null,
-		"possible_states": null,
-		"modified": "2022-11-30T16:40:34+00:00",
-		"dates_of_birth_used": null,
-		"@id": "https://api.fbi.gov/@wanted-person/569e5d14a4964a328baeca98a03a503b"
 	},
 	{
 		"scars_and_marks": null,
@@ -47233,77 +47233,6 @@
 		"race_raw": null,
 		"languages": null,
 		"hair": null,
-		"uid": "f2860a4c-cf3c-4128-96ab-818e18270022",
-		"suspects": null,
-		"publication": "2015-10-30T07:00:00",
-		"warning_message": null,
-		"race": null,
-		"occupations": null,
-		"possible_countries": null,
-		"subjects": [
-			"Seeking Information"
-		],
-		"field_offices": [
-			"albuquerque"
-		],
-		"ncic": null,
-		"sex": "",
-		"legat_names": null,
-		"complexion": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings",
-		"coordinates": [],
-		"height_min": null,
-		"eyes_raw": null,
-		"age_max": null,
-		"title": "LAS CRUCES CHURCH BOMBINGS",
-		"weight_max": null,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/download.pdf",
-				"name": "English"
-			}
-		],
-		"hair_raw": null,
-		"weight_min": null,
-		"place_of_birth": null,
-		"nationality": null,
-		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest and conviction of the person or persons responsible for the bombings.",
-		"locations": null,
-		"eyes": null,
-		"description": "Person of Interest\r\nLas Cruces, New Mexico\r\nAugust 2, 2015",
-		"additional_information": "<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/qlnOAg3KRKA?fs=1&amp;amp;wmode=transparent&amp;amp;rel=0&amp;amp;html5=1&amp;amp;modestbranding=1\" width=\"500\" height=\"300\" frameborder=\"0\"></iframe></p>",
-		"reward_max": 0,
-		"weight": null,
-		"path": "/wanted/seeking-info/las-cruces-church-bombings",
-		"aliases": null,
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image/large"
-			}
-		],
-		"reward_min": 0,
-		"status": "na",
-		"details": "<p>The FBI and its federal, state, and local law enforcement partners are asking for the public's assistance in identifying a man who may have information regarding the bombings of two churches in Las Cruces, New Mexico, on August 2, 2015.</p>\r\n<p>\u00a0</p>\r\n<p>On Sunday, August 2, 2015, at approximately 8:20 a.m., a device at the Calvary Baptist Church detonated. A detonation at the Holy Cross Catholic Church was reported about 20 minutes later. No one was injured in either explosion, and the resulting damage was minor. It is possible that the explosions were related.</p>\r\n<p>\u00a0</p>\r\n<p>The man recorded on the surveillance video below was seen walking to and from Calvary Baptist Church around the time of the explosion. He was wearing plaid shorts, a blue, short-sleeved T-shirt and hiking boots. He was carrying a package or bag. Authorities are calling this man a person of interest because he may have information regarding the explosion at the Calvary Baptist Church.</p>",
-		"age_min": null,
-		"age_range": null,
-		"possible_states": null,
-		"modified": "2022-11-30T16:40:26+00:00",
-		"dates_of_birth_used": null,
-		"@id": "https://api.fbi.gov/@wanted-person/f2860a4c-cf3c-4128-96ab-818e18270022"
-	},
-	{
-		"scars_and_marks": null,
-		"person_classification": "Victim",
-		"height_max": null,
-		"build": null,
-		"remarks": null,
-		"caution": null,
-		"race_raw": null,
-		"languages": null,
-		"hair": null,
 		"uid": "c18bb989cf854661bcb5cdddf1f1ccda",
 		"suspects": "<p>During the course of the investigation, evidence has led investigators to believe\u00a0the suspect, displayed in the composite sketch, is involved in the murder of\u00a0Joette \"JoJo\" Malone.\u00a0\u00a0</p>\r\n<p>\u00a0</p>\r\n<p>The person depicted in the composite sketch is described as a Black male, approximately 16 to 25 years old, with a thin build, black hair and brown eyes.\u00a0\u00a0</p>",
 		"publication": "2020-08-07T11:03:00",
@@ -47379,82 +47308,74 @@
 	},
 	{
 		"scars_and_marks": null,
-		"person_classification": "Main",
-		"height_max": 63,
+		"person_classification": "Victim",
+		"height_max": null,
 		"build": null,
-		"remarks": "<p>Wallace wore prescription glasses with plastic frames.</p>",
+		"remarks": null,
 		"caution": null,
-		"race_raw": "White",
+		"race_raw": null,
 		"languages": null,
-		"hair": "brown",
-		"uid": "7663df35b5e245148e027f43cc8151ae",
+		"hair": null,
+		"uid": "f2860a4c-cf3c-4128-96ab-818e18270022",
 		"suspects": null,
-		"publication": "2021-07-09T10:13:00",
+		"publication": "2015-10-30T07:00:00",
 		"warning_message": null,
-		"race": "white",
+		"race": null,
 		"occupations": null,
 		"possible_countries": null,
 		"subjects": [
-			"ViCAP Missing Persons"
+			"Seeking Information"
 		],
-		"field_offices": null,
+		"field_offices": [
+			"albuquerque"
+		],
 		"ncic": null,
-		"sex": "Female",
+		"sex": "",
 		"legat_names": null,
 		"complexion": null,
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois",
+		"url": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings",
 		"coordinates": [],
-		"height_min": 63,
-		"eyes_raw": "Brown",
-		"age_max": 34,
-		"title": "THERESA ANNE WALLACE - URBANA, ILLINOIS",
-		"weight_max": 135,
+		"height_min": null,
+		"eyes_raw": null,
+		"age_max": null,
+		"title": "LAS CRUCES CHURCH BOMBINGS",
+		"weight_max": null,
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png",
+				"url": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/download.pdf",
 				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace-vicap-7921.pdf/@@download/file/Wallace ViCAP 7921.pdf",
-				"name": "Wallace ViCAP 7921.pdf"
 			}
 		],
-		"hair_raw": "Brown, worn collar-length",
-		"weight_min": 135,
+		"hair_raw": null,
+		"weight_min": null,
 		"place_of_birth": null,
 		"nationality": null,
-		"reward_text": null,
+		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest and conviction of the person or persons responsible for the bombings.",
 		"locations": null,
-		"eyes": "brown",
-		"description": "July 20, 1990\r\nUrbana, Illinois",
-		"additional_information": null,
+		"eyes": null,
+		"description": "Person of Interest\r\nLas Cruces, New Mexico\r\nAugust 2, 2015",
+		"additional_information": "<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/qlnOAg3KRKA?fs=1&amp;amp;wmode=transparent&amp;amp;rel=0&amp;amp;html5=1&amp;amp;modestbranding=1\" width=\"500\" height=\"300\" frameborder=\"0\"></iframe></p>",
 		"reward_max": 0,
-		"weight": "135 pounds",
-		"path": "/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois",
+		"weight": null,
+		"path": "/wanted/seeking-info/las-cruces-church-bombings",
 		"aliases": null,
 		"images": [
 			{
 				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png/@@images/image/large"
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image/large"
 			}
 		],
 		"reward_min": 0,
 		"status": "na",
-		"details": "<p>Theresa Anne Wallace was last seen at her apartment located in the 1100 block of South Lierman Avenue in Urbana, Illinois, on the afternoon of July 2,1990. She has not been seen or heard from since.</p>\r\n<p>That same evening, Wallace's vehicle was observed at the Clark-Lindsey Village retirement home, although Wallace had no connections there. One week later, Urbana Police recovered Wallace\u2019s vehicle in a residential area in the 2000 Block of South Vawter Street in Urbana, Illinois.</p>\r\n<p>Due to a previous automobile accident, Wallace suffered brain damage that resulted in her not being able to conduct a normal conversation and needing to be in constant contact with family and friends.</p>",
-		"age_min": 34,
-		"age_range": "34 years old (at time of disappearance)",
+		"details": "<p>The FBI and its federal, state, and local law enforcement partners are asking for the public's assistance in identifying a man who may have information regarding the bombings of two churches in Las Cruces, New Mexico, on August 2, 2015.</p>\r\n<p>\u00a0</p>\r\n<p>On Sunday, August 2, 2015, at approximately 8:20 a.m., a device at the Calvary Baptist Church detonated. A detonation at the Holy Cross Catholic Church was reported about 20 minutes later. No one was injured in either explosion, and the resulting damage was minor. It is possible that the explosions were related.</p>\r\n<p>\u00a0</p>\r\n<p>The man recorded on the surveillance video below was seen walking to and from Calvary Baptist Church around the time of the explosion. He was wearing plaid shorts, a blue, short-sleeved T-shirt and hiking boots. He was carrying a package or bag. Authorities are calling this man a person of interest because he may have information regarding the explosion at the Calvary Baptist Church.</p>",
+		"age_min": null,
+		"age_range": null,
 		"possible_states": null,
 		"modified": "2022-11-30T16:40:26+00:00",
 		"dates_of_birth_used": null,
-		"@id": "https://api.fbi.gov/@wanted-person/7663df35b5e245148e027f43cc8151ae"
+		"@id": "https://api.fbi.gov/@wanted-person/f2860a4c-cf3c-4128-96ab-818e18270022"
 	},
 	{
 		"scars_and_marks": "Garay has full \"sleeve\" tattoos on his arms, and the word \"Matthew\" tattooed on one of his forearms. He has a tattoo with unknown lettering on his chest that is visible when he wears a button-down or v-neck shirt.",
@@ -47554,6 +47475,85 @@
 			"May 26, 1988"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/4f300a2b46ff49b6accf78ae85a43aec"
+	},
+	{
+		"scars_and_marks": null,
+		"person_classification": "Main",
+		"height_max": 63,
+		"build": null,
+		"remarks": "<p>Wallace wore prescription glasses with plastic frames.</p>",
+		"caution": null,
+		"race_raw": "White",
+		"languages": null,
+		"hair": "brown",
+		"uid": "7663df35b5e245148e027f43cc8151ae",
+		"suspects": null,
+		"publication": "2021-07-09T10:13:00",
+		"warning_message": null,
+		"race": "white",
+		"occupations": null,
+		"possible_countries": null,
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"field_offices": null,
+		"ncic": null,
+		"sex": "Female",
+		"legat_names": null,
+		"complexion": null,
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois",
+		"coordinates": [],
+		"height_min": 63,
+		"eyes_raw": "Brown",
+		"age_max": 34,
+		"title": "THERESA ANNE WALLACE - URBANA, ILLINOIS",
+		"weight_max": 135,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace-vicap-7921.pdf/@@download/file/Wallace ViCAP 7921.pdf",
+				"name": "Wallace ViCAP 7921.pdf"
+			}
+		],
+		"hair_raw": "Brown, worn collar-length",
+		"weight_min": 135,
+		"place_of_birth": null,
+		"nationality": null,
+		"reward_text": null,
+		"locations": null,
+		"eyes": "brown",
+		"description": "July 20, 1990\r\nUrbana, Illinois",
+		"additional_information": null,
+		"reward_max": 0,
+		"weight": "135 pounds",
+		"path": "/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois",
+		"aliases": null,
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png/@@images/image/large"
+			}
+		],
+		"reward_min": 0,
+		"status": "na",
+		"details": "<p>Theresa Anne Wallace was last seen at her apartment located in the 1100 block of South Lierman Avenue in Urbana, Illinois, on the afternoon of July 2,1990. She has not been seen or heard from since.</p>\r\n<p>That same evening, Wallace's vehicle was observed at the Clark-Lindsey Village retirement home, although Wallace had no connections there. One week later, Urbana Police recovered Wallace\u2019s vehicle in a residential area in the 2000 Block of South Vawter Street in Urbana, Illinois.</p>\r\n<p>Due to a previous automobile accident, Wallace suffered brain damage that resulted in her not being able to conduct a normal conversation and needing to be in constant contact with family and friends.</p>",
+		"age_min": 34,
+		"age_range": "34 years old (at time of disappearance)",
+		"possible_states": null,
+		"modified": "2022-11-30T16:40:26+00:00",
+		"dates_of_birth_used": null,
+		"@id": "https://api.fbi.gov/@wanted-person/7663df35b5e245148e027f43cc8151ae"
 	},
 	{
 		"scars_and_marks": null,
@@ -49187,6 +49187,92 @@
 		"@id": "https://api.fbi.gov/@wanted-person/b7031bad92ac400e968cf87f7bac64de"
 	},
 	{
+		"scars_and_marks": null,
+		"person_classification": "Main",
+		"height_max": 72,
+		"build": null,
+		"remarks": null,
+		"caution": "<p>Said Pourkarim Arabi, <a href=\"https://www.fbi.gov/wanted/cyber/mohammad-reza-espargham\" data-urltype=\"/view\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/cyber/mohammad-reza-espargham\">Mohammad Reza Espargham</a>, and <a href=\"https://www.fbi.gov/wanted/cyber/mohammad-bayati\" data-urltype=\"/view\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/cyber/mohammad-bayati\">Mohammad Bayati</a> are wanted for their alleged involvement in criminal activities including computer intrusions, identity theft, and wire fraud. These Iranian hackers allegedly conspired to commit computer intrusions targeting American companies in the aerospace and satellite industries. They allegedly engaged in a coordinated campaign of social engineering that resulted in the theft of United States citizens\u2019 identities, which they then used to steal critical information related to American aerospace and satellite technology and resources, including sensitive commercial information, intellectual property, and personal data. The men allegedly conducted this activity at the direction of Iran\u2019s Islamic Revolutionary Guard Corps (IRGC).\u00a0 On September 15, 2020, a federal grand jury in the United States District Court for the Eastern District of Virginia, Alexandria, Virginia, indicted Arabi on charges of Conspiracy to Commit Computer Intrusions, Obtaining Information by Unauthorized Access to Protected Computers, Intentional Damage to Protected Computers, Aggravated Identity Theft, and Conspiracy to Commit Wire Fraud, and a federal arrest warrant was issued.</p>\r\n<p>\u00a0</p>",
+		"race_raw": "White",
+		"languages": [
+			"Farsi"
+		],
+		"hair": "brown",
+		"uid": "cf4be471a5304cefbdd7f0e8041e5703",
+		"suspects": null,
+		"publication": "2020-09-09T08:05:00",
+		"warning_message": null,
+		"race": "white",
+		"occupations": null,
+		"possible_countries": null,
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"field_offices": [
+			"washingtondc"
+		],
+		"ncic": null,
+		"sex": "Male",
+		"legat_names": null,
+		"complexion": null,
+		"url": "https://www.fbi.gov/wanted/cyber/said-pourkarim-arabi",
+		"coordinates": [],
+		"height_min": 72,
+		"eyes_raw": "Brown",
+		"age_max": null,
+		"title": "SAID POURKARIM ARABI",
+		"weight_max": 225,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/cyber/said-pourkarim-arabi/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/cyber/said-pourkarim-arabi/arabifarsi.pdf/@@download/file/arabiFarsi.pdf",
+				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc"
+			}
+		],
+		"hair_raw": "Brown",
+		"weight_min": 225,
+		"place_of_birth": "Iran",
+		"nationality": "Iranian",
+		"reward_text": null,
+		"locations": null,
+		"eyes": "brown",
+		"description": "Conspiracy to Commit Computer Intrusions; Obtaining Information by Unauthorized Access to Protected Computers; Intentional Damage to Protected Computers; Aggravated Identity Theft; Conspiracy to Commit Wire Fraud",
+		"additional_information": null,
+		"reward_max": 0,
+		"weight": "Approximately 225 pounds",
+		"path": "/wanted/cyber/said-pourkarim-arabi",
+		"aliases": [
+			"Said Pourkarimi Arabi",
+			"Saeed Porkarim",
+			"Said Pourkarim",
+			"Mohammadreza Fathi",
+			"Neo",
+			"Neo Unique"
+		],
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/cyber/said-pourkarim-arabi/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cyber/said-pourkarim-arabi/@@images/image",
+				"large": "https://www.fbi.gov/wanted/cyber/said-pourkarim-arabi/@@images/image/large"
+			}
+		],
+		"reward_min": 0,
+		"status": "na",
+		"details": null,
+		"age_min": null,
+		"age_range": null,
+		"possible_states": null,
+		"modified": "2022-11-30T16:40:18+00:00",
+		"dates_of_birth_used": [
+			"February 21, 1986"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/cf4be471a5304cefbdd7f0e8041e5703"
+	},
+	{
 		"scars_and_marks": "Carranza has several tattoos on his upper right bicep of the words \"Miguel Angel\", with praying hands under the words, a small cross with a glowing halo around it under the hands, and the words \"Daddy's Boy\" under the cross.  Carranza also has a noticeable widow's peak on his hairline.",
 		"person_classification": "Main",
 		"height_max": 66,
@@ -49288,92 +49374,6 @@
 			"December 21, 1972"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/28729dd533ef4c74a5da1da21f4d17d8"
-	},
-	{
-		"scars_and_marks": null,
-		"person_classification": "Main",
-		"height_max": 72,
-		"build": null,
-		"remarks": null,
-		"caution": "<p>Said Pourkarim Arabi, <a href=\"https://www.fbi.gov/wanted/cyber/mohammad-reza-espargham\" data-urltype=\"/view\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/cyber/mohammad-reza-espargham\">Mohammad Reza Espargham</a>, and <a href=\"https://www.fbi.gov/wanted/cyber/mohammad-bayati\" data-urltype=\"/view\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/cyber/mohammad-bayati\">Mohammad Bayati</a> are wanted for their alleged involvement in criminal activities including computer intrusions, identity theft, and wire fraud. These Iranian hackers allegedly conspired to commit computer intrusions targeting American companies in the aerospace and satellite industries. They allegedly engaged in a coordinated campaign of social engineering that resulted in the theft of United States citizens\u2019 identities, which they then used to steal critical information related to American aerospace and satellite technology and resources, including sensitive commercial information, intellectual property, and personal data. The men allegedly conducted this activity at the direction of Iran\u2019s Islamic Revolutionary Guard Corps (IRGC).\u00a0 On September 15, 2020, a federal grand jury in the United States District Court for the Eastern District of Virginia, Alexandria, Virginia, indicted Arabi on charges of Conspiracy to Commit Computer Intrusions, Obtaining Information by Unauthorized Access to Protected Computers, Intentional Damage to Protected Computers, Aggravated Identity Theft, and Conspiracy to Commit Wire Fraud, and a federal arrest warrant was issued.</p>\r\n<p>\u00a0</p>",
-		"race_raw": "White",
-		"languages": [
-			"Farsi"
-		],
-		"hair": "brown",
-		"uid": "cf4be471a5304cefbdd7f0e8041e5703",
-		"suspects": null,
-		"publication": "2020-09-09T08:05:00",
-		"warning_message": null,
-		"race": "white",
-		"occupations": null,
-		"possible_countries": null,
-		"subjects": [
-			"Cyber's Most Wanted"
-		],
-		"field_offices": [
-			"washingtondc"
-		],
-		"ncic": null,
-		"sex": "Male",
-		"legat_names": null,
-		"complexion": null,
-		"url": "https://www.fbi.gov/wanted/cyber/said-pourkarim-arabi",
-		"coordinates": [],
-		"height_min": 72,
-		"eyes_raw": "Brown",
-		"age_max": null,
-		"title": "SAID POURKARIM ARABI",
-		"weight_max": 225,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/cyber/said-pourkarim-arabi/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/cyber/said-pourkarim-arabi/arabifarsi.pdf/@@download/file/arabiFarsi.pdf",
-				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc"
-			}
-		],
-		"hair_raw": "Brown",
-		"weight_min": 225,
-		"place_of_birth": "Iran",
-		"nationality": "Iranian",
-		"reward_text": null,
-		"locations": null,
-		"eyes": "brown",
-		"description": "Conspiracy to Commit Computer Intrusions; Obtaining Information by Unauthorized Access to Protected Computers; Intentional Damage to Protected Computers; Aggravated Identity Theft; Conspiracy to Commit Wire Fraud",
-		"additional_information": null,
-		"reward_max": 0,
-		"weight": "Approximately 225 pounds",
-		"path": "/wanted/cyber/said-pourkarim-arabi",
-		"aliases": [
-			"Said Pourkarimi Arabi",
-			"Saeed Porkarim",
-			"Said Pourkarim",
-			"Mohammadreza Fathi",
-			"Neo",
-			"Neo Unique"
-		],
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/cyber/said-pourkarim-arabi/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/said-pourkarim-arabi/@@images/image",
-				"large": "https://www.fbi.gov/wanted/cyber/said-pourkarim-arabi/@@images/image/large"
-			}
-		],
-		"reward_min": 0,
-		"status": "na",
-		"details": null,
-		"age_min": null,
-		"age_range": null,
-		"possible_states": null,
-		"modified": "2022-11-30T16:40:18+00:00",
-		"dates_of_birth_used": [
-			"February 21, 1986"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/cf4be471a5304cefbdd7f0e8041e5703"
 	},
 	{
 		"scars_and_marks": null,
@@ -50128,6 +50128,88 @@
 		"@id": "https://api.fbi.gov/@wanted-person/59065235552c48db989972d35b7e0c4f"
 	},
 	{
+		"scars_and_marks": "Traversie, Jr., had a dent on his right temple.",
+		"person_classification": "Main",
+		"height_max": 71,
+		"build": null,
+		"remarks": "<p>Traversie, Jr., was an enrolled member of the Cheyenne River Sioux Tribe Indian Reservation.</p>",
+		"caution": null,
+		"race_raw": "Native American",
+		"languages": null,
+		"hair": "black",
+		"uid": "b659218ef3554ffe960878620f184cb6",
+		"suspects": null,
+		"publication": "2020-04-17T08:15:00",
+		"warning_message": null,
+		"race": "native",
+		"occupations": null,
+		"possible_countries": null,
+		"subjects": [
+			"Seeking Information",
+			"Indian Country"
+		],
+		"field_offices": [
+			"minneapolis"
+		],
+		"ncic": null,
+		"sex": "Male",
+		"legat_names": null,
+		"complexion": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-",
+		"coordinates": [],
+		"height_min": 71,
+		"eyes_raw": "Brown",
+		"age_max": null,
+		"title": "DELMAS TRAVERSIE, JR.",
+		"weight_max": 280,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/download.pdf",
+				"name": "English"
+			}
+		],
+		"hair_raw": "Black",
+		"weight_min": 280,
+		"place_of_birth": "Pierre, South Dakota",
+		"nationality": "American",
+		"reward_text": "The FBI is offering a reward of up to $10,000 for information that leads to an arrest and conviction in this case.",
+		"locations": null,
+		"eyes": "brown",
+		"description": "Homicide Victim\r\nEagle Butte, South Dakota\r\nMarch 2019",
+		"additional_information": null,
+		"reward_max": 0,
+		"weight": "280 pounds",
+		"path": "/wanted/seeking-info/delmas-traversie-jr-",
+		"aliases": [
+			"\"Cactus\""
+		],
+		"images": [
+			{
+				"caption": "Delmas Traversie, Jr.",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/@@images/image/large"
+			},
+			{
+				"caption": "Carmen Charger",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/carmen_charger.png/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/carmen_charger.png",
+				"large": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/carmen_charger.png/@@images/image/large"
+			}
+		],
+		"reward_min": 0,
+		"status": "na",
+		"details": "<p>The Federal Bureau of Investigation's Minneapolis Field Office, Pierre, South Dakota, Resident Agency, along with the Cheyenne River Sioux Tribe Law Enforcement Services, is seeking the public\u2019s assistance in identifying the unknown individual(s) responsible for the murders of Delmas Traversie, Jr., and <a href=\"https://www.fbi.gov/wanted/seeking-info/carmen-charger\" data-urltype=\"_direct_\" data-linktype=\"internal\" data-val=\"66802fe008634da18d76070e809e2271\">Carmen Charger</a>, in Eagle Butte, South Dakota, in March of 2019.</p>\r\n<p>From March 13, 2019, through March 15, 2019, a snow storm occurred in most of South Dakota. Traversie, Jr., 63, and Charger, 39, were killed at House 717, No Heart Housing, in Eagle Butte around that time. Anyone with information related to their deaths or related to the presence of individuals frequenting House 717 around the time of this snow storm is asked to contact the FBI.</p>",
+		"age_min": null,
+		"age_range": null,
+		"possible_states": null,
+		"modified": "2022-11-30T16:40:13+00:00",
+		"dates_of_birth_used": [
+			"August 10, 1955"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/b659218ef3554ffe960878620f184cb6"
+	},
+	{
 		"scars_and_marks": null,
 		"person_classification": "Main",
 		"height_max": 64,
@@ -50292,88 +50374,6 @@
 			"July 14, 1982"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/7e7d6aca17a64b919be681951e994465"
-	},
-	{
-		"scars_and_marks": "Traversie, Jr., had a dent on his right temple.",
-		"person_classification": "Main",
-		"height_max": 71,
-		"build": null,
-		"remarks": "<p>Traversie, Jr., was an enrolled member of the Cheyenne River Sioux Tribe Indian Reservation.</p>",
-		"caution": null,
-		"race_raw": "Native American",
-		"languages": null,
-		"hair": "black",
-		"uid": "b659218ef3554ffe960878620f184cb6",
-		"suspects": null,
-		"publication": "2020-04-17T08:15:00",
-		"warning_message": null,
-		"race": "native",
-		"occupations": null,
-		"possible_countries": null,
-		"subjects": [
-			"Seeking Information",
-			"Indian Country"
-		],
-		"field_offices": [
-			"minneapolis"
-		],
-		"ncic": null,
-		"sex": "Male",
-		"legat_names": null,
-		"complexion": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-",
-		"coordinates": [],
-		"height_min": 71,
-		"eyes_raw": "Brown",
-		"age_max": null,
-		"title": "DELMAS TRAVERSIE, JR.",
-		"weight_max": 280,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/download.pdf",
-				"name": "English"
-			}
-		],
-		"hair_raw": "Black",
-		"weight_min": 280,
-		"place_of_birth": "Pierre, South Dakota",
-		"nationality": "American",
-		"reward_text": "The FBI is offering a reward of up to $10,000 for information that leads to an arrest and conviction in this case.",
-		"locations": null,
-		"eyes": "brown",
-		"description": "Homicide Victim\r\nEagle Butte, South Dakota\r\nMarch 2019",
-		"additional_information": null,
-		"reward_max": 0,
-		"weight": "280 pounds",
-		"path": "/wanted/seeking-info/delmas-traversie-jr-",
-		"aliases": [
-			"\"Cactus\""
-		],
-		"images": [
-			{
-				"caption": "Delmas Traversie, Jr.",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/@@images/image/large"
-			},
-			{
-				"caption": "Carmen Charger",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/carmen_charger.png/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/carmen_charger.png",
-				"large": "https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-/carmen_charger.png/@@images/image/large"
-			}
-		],
-		"reward_min": 0,
-		"status": "na",
-		"details": "<p>The Federal Bureau of Investigation's Minneapolis Field Office, Pierre, South Dakota, Resident Agency, along with the Cheyenne River Sioux Tribe Law Enforcement Services, is seeking the public\u2019s assistance in identifying the unknown individual(s) responsible for the murders of Delmas Traversie, Jr., and <a href=\"https://www.fbi.gov/wanted/seeking-info/carmen-charger\" data-urltype=\"_direct_\" data-linktype=\"internal\" data-val=\"66802fe008634da18d76070e809e2271\">Carmen Charger</a>, in Eagle Butte, South Dakota, in March of 2019.</p>\r\n<p>From March 13, 2019, through March 15, 2019, a snow storm occurred in most of South Dakota. Traversie, Jr., 63, and Charger, 39, were killed at House 717, No Heart Housing, in Eagle Butte around that time. Anyone with information related to their deaths or related to the presence of individuals frequenting House 717 around the time of this snow storm is asked to contact the FBI.</p>",
-		"age_min": null,
-		"age_range": null,
-		"possible_states": null,
-		"modified": "2022-11-30T16:40:13+00:00",
-		"dates_of_birth_used": [
-			"August 10, 1955"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/b659218ef3554ffe960878620f184cb6"
 	},
 	{
 		"scars_and_marks": null,
@@ -73515,91 +73515,91 @@
 		"@id": "https://api.fbi.gov/@wanted-person/2fc3b3ca839875637691c186c15a8d76"
 	},
 	{
-		"scars_and_marks": null,
+		"scars_and_marks": "Constance has a tattoo on his left arm and a mole on his neck.",
 		"person_classification": "Main",
-		"height_max": 72,
+		"height_max": 74,
 		"build": null,
-		"remarks": "<p>Landeros is a dual citizen of both Mexico and the United States. He is known to have fled to Mexico after the murder and may still be living there or in Central America. Landeros speaks both Spanish and English.</p>",
-		"caution": "<p>Jorge Rueda Landeros is wanted for his alleged involvement in the murder of a woman in Bethesda, Maryland, on October 25, 2010. She was found deceased in the basement of her home, which also looked like it had been burglarized. Landeros allegedly had both a personal and financial relationship with the victim, an accounting professor at a local university. On April 16, 2011, a local arrest warrant was issued in the Montgomery County District Court, Rockville, Maryland, after Landeros was charged with first degree murder. A federal arrest warrant was issued on June 2, 2011, in the United States District Court, District of Maryland, Greenbelt, Maryland, after Landeros was charged with unlawful flight to avoid prosecution.</p>",
-		"race_raw": "White (Hispanic)",
+		"remarks": null,
+		"caution": "<p>Joe Matthew Constance, a convicted felon, is wanted for his alleged involvement in the murder of his estranged wife in Calcasieu Parish, Louisiana, on June 5, 2011. It is alleged that Constance forcefully entered his estranged wife's residence, confronted other occupants of the residence, threatened to shoot two of the occupants and physically assaulted another one while demanding to know the location of his estranged wife. When Constance located his estranged wife in another area of her residence, he allegedly shot and killed her, and fled the area.</p>\r\n<p>\u00a0</p>\r\n<p>That same day, Constance was charged with first degree murder, aggravated assault and aggravated burglary, by the Fourteenth Judiciary District Court, State of Louisiana, Parish of Calcasieu, and a state warrant was issued for his arrest. A federal arrest warrant was issued by the United States District Court for the Western District of Louisiana on October 16, 2014, after Constance was charged federally with unlawful flight to avoid prosecution.</p>",
+		"race_raw": "White",
 		"languages": null,
-		"hair": "black",
-		"uid": "8816e2f7-5bb6-4501-a119-249523877890",
+		"hair": "brown",
+		"uid": "d0280905-52b5-4c98-90be-599cd73ad306",
 		"suspects": null,
-		"publication": "2014-08-26T07:00:00",
+		"publication": "2015-06-02T07:00:00",
 		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
-		"race": "hispanic",
-		"occupations": [
-			"Teacher of Spanish and Yoga"
-		],
+		"race": "white",
+		"occupations": null,
 		"possible_countries": null,
 		"subjects": [
 			"Violent Crime - Murders"
 		],
 		"field_offices": [
-			"baltimore"
+			"neworleans"
 		],
-		"ncic": "W052812716",
+		"ncic": "W982172903",
 		"sex": "Male",
 		"legat_names": null,
 		"complexion": null,
-		"url": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros",
+		"url": "https://www.fbi.gov/wanted/murders/joe-matthew-constance",
 		"coordinates": [],
-		"height_min": 72,
+		"height_min": 74,
 		"eyes_raw": "Brown",
 		"age_max": null,
-		"title": "JORGE RUEDA LANDEROS",
-		"weight_max": 200,
+		"title": "JOE MATTHEW CONSTANCE",
+		"weight_max": 220,
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/download.pdf",
+				"url": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/download.pdf",
 				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/jorge-rueda-landeros-en-espanol.pdf/@@download/file/Jorge Rueda Landeros  EN ESPA\u00d1OL.pdf",
-				"name": "EN ESPA\u00d1OL"
 			}
 		],
-		"hair_raw": "Black",
-		"weight_min": 200,
-		"place_of_birth": "Juarez, Chihuahua, Mexico",
-		"nationality": "Mexican",
-		"reward_text": null,
+		"hair_raw": "Brown",
+		"weight_min": 190,
+		"place_of_birth": "Louisiana",
+		"nationality": "American",
+		"reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the arrest and conviction of Joe Matthew Constance.",
 		"locations": null,
 		"eyes": "brown",
-		"description": "Unlawful Flight to Avoid Prosecution - First Degree Murder",
+		"description": "Unlawful Flight to Avoid Prosecution - First Degree Murder, Aggravated Assault, Aggravated Burglary",
 		"additional_information": null,
-		"reward_max": 0,
-		"weight": "200 pounds",
-		"path": "/wanted/murders/jorge-rueda-landeros",
+		"reward_max": 99999,
+		"weight": "190 to 220 pounds",
+		"path": "/wanted/murders/joe-matthew-constance",
 		"aliases": [
-			"Landeros Jorge Rueda"
+			"Joe Constance",
+			"Joe M. Constance",
+			"Joe Mathew Constance",
+			"Joseph Constance"
 		],
 		"images": [
 			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/@@images/image",
-				"large": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/@@images/image/large"
+				"caption": "Photograph taken in 2010",
+				"thumb": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/@@images/image",
+				"large": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/@@images/image/large"
 			},
 			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/landeros2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/landeros2.jpg",
-				"large": "https://www.fbi.gov/wanted/murders/jorge-rueda-landeros/landeros2.jpg/@@images/image/large"
+				"caption": "Photograph taken circa 1998",
+				"thumb": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/constance_jm1.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/constance_jm1.jpg",
+				"large": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/constance_jm1.jpg/@@images/image/large"
 			}
 		],
-		"reward_min": 0,
+		"reward_min": 10000,
 		"status": "na",
 		"details": null,
 		"age_min": null,
 		"age_range": null,
-		"possible_states": null,
+		"possible_states": [
+			"US-LA"
+		],
 		"modified": "2022-11-30T16:37:40+00:00",
 		"dates_of_birth_used": [
-			"December 31, 1969"
+			"July 27, 1967",
+			"February 27, 1967"
 		],
-		"@id": "https://api.fbi.gov/@wanted-person/8816e2f7-5bb6-4501-a119-249523877890"
+		"@id": "https://api.fbi.gov/@wanted-person/d0280905-52b5-4c98-90be-599cd73ad306"
 	},
 	{
 		"scars_and_marks": null,
