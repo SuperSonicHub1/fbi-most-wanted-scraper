@@ -11627,87 +11627,6 @@
 		"scars_and_marks": null,
 		"possible_states": null,
 		"dates_of_birth_used": [
-			"July 11, 1989",
-			"July 11, 1990",
-			"August 5, 1981"
-		],
-		"aliases": null,
-		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/cyber/amin-shokohi/download.pdf"
-			},
-			{
-				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc",
-				"url": "https://www.fbi.gov/wanted/cyber/amin-shokohi/shokohifarsi.pdf/@@download/file/shokohifarsi.pdf"
-			}
-		],
-		"uid": "9d06a9ef84c148439c6493cb15b856b2",
-		"additional_information": null,
-		"field_offices": [
-			"newyork"
-		],
-		"images": [
-			{
-				"thumb": "https://www.fbi.gov/wanted/cyber/amin-shokohi/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/amin-shokohi/@@images/image",
-				"large": "https://www.fbi.gov/wanted/cyber/amin-shokohi/@@images/image/large",
-				"caption": null
-			}
-		],
-		"status": "na",
-		"height_max": 66,
-		"description": "Conspiracy to Commit, and Aid and Abet, Computer Intrusion",
-		"weight_min": 160,
-		"race": null,
-		"race_raw": null,
-		"coordinates": [],
-		"subjects": [
-			"Cyber's Most Wanted"
-		],
-		"eyes": "brown",
-		"occupations": [
-			"Software Engineer"
-		],
-		"remarks": "<p>Shokohi is known to speak Farsi and is thought to be living in Iran.</p>",
-		"ncic": "W615874377",
-		"place_of_birth": "Karaj, Iran",
-		"complexion": null,
-		"legat_names": null,
-		"eyes_raw": "Brown",
-		"weight_max": 160,
-		"languages": null,
-		"build": null,
-		"details": null,
-		"age_min": null,
-		"hair_raw": "Brown",
-		"possible_countries": null,
-		"age_range": null,
-		"url": "https://www.fbi.gov/wanted/cyber/amin-shokohi",
-		"person_classification": "Main",
-		"caution": "<p>Amin Shokohi is wanted for his alleged involvement in a conspiracy to conduct a coordinated campaign of <a href=\"https://www.fbi.gov/wanted/cyber/iranian-ddos-attacks/view\">distributed denial of service (\"DDoS\") attacks</a> against the United States financial sector and other United States companies from 2011 through 2013. Shokohi was a computer hacker who worked for ITSecTeam, an Iranian information technology company. He allegedly helped build the botnet that was used to direct the DDoS attacks, and authored attack scripts and created malware that were used to engage in the attacks. Shokohi also allegedly obtained bot shells that were used in the DDoS attacks.</p>\r\n<p>\u00a0</p>\r\n<p>On January 21, 2016, a grand jury in the United States District Court, Southern District of New York, indicted Shokohi for his alleged involvement in the scheme and a federal warrant was issued for his arrest after he was charged with conspiracy to commit, and aid and abet, computer intrusion.</p>",
-		"publication": "2016-07-15T14:41:00",
-		"reward_text": null,
-		"reward_min": 0,
-		"path": "/wanted/cyber/amin-shokohi",
-		"weight": "Approximately 160 pounds",
-		"height_min": 66,
-		"nationality": null,
-		"sex": "Male",
-		"reward_max": 0,
-		"modified": "2022-12-01T00:10:44+00:00",
-		"age_max": null,
-		"suspects": null,
-		"hair": "brown",
-		"title": "AMIN SHOKOHI",
-		"locations": null,
-		"@id": "https://api.fbi.gov/@wanted-person/9d06a9ef84c148439c6493cb15b856b2"
-	},
-	{
-		"scars_and_marks": null,
-		"possible_states": null,
-		"dates_of_birth_used": [
 			"February 20, 1990 "
 		],
 		"aliases": [
@@ -11784,6 +11703,87 @@
 		"title": "NADER SAEDI",
 		"locations": null,
 		"@id": "https://api.fbi.gov/@wanted-person/c2cfafa4b39848dabce2ff13a7dcec93"
+	},
+	{
+		"scars_and_marks": null,
+		"possible_states": null,
+		"dates_of_birth_used": [
+			"July 11, 1989",
+			"July 11, 1990",
+			"August 5, 1981"
+		],
+		"aliases": null,
+		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/cyber/amin-shokohi/download.pdf"
+			},
+			{
+				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc",
+				"url": "https://www.fbi.gov/wanted/cyber/amin-shokohi/shokohifarsi.pdf/@@download/file/shokohifarsi.pdf"
+			}
+		],
+		"uid": "9d06a9ef84c148439c6493cb15b856b2",
+		"additional_information": null,
+		"field_offices": [
+			"newyork"
+		],
+		"images": [
+			{
+				"thumb": "https://www.fbi.gov/wanted/cyber/amin-shokohi/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cyber/amin-shokohi/@@images/image",
+				"large": "https://www.fbi.gov/wanted/cyber/amin-shokohi/@@images/image/large",
+				"caption": null
+			}
+		],
+		"status": "na",
+		"height_max": 66,
+		"description": "Conspiracy to Commit, and Aid and Abet, Computer Intrusion",
+		"weight_min": 160,
+		"race": null,
+		"race_raw": null,
+		"coordinates": [],
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"eyes": "brown",
+		"occupations": [
+			"Software Engineer"
+		],
+		"remarks": "<p>Shokohi is known to speak Farsi and is thought to be living in Iran.</p>",
+		"ncic": "W615874377",
+		"place_of_birth": "Karaj, Iran",
+		"complexion": null,
+		"legat_names": null,
+		"eyes_raw": "Brown",
+		"weight_max": 160,
+		"languages": null,
+		"build": null,
+		"details": null,
+		"age_min": null,
+		"hair_raw": "Brown",
+		"possible_countries": null,
+		"age_range": null,
+		"url": "https://www.fbi.gov/wanted/cyber/amin-shokohi",
+		"person_classification": "Main",
+		"caution": "<p>Amin Shokohi is wanted for his alleged involvement in a conspiracy to conduct a coordinated campaign of <a href=\"https://www.fbi.gov/wanted/cyber/iranian-ddos-attacks/view\">distributed denial of service (\"DDoS\") attacks</a> against the United States financial sector and other United States companies from 2011 through 2013. Shokohi was a computer hacker who worked for ITSecTeam, an Iranian information technology company. He allegedly helped build the botnet that was used to direct the DDoS attacks, and authored attack scripts and created malware that were used to engage in the attacks. Shokohi also allegedly obtained bot shells that were used in the DDoS attacks.</p>\r\n<p>\u00a0</p>\r\n<p>On January 21, 2016, a grand jury in the United States District Court, Southern District of New York, indicted Shokohi for his alleged involvement in the scheme and a federal warrant was issued for his arrest after he was charged with conspiracy to commit, and aid and abet, computer intrusion.</p>",
+		"publication": "2016-07-15T14:41:00",
+		"reward_text": null,
+		"reward_min": 0,
+		"path": "/wanted/cyber/amin-shokohi",
+		"weight": "Approximately 160 pounds",
+		"height_min": 66,
+		"nationality": null,
+		"sex": "Male",
+		"reward_max": 0,
+		"modified": "2022-12-01T00:10:44+00:00",
+		"age_max": null,
+		"suspects": null,
+		"hair": "brown",
+		"title": "AMIN SHOKOHI",
+		"locations": null,
+		"@id": "https://api.fbi.gov/@wanted-person/9d06a9ef84c148439c6493cb15b856b2"
 	},
 	{
 		"scars_and_marks": null,
@@ -14726,81 +14726,6 @@
 		"scars_and_marks": null,
 		"possible_states": null,
 		"dates_of_birth_used": [
-			"February 26, 1978"
-		],
-		"aliases": [
-			"Brian Joseph DeVirgilio"
-		],
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/additional/andrey-vusik/download.pdf"
-			}
-		],
-		"uid": "fc2735d51fd7e08112dcebb6cae97fdc",
-		"additional_information": null,
-		"field_offices": [
-			"sacramento"
-		],
-		"images": [
-			{
-				"thumb": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image",
-				"large": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image/large",
-				"caption": "Photograph taken in 2006"
-			}
-		],
-		"status": "na",
-		"height_max": 75,
-		"description": "Unlawful Flight to Avoid Prosecution - Involuntary Manslaughter",
-		"weight_min": 210,
-		"race": "white",
-		"race_raw": "White",
-		"coordinates": [],
-		"subjects": [
-			"Additional Violent Crimes"
-		],
-		"eyes": null,
-		"occupations": null,
-		"remarks": "<p>Vusik is a legal resident alien of the United States. He may have traveled to Moscow, Russia, or the Ukraine.</p>",
-		"ncic": "W242860636",
-		"place_of_birth": "Ukraine",
-		"complexion": null,
-		"legat_names": null,
-		"eyes_raw": "Gray",
-		"weight_max": 210,
-		"languages": null,
-		"build": null,
-		"details": null,
-		"age_min": null,
-		"hair_raw": "Brown (May be Shaved)",
-		"possible_countries": null,
-		"age_range": null,
-		"url": "https://www.fbi.gov/wanted/additional/andrey-vusik",
-		"person_classification": "Main",
-		"caution": "<p>Andrey Vusik is wanted for his alleged participation in the involuntary manslaughter of a man in a Sacramento, California, area park. On July 1, 2007, Vusik and several other individuals were at the park when a verbal confrontation ensued between them and a group of other males. It is alleged that Vusik and his group made derogatory comments about the sexual orientation of one of the men in the other group and, in return, the other group of males made insulting comments about Vusik and his group's heritage. The altercation escalated and a fist fight erupted. Vusik allegedly struck the victim, who fell and hit his head. The victim was in a coma for a few days before dying.</p>\r\n<p>\u00a0</p>\r\n<p>On July 27, 2007, the Sacramento Superior Court for the County of Sacramento, California, issued a warrant for Vusik's arrest and he was charged with involuntary manslaughter. After it was discovered that Vusik had fled the country, a federal arrest warrant was issued by the United States District Court for the Eastern District of California, Sacramento, California, on August 16, 2007, and Vusik was charged with unlawful flight to avoid prosecution.</p>",
-		"publication": "2010-08-31T11:40:00",
-		"reward_text": null,
-		"reward_min": 0,
-		"path": "/wanted/additional/andrey-vusik",
-		"weight": "210 pounds",
-		"height_min": 75,
-		"nationality": "Ukrainian",
-		"sex": "Male",
-		"reward_max": 0,
-		"modified": "2022-12-01T00:10:16+00:00",
-		"age_max": null,
-		"suspects": null,
-		"hair": "brown",
-		"title": "ANDREY VUSIK",
-		"locations": null,
-		"@id": "https://api.fbi.gov/@wanted-person/fc2735d51fd7e08112dcebb6cae97fdc"
-	},
-	{
-		"scars_and_marks": null,
-		"possible_states": null,
-		"dates_of_birth_used": [
 			"July 27, 1976"
 		],
 		"aliases": [
@@ -14873,6 +14798,81 @@
 		"title": "MIGUEL ANGEL MORALES OROZCO",
 		"locations": null,
 		"@id": "https://api.fbi.gov/@wanted-person/4f9a111a-104a-4b2e-9e34-ee15ad88395a"
+	},
+	{
+		"scars_and_marks": null,
+		"possible_states": null,
+		"dates_of_birth_used": [
+			"February 26, 1978"
+		],
+		"aliases": [
+			"Brian Joseph DeVirgilio"
+		],
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/additional/andrey-vusik/download.pdf"
+			}
+		],
+		"uid": "fc2735d51fd7e08112dcebb6cae97fdc",
+		"additional_information": null,
+		"field_offices": [
+			"sacramento"
+		],
+		"images": [
+			{
+				"thumb": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image",
+				"large": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image/large",
+				"caption": "Photograph taken in 2006"
+			}
+		],
+		"status": "na",
+		"height_max": 75,
+		"description": "Unlawful Flight to Avoid Prosecution - Involuntary Manslaughter",
+		"weight_min": 210,
+		"race": "white",
+		"race_raw": "White",
+		"coordinates": [],
+		"subjects": [
+			"Additional Violent Crimes"
+		],
+		"eyes": null,
+		"occupations": null,
+		"remarks": "<p>Vusik is a legal resident alien of the United States. He may have traveled to Moscow, Russia, or the Ukraine.</p>",
+		"ncic": "W242860636",
+		"place_of_birth": "Ukraine",
+		"complexion": null,
+		"legat_names": null,
+		"eyes_raw": "Gray",
+		"weight_max": 210,
+		"languages": null,
+		"build": null,
+		"details": null,
+		"age_min": null,
+		"hair_raw": "Brown (May be Shaved)",
+		"possible_countries": null,
+		"age_range": null,
+		"url": "https://www.fbi.gov/wanted/additional/andrey-vusik",
+		"person_classification": "Main",
+		"caution": "<p>Andrey Vusik is wanted for his alleged participation in the involuntary manslaughter of a man in a Sacramento, California, area park. On July 1, 2007, Vusik and several other individuals were at the park when a verbal confrontation ensued between them and a group of other males. It is alleged that Vusik and his group made derogatory comments about the sexual orientation of one of the men in the other group and, in return, the other group of males made insulting comments about Vusik and his group's heritage. The altercation escalated and a fist fight erupted. Vusik allegedly struck the victim, who fell and hit his head. The victim was in a coma for a few days before dying.</p>\r\n<p>\u00a0</p>\r\n<p>On July 27, 2007, the Sacramento Superior Court for the County of Sacramento, California, issued a warrant for Vusik's arrest and he was charged with involuntary manslaughter. After it was discovered that Vusik had fled the country, a federal arrest warrant was issued by the United States District Court for the Eastern District of California, Sacramento, California, on August 16, 2007, and Vusik was charged with unlawful flight to avoid prosecution.</p>",
+		"publication": "2010-08-31T11:40:00",
+		"reward_text": null,
+		"reward_min": 0,
+		"path": "/wanted/additional/andrey-vusik",
+		"weight": "210 pounds",
+		"height_min": 75,
+		"nationality": "Ukrainian",
+		"sex": "Male",
+		"reward_max": 0,
+		"modified": "2022-12-01T00:10:16+00:00",
+		"age_max": null,
+		"suspects": null,
+		"hair": "brown",
+		"title": "ANDREY VUSIK",
+		"locations": null,
+		"@id": "https://api.fbi.gov/@wanted-person/fc2735d51fd7e08112dcebb6cae97fdc"
 	},
 	{
 		"scars_and_marks": "Molina-Neave has three freckles or moles in a cresent shape on his right cheek under his right eye.",
@@ -59308,6 +59308,81 @@
 		"files": [
 			{
 				"name": "English",
+				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/download.pdf"
+			},
+			{
+				"name": "EN ESPA\u00d1OL",
+				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/jason-ellis-spanish-final.pdf/@@download/file/jason-ellis.Spanish.final.pdf"
+			}
+		],
+		"uid": "75215c7f-5dc0-4dfc-a750-4b248cf29a4e",
+		"additional_information": null,
+		"field_offices": [
+			"louisville"
+		],
+		"images": [
+			{
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/large",
+				"caption": null
+			}
+		],
+		"status": "na",
+		"height_max": null,
+		"description": "Murder Victim\r\nBardstown, Kentucky\r\nMay 25, 2013",
+		"weight_min": null,
+		"race": null,
+		"race_raw": null,
+		"coordinates": [],
+		"subjects": [
+			"Seeking Information"
+		],
+		"eyes": null,
+		"occupations": null,
+		"remarks": null,
+		"ncic": null,
+		"place_of_birth": null,
+		"complexion": null,
+		"legat_names": null,
+		"eyes_raw": null,
+		"weight_max": null,
+		"languages": null,
+		"build": null,
+		"details": "<p>On May\u00a025\u00a02013, Officer Jason Ellis was\u00a0killed\u00a0after finishing his shift for the Bardstown, Kentucky Police Department.\u00a0\u00a0Ellis\u00a0had\u00a0signed off on the radio\u00a0and was driving home when he encountered branches blocking the road\u00a0on\u00a0exit 34 of the Bluegrass Parkway in Bardstown, Kentucky.\u00a0\u00a0To\u00a0ensure\u00a0the safety of the public, he got out of his vehicle to clear the branches.\u00a0While\u00a0attempting to remove the\u00a0debris,\u00a0he\u00a0was\u00a0\u00a0shot\u00a0several times and died shortly after.\u00a0Officer Ellis was discovered by a passing motorist. He was a K-9 handler (narcotics dog) for the police department in addition to his patrol duties. Outside of work, he was heavily involved in the community including coaching youth baseball.\u00a0<br />\u00a0</p>",
+		"age_min": null,
+		"hair_raw": null,
+		"possible_countries": null,
+		"age_range": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis",
+		"person_classification": "Victim",
+		"caution": null,
+		"publication": "2013-07-22T07:00:00",
+		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the identification, arrest and conviction of the individual(s) responsible for the death of Bardstown, Kentucky Police Officer Jason Ellis.",
+		"reward_min": 10000,
+		"path": "/wanted/seeking-info/jason-ellis",
+		"weight": null,
+		"height_min": null,
+		"nationality": null,
+		"sex": "",
+		"reward_max": 99999,
+		"modified": "2022-12-01T00:03:57+00:00",
+		"age_max": null,
+		"suspects": null,
+		"hair": null,
+		"title": "JASON ELLIS",
+		"locations": null,
+		"@id": "https://api.fbi.gov/@wanted-person/75215c7f-5dc0-4dfc-a750-4b248cf29a4e"
+	},
+	{
+		"scars_and_marks": null,
+		"possible_states": null,
+		"dates_of_birth_used": null,
+		"aliases": null,
+		"warning_message": null,
+		"files": [
+			{
+				"name": "English",
 				"url": "https://www.fbi.gov/file-repository/andersoncd.pdf"
 			},
 			{
@@ -59398,81 +59473,6 @@
 		"title": "CURTIS DEAN ANDERSON",
 		"locations": null,
 		"@id": "https://api.fbi.gov/@wanted-person/e45312fb-109a-4565-87ec-a39d74c85031"
-	},
-	{
-		"scars_and_marks": null,
-		"possible_states": null,
-		"dates_of_birth_used": null,
-		"aliases": null,
-		"warning_message": null,
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/download.pdf"
-			},
-			{
-				"name": "EN ESPA\u00d1OL",
-				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/jason-ellis-spanish-final.pdf/@@download/file/jason-ellis.Spanish.final.pdf"
-			}
-		],
-		"uid": "75215c7f-5dc0-4dfc-a750-4b248cf29a4e",
-		"additional_information": null,
-		"field_offices": [
-			"louisville"
-		],
-		"images": [
-			{
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/large",
-				"caption": null
-			}
-		],
-		"status": "na",
-		"height_max": null,
-		"description": "Murder Victim\r\nBardstown, Kentucky\r\nMay 25, 2013",
-		"weight_min": null,
-		"race": null,
-		"race_raw": null,
-		"coordinates": [],
-		"subjects": [
-			"Seeking Information"
-		],
-		"eyes": null,
-		"occupations": null,
-		"remarks": null,
-		"ncic": null,
-		"place_of_birth": null,
-		"complexion": null,
-		"legat_names": null,
-		"eyes_raw": null,
-		"weight_max": null,
-		"languages": null,
-		"build": null,
-		"details": "<p>On May\u00a025\u00a02013, Officer Jason Ellis was\u00a0killed\u00a0after finishing his shift for the Bardstown, Kentucky Police Department.\u00a0\u00a0Ellis\u00a0had\u00a0signed off on the radio\u00a0and was driving home when he encountered branches blocking the road\u00a0on\u00a0exit 34 of the Bluegrass Parkway in Bardstown, Kentucky.\u00a0\u00a0To\u00a0ensure\u00a0the safety of the public, he got out of his vehicle to clear the branches.\u00a0While\u00a0attempting to remove the\u00a0debris,\u00a0he\u00a0was\u00a0\u00a0shot\u00a0several times and died shortly after.\u00a0Officer Ellis was discovered by a passing motorist. He was a K-9 handler (narcotics dog) for the police department in addition to his patrol duties. Outside of work, he was heavily involved in the community including coaching youth baseball.\u00a0<br />\u00a0</p>",
-		"age_min": null,
-		"hair_raw": null,
-		"possible_countries": null,
-		"age_range": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis",
-		"person_classification": "Victim",
-		"caution": null,
-		"publication": "2013-07-22T07:00:00",
-		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the identification, arrest and conviction of the individual(s) responsible for the death of Bardstown, Kentucky Police Officer Jason Ellis.",
-		"reward_min": 10000,
-		"path": "/wanted/seeking-info/jason-ellis",
-		"weight": null,
-		"height_min": null,
-		"nationality": null,
-		"sex": "",
-		"reward_max": 99999,
-		"modified": "2022-12-01T00:03:57+00:00",
-		"age_max": null,
-		"suspects": null,
-		"hair": null,
-		"title": "JASON ELLIS",
-		"locations": null,
-		"@id": "https://api.fbi.gov/@wanted-person/75215c7f-5dc0-4dfc-a750-4b248cf29a4e"
 	},
 	{
 		"scars_and_marks": null,
@@ -60857,6 +60857,77 @@
 	},
 	{
 		"scars_and_marks": null,
+		"possible_states": null,
+		"dates_of_birth_used": null,
+		"aliases": null,
+		"warning_message": null,
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/download.pdf"
+			}
+		],
+		"uid": "f3ea2fb6-7ad4-4d6f-b0ab-81b3ff0ddb3b",
+		"additional_information": null,
+		"field_offices": [
+			"cleveland"
+		],
+		"images": [
+			{
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image/large",
+				"caption": null
+			}
+		],
+		"status": "na",
+		"height_max": null,
+		"description": "Murder Victim\r\nBay Village, Ohio\r\nOctober 27, 1989",
+		"weight_min": null,
+		"race": null,
+		"race_raw": null,
+		"coordinates": [],
+		"subjects": [
+			"Seeking Information"
+		],
+		"eyes": null,
+		"occupations": null,
+		"remarks": null,
+		"ncic": null,
+		"place_of_birth": null,
+		"complexion": null,
+		"legat_names": null,
+		"eyes_raw": null,
+		"weight_max": null,
+		"languages": null,
+		"build": null,
+		"details": "<p>Amy Renee Mihaljevic was 10 years old when she was abducted from the Bay Village Square shopping center in Bay Village, Ohio, on Friday, October 27, 1989. Mihaljevic left her school on foot and headed to the shopping center, where she was last seen outside a business. She appeared to be waiting for someone. It is reported that a man approached Mihaljevic and put his hand on her shoulder as he walked her through the parking lot.</p>\r\n<p>\u00a0</p>\r\n<p>Further investigation revealed that Mihaljevic had received a phone call prior to her abduction from an unknown person. That person arranged a meeting with Mihaljevic to assist the caller in selecting a gift to give to Mihaljevic's mother because of her promotion at \"Trading Times Magazine.\"</p>\r\n<p>\u00a0</p>\r\n<p>On February 8, 1990, Mihaljevic's body was discovered by a jogger in a field adjacent to Township Road 1181 in rural Ashland County near New London, Ohio. The body was dressed in clothing that Mihaljevic was last seen wearing. Three items - a turquoise horse earring, black ankle boots, and a black leather binder, were believed to have been with Mihaljevic at the time of her abduction and have never been recovered.</p>",
+		"age_min": null,
+		"hair_raw": null,
+		"possible_countries": null,
+		"age_range": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic",
+		"person_classification": "Victim",
+		"caution": null,
+		"publication": "2014-01-22T07:00:00",
+		"reward_text": "The FBI is offering a reward up to $25,000 for information leading to the arrest and conviction of the individual(s) responsible for the death of Amy Renee Mihaljevic.",
+		"reward_min": 0,
+		"path": "/wanted/seeking-info/amy-renee-mihaljevic",
+		"weight": null,
+		"height_min": null,
+		"nationality": null,
+		"sex": "",
+		"reward_max": 0,
+		"modified": "2022-12-01T00:03:46+00:00",
+		"age_max": null,
+		"suspects": null,
+		"hair": null,
+		"title": "AMY RENEE MIHALJEVIC",
+		"locations": null,
+		"@id": "https://api.fbi.gov/@wanted-person/f3ea2fb6-7ad4-4d6f-b0ab-81b3ff0ddb3b"
+	},
+	{
+		"scars_and_marks": null,
 		"possible_states": [
 			"US-OH",
 			"US-PA"
@@ -60934,77 +61005,6 @@
 		"title": "SARAH RAE BOEHM",
 		"locations": null,
 		"@id": "https://api.fbi.gov/@wanted-person/ff53f2cc6e796d35d5f35d2dd0a3ada3"
-	},
-	{
-		"scars_and_marks": null,
-		"possible_states": null,
-		"dates_of_birth_used": null,
-		"aliases": null,
-		"warning_message": null,
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/download.pdf"
-			}
-		],
-		"uid": "f3ea2fb6-7ad4-4d6f-b0ab-81b3ff0ddb3b",
-		"additional_information": null,
-		"field_offices": [
-			"cleveland"
-		],
-		"images": [
-			{
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image/large",
-				"caption": null
-			}
-		],
-		"status": "na",
-		"height_max": null,
-		"description": "Murder Victim\r\nBay Village, Ohio\r\nOctober 27, 1989",
-		"weight_min": null,
-		"race": null,
-		"race_raw": null,
-		"coordinates": [],
-		"subjects": [
-			"Seeking Information"
-		],
-		"eyes": null,
-		"occupations": null,
-		"remarks": null,
-		"ncic": null,
-		"place_of_birth": null,
-		"complexion": null,
-		"legat_names": null,
-		"eyes_raw": null,
-		"weight_max": null,
-		"languages": null,
-		"build": null,
-		"details": "<p>Amy Renee Mihaljevic was 10 years old when she was abducted from the Bay Village Square shopping center in Bay Village, Ohio, on Friday, October 27, 1989. Mihaljevic left her school on foot and headed to the shopping center, where she was last seen outside a business. She appeared to be waiting for someone. It is reported that a man approached Mihaljevic and put his hand on her shoulder as he walked her through the parking lot.</p>\r\n<p>\u00a0</p>\r\n<p>Further investigation revealed that Mihaljevic had received a phone call prior to her abduction from an unknown person. That person arranged a meeting with Mihaljevic to assist the caller in selecting a gift to give to Mihaljevic's mother because of her promotion at \"Trading Times Magazine.\"</p>\r\n<p>\u00a0</p>\r\n<p>On February 8, 1990, Mihaljevic's body was discovered by a jogger in a field adjacent to Township Road 1181 in rural Ashland County near New London, Ohio. The body was dressed in clothing that Mihaljevic was last seen wearing. Three items - a turquoise horse earring, black ankle boots, and a black leather binder, were believed to have been with Mihaljevic at the time of her abduction and have never been recovered.</p>",
-		"age_min": null,
-		"hair_raw": null,
-		"possible_countries": null,
-		"age_range": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic",
-		"person_classification": "Victim",
-		"caution": null,
-		"publication": "2014-01-22T07:00:00",
-		"reward_text": "The FBI is offering a reward up to $25,000 for information leading to the arrest and conviction of the individual(s) responsible for the death of Amy Renee Mihaljevic.",
-		"reward_min": 0,
-		"path": "/wanted/seeking-info/amy-renee-mihaljevic",
-		"weight": null,
-		"height_min": null,
-		"nationality": null,
-		"sex": "",
-		"reward_max": 0,
-		"modified": "2022-12-01T00:03:46+00:00",
-		"age_max": null,
-		"suspects": null,
-		"hair": null,
-		"title": "AMY RENEE MIHALJEVIC",
-		"locations": null,
-		"@id": "https://api.fbi.gov/@wanted-person/f3ea2fb6-7ad4-4d6f-b0ab-81b3ff0ddb3b"
 	},
 	{
 		"scars_and_marks": null,
@@ -64418,86 +64418,93 @@
 		"@id": "https://api.fbi.gov/@wanted-person/73020e74-553f-46b7-8993-687d26749276"
 	},
 	{
-		"scars_and_marks": "Porcaro has an artificial right eye and a scar above his left eye.",
+		"scars_and_marks": null,
 		"possible_states": [
+			"US-AR",
 			"US-FL",
-			"US-NY"
+			"US-NY",
+			"US-TX"
 		],
 		"dates_of_birth_used": [
-			"June 16, 1959"
+			"July 7, 1974"
 		],
-		"aliases": [
-			"John A. Porcaro"
-		],
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+		"aliases": null,
+		"warning_message": null,
 		"files": [
 			{
 				"name": "English",
-				"url": "https://www.fbi.gov/wanted/wcc/john-anthony-porcaro/download.pdf"
+				"url": "https://www.fbi.gov/wanted/wcc/natalia-wolf/download.pdf"
 			}
 		],
-		"uid": "0d8ce11baaed80cf362c08f7aff73cf6",
+		"uid": "73020e74-553f-46b7-8993-687d26749276",
 		"additional_information": null,
 		"field_offices": [
 			"miami"
 		],
 		"images": [
 			{
-				"thumb": "https://www.fbi.gov/wanted/wcc/john-anthony-porcaro/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/wcc/john-anthony-porcaro/@@images/image",
-				"large": "https://www.fbi.gov/wanted/wcc/john-anthony-porcaro/@@images/image/large",
-				"caption": "Photograph taken in 1989"
+				"thumb": "https://www.fbi.gov/wanted/wcc/natalia-wolf/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/wcc/natalia-wolf/@@images/image",
+				"large": "https://www.fbi.gov/wanted/wcc/natalia-wolf/@@images/image/large",
+				"caption": "Natalia Wolf"
+			},
+			{
+				"thumb": "https://www.fbi.gov/wanted/wcc/natalia-wolf/wolfs2a.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/wcc/natalia-wolf/wolfs2a.jpg",
+				"large": "https://www.fbi.gov/wanted/wcc/natalia-wolf/wolfs2a.jpg/@@images/image/large",
+				"caption": "Natalia and her husband, Victor Wolf"
 			}
 		],
 		"status": "na",
-		"height_max": 68,
-		"description": "Conspiracy to Commit Mail and Wire Fraud; Conspiracy to Commit Money Laundering",
-		"weight_min": 197,
+		"height_max": 66,
+		"description": "Conspiracy to Commit Mail Fraud and Wire Fraud",
+		"weight_min": 130,
 		"race": "white",
 		"race_raw": "White",
 		"coordinates": [],
 		"subjects": [
 			"White-Collar Crime"
 		],
-		"eyes": "brown",
+		"eyes": "blue",
 		"occupations": [
-			"Moving company owner"
+			"Real Estate Sales",
+			"Banking"
 		],
-		"remarks": "<p>Porcaro is an alleged associate of the Gambino crime family in New York.</p>",
-		"ncic": "W295378385",
-		"place_of_birth": "New York",
+		"remarks": "<p>The Wolfs are both purportedly German citizens, and are belived to have fled to Moscow, Russia in November of 2006. They speak German, Russian and English. The Wolfs have ties to Florida, Arkansas, Texas and New York.</p>",
+		"ncic": "W761983403",
+		"place_of_birth": "Russian Federation",
 		"complexion": null,
 		"legat_names": null,
-		"eyes_raw": "Brown",
-		"weight_max": 197,
+		"eyes_raw": "Blue",
+		"weight_max": 130,
 		"languages": null,
 		"build": null,
 		"details": null,
 		"age_min": null,
-		"hair_raw": "Brown",
+		"hair_raw": "Brown/Red",
 		"possible_countries": [
-			"USA"
+			"RUS"
 		],
 		"age_range": null,
-		"url": "https://www.fbi.gov/wanted/wcc/john-anthony-porcaro",
+		"url": "https://www.fbi.gov/wanted/wcc/natalia-wolf",
 		"person_classification": "Main",
-		"caution": "<p>John Anthony Porcaro is wanted for his alleged involvement in a South Florida telemarketing scheme which defrauded more than 400 individuals throughout the United States out of more than $5 million. Between February and December of 1998, the Trump Financial Group and the Sheffield Group were doing business as telemarketing firms which obtained money from investors for purported investment in foreign currency options in the foreign exchange markets. It is alleged that investors were promised as much as 700 percent returns based upon the rise and fall of the value of foreign currencies in relation to the value of the United States Dollar.</p>\r\n<p>\u00a0</p>\r\n<p>Investors rarely, if ever, received returns on their investments and money raised from investors allegedly was used for the personal benefit of the firms' principal employees and telemarketers who sold investments. A substantial amount of the money also was transferred to offshore bank accounts in the Cayman Islands.</p>\r\n<p>\u00a0</p>\r\n<p>On October 21, 2003, a federal indictment was filed by the United States District Court, Southern District of Florida, charging Porcaro, and others who are no longer at large, with multiple counts of wire fraud, mail fraud, and money laundering. A federal warrant remains outstanding for the arrest of Porcaro.</p>",
-		"publication": "2010-08-17T17:15:00",
-		"reward_text": "The FBI is offering a reward for information leading to the arrest of John Anthony Porcaro.",
+		"caution": "<p>Natalia Wolf and her husband, <a data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/wcc/victor-wolf/\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/wcc/victor-wolf/\">Victor Wolf</a>, are wanted for their alleged involvement in a massive real estate-related fraud scheme. From approximately 2004 through 2006, the Wolfs established approximately two dozen Florida corporations, one of which was Sky Development Group (SDG), to conduct the fraudulent investment scheme. SDG targeted Americans and Russian immigrants, luring them to invest in real estate with promises of high rates of return on their investments, and cheap available land. SDG also resold land that had been previously sold without the knowledge or consent of the owners. The Wolfs also issued fraudulent deeds and other documents to investors and buyers. There are at least 100 known victims of the scheme who have lost in excess of $20 million.</p>\r\n<p>\u00a0</p>\r\n<p>On January 18, 2011, federal arrest warrants were issued by the United States District Court, Southern District of Florida, Fort Lauderdale, Florida, after the Wolfs were charged with conspiracy to commit mail fraud and wire fraud.</p>",
+		"publication": "2013-01-25T07:00:00",
+		"reward_text": null,
 		"reward_min": 0,
-		"path": "/wanted/wcc/john-anthony-porcaro",
-		"weight": "197 pounds",
-		"height_min": 68,
-		"nationality": "American",
-		"sex": "Male",
+		"path": "/wanted/wcc/natalia-wolf",
+		"weight": "130 pounds",
+		"height_min": 64,
+		"nationality": "Russian",
+		"sex": "Female",
 		"reward_max": 0,
 		"modified": "2022-12-01T00:03:14+00:00",
 		"age_max": null,
 		"suspects": null,
 		"hair": "brown",
-		"title": "JOHN ANTHONY PORCARO",
+		"title": "NATALIA WOLF",
 		"locations": null,
-		"@id": "https://api.fbi.gov/@wanted-person/0d8ce11baaed80cf362c08f7aff73cf6"
+		"@id": "https://api.fbi.gov/@wanted-person/73020e74-553f-46b7-8993-687d26749276"
 	},
 	{
 		"scars_and_marks": "None known",
@@ -72789,101 +72796,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/3b484f7f-5458-4137-a274-2569d84e153e"
 	},
 	{
-		"scars_and_marks": null,
-		"possible_states": null,
-		"dates_of_birth_used": [
-			"February 27, 1959"
-		],
-		"aliases": [
-			"Jungle Mike",
-			"Thaymes Micah"
-		],
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/download.pdf"
-			},
-			{
-				"name": "EN ESPA\u00d1OL",
-				"url": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/thayne-alan-smika-en-espanol.pdf/@@download/file/Thayne Alan Smika EN ESPA\u00d1OL.pdf"
-			}
-		],
-		"uid": "79538f13-5340-4c9d-b40f-19a311817d85",
-		"additional_information": null,
-		"field_offices": [
-			"denver"
-		],
-		"images": [
-			{
-				"thumb": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/@@images/image",
-				"large": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/@@images/image/large",
-				"caption": "Photograph taken in 1983"
-			},
-			{
-				"thumb": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-1-plain.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-1-plain.jpg",
-				"large": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-1-plain.jpg/@@images/image/large",
-				"caption": "Drawing age progressed to 52 years old "
-			},
-			{
-				"thumb": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-5-all-xtras.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-5-all-xtras.jpg",
-				"large": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-5-all-xtras.jpg/@@images/image/large",
-				"caption": "Drawing enhanced, age progressed to 52 years old"
-			}
-		],
-		"status": "na",
-		"height_max": 71,
-		"description": "Unlawful Flight to Avoid Prosecution - First Degree Murder",
-		"weight_min": 140,
-		"race": "white",
-		"race_raw": "White",
-		"coordinates": [],
-		"subjects": [
-			"Violent Crime - Murders"
-		],
-		"eyes": "hazel",
-		"occupations": null,
-		"remarks": "<p>As seen in the drawings displayed above, Smika may be clean shaven, he may have a beard or moustache, and may wear glasses. Smika does not have a valid United States passport. And, through investigation, it was revealed that Smika may have lived in the town of Yelapa, Mexico, for many years prior to 2007. Additionally, Smika may be residing in California.</p>",
-		"ncic": "W581758596",
-		"place_of_birth": "North Dakota",
-		"complexion": null,
-		"legat_names": null,
-		"eyes_raw": "Hazel",
-		"weight_max": 140,
-		"languages": [
-			"Spanish",
-			"English"
-		],
-		"build": "Sinewy (thin)",
-		"details": null,
-		"age_min": null,
-		"hair_raw": "Brown (sun-bleached to golden)",
-		"possible_countries": null,
-		"age_range": null,
-		"url": "https://www.fbi.gov/wanted/murders/thayne-alan-smika",
-		"person_classification": "Main",
-		"caution": "<p>Thayne Alan Smika is wanted for a murder which occurred on August 1, 1983. On that day, police officers responded to an incident at an apartment complex in Boulder, Colorado. A male victim was found in his apartment, lying on the living room floor, with a gunshot wound to his head. The victim was identified as Smika's roommate. In October 1986, in Beverly Hills, California, Smika's car was found empty and abandoned with a stolen license plate.</p>\r\n<p>\u00a0</p>\r\n<p>On December 2, 2010, a state arrest warrant was issued for Smika by the County District Court, Boulder County, Colorado, for first degree murder. Additionally, on December 13, 2010, a federal arrest warrant was issued by the United States District Court, District of Colorado, after Smika was charged federally with unlawful flight to avoid prosecution.</p>",
-		"publication": "2014-07-09T07:00:00",
-		"reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest and conviction of Thayne Alan Smika.",
-		"reward_min": 0,
-		"path": "/wanted/murders/thayne-alan-smika",
-		"weight": "140 pounds",
-		"height_min": 71,
-		"nationality": "American",
-		"sex": "Male",
-		"reward_max": 0,
-		"modified": "2022-12-01T00:01:36+00:00",
-		"age_max": null,
-		"suspects": null,
-		"hair": "brown",
-		"title": "THAYNE ALAN SMIKA",
-		"locations": null,
-		"@id": "https://api.fbi.gov/@wanted-person/79538f13-5340-4c9d-b40f-19a311817d85"
-	},
-	{
 		"scars_and_marks": "Laureano-Arvizu has acne scars on his face.",
 		"possible_states": null,
 		"dates_of_birth_used": [
@@ -72977,6 +72889,101 @@
 		"title": "JUAN LAUREANO-ARVIZU",
 		"locations": null,
 		"@id": "https://api.fbi.gov/@wanted-person/0b174c32-0bf4-4cd1-8bff-e6fcf667d9e6"
+	},
+	{
+		"scars_and_marks": null,
+		"possible_states": null,
+		"dates_of_birth_used": [
+			"February 27, 1959"
+		],
+		"aliases": [
+			"Jungle Mike",
+			"Thaymes Micah"
+		],
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/download.pdf"
+			},
+			{
+				"name": "EN ESPA\u00d1OL",
+				"url": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/thayne-alan-smika-en-espanol.pdf/@@download/file/Thayne Alan Smika EN ESPA\u00d1OL.pdf"
+			}
+		],
+		"uid": "79538f13-5340-4c9d-b40f-19a311817d85",
+		"additional_information": null,
+		"field_offices": [
+			"denver"
+		],
+		"images": [
+			{
+				"thumb": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/@@images/image",
+				"large": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/@@images/image/large",
+				"caption": "Photograph taken in 1983"
+			},
+			{
+				"thumb": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-1-plain.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-1-plain.jpg",
+				"large": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-1-plain.jpg/@@images/image/large",
+				"caption": "Drawing age progressed to 52 years old "
+			},
+			{
+				"thumb": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-5-all-xtras.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-5-all-xtras.jpg",
+				"large": "https://www.fbi.gov/wanted/murders/thayne-alan-smika/smika_t-5-all-xtras.jpg/@@images/image/large",
+				"caption": "Drawing enhanced, age progressed to 52 years old"
+			}
+		],
+		"status": "na",
+		"height_max": 71,
+		"description": "Unlawful Flight to Avoid Prosecution - First Degree Murder",
+		"weight_min": 140,
+		"race": "white",
+		"race_raw": "White",
+		"coordinates": [],
+		"subjects": [
+			"Violent Crime - Murders"
+		],
+		"eyes": "hazel",
+		"occupations": null,
+		"remarks": "<p>As seen in the drawings displayed above, Smika may be clean shaven, he may have a beard or moustache, and may wear glasses. Smika does not have a valid United States passport. And, through investigation, it was revealed that Smika may have lived in the town of Yelapa, Mexico, for many years prior to 2007. Additionally, Smika may be residing in California.</p>",
+		"ncic": "W581758596",
+		"place_of_birth": "North Dakota",
+		"complexion": null,
+		"legat_names": null,
+		"eyes_raw": "Hazel",
+		"weight_max": 140,
+		"languages": [
+			"Spanish",
+			"English"
+		],
+		"build": "Sinewy (thin)",
+		"details": null,
+		"age_min": null,
+		"hair_raw": "Brown (sun-bleached to golden)",
+		"possible_countries": null,
+		"age_range": null,
+		"url": "https://www.fbi.gov/wanted/murders/thayne-alan-smika",
+		"person_classification": "Main",
+		"caution": "<p>Thayne Alan Smika is wanted for a murder which occurred on August 1, 1983. On that day, police officers responded to an incident at an apartment complex in Boulder, Colorado. A male victim was found in his apartment, lying on the living room floor, with a gunshot wound to his head. The victim was identified as Smika's roommate. In October 1986, in Beverly Hills, California, Smika's car was found empty and abandoned with a stolen license plate.</p>\r\n<p>\u00a0</p>\r\n<p>On December 2, 2010, a state arrest warrant was issued for Smika by the County District Court, Boulder County, Colorado, for first degree murder. Additionally, on December 13, 2010, a federal arrest warrant was issued by the United States District Court, District of Colorado, after Smika was charged federally with unlawful flight to avoid prosecution.</p>",
+		"publication": "2014-07-09T07:00:00",
+		"reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest and conviction of Thayne Alan Smika.",
+		"reward_min": 0,
+		"path": "/wanted/murders/thayne-alan-smika",
+		"weight": "140 pounds",
+		"height_min": 71,
+		"nationality": "American",
+		"sex": "Male",
+		"reward_max": 0,
+		"modified": "2022-12-01T00:01:36+00:00",
+		"age_max": null,
+		"suspects": null,
+		"hair": "brown",
+		"title": "THAYNE ALAN SMIKA",
+		"locations": null,
+		"@id": "https://api.fbi.gov/@wanted-person/79538f13-5340-4c9d-b40f-19a311817d85"
 	},
 	{
 		"scars_and_marks": null,
