@@ -14811,9 +14811,9 @@
 		"age_max": null,
 		"suspects": null,
 		"reward_max": 0,
-		"height_min": 75,
-		"nationality": "Ukrainian",
-		"hair_raw": "Brown (May be Shaved)",
+		"height_min": null,
+		"nationality": "Mexican",
+		"hair_raw": "Black",
 		"coordinates": [],
 		"modified": "2023-02-04T00:09:14+00:00",
 		"legat_names": null,
@@ -14821,44 +14821,46 @@
 		"sex": "Male",
 		"images": [
 			{
-				"caption": "Photograph taken in 2006",
-				"thumb": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image",
-				"large": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image/large"
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco/@@images/image",
+				"large": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco/@@images/image/large"
 			}
 		],
-		"caution": "<p>Andrey Vusik is wanted for his alleged participation in the involuntary manslaughter of a man in a Sacramento, California, area park. On July 1, 2007, Vusik and several other individuals were at the park when a verbal confrontation ensued between them and a group of other males. It is alleged that Vusik and his group made derogatory comments about the sexual orientation of one of the men in the other group and, in return, the other group of males made insulting comments about Vusik and his group's heritage. The altercation escalated and a fist fight erupted. Vusik allegedly struck the victim, who fell and hit his head. The victim was in a coma for a few days before dying.</p>\r\n<p>\u00a0</p>\r\n<p>On July 27, 2007, the Sacramento Superior Court for the County of Sacramento, California, issued a warrant for Vusik's arrest and he was charged with involuntary manslaughter. After it was discovered that Vusik had fled the country, a federal arrest warrant was issued by the United States District Court for the Eastern District of California, Sacramento, California, on August 16, 2007, and Vusik was charged with unlawful flight to avoid prosecution.</p>",
-		"weight_max": 210,
-		"race": "white",
+		"caution": "<p>Miguel Angel Morales Orozco is wanted for his alleged involvement in the attempted murder of a man in Newhall, California, on September 13, 1998. Morales Orozco allegedly stabbed a man several times, causing serious injuries, after an altercation that occurred in the victim's apartment.</p>\r\n<p>\u00a0</p>\r\n<p>Morales Orozco was charged with one count of attempted murder by the Los Angeles County, California Superior Court. On October 28, 1998, a state warrant was issued for his arrest. A federal arrest warrant was issued by the United States District Court, Central District of California, on March 27, 2000, after Morales Orozco was charged federally with unlawful flight to avoid prosecution.</p>",
+		"weight_max": 1998,
+		"race": "hispanic",
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/additional/andrey-vusik/download.pdf",
+				"url": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco/download.pdf",
 				"name": "English"
 			}
 		],
-		"eyes_raw": "Gray",
+		"eyes_raw": "Brown",
 		"dates_of_birth_used": [
-			"February 26, 1978"
+			"July 27, 1976"
 		],
 		"possible_countries": null,
 		"possible_states": null,
-		"path": "/wanted/additional/andrey-vusik",
-		"remarks": "<p>Vusik is a legal resident alien of the United States. He may have traveled to Moscow, Russia, or the Ukraine.</p>",
+		"path": "/wanted/additional/miguel-angel-morales-orozco",
+		"remarks": "<p>At the time of the incident, Morales Orozco had short hair and a mustache. His last known residence was in Newhall, California. Morales Orozco has ties to Mexico, and may currently be living there.</p>",
 		"languages": null,
-		"hair": "brown",
-		"weight": "210 pounds",
-		"uid": "fc2735d51fd7e08112dcebb6cae97fdc",
-		"description": "Unlawful Flight to Avoid Prosecution - Involuntary Manslaughter",
-		"title": "ANDREY VUSIK",
-		"height_max": 75,
-		"url": "https://www.fbi.gov/wanted/additional/andrey-vusik",
-		"place_of_birth": "Ukraine",
-		"race_raw": "White",
+		"hair": "black",
+		"weight": "180 pounds (in 1998)",
+		"uid": "4f9a111a-104a-4b2e-9e34-ee15ad88395a",
+		"description": "Unlawful Flight to Avoid Prosecution - Attempted Murder",
+		"title": "MIGUEL ANGEL MORALES OROZCO",
+		"height_max": null,
+		"url": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco",
+		"place_of_birth": "Mexico",
+		"race_raw": "White (Hispanic)",
 		"locations": null,
 		"aliases": [
-			"Brian Joseph DeVirgilio"
+			"Miguel A. Morales",
+			"Miguel Angel Morales",
+			"Orozco Miguel Angel Morales"
 		],
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN ESCAPE RISK",
 		"person_classification": "Main",
 		"scars_and_marks": null,
 		"complexion": null,
@@ -14866,19 +14868,19 @@
 		"reward_text": null,
 		"build": null,
 		"reward_min": 0,
-		"ncic": "W242860636",
+		"ncic": "W620591437",
 		"status": "na",
-		"publication": "2010-08-31T11:40:00",
+		"publication": "2014-05-28T07:00:00",
 		"occupations": null,
-		"weight_min": 210,
+		"weight_min": 180,
 		"subjects": [
 			"Additional Violent Crimes"
 		],
-		"eyes": null,
+		"eyes": "brown",
 		"field_offices": [
-			"sacramento"
+			"losangeles"
 		],
-		"@id": "https://api.fbi.gov/@wanted-person/fc2735d51fd7e08112dcebb6cae97fdc"
+		"@id": "https://api.fbi.gov/@wanted-person/4f9a111a-104a-4b2e-9e34-ee15ad88395a"
 	},
 	{
 		"additional_information": null,
