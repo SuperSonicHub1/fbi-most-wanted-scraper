@@ -6105,6 +6105,75 @@
 	},
 	{
 		"additional_information": null,
+		"age_range": "16 years old",
+		"age_max": 16,
+		"suspects": null,
+		"reward_max": 0,
+		"height_min": 63,
+		"nationality": null,
+		"hair_raw": "Blonde (longer than shoulder length)",
+		"coordinates": [],
+		"modified": "2023-02-04T00:10:05+00:00",
+		"legat_names": null,
+		"details": "<p>On Friday, October 31, 1969, Patricia Spencer (16) and Pamela Sue Hobley (15) (schoolmates) were reported missing from Oscoda, Michigan. The girls were not considered friends, but it is thought that they may have skipped school together and no one has seen or heard from them since. Neither girl had a purse or ID with them. Foul play is suspected.</p>",
+		"sex": "Female",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/patricia-spencer/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/patricia-spencer/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/patricia-spencer/@@images/image/large"
+			}
+		],
+		"caution": null,
+		"weight_max": 130,
+		"race": "white",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/patricia-spencer/vicap-alert-missing-pam-hobley_-pat-spencer_10-31-69-oscoda-mi.pdf",
+				"name": "English"
+			}
+		],
+		"eyes_raw": "Blue",
+		"dates_of_birth_used": null,
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/vicap/missing-persons/patricia-spencer",
+		"remarks": "<p>Clothing: Tweed or brown plaid skirt, brown sweater, grey and green plaid jacket, and brown shoes with thick heels</p>",
+		"languages": null,
+		"hair": "blond",
+		"weight": "120 to 130 pounds",
+		"uid": "fab00701-def5-45c5-8d6e-b82bae202d7c",
+		"description": "Oscoda, Michigan\r\nOctober 31, 1969",
+		"title": "PATRICIA SPENCER - OSCODA, MICHIGAN",
+		"height_max": 65,
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/patricia-spencer",
+		"place_of_birth": null,
+		"race_raw": "White",
+		"locations": null,
+		"aliases": null,
+		"warning_message": null,
+		"person_classification": "Victim",
+		"scars_and_marks": null,
+		"complexion": null,
+		"age_min": 16,
+		"reward_text": null,
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2016-02-23T07:00:00",
+		"occupations": null,
+		"weight_min": 120,
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"eyes": "blue",
+		"field_offices": null,
+		"@id": "https://api.fbi.gov/@wanted-person/fab00701-def5-45c5-8d6e-b82bae202d7c"
+	},
+	{
+		"additional_information": null,
 		"age_range": "33 (time of incident)",
 		"age_max": 33,
 		"suspects": null,
@@ -6248,75 +6317,6 @@
 		"eyes": "brown",
 		"field_offices": null,
 		"@id": "https://api.fbi.gov/@wanted-person/c88e2a2c03f2bdc2ecb4cf7495b74456"
-	},
-	{
-		"additional_information": null,
-		"age_range": "16 years old",
-		"age_max": 16,
-		"suspects": null,
-		"reward_max": 0,
-		"height_min": 63,
-		"nationality": null,
-		"hair_raw": "Blonde (longer than shoulder length)",
-		"coordinates": [],
-		"modified": "2023-02-04T00:10:05+00:00",
-		"legat_names": null,
-		"details": "<p>On Friday, October 31, 1969, Patricia Spencer (16) and Pamela Sue Hobley (15) (schoolmates) were reported missing from Oscoda, Michigan. The girls were not considered friends, but it is thought that they may have skipped school together and no one has seen or heard from them since. Neither girl had a purse or ID with them. Foul play is suspected.</p>",
-		"sex": "Female",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/patricia-spencer/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/patricia-spencer/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/patricia-spencer/@@images/image/large"
-			}
-		],
-		"caution": null,
-		"weight_max": 130,
-		"race": "white",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/patricia-spencer/vicap-alert-missing-pam-hobley_-pat-spencer_10-31-69-oscoda-mi.pdf",
-				"name": "English"
-			}
-		],
-		"eyes_raw": "Blue",
-		"dates_of_birth_used": null,
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/vicap/missing-persons/patricia-spencer",
-		"remarks": "<p>Clothing: Tweed or brown plaid skirt, brown sweater, grey and green plaid jacket, and brown shoes with thick heels</p>",
-		"languages": null,
-		"hair": "blond",
-		"weight": "120 to 130 pounds",
-		"uid": "fab00701-def5-45c5-8d6e-b82bae202d7c",
-		"description": "Oscoda, Michigan\r\nOctober 31, 1969",
-		"title": "PATRICIA SPENCER - OSCODA, MICHIGAN",
-		"height_max": 65,
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/patricia-spencer",
-		"place_of_birth": null,
-		"race_raw": "White",
-		"locations": null,
-		"aliases": null,
-		"warning_message": null,
-		"person_classification": "Victim",
-		"scars_and_marks": null,
-		"complexion": null,
-		"age_min": 16,
-		"reward_text": null,
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2016-02-23T07:00:00",
-		"occupations": null,
-		"weight_min": 120,
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"eyes": "blue",
-		"field_offices": null,
-		"@id": "https://api.fbi.gov/@wanted-person/fab00701-def5-45c5-8d6e-b82bae202d7c"
 	},
 	{
 		"additional_information": null,
@@ -13371,6 +13371,94 @@
 		"age_max": null,
 		"suspects": null,
 		"reward_max": 0,
+		"height_min": null,
+		"nationality": "Syrian",
+		"hair_raw": "Dark Brown",
+		"coordinates": [],
+		"modified": "2023-02-04T00:09:35+00:00",
+		"legat_names": null,
+		"details": null,
+		"sex": "Male",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image",
+				"large": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/large"
+			}
+		],
+		"caution": "<p>Firas Dardar is wanted for his alleged involvement in the Syrian Electronic Army (SEA), a group of individuals who allegedly commit hacks in support of the Syrian Regime. It is alleged that, between September of 2011 and January of 2014, Dardar committed dozens of cyber attacks against United States government agencies, media organizations, and private organizations under the SEA banner while using the online nickname, \"The Shadow\". On June 12, 2014, a criminal complaint was filed in the United States District Court, Eastern District of Virginia, Alexandria, Virginia, charging Dardar with conspiring to violate numerous laws related to the commission of computer intrusions.</p>\r\n<p>\u00a0</p>\r\n<p>Additionally, Dardar is also suspected of being responsible for a series of cyber extortion schemes targeting a variety of American and international companies. A separate criminal complaint charging Dardar with these cyber extortion schemes was filed on September 29, 2015.</p>",
+		"weight_max": null,
+		"race": "white",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/dardararabic.pdf/@@download/file/dardararabic.pdf",
+				"name": "\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+			}
+		],
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": [
+			"March 3, 1989"
+		],
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/cyber/firas-dardar",
+		"remarks": "<p>Dardar is known to be a smoker. He is believed to be residing in Homs, Syria.</p>",
+		"languages": null,
+		"hair": "brown",
+		"weight": null,
+		"uid": "cd2c80af-771e-4b11-b052-c2255f4e010e",
+		"description": "Conspiracy to Gain Unauthorized Access to and Damage Computers; Conspiracy to Convey False Information Regarding a Terrorist Attack; Conspiracy to Cause Mutiny of United States Military Members; Conspiracy to Commit Identity Theft, Conspiracy to Commit Access Device Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Commit Wire Fraud; Conspiracy to Violate Syrian Sanctions Regulations; Conspiracy to Receive the Proceeds of Extortion; Conspiracy to Send an Unlawful Interstate Communication",
+		"title": "FIRAS DARDAR",
+		"height_max": null,
+		"url": "https://www.fbi.gov/wanted/cyber/firas-dardar",
+		"place_of_birth": "Homs, Syria",
+		"race_raw": "White",
+		"locations": null,
+		"aliases": [
+			"Firas Nur Al Din Dardar",
+			"Firas Nural Din Dardar",
+			"Firas Nour Alden Dardar",
+			"Feras Firas Nur-al-Din",
+			"Firas Derdar",
+			"Firas Drdr",
+			"Feras Dardar",
+			"\"The Shadow\"",
+			"\"Ethical Dragon\"",
+			"\"Ethical Spectrum\""
+		],
+		"warning_message": null,
+		"person_classification": "Main",
+		"scars_and_marks": null,
+		"complexion": null,
+		"age_min": null,
+		"reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest of Firas Dardar.",
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2016-03-10T07:00:00",
+		"occupations": null,
+		"weight_min": null,
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"eyes": "brown",
+		"field_offices": [
+			"washingtondc"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/cd2c80af-771e-4b11-b052-c2255f4e010e"
+	},
+	{
+		"additional_information": null,
+		"age_range": null,
+		"age_max": null,
+		"suspects": null,
+		"reward_max": 0,
 		"height_min": 70,
 		"nationality": "Syrian",
 		"hair_raw": "Dark Brown",
@@ -13460,94 +13548,6 @@
 			"washingtondc"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/2ec40393-a9f3-4a1f-ad20-ac71787c5869"
-	},
-	{
-		"additional_information": null,
-		"age_range": null,
-		"age_max": null,
-		"suspects": null,
-		"reward_max": 0,
-		"height_min": null,
-		"nationality": "Syrian",
-		"hair_raw": "Dark Brown",
-		"coordinates": [],
-		"modified": "2023-02-04T00:09:35+00:00",
-		"legat_names": null,
-		"details": null,
-		"sex": "Male",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image",
-				"large": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/large"
-			}
-		],
-		"caution": "<p>Firas Dardar is wanted for his alleged involvement in the Syrian Electronic Army (SEA), a group of individuals who allegedly commit hacks in support of the Syrian Regime. It is alleged that, between September of 2011 and January of 2014, Dardar committed dozens of cyber attacks against United States government agencies, media organizations, and private organizations under the SEA banner while using the online nickname, \"The Shadow\". On June 12, 2014, a criminal complaint was filed in the United States District Court, Eastern District of Virginia, Alexandria, Virginia, charging Dardar with conspiring to violate numerous laws related to the commission of computer intrusions.</p>\r\n<p>\u00a0</p>\r\n<p>Additionally, Dardar is also suspected of being responsible for a series of cyber extortion schemes targeting a variety of American and international companies. A separate criminal complaint charging Dardar with these cyber extortion schemes was filed on September 29, 2015.</p>",
-		"weight_max": null,
-		"race": "white",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/dardararabic.pdf/@@download/file/dardararabic.pdf",
-				"name": "\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629"
-			}
-		],
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": [
-			"March 3, 1989"
-		],
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/cyber/firas-dardar",
-		"remarks": "<p>Dardar is known to be a smoker. He is believed to be residing in Homs, Syria.</p>",
-		"languages": null,
-		"hair": "brown",
-		"weight": null,
-		"uid": "cd2c80af-771e-4b11-b052-c2255f4e010e",
-		"description": "Conspiracy to Gain Unauthorized Access to and Damage Computers; Conspiracy to Convey False Information Regarding a Terrorist Attack; Conspiracy to Cause Mutiny of United States Military Members; Conspiracy to Commit Identity Theft, Conspiracy to Commit Access Device Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Commit Wire Fraud; Conspiracy to Violate Syrian Sanctions Regulations; Conspiracy to Receive the Proceeds of Extortion; Conspiracy to Send an Unlawful Interstate Communication",
-		"title": "FIRAS DARDAR",
-		"height_max": null,
-		"url": "https://www.fbi.gov/wanted/cyber/firas-dardar",
-		"place_of_birth": "Homs, Syria",
-		"race_raw": "White",
-		"locations": null,
-		"aliases": [
-			"Firas Nur Al Din Dardar",
-			"Firas Nural Din Dardar",
-			"Firas Nour Alden Dardar",
-			"Feras Firas Nur-al-Din",
-			"Firas Derdar",
-			"Firas Drdr",
-			"Feras Dardar",
-			"\"The Shadow\"",
-			"\"Ethical Dragon\"",
-			"\"Ethical Spectrum\""
-		],
-		"warning_message": null,
-		"person_classification": "Main",
-		"scars_and_marks": null,
-		"complexion": null,
-		"age_min": null,
-		"reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest of Firas Dardar.",
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2016-03-10T07:00:00",
-		"occupations": null,
-		"weight_min": null,
-		"subjects": [
-			"Cyber's Most Wanted"
-		],
-		"eyes": "brown",
-		"field_offices": [
-			"washingtondc"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/cd2c80af-771e-4b11-b052-c2255f4e010e"
 	},
 	{
 		"additional_information": null,
@@ -14888,9 +14888,9 @@
 		"age_max": null,
 		"suspects": null,
 		"reward_max": 0,
-		"height_min": null,
-		"nationality": "Mexican",
-		"hair_raw": "Black",
+		"height_min": 75,
+		"nationality": "Ukrainian",
+		"hair_raw": "Brown (May be Shaved)",
 		"coordinates": [],
 		"modified": "2023-02-04T00:09:14+00:00",
 		"legat_names": null,
@@ -14898,46 +14898,44 @@
 		"sex": "Male",
 		"images": [
 			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco/@@images/image",
-				"large": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco/@@images/image/large"
+				"caption": "Photograph taken in 2006",
+				"thumb": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image",
+				"large": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image/large"
 			}
 		],
-		"caution": "<p>Miguel Angel Morales Orozco is wanted for his alleged involvement in the attempted murder of a man in Newhall, California, on September 13, 1998. Morales Orozco allegedly stabbed a man several times, causing serious injuries, after an altercation that occurred in the victim's apartment.</p>\r\n<p>\u00a0</p>\r\n<p>Morales Orozco was charged with one count of attempted murder by the Los Angeles County, California Superior Court. On October 28, 1998, a state warrant was issued for his arrest. A federal arrest warrant was issued by the United States District Court, Central District of California, on March 27, 2000, after Morales Orozco was charged federally with unlawful flight to avoid prosecution.</p>",
-		"weight_max": 1998,
-		"race": "hispanic",
+		"caution": "<p>Andrey Vusik is wanted for his alleged participation in the involuntary manslaughter of a man in a Sacramento, California, area park. On July 1, 2007, Vusik and several other individuals were at the park when a verbal confrontation ensued between them and a group of other males. It is alleged that Vusik and his group made derogatory comments about the sexual orientation of one of the men in the other group and, in return, the other group of males made insulting comments about Vusik and his group's heritage. The altercation escalated and a fist fight erupted. Vusik allegedly struck the victim, who fell and hit his head. The victim was in a coma for a few days before dying.</p>\r\n<p>\u00a0</p>\r\n<p>On July 27, 2007, the Sacramento Superior Court for the County of Sacramento, California, issued a warrant for Vusik's arrest and he was charged with involuntary manslaughter. After it was discovered that Vusik had fled the country, a federal arrest warrant was issued by the United States District Court for the Eastern District of California, Sacramento, California, on August 16, 2007, and Vusik was charged with unlawful flight to avoid prosecution.</p>",
+		"weight_max": 210,
+		"race": "white",
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco/download.pdf",
+				"url": "https://www.fbi.gov/wanted/additional/andrey-vusik/download.pdf",
 				"name": "English"
 			}
 		],
-		"eyes_raw": "Brown",
+		"eyes_raw": "Gray",
 		"dates_of_birth_used": [
-			"July 27, 1976"
+			"February 26, 1978"
 		],
 		"possible_countries": null,
 		"possible_states": null,
-		"path": "/wanted/additional/miguel-angel-morales-orozco",
-		"remarks": "<p>At the time of the incident, Morales Orozco had short hair and a mustache. His last known residence was in Newhall, California. Morales Orozco has ties to Mexico, and may currently be living there.</p>",
+		"path": "/wanted/additional/andrey-vusik",
+		"remarks": "<p>Vusik is a legal resident alien of the United States. He may have traveled to Moscow, Russia, or the Ukraine.</p>",
 		"languages": null,
-		"hair": "black",
-		"weight": "180 pounds (in 1998)",
-		"uid": "4f9a111a-104a-4b2e-9e34-ee15ad88395a",
-		"description": "Unlawful Flight to Avoid Prosecution - Attempted Murder",
-		"title": "MIGUEL ANGEL MORALES OROZCO",
-		"height_max": null,
-		"url": "https://www.fbi.gov/wanted/additional/miguel-angel-morales-orozco",
-		"place_of_birth": "Mexico",
-		"race_raw": "White (Hispanic)",
+		"hair": "brown",
+		"weight": "210 pounds",
+		"uid": "fc2735d51fd7e08112dcebb6cae97fdc",
+		"description": "Unlawful Flight to Avoid Prosecution - Involuntary Manslaughter",
+		"title": "ANDREY VUSIK",
+		"height_max": 75,
+		"url": "https://www.fbi.gov/wanted/additional/andrey-vusik",
+		"place_of_birth": "Ukraine",
+		"race_raw": "White",
 		"locations": null,
 		"aliases": [
-			"Miguel A. Morales",
-			"Miguel Angel Morales",
-			"Orozco Miguel Angel Morales"
+			"Brian Joseph DeVirgilio"
 		],
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN ESCAPE RISK",
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
 		"person_classification": "Main",
 		"scars_and_marks": null,
 		"complexion": null,
@@ -14945,19 +14943,19 @@
 		"reward_text": null,
 		"build": null,
 		"reward_min": 0,
-		"ncic": "W620591437",
+		"ncic": "W242860636",
 		"status": "na",
-		"publication": "2014-05-28T07:00:00",
+		"publication": "2010-08-31T11:40:00",
 		"occupations": null,
-		"weight_min": 180,
+		"weight_min": 210,
 		"subjects": [
 			"Additional Violent Crimes"
 		],
-		"eyes": "brown",
+		"eyes": null,
 		"field_offices": [
-			"losangeles"
+			"sacramento"
 		],
-		"@id": "https://api.fbi.gov/@wanted-person/4f9a111a-104a-4b2e-9e34-ee15ad88395a"
+		"@id": "https://api.fbi.gov/@wanted-person/fc2735d51fd7e08112dcebb6cae97fdc"
 	},
 	{
 		"additional_information": null,
@@ -32824,75 +32822,6 @@
 	},
 	{
 		"additional_information": null,
-		"age_range": "8 to 11 years old",
-		"age_max": 11,
-		"suspects": null,
-		"reward_max": 0,
-		"height_min": 58,
-		"nationality": null,
-		"hair_raw": null,
-		"coordinates": [],
-		"modified": "2023-02-04T00:06:11+00:00",
-		"legat_names": null,
-		"details": "<p>On February 28, 1983, the victim was found in the basement of an abandoned building in St. Louis, Missouri. The victim had been in the basement for approximately four days and was decapitated. The victim had two coats of red and purple fingernail polish on her hands and was wearing a V-neck long sleeve yellow sweater.</p>",
-		"sex": "Female",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-44/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-44/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-44/@@images/image/large"
-			}
-		],
-		"caution": null,
-		"weight_max": 58,
-		"race": "black",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-44/jane-doe-st-louis-mo-feb-28-1983-updated.pdf",
-				"name": "English"
-			}
-		],
-		"eyes_raw": null,
-		"dates_of_birth_used": null,
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/vicap/unidentified-persons/jane-doe-44",
-		"remarks": null,
-		"languages": null,
-		"hair": null,
-		"weight": "58 pounds",
-		"uid": "1b1ab5a3-63f2-448c-94c7-2ba51b536732",
-		"description": "St. Louis, Missouri\r\nFebruary 28, 1983",
-		"title": "JANE DOE - ST. LOUIS, MISSOURI",
-		"height_max": 64,
-		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-44",
-		"place_of_birth": null,
-		"race_raw": "Black",
-		"locations": null,
-		"aliases": null,
-		"warning_message": null,
-		"person_classification": "Victim",
-		"scars_and_marks": null,
-		"complexion": null,
-		"age_min": 8,
-		"reward_text": null,
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2014-06-30T07:00:00",
-		"occupations": null,
-		"weight_min": 58,
-		"subjects": [
-			"ViCAP Unidentified Persons"
-		],
-		"eyes": null,
-		"field_offices": null,
-		"@id": "https://api.fbi.gov/@wanted-person/1b1ab5a3-63f2-448c-94c7-2ba51b536732"
-	},
-	{
-		"additional_information": null,
 		"age_range": "25 to 35 years old",
 		"age_max": 35,
 		"suspects": null,
@@ -32959,6 +32888,75 @@
 		"eyes": null,
 		"field_offices": null,
 		"@id": "https://api.fbi.gov/@wanted-person/d94252b2-a96c-4662-81b4-3a68c01c19b8"
+	},
+	{
+		"additional_information": null,
+		"age_range": "8 to 11 years old",
+		"age_max": 11,
+		"suspects": null,
+		"reward_max": 0,
+		"height_min": 58,
+		"nationality": null,
+		"hair_raw": null,
+		"coordinates": [],
+		"modified": "2023-02-04T00:06:11+00:00",
+		"legat_names": null,
+		"details": "<p>On February 28, 1983, the victim was found in the basement of an abandoned building in St. Louis, Missouri. The victim had been in the basement for approximately four days and was decapitated. The victim had two coats of red and purple fingernail polish on her hands and was wearing a V-neck long sleeve yellow sweater.</p>",
+		"sex": "Female",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-44/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-44/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-44/@@images/image/large"
+			}
+		],
+		"caution": null,
+		"weight_max": 58,
+		"race": "black",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-44/jane-doe-st-louis-mo-feb-28-1983-updated.pdf",
+				"name": "English"
+			}
+		],
+		"eyes_raw": null,
+		"dates_of_birth_used": null,
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/vicap/unidentified-persons/jane-doe-44",
+		"remarks": null,
+		"languages": null,
+		"hair": null,
+		"weight": "58 pounds",
+		"uid": "1b1ab5a3-63f2-448c-94c7-2ba51b536732",
+		"description": "St. Louis, Missouri\r\nFebruary 28, 1983",
+		"title": "JANE DOE - ST. LOUIS, MISSOURI",
+		"height_max": 64,
+		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-44",
+		"place_of_birth": null,
+		"race_raw": "Black",
+		"locations": null,
+		"aliases": null,
+		"warning_message": null,
+		"person_classification": "Victim",
+		"scars_and_marks": null,
+		"complexion": null,
+		"age_min": 8,
+		"reward_text": null,
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2014-06-30T07:00:00",
+		"occupations": null,
+		"weight_min": 58,
+		"subjects": [
+			"ViCAP Unidentified Persons"
+		],
+		"eyes": null,
+		"field_offices": null,
+		"@id": "https://api.fbi.gov/@wanted-person/1b1ab5a3-63f2-448c-94c7-2ba51b536732"
 	},
 	{
 		"additional_information": null,
@@ -40712,83 +40710,6 @@
 		"additional_information": null,
 		"age_range": null,
 		"age_max": null,
-		"suspects": null,
-		"reward_max": 0,
-		"height_min": null,
-		"nationality": null,
-		"hair_raw": null,
-		"coordinates": [],
-		"modified": "2023-02-04T00:05:26+00:00",
-		"legat_names": null,
-		"details": "<p>On March 13, 2022, at approximately 1:00 a.m., two unknown suspects were captured on surveillance video throwing a Molotov cocktail at the front door of a medical building used by Planned Parenthood in Costa Mesa, California.\u00a0<br /><br /></p>\r\n<p>One unknown suspect wore a blue hooded sweatshirt with the hood up, dark-colored pants, a multi-colored facial covering, dark shoes and green gloves. The second unknown suspect\u00a0wore a black hooded sweatshirt with the hood up, jeans, a dark-colored facial covering, black shoes with white trim and dark-colored gloves.</p>\r\n<p>\u00a0</p>",
-		"sex": null,
-		"images": [
-			{
-				"caption": "Unknown Suspect 1",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/@@images/image/large"
-			},
-			{
-				"caption": "Unknown Suspect 2",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/suspect_2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/suspect_2.jpg",
-				"large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/suspect_2.jpg/@@images/image/large"
-			}
-		],
-		"caution": null,
-		"weight_max": null,
-		"race": null,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/download.pdf",
-				"name": "English"
-			}
-		],
-		"eyes_raw": null,
-		"dates_of_birth_used": null,
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device",
-		"remarks": null,
-		"languages": null,
-		"hair": null,
-		"weight": null,
-		"uid": "95f1477ec1d34c7196cb15e6b5724b1f",
-		"description": "Costa Mesa, California\r\nMarch 13, 2022",
-		"title": "UNKNOWN SUSPECTS - POSSESSION OF A DESTRUCTIVE DEVICE",
-		"height_max": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device",
-		"place_of_birth": null,
-		"race_raw": null,
-		"locations": null,
-		"aliases": null,
-		"warning_message": null,
-		"person_classification": "Main",
-		"scars_and_marks": null,
-		"complexion": null,
-		"age_min": null,
-		"reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the identification, arrest, and conviction of the suspect(s) responsible for this crime.",
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2022-10-07T09:07:00",
-		"occupations": null,
-		"weight_min": null,
-		"subjects": [
-			"Seeking Information"
-		],
-		"eyes": null,
-		"field_offices": [
-			"losangeles"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/95f1477ec1d34c7196cb15e6b5724b1f"
-	},
-	{
-		"additional_information": null,
-		"age_range": null,
-		"age_max": null,
 		"suspects": "<p>Suspect #1 is described as a White female between 5'8\" and 5'10\", weighing approximately 120 pounds, with dirty blonde/purple hair. Her eye color is unknown.</p>\r\n<p>Suspect #2 is described as a Black person between 5'5\" and 5'7\", weighing approximately 120 \u00a0pounds. The hair and eye color are unknown.</p>\r\n<p>\u00a0</p>",
 		"reward_max": 0,
 		"height_min": null,
@@ -40879,6 +40800,83 @@
 			"seattle"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/241eb5a3a3da4308b7031dcc7931c2ad"
+	},
+	{
+		"additional_information": null,
+		"age_range": null,
+		"age_max": null,
+		"suspects": null,
+		"reward_max": 0,
+		"height_min": null,
+		"nationality": null,
+		"hair_raw": null,
+		"coordinates": [],
+		"modified": "2023-02-04T00:05:26+00:00",
+		"legat_names": null,
+		"details": "<p>On March 13, 2022, at approximately 1:00 a.m., two unknown suspects were captured on surveillance video throwing a Molotov cocktail at the front door of a medical building used by Planned Parenthood in Costa Mesa, California.\u00a0<br /><br /></p>\r\n<p>One unknown suspect wore a blue hooded sweatshirt with the hood up, dark-colored pants, a multi-colored facial covering, dark shoes and green gloves. The second unknown suspect\u00a0wore a black hooded sweatshirt with the hood up, jeans, a dark-colored facial covering, black shoes with white trim and dark-colored gloves.</p>\r\n<p>\u00a0</p>",
+		"sex": null,
+		"images": [
+			{
+				"caption": "Unknown Suspect 1",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/@@images/image/large"
+			},
+			{
+				"caption": "Unknown Suspect 2",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/suspect_2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/suspect_2.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/suspect_2.jpg/@@images/image/large"
+			}
+		],
+		"caution": null,
+		"weight_max": null,
+		"race": null,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/download.pdf",
+				"name": "English"
+			}
+		],
+		"eyes_raw": null,
+		"dates_of_birth_used": null,
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device",
+		"remarks": null,
+		"languages": null,
+		"hair": null,
+		"weight": null,
+		"uid": "95f1477ec1d34c7196cb15e6b5724b1f",
+		"description": "Costa Mesa, California\r\nMarch 13, 2022",
+		"title": "UNKNOWN SUSPECTS - POSSESSION OF A DESTRUCTIVE DEVICE",
+		"height_max": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device",
+		"place_of_birth": null,
+		"race_raw": null,
+		"locations": null,
+		"aliases": null,
+		"warning_message": null,
+		"person_classification": "Main",
+		"scars_and_marks": null,
+		"complexion": null,
+		"age_min": null,
+		"reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the identification, arrest, and conviction of the suspect(s) responsible for this crime.",
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2022-10-07T09:07:00",
+		"occupations": null,
+		"weight_min": null,
+		"subjects": [
+			"Seeking Information"
+		],
+		"eyes": null,
+		"field_offices": [
+			"losangeles"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/95f1477ec1d34c7196cb15e6b5724b1f"
 	},
 	{
 		"additional_information": null,
@@ -41197,6 +41195,84 @@
 		"coordinates": [],
 		"modified": "2023-02-04T00:05:24+00:00",
 		"legat_names": null,
+		"details": "<p>On August 27, 2015, partial skeleton remains later identified as William Robert Nelson Jr. were found along a trail near Iyanbito, New Mexico. Nelson's family had reported him missing in May 2014. Blood and blood spatter were found in Nelson's bedroom in Iyanbito, on the Navajo Nation. The cause of death is undetermined, but considered suspicious.</p>",
+		"sex": "Male",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/william-robert-nelson-jr/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/william-robert-nelson-jr/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/william-robert-nelson-jr/@@images/image/large"
+			}
+		],
+		"caution": null,
+		"weight_max": 236,
+		"race": "native",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/william-robert-nelson-jr/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/william-robert-nelson-jr/nelsonnavajo.pdf/@@download/file/NelsonNavajo.pdf",
+				"name": "DIN\u00c9 BIZAAD K\u2019EHGO"
+			}
+		],
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": [
+			"May 24, 1966"
+		],
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/seeking-info/william-robert-nelson-jr",
+		"remarks": null,
+		"languages": null,
+		"hair": "black",
+		"weight": "236 pounds",
+		"uid": "200b6e485dd249ea88b343a9d227272f",
+		"description": "Homicide Victim\r\nIyanbito, New Mexico\r\nMay 21, 2014",
+		"title": "WILLIAM ROBERT NELSON JR.",
+		"height_max": 70,
+		"url": "https://www.fbi.gov/wanted/seeking-info/william-robert-nelson-jr",
+		"place_of_birth": null,
+		"race_raw": "Native American",
+		"locations": null,
+		"aliases": null,
+		"warning_message": null,
+		"person_classification": "Main",
+		"scars_and_marks": "Nelson has tattoos on his right arm and forearm.",
+		"complexion": null,
+		"age_min": null,
+		"reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the identification, arrest, and conviction of the individual(s) responsible for the death of William Robert Nelson Jr.",
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2022-02-28T13:52:00",
+		"occupations": null,
+		"weight_min": 236,
+		"subjects": [
+			"Seeking Information",
+			"Indian Country"
+		],
+		"eyes": "brown",
+		"field_offices": [
+			"albuquerque"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/200b6e485dd249ea88b343a9d227272f"
+	},
+	{
+		"additional_information": null,
+		"age_range": null,
+		"age_max": null,
+		"suspects": null,
+		"reward_max": 0,
+		"height_min": 70,
+		"nationality": null,
+		"hair_raw": "Black",
+		"coordinates": [],
+		"modified": "2023-02-04T00:05:24+00:00",
+		"legat_names": null,
 		"details": null,
 		"sex": "Male",
 		"images": [
@@ -41265,84 +41341,6 @@
 			"chicago"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/b3a03e042ad948ffa8001b85bf68159f"
-	},
-	{
-		"additional_information": null,
-		"age_range": null,
-		"age_max": null,
-		"suspects": null,
-		"reward_max": 0,
-		"height_min": 70,
-		"nationality": null,
-		"hair_raw": "Black",
-		"coordinates": [],
-		"modified": "2023-02-04T00:05:24+00:00",
-		"legat_names": null,
-		"details": "<p>On August 27, 2015, partial skeleton remains later identified as William Robert Nelson Jr. were found along a trail near Iyanbito, New Mexico. Nelson's family had reported him missing in May 2014. Blood and blood spatter were found in Nelson's bedroom in Iyanbito, on the Navajo Nation. The cause of death is undetermined, but considered suspicious.</p>",
-		"sex": "Male",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/william-robert-nelson-jr/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/william-robert-nelson-jr/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/william-robert-nelson-jr/@@images/image/large"
-			}
-		],
-		"caution": null,
-		"weight_max": 236,
-		"race": "native",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/william-robert-nelson-jr/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/william-robert-nelson-jr/nelsonnavajo.pdf/@@download/file/NelsonNavajo.pdf",
-				"name": "DIN\u00c9 BIZAAD K\u2019EHGO"
-			}
-		],
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": [
-			"May 24, 1966"
-		],
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/seeking-info/william-robert-nelson-jr",
-		"remarks": null,
-		"languages": null,
-		"hair": "black",
-		"weight": "236 pounds",
-		"uid": "200b6e485dd249ea88b343a9d227272f",
-		"description": "Homicide Victim\r\nIyanbito, New Mexico\r\nMay 21, 2014",
-		"title": "WILLIAM ROBERT NELSON JR.",
-		"height_max": 70,
-		"url": "https://www.fbi.gov/wanted/seeking-info/william-robert-nelson-jr",
-		"place_of_birth": null,
-		"race_raw": "Native American",
-		"locations": null,
-		"aliases": null,
-		"warning_message": null,
-		"person_classification": "Main",
-		"scars_and_marks": "Nelson has tattoos on his right arm and forearm.",
-		"complexion": null,
-		"age_min": null,
-		"reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the identification, arrest, and conviction of the individual(s) responsible for the death of William Robert Nelson Jr.",
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2022-02-28T13:52:00",
-		"occupations": null,
-		"weight_min": 236,
-		"subjects": [
-			"Seeking Information",
-			"Indian Country"
-		],
-		"eyes": "brown",
-		"field_offices": [
-			"albuquerque"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/200b6e485dd249ea88b343a9d227272f"
 	},
 	{
 		"additional_information": null,
@@ -41908,81 +41906,6 @@
 	},
 	{
 		"additional_information": null,
-		"age_range": "30 years old (at time of disappearance)",
-		"age_max": 30,
-		"suspects": null,
-		"reward_max": 0,
-		"height_min": 64,
-		"nationality": null,
-		"hair_raw": "Black / Red",
-		"coordinates": [],
-		"modified": "2023-02-04T00:05:20+00:00",
-		"legat_names": null,
-		"details": "<p>Olivette Lyvonia Turner was last seen on May 1, 1989, in Nashville, Tennessee.\u00a0 She told her family she planned to visit her aunt in Pennsylvania.\u00a0 On May 17, 1989, Turner was reported missing by her sister after family had not heard from her and she had not shown up at her aunt\u2019s home.\u00a0 Her aunt was unaware of Turner\u2019s potential visit.\u00a0 Investigation disclosed that Turner was known to visit truck stops and hitchhike with truckers as a mode of transportation.</p>\r\n<p>\u00a0</p>",
-		"sex": "Female",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/turner2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/turner2.jpg",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/turner2.jpg/@@images/image/large"
-			}
-		],
-		"caution": null,
-		"weight_max": 120,
-		"race": "black",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/o_turner.pdf",
-				"name": "English"
-			}
-		],
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": null,
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee",
-		"remarks": null,
-		"languages": null,
-		"hair": "black",
-		"weight": "100 to 120 pounds",
-		"uid": "66d995f098d74fe296ae392f1015c28a",
-		"description": "May 1, 1989\r\nNashville, Tennessee",
-		"title": "OLIVETTE LYVONIA TURNER - NASHVILLE, TENNESSEE",
-		"height_max": 64,
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee",
-		"place_of_birth": null,
-		"race_raw": "Black",
-		"locations": null,
-		"aliases": null,
-		"warning_message": null,
-		"person_classification": "Main",
-		"scars_and_marks": null,
-		"complexion": null,
-		"age_min": 30,
-		"reward_text": null,
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2022-03-21T07:56:00",
-		"occupations": null,
-		"weight_min": 100,
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"eyes": "brown",
-		"field_offices": null,
-		"@id": "https://api.fbi.gov/@wanted-person/66d995f098d74fe296ae392f1015c28a"
-	},
-	{
-		"additional_information": null,
 		"age_range": null,
 		"age_max": null,
 		"suspects": null,
@@ -42063,6 +41986,81 @@
 			"losangeles"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/646f7e1f7c26487db6857a9a07f663af"
+	},
+	{
+		"additional_information": null,
+		"age_range": "30 years old (at time of disappearance)",
+		"age_max": 30,
+		"suspects": null,
+		"reward_max": 0,
+		"height_min": 64,
+		"nationality": null,
+		"hair_raw": "Black / Red",
+		"coordinates": [],
+		"modified": "2023-02-04T00:05:20+00:00",
+		"legat_names": null,
+		"details": "<p>Olivette Lyvonia Turner was last seen on May 1, 1989, in Nashville, Tennessee.\u00a0 She told her family she planned to visit her aunt in Pennsylvania.\u00a0 On May 17, 1989, Turner was reported missing by her sister after family had not heard from her and she had not shown up at her aunt\u2019s home.\u00a0 Her aunt was unaware of Turner\u2019s potential visit.\u00a0 Investigation disclosed that Turner was known to visit truck stops and hitchhike with truckers as a mode of transportation.</p>\r\n<p>\u00a0</p>",
+		"sex": "Female",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/turner2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/turner2.jpg",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/turner2.jpg/@@images/image/large"
+			}
+		],
+		"caution": null,
+		"weight_max": 120,
+		"race": "black",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee/o_turner.pdf",
+				"name": "English"
+			}
+		],
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": null,
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee",
+		"remarks": null,
+		"languages": null,
+		"hair": "black",
+		"weight": "100 to 120 pounds",
+		"uid": "66d995f098d74fe296ae392f1015c28a",
+		"description": "May 1, 1989\r\nNashville, Tennessee",
+		"title": "OLIVETTE LYVONIA TURNER - NASHVILLE, TENNESSEE",
+		"height_max": 64,
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/olivette-lyvonia-turner---nashville-tennessee",
+		"place_of_birth": null,
+		"race_raw": "Black",
+		"locations": null,
+		"aliases": null,
+		"warning_message": null,
+		"person_classification": "Main",
+		"scars_and_marks": null,
+		"complexion": null,
+		"age_min": 30,
+		"reward_text": null,
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2022-03-21T07:56:00",
+		"occupations": null,
+		"weight_min": 100,
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"eyes": "brown",
+		"field_offices": null,
+		"@id": "https://api.fbi.gov/@wanted-person/66d995f098d74fe296ae392f1015c28a"
 	},
 	{
 		"additional_information": null,
@@ -47799,77 +47797,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/abd593a822f341c6bdd9b51f31dbf2d2"
 	},
 	{
-		"additional_information": "<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/qlnOAg3KRKA?fs=1&amp;amp;wmode=transparent&amp;amp;rel=0&amp;amp;html5=1&amp;amp;modestbranding=1\" width=\"500\" height=\"300\" frameborder=\"0\"></iframe></p>",
-		"age_range": null,
-		"age_max": null,
-		"suspects": null,
-		"reward_max": 0,
-		"height_min": null,
-		"nationality": null,
-		"hair_raw": null,
-		"coordinates": [],
-		"modified": "2023-02-04T00:04:46+00:00",
-		"legat_names": null,
-		"details": "<p>The FBI and its federal, state, and local law enforcement partners are asking for the public's assistance in identifying a man who may have information regarding the bombings of two churches in Las Cruces, New Mexico, on August 2, 2015.</p>\r\n<p>\u00a0</p>\r\n<p>On Sunday, August 2, 2015, at approximately 8:20 a.m., a device at the Calvary Baptist Church detonated. A detonation at the Holy Cross Catholic Church was reported about 20 minutes later. No one was injured in either explosion, and the resulting damage was minor. It is possible that the explosions were related.</p>\r\n<p>\u00a0</p>\r\n<p>The man recorded on the surveillance video below was seen walking to and from Calvary Baptist Church around the time of the explosion. He was wearing plaid shorts, a blue, short-sleeved T-shirt and hiking boots. He was carrying a package or bag. Authorities are calling this man a person of interest because he may have information regarding the explosion at the Calvary Baptist Church.</p>",
-		"sex": "",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image/large"
-			}
-		],
-		"caution": null,
-		"weight_max": null,
-		"race": null,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/download.pdf",
-				"name": "English"
-			}
-		],
-		"eyes_raw": null,
-		"dates_of_birth_used": null,
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/seeking-info/las-cruces-church-bombings",
-		"remarks": null,
-		"languages": null,
-		"hair": null,
-		"weight": null,
-		"uid": "f2860a4c-cf3c-4128-96ab-818e18270022",
-		"description": "Person of Interest\r\nLas Cruces, New Mexico\r\nAugust 2, 2015",
-		"title": "LAS CRUCES CHURCH BOMBINGS",
-		"height_max": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings",
-		"place_of_birth": null,
-		"race_raw": null,
-		"locations": null,
-		"aliases": null,
-		"warning_message": null,
-		"person_classification": "Victim",
-		"scars_and_marks": null,
-		"complexion": null,
-		"age_min": null,
-		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest and conviction of the person or persons responsible for the bombings.",
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2015-10-30T07:00:00",
-		"occupations": null,
-		"weight_min": null,
-		"subjects": [
-			"Seeking Information"
-		],
-		"eyes": null,
-		"field_offices": [
-			"albuquerque"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/f2860a4c-cf3c-4128-96ab-818e18270022"
-	},
-	{
 		"additional_information": null,
 		"age_range": null,
 		"age_max": null,
@@ -47951,6 +47878,156 @@
 			"indianapolis"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/c18bb989cf854661bcb5cdddf1f1ccda"
+	},
+	{
+		"additional_information": "<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/qlnOAg3KRKA?fs=1&amp;amp;wmode=transparent&amp;amp;rel=0&amp;amp;html5=1&amp;amp;modestbranding=1\" width=\"500\" height=\"300\" frameborder=\"0\"></iframe></p>",
+		"age_range": null,
+		"age_max": null,
+		"suspects": null,
+		"reward_max": 0,
+		"height_min": null,
+		"nationality": null,
+		"hair_raw": null,
+		"coordinates": [],
+		"modified": "2023-02-04T00:04:46+00:00",
+		"legat_names": null,
+		"details": "<p>The FBI and its federal, state, and local law enforcement partners are asking for the public's assistance in identifying a man who may have information regarding the bombings of two churches in Las Cruces, New Mexico, on August 2, 2015.</p>\r\n<p>\u00a0</p>\r\n<p>On Sunday, August 2, 2015, at approximately 8:20 a.m., a device at the Calvary Baptist Church detonated. A detonation at the Holy Cross Catholic Church was reported about 20 minutes later. No one was injured in either explosion, and the resulting damage was minor. It is possible that the explosions were related.</p>\r\n<p>\u00a0</p>\r\n<p>The man recorded on the surveillance video below was seen walking to and from Calvary Baptist Church around the time of the explosion. He was wearing plaid shorts, a blue, short-sleeved T-shirt and hiking boots. He was carrying a package or bag. Authorities are calling this man a person of interest because he may have information regarding the explosion at the Calvary Baptist Church.</p>",
+		"sex": "",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image/large"
+			}
+		],
+		"caution": null,
+		"weight_max": null,
+		"race": null,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/download.pdf",
+				"name": "English"
+			}
+		],
+		"eyes_raw": null,
+		"dates_of_birth_used": null,
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/seeking-info/las-cruces-church-bombings",
+		"remarks": null,
+		"languages": null,
+		"hair": null,
+		"weight": null,
+		"uid": "f2860a4c-cf3c-4128-96ab-818e18270022",
+		"description": "Person of Interest\r\nLas Cruces, New Mexico\r\nAugust 2, 2015",
+		"title": "LAS CRUCES CHURCH BOMBINGS",
+		"height_max": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings",
+		"place_of_birth": null,
+		"race_raw": null,
+		"locations": null,
+		"aliases": null,
+		"warning_message": null,
+		"person_classification": "Victim",
+		"scars_and_marks": null,
+		"complexion": null,
+		"age_min": null,
+		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest and conviction of the person or persons responsible for the bombings.",
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2015-10-30T07:00:00",
+		"occupations": null,
+		"weight_min": null,
+		"subjects": [
+			"Seeking Information"
+		],
+		"eyes": null,
+		"field_offices": [
+			"albuquerque"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/f2860a4c-cf3c-4128-96ab-818e18270022"
+	},
+	{
+		"additional_information": null,
+		"age_range": "34 years old (at time of disappearance)",
+		"age_max": 34,
+		"suspects": null,
+		"reward_max": 0,
+		"height_min": 63,
+		"nationality": null,
+		"hair_raw": "Brown, worn collar-length",
+		"coordinates": [],
+		"modified": "2023-02-04T00:04:46+00:00",
+		"legat_names": null,
+		"details": "<p>Theresa Anne Wallace was last seen at her apartment located in the 1100 block of South Lierman Avenue in Urbana, Illinois, on the afternoon of July 2,1990. She has not been seen or heard from since.</p>\r\n<p>That same evening, Wallace's vehicle was observed at the Clark-Lindsey Village retirement home, although Wallace had no connections there. One week later, Urbana Police recovered Wallace\u2019s vehicle in a residential area in the 2000 Block of South Vawter Street in Urbana, Illinois.</p>\r\n<p>Due to a previous automobile accident, Wallace suffered brain damage that resulted in her not being able to conduct a normal conversation and needing to be in constant contact with family and friends.</p>",
+		"sex": "Female",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png/@@images/image/large"
+			}
+		],
+		"caution": null,
+		"weight_max": 135,
+		"race": "white",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace-vicap-7921.pdf/@@download/file/Wallace ViCAP 7921.pdf",
+				"name": "Wallace ViCAP 7921.pdf"
+			}
+		],
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": null,
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois",
+		"remarks": "<p>Wallace wore prescription glasses with plastic frames.</p>",
+		"languages": null,
+		"hair": "brown",
+		"weight": "135 pounds",
+		"uid": "7663df35b5e245148e027f43cc8151ae",
+		"description": "July 20, 1990\r\nUrbana, Illinois",
+		"title": "THERESA ANNE WALLACE - URBANA, ILLINOIS",
+		"height_max": 63,
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois",
+		"place_of_birth": null,
+		"race_raw": "White",
+		"locations": null,
+		"aliases": null,
+		"warning_message": null,
+		"person_classification": "Main",
+		"scars_and_marks": null,
+		"complexion": null,
+		"age_min": 34,
+		"reward_text": null,
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2021-07-09T10:13:00",
+		"occupations": null,
+		"weight_min": 135,
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"eyes": "brown",
+		"field_offices": null,
+		"@id": "https://api.fbi.gov/@wanted-person/7663df35b5e245148e027f43cc8151ae"
 	},
 	{
 		"additional_information": null,
@@ -48050,85 +48127,6 @@
 			"losangeles"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/4f300a2b46ff49b6accf78ae85a43aec"
-	},
-	{
-		"additional_information": null,
-		"age_range": "34 years old (at time of disappearance)",
-		"age_max": 34,
-		"suspects": null,
-		"reward_max": 0,
-		"height_min": 63,
-		"nationality": null,
-		"hair_raw": "Brown, worn collar-length",
-		"coordinates": [],
-		"modified": "2023-02-04T00:04:46+00:00",
-		"legat_names": null,
-		"details": "<p>Theresa Anne Wallace was last seen at her apartment located in the 1100 block of South Lierman Avenue in Urbana, Illinois, on the afternoon of July 2,1990. She has not been seen or heard from since.</p>\r\n<p>That same evening, Wallace's vehicle was observed at the Clark-Lindsey Village retirement home, although Wallace had no connections there. One week later, Urbana Police recovered Wallace\u2019s vehicle in a residential area in the 2000 Block of South Vawter Street in Urbana, Illinois.</p>\r\n<p>Due to a previous automobile accident, Wallace suffered brain damage that resulted in her not being able to conduct a normal conversation and needing to be in constant contact with family and friends.</p>",
-		"sex": "Female",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png/@@images/image/large"
-			}
-		],
-		"caution": null,
-		"weight_max": 135,
-		"race": "white",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace2.png",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois/wallace-vicap-7921.pdf/@@download/file/Wallace ViCAP 7921.pdf",
-				"name": "Wallace ViCAP 7921.pdf"
-			}
-		],
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": null,
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois",
-		"remarks": "<p>Wallace wore prescription glasses with plastic frames.</p>",
-		"languages": null,
-		"hair": "brown",
-		"weight": "135 pounds",
-		"uid": "7663df35b5e245148e027f43cc8151ae",
-		"description": "July 20, 1990\r\nUrbana, Illinois",
-		"title": "THERESA ANNE WALLACE - URBANA, ILLINOIS",
-		"height_max": 63,
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/theresa-anne-wallace---urbana-illinois",
-		"place_of_birth": null,
-		"race_raw": "White",
-		"locations": null,
-		"aliases": null,
-		"warning_message": null,
-		"person_classification": "Main",
-		"scars_and_marks": null,
-		"complexion": null,
-		"age_min": 34,
-		"reward_text": null,
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2021-07-09T10:13:00",
-		"occupations": null,
-		"weight_min": 135,
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"eyes": "brown",
-		"field_offices": null,
-		"@id": "https://api.fbi.gov/@wanted-person/7663df35b5e245148e027f43cc8151ae"
 	},
 	{
 		"additional_information": null,
@@ -49771,6 +49769,81 @@
 		"age_max": null,
 		"suspects": null,
 		"reward_max": 0,
+		"height_min": 73,
+		"nationality": null,
+		"hair_raw": "Brown/Gray",
+		"coordinates": [],
+		"modified": "2023-02-04T00:04:36+00:00",
+		"legat_names": null,
+		"details": "<p>Johnnie \"John\" Wiens was reported missing in early November of 2022, and was last seen on November 4, 2022.\u00a0 He has not had contact with family or loved ones since that date, but was last known to have traveled from Las Vegas, Nevada, to San Diego, California, and was last seen in San Diego going into Tijuana, Mexico.\u00a0 Wiens may have no means of contacting those he knows, may not have money, and may be in immediate need of assistance.\u00a0 He was last seen wearing a brown button-up long-sleeved shirt, grey sweatpants, and brown shoes.\u00a0</p>\r\n<p>\u00a0</p>",
+		"sex": "Male",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/kidnap/johnnie-john-wiens/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/johnnie-john-wiens/@@images/image",
+				"large": "https://www.fbi.gov/wanted/kidnap/johnnie-john-wiens/@@images/image/large"
+			}
+		],
+		"caution": null,
+		"weight_max": 183,
+		"race": "white",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/johnnie-john-wiens/download.pdf",
+				"name": "English"
+			}
+		],
+		"eyes_raw": "Hazel",
+		"dates_of_birth_used": [
+			"April 3, 1945"
+		],
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/kidnap/johnnie-john-wiens",
+		"remarks": "<p>Wiens may use the first name of either\u00a0John or Johnnie.\u00a0 He may travel to\u00a0California, Nevada, or Mexico.</p>",
+		"languages": null,
+		"hair": "brown",
+		"weight": "183 pounds",
+		"uid": "d618b618888549baac1e981170bd1cc3",
+		"description": "November 4, 2022\r\nSan Diego, California",
+		"title": "JOHNNIE \"JOHN\" WIENS",
+		"height_max": 73,
+		"url": "https://www.fbi.gov/wanted/kidnap/johnnie-john-wiens",
+		"place_of_birth": null,
+		"race_raw": "White",
+		"locations": null,
+		"aliases": null,
+		"warning_message": null,
+		"person_classification": "Main",
+		"scars_and_marks": "Wiens has a surgical scar on his back and a lump on the right side of his neck.",
+		"complexion": null,
+		"age_min": null,
+		"reward_text": null,
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2022-12-30T16:17:00",
+		"occupations": [
+			"Retired Engineer"
+		],
+		"weight_min": 183,
+		"subjects": [
+			"Kidnappings and Missing Persons"
+		],
+		"eyes": "hazel",
+		"field_offices": [
+			"lasvegas"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/d618b618888549baac1e981170bd1cc3"
+	},
+	{
+		"additional_information": null,
+		"age_range": null,
+		"age_max": null,
+		"suspects": null,
+		"reward_max": 0,
 		"height_min": null,
 		"nationality": null,
 		"hair_raw": null,
@@ -49841,81 +49914,6 @@
 			"portland"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/6e689496b86240fda2a6fac8711254c1"
-	},
-	{
-		"additional_information": null,
-		"age_range": null,
-		"age_max": null,
-		"suspects": null,
-		"reward_max": 0,
-		"height_min": 73,
-		"nationality": null,
-		"hair_raw": "Brown/Gray",
-		"coordinates": [],
-		"modified": "2023-02-04T00:04:36+00:00",
-		"legat_names": null,
-		"details": "<p>Johnnie \"John\" Wiens was reported missing in early November of 2022, and was last seen on November 4, 2022.\u00a0 He has not had contact with family or loved ones since that date, but was last known to have traveled from Las Vegas, Nevada, to San Diego, California, and was last seen in San Diego going into Tijuana, Mexico.\u00a0 Wiens may have no means of contacting those he knows, may not have money, and may be in immediate need of assistance.\u00a0 He was last seen wearing a brown button-up long-sleeved shirt, grey sweatpants, and brown shoes.\u00a0</p>\r\n<p>\u00a0</p>",
-		"sex": "Male",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/kidnap/johnnie-john-wiens/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/johnnie-john-wiens/@@images/image",
-				"large": "https://www.fbi.gov/wanted/kidnap/johnnie-john-wiens/@@images/image/large"
-			}
-		],
-		"caution": null,
-		"weight_max": 183,
-		"race": "white",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/johnnie-john-wiens/download.pdf",
-				"name": "English"
-			}
-		],
-		"eyes_raw": "Hazel",
-		"dates_of_birth_used": [
-			"April 3, 1945"
-		],
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/kidnap/johnnie-john-wiens",
-		"remarks": "<p>Wiens may use the first name of either\u00a0John or Johnnie.\u00a0 He may travel to\u00a0California, Nevada, or Mexico.</p>",
-		"languages": null,
-		"hair": "brown",
-		"weight": "183 pounds",
-		"uid": "d618b618888549baac1e981170bd1cc3",
-		"description": "November 4, 2022\r\nSan Diego, California",
-		"title": "JOHNNIE \"JOHN\" WIENS",
-		"height_max": 73,
-		"url": "https://www.fbi.gov/wanted/kidnap/johnnie-john-wiens",
-		"place_of_birth": null,
-		"race_raw": "White",
-		"locations": null,
-		"aliases": null,
-		"warning_message": null,
-		"person_classification": "Main",
-		"scars_and_marks": "Wiens has a surgical scar on his back and a lump on the right side of his neck.",
-		"complexion": null,
-		"age_min": null,
-		"reward_text": null,
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2022-12-30T16:17:00",
-		"occupations": [
-			"Retired Engineer"
-		],
-		"weight_min": 183,
-		"subjects": [
-			"Kidnappings and Missing Persons"
-		],
-		"eyes": "hazel",
-		"field_offices": [
-			"lasvegas"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/d618b618888549baac1e981170bd1cc3"
 	},
 	{
 		"additional_information": null,
@@ -53378,6 +53376,75 @@
 	},
 	{
 		"additional_information": null,
+		"age_range": "23 years old (at time of disappearance)",
+		"age_max": 23,
+		"suspects": null,
+		"reward_max": 0,
+		"height_min": 72,
+		"nationality": null,
+		"hair_raw": "Black",
+		"coordinates": [],
+		"modified": "2023-02-04T00:04:14+00:00",
+		"legat_names": null,
+		"details": "<p>Marcus Rutledge was last seen on June 8, 1998, at his home in Nashville, Tennessee.\u00a0 At the time of his disappearance, his 1995 red 4-door Plymouth Neon, Michigan license plate PEX755, was also missing; however, it was later recovered from the parking lot of the Riverwood apartments approximately 21 miles west of Rutledge\u2019s home.\u00a0 Rutledge has not been seen or heard from since.</p>\r\n<p>\u00a0</p>",
+		"sex": "Male",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/marcus-rutledge---nashville-tennessee/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/marcus-rutledge---nashville-tennessee/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/marcus-rutledge---nashville-tennessee/@@images/image/large"
+			}
+		],
+		"caution": null,
+		"weight_max": 190,
+		"race": "black",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marcus-rutledge---nashville-tennessee/rutledge2.pdf",
+				"name": "English"
+			}
+		],
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": null,
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/vicap/missing-persons/marcus-rutledge---nashville-tennessee",
+		"remarks": null,
+		"languages": null,
+		"hair": "black",
+		"weight": "190 pounds",
+		"uid": "66dc08bf423e4a2b91562dcd83ed21cf",
+		"description": "June 8, 1998\r\nNashville, Tennessee",
+		"title": "MARCUS RUTLEDGE - NASHVILLE, TENNESSEE",
+		"height_max": 72,
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marcus-rutledge---nashville-tennessee",
+		"place_of_birth": null,
+		"race_raw": "Black",
+		"locations": null,
+		"aliases": null,
+		"warning_message": null,
+		"person_classification": "Main",
+		"scars_and_marks": "Rutledge has a scar on his right finger knuckle.",
+		"complexion": null,
+		"age_min": 23,
+		"reward_text": null,
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2022-03-22T13:17:00",
+		"occupations": null,
+		"weight_min": 190,
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"eyes": "brown",
+		"field_offices": null,
+		"@id": "https://api.fbi.gov/@wanted-person/66dc08bf423e4a2b91562dcd83ed21cf"
+	},
+	{
+		"additional_information": null,
 		"age_range": null,
 		"age_max": null,
 		"suspects": null,
@@ -53458,75 +53525,6 @@
 			"miami"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/b2ad22fb334046f0b989685258b0c727"
-	},
-	{
-		"additional_information": null,
-		"age_range": "23 years old (at time of disappearance)",
-		"age_max": 23,
-		"suspects": null,
-		"reward_max": 0,
-		"height_min": 72,
-		"nationality": null,
-		"hair_raw": "Black",
-		"coordinates": [],
-		"modified": "2023-02-04T00:04:14+00:00",
-		"legat_names": null,
-		"details": "<p>Marcus Rutledge was last seen on June 8, 1998, at his home in Nashville, Tennessee.\u00a0 At the time of his disappearance, his 1995 red 4-door Plymouth Neon, Michigan license plate PEX755, was also missing; however, it was later recovered from the parking lot of the Riverwood apartments approximately 21 miles west of Rutledge\u2019s home.\u00a0 Rutledge has not been seen or heard from since.</p>\r\n<p>\u00a0</p>",
-		"sex": "Male",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/marcus-rutledge---nashville-tennessee/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/marcus-rutledge---nashville-tennessee/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/marcus-rutledge---nashville-tennessee/@@images/image/large"
-			}
-		],
-		"caution": null,
-		"weight_max": 190,
-		"race": "black",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marcus-rutledge---nashville-tennessee/rutledge2.pdf",
-				"name": "English"
-			}
-		],
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": null,
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/vicap/missing-persons/marcus-rutledge---nashville-tennessee",
-		"remarks": null,
-		"languages": null,
-		"hair": "black",
-		"weight": "190 pounds",
-		"uid": "66dc08bf423e4a2b91562dcd83ed21cf",
-		"description": "June 8, 1998\r\nNashville, Tennessee",
-		"title": "MARCUS RUTLEDGE - NASHVILLE, TENNESSEE",
-		"height_max": 72,
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marcus-rutledge---nashville-tennessee",
-		"place_of_birth": null,
-		"race_raw": "Black",
-		"locations": null,
-		"aliases": null,
-		"warning_message": null,
-		"person_classification": "Main",
-		"scars_and_marks": "Rutledge has a scar on his right finger knuckle.",
-		"complexion": null,
-		"age_min": 23,
-		"reward_text": null,
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2022-03-22T13:17:00",
-		"occupations": null,
-		"weight_min": 190,
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"eyes": "brown",
-		"field_offices": null,
-		"@id": "https://api.fbi.gov/@wanted-person/66dc08bf423e4a2b91562dcd83ed21cf"
 	},
 	{
 		"additional_information": null,
@@ -55213,6 +55211,80 @@
 		"age_max": null,
 		"suspects": null,
 		"reward_max": 0,
+		"height_min": 68,
+		"nationality": "American",
+		"hair_raw": "Brown",
+		"coordinates": [],
+		"modified": "2023-02-04T00:04:02+00:00",
+		"legat_names": null,
+		"details": "<p>The FBI's Minneapolis Field Office in Minnesota, along with the Cheyenne River Sioux Tribe Law Enforcement Services in South Dakota, are seeking the public's assistance in identifying the unknown individual(s) responsible for the murder of Jessie Wallace Cook in Eagle Butte, South Dakota.</p>\r\n<p>On October 29, 2016, Cook, then 32 years old, was found on the ground, unresponsive, near the water tower on the corner of Willow Street and Highway 212 in Eagle Butte, South Dakota. He was pronounced deceased at approximately 9:00 a.m. the same day. Cook had severe facial damage, and the autopsy determined blunt force injury to be the cause of death.</p>",
+		"sex": "Male",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/jessie-wallace-cook/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/jessie-wallace-cook/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/jessie-wallace-cook/@@images/image/large"
+			}
+		],
+		"caution": null,
+		"weight_max": 165,
+		"race": "native",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/jessie-wallace-cook/download.pdf",
+				"name": "English"
+			}
+		],
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": [
+			"December 20, 1983"
+		],
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/seeking-info/jessie-wallace-cook",
+		"remarks": "<p>Cook was an enrolled member at the Cheyenne River Sioux Tribe Indian Reservation.</p>",
+		"languages": null,
+		"hair": "brown",
+		"weight": "165 pounds",
+		"uid": "359d3891a7ac411c8f2722c8e8f126fd",
+		"description": "Homicide Victim\r\nEagle Butte, South Dakota\r\nOn or about October 29, 2016",
+		"title": "JESSIE WALLACE COOK",
+		"height_max": 68,
+		"url": "https://www.fbi.gov/wanted/seeking-info/jessie-wallace-cook",
+		"place_of_birth": "South Dakota",
+		"race_raw": "Native American",
+		"locations": null,
+		"aliases": null,
+		"warning_message": null,
+		"person_classification": "Main",
+		"scars_and_marks": null,
+		"complexion": null,
+		"age_min": null,
+		"reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest and conviction of the person(s) responsible for the murder of Jessie Wallace Cook.",
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2020-09-14T13:09:00",
+		"occupations": null,
+		"weight_min": 165,
+		"subjects": [
+			"Seeking Information",
+			"Indian Country"
+		],
+		"eyes": "brown",
+		"field_offices": [
+			"minneapolis"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/359d3891a7ac411c8f2722c8e8f126fd"
+	},
+	{
+		"additional_information": null,
+		"age_range": null,
+		"age_max": null,
+		"suspects": null,
+		"reward_max": 0,
 		"height_min": null,
 		"nationality": "Chinese",
 		"hair_raw": "Black",
@@ -55284,80 +55356,6 @@
 			"newark"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/b4836ca199004c3b94ab47ac4a38246b"
-	},
-	{
-		"additional_information": null,
-		"age_range": null,
-		"age_max": null,
-		"suspects": null,
-		"reward_max": 0,
-		"height_min": 68,
-		"nationality": "American",
-		"hair_raw": "Brown",
-		"coordinates": [],
-		"modified": "2023-02-04T00:04:02+00:00",
-		"legat_names": null,
-		"details": "<p>The FBI's Minneapolis Field Office in Minnesota, along with the Cheyenne River Sioux Tribe Law Enforcement Services in South Dakota, are seeking the public's assistance in identifying the unknown individual(s) responsible for the murder of Jessie Wallace Cook in Eagle Butte, South Dakota.</p>\r\n<p>On October 29, 2016, Cook, then 32 years old, was found on the ground, unresponsive, near the water tower on the corner of Willow Street and Highway 212 in Eagle Butte, South Dakota. He was pronounced deceased at approximately 9:00 a.m. the same day. Cook had severe facial damage, and the autopsy determined blunt force injury to be the cause of death.</p>",
-		"sex": "Male",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/jessie-wallace-cook/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/jessie-wallace-cook/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/jessie-wallace-cook/@@images/image/large"
-			}
-		],
-		"caution": null,
-		"weight_max": 165,
-		"race": "native",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/jessie-wallace-cook/download.pdf",
-				"name": "English"
-			}
-		],
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": [
-			"December 20, 1983"
-		],
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/seeking-info/jessie-wallace-cook",
-		"remarks": "<p>Cook was an enrolled member at the Cheyenne River Sioux Tribe Indian Reservation.</p>",
-		"languages": null,
-		"hair": "brown",
-		"weight": "165 pounds",
-		"uid": "359d3891a7ac411c8f2722c8e8f126fd",
-		"description": "Homicide Victim\r\nEagle Butte, South Dakota\r\nOn or about October 29, 2016",
-		"title": "JESSIE WALLACE COOK",
-		"height_max": 68,
-		"url": "https://www.fbi.gov/wanted/seeking-info/jessie-wallace-cook",
-		"place_of_birth": "South Dakota",
-		"race_raw": "Native American",
-		"locations": null,
-		"aliases": null,
-		"warning_message": null,
-		"person_classification": "Main",
-		"scars_and_marks": null,
-		"complexion": null,
-		"age_min": null,
-		"reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest and conviction of the person(s) responsible for the murder of Jessie Wallace Cook.",
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2020-09-14T13:09:00",
-		"occupations": null,
-		"weight_min": 165,
-		"subjects": [
-			"Seeking Information",
-			"Indian Country"
-		],
-		"eyes": "brown",
-		"field_offices": [
-			"minneapolis"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/359d3891a7ac411c8f2722c8e8f126fd"
 	},
 	{
 		"additional_information": null,
@@ -59151,81 +59149,6 @@
 		"age_max": null,
 		"suspects": null,
 		"reward_max": 0,
-		"height_min": 65,
-		"nationality": null,
-		"hair_raw": "Black",
-		"coordinates": [],
-		"modified": "2023-02-04T00:03:40+00:00",
-		"legat_names": null,
-		"details": null,
-		"sex": "Female",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/@@images/image",
-				"large": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/@@images/image/large"
-			}
-		],
-		"caution": "<p>The FBI\u2019s Kansas City Field Office is assisting the Kansas City Police Department in Missouri with their search for KaShawn Nicola Roper. Roper is wanted for her alleged involvement in a shooting on August 23, 2020, that resulted in the death of a 23-year-old woman.</p>\r\n<p>\u00a0</p>\r\n<p>On September 10, 2020, Roper was charged with second degree murder, flight from perpetration of a felony, two counts of armed criminal action, and unlawful use of a weapon in the 16th Judicial Circuit, Jackson County, Missouri, and a state warrant was issued for her arrest.</p>",
-		"weight_max": 120,
-		"race": "black",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/download.pdf",
-				"name": "English"
-			}
-		],
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": [
-			"October 7, 1975"
-		],
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/law-enforcement-assistance/kashawn-nicola-roper",
-		"remarks": "<p>Roper has previously resided in Kansas City, Missouri. Roper has ties to, or may visit, Colorado, Kansas, and Missouri. She may have specifically fled to Denver, Colorado.</p>",
-		"languages": null,
-		"hair": "black",
-		"weight": "120 pounds",
-		"uid": "0d06cafc77644dac8aa21e18a5ee5ea3",
-		"description": "Second Degree Murder; Flight From Perpetration of a Felony; Armed Criminal Action (Two Counts); Unlawful Use of a Weapon",
-		"title": "KASHAWN NICOLA ROPER",
-		"height_max": 65,
-		"url": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper",
-		"place_of_birth": "Kansas",
-		"race_raw": "Black",
-		"locations": null,
-		"aliases": [
-			"KaShawn Nicola Shaw, KaShawn Nicole Roper, KaShawn Nicole Shaw, KaShawn Nichola Roper, Kashawn N. Roper"
-		],
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
-		"person_classification": "Main",
-		"scars_and_marks": "Roper has tattoos on her left arm, upper left arm, upper right arm, back, left calf, neck, right wrist, right breast, and abdomen. Roper also has pierced ears.",
-		"complexion": null,
-		"age_min": null,
-		"reward_text": null,
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2021-03-10T12:37:00",
-		"occupations": null,
-		"weight_min": 120,
-		"subjects": [
-			"law enforcement assistance"
-		],
-		"eyes": "brown",
-		"field_offices": [
-			"kansascity"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/0d06cafc77644dac8aa21e18a5ee5ea3"
-	},
-	{
-		"additional_information": null,
-		"age_range": null,
-		"age_max": null,
-		"suspects": null,
-		"reward_max": 0,
 		"height_min": 61,
 		"nationality": null,
 		"hair_raw": "Black",
@@ -59298,6 +59221,81 @@
 			"albuquerque"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/4c60ddafa619433f81b9e964eca57cef"
+	},
+	{
+		"additional_information": null,
+		"age_range": null,
+		"age_max": null,
+		"suspects": null,
+		"reward_max": 0,
+		"height_min": 65,
+		"nationality": null,
+		"hair_raw": "Black",
+		"coordinates": [],
+		"modified": "2023-02-04T00:03:40+00:00",
+		"legat_names": null,
+		"details": null,
+		"sex": "Female",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/@@images/image",
+				"large": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/@@images/image/large"
+			}
+		],
+		"caution": "<p>The FBI\u2019s Kansas City Field Office is assisting the Kansas City Police Department in Missouri with their search for KaShawn Nicola Roper. Roper is wanted for her alleged involvement in a shooting on August 23, 2020, that resulted in the death of a 23-year-old woman.</p>\r\n<p>\u00a0</p>\r\n<p>On September 10, 2020, Roper was charged with second degree murder, flight from perpetration of a felony, two counts of armed criminal action, and unlawful use of a weapon in the 16th Judicial Circuit, Jackson County, Missouri, and a state warrant was issued for her arrest.</p>",
+		"weight_max": 120,
+		"race": "black",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/download.pdf",
+				"name": "English"
+			}
+		],
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": [
+			"October 7, 1975"
+		],
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/law-enforcement-assistance/kashawn-nicola-roper",
+		"remarks": "<p>Roper has previously resided in Kansas City, Missouri. Roper has ties to, or may visit, Colorado, Kansas, and Missouri. She may have specifically fled to Denver, Colorado.</p>",
+		"languages": null,
+		"hair": "black",
+		"weight": "120 pounds",
+		"uid": "0d06cafc77644dac8aa21e18a5ee5ea3",
+		"description": "Second Degree Murder; Flight From Perpetration of a Felony; Armed Criminal Action (Two Counts); Unlawful Use of a Weapon",
+		"title": "KASHAWN NICOLA ROPER",
+		"height_max": 65,
+		"url": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper",
+		"place_of_birth": "Kansas",
+		"race_raw": "Black",
+		"locations": null,
+		"aliases": [
+			"KaShawn Nicola Shaw, KaShawn Nicole Roper, KaShawn Nicole Shaw, KaShawn Nichola Roper, Kashawn N. Roper"
+		],
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+		"person_classification": "Main",
+		"scars_and_marks": "Roper has tattoos on her left arm, upper left arm, upper right arm, back, left calf, neck, right wrist, right breast, and abdomen. Roper also has pierced ears.",
+		"complexion": null,
+		"age_min": null,
+		"reward_text": null,
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2021-03-10T12:37:00",
+		"occupations": null,
+		"weight_min": 120,
+		"subjects": [
+			"law enforcement assistance"
+		],
+		"eyes": "brown",
+		"field_offices": [
+			"kansascity"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/0d06cafc77644dac8aa21e18a5ee5ea3"
 	},
 	{
 		"additional_information": null,
@@ -64239,85 +64237,86 @@
 		"age_max": null,
 		"suspects": null,
 		"reward_max": 0,
-		"height_min": 71,
-		"nationality": "Cuban",
-		"hair_raw": "Black",
+		"height_min": 69,
+		"nationality": null,
+		"hair_raw": "Brown",
 		"coordinates": [],
 		"modified": "2023-02-04T00:03:10+00:00",
 		"legat_names": null,
-		"details": null,
+		"details": "<p>The FBI's Salt Lake City Division, Shelby Resident Agency, and the Blackfeet Law Enforcement Services are asking for the public's assistance in identifying the individual(s) responsible for the murder of Matthew Leroy Grant.</p>\r\n<p>\u00a0</p>\r\n<p>Grant's body was found the evening of December 31, 2016, in an alley between the College Homes and South Glacier Homes neighborhoods in Browning, Montana.</p>",
 		"sex": "Male",
 		"images": [
 			{
-				"caption": "Photograph taken in 2005",
-				"thumb": "https://www.fbi.gov/wanted/wcc/luis-benitez/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/wcc/luis-benitez/@@images/image",
-				"large": "https://www.fbi.gov/wanted/wcc/luis-benitez/@@images/image/large"
+				"caption": "Photograph taken in 2016",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/matthew-leroy-grant/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/matthew-leroy-grant/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/matthew-leroy-grant/@@images/image/large"
+			},
+			{
+				"caption": "Photograph taken in 2016",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/matthew-leroy-grant/grant2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/matthew-leroy-grant/grant2.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/matthew-leroy-grant/grant2.jpg/@@images/image/large"
 			}
 		],
-		"caution": "<p>Luis Benitez, <a href=\"https://www.fbi.gov/wanted/wcc/carlos-benitez\" data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/wcc/carlos-benitez\" data-linktype=\"external\">Carlos Benitez</a>, and <a href=\"https://www.fbi.gov/wanted/wcc/jose-benitez\" data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/wcc/jose-benitez\" data-linktype=\"external\">Jose Benitez </a>are wanted for their alleged involvement in a multi-million dollar scheme to defraud Medicare in the Miami-Dade area of Florida. It is alleged that from 2001 through 2004, the Benitez brothers, using straw owners to disguise their own involvement, owned and directed eleven medical clinics that purportedly provided HIV infusion treatment to infected Medicare beneficiaries. However, the medication that was alleged to have been given to the patients was medically unnecessary and often never given to the patients. The patients received kickbacks for their Medicare information. The Benitez brothers then allegedly opened sham companies to launder millions of dollars coming into the clinics from Medicare.</p>\r\n<p>\u00a0</p>\r\n<p>On May 22, 2008, the Benitez brothers were indicted by a Federal Grand Jury for the United States District Court, Southern District of Florida, for conspiracy to defraud the United States, to cause the submission of false claims, and to pay health care kickbacks; conspiracy to commit health care fraud; submission of false claims; money laundering conspiracy; and money laundering. That same day, federal warrants were issued for their arrests.</p>",
-		"weight_max": 180,
-		"race": "hispanic",
+		"caution": null,
+		"weight_max": 150,
+		"race": "native",
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/wcc/luis-benitez/download.pdf",
+				"url": "https://www.fbi.gov/wanted/seeking-info/matthew-leroy-grant/download.pdf",
 				"name": "English"
 			}
 		],
 		"eyes_raw": "Brown",
 		"dates_of_birth_used": [
-			"June 6, 1966"
+			"October 31, 1995",
+			"December 31, 1995"
 		],
-		"possible_countries": [
-			"CUB",
-			"DOM",
-			"NIC",
-			"USA"
-		],
-		"possible_states": [
-			"US-FL"
-		],
-		"path": "/wanted/wcc/luis-benitez",
-		"remarks": "<p>Luis Benitez injured his leg and walks with a limp. He may travel to Cuba, the Dominican Republic and Nicaragua.</p>",
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/seeking-info/matthew-leroy-grant",
+		"remarks": null,
 		"languages": null,
-		"hair": "black",
-		"weight": "180 pounds",
-		"uid": "574e3cf3531d3fe1c7903a75a023209a",
-		"description": "Conspiracy to Defraud the United States, to Cause the Submission of False Claims, and to Pay Health Care Kickbacks; Conspiracy to Commit Health Care Fraud; Submission of False Claims; Money Laundering Conspiracy; Money Laundering",
-		"title": "LUIS BENITEZ",
-		"height_max": 71,
-		"url": "https://www.fbi.gov/wanted/wcc/luis-benitez",
-		"place_of_birth": "Cuba",
-		"race_raw": "White (Hispanic)",
+		"hair": "brown",
+		"weight": "150 pounds",
+		"uid": "a2e45434e25048c789c3a4d76070c3d7",
+		"description": "Murder Victim\r\nBrowning, Montana\r\nDecember 2016",
+		"title": "MATTHEW LEROY GRANT",
+		"height_max": 69,
+		"url": "https://www.fbi.gov/wanted/seeking-info/matthew-leroy-grant",
+		"place_of_birth": "Wetaskiwin, Alberta, Canada",
+		"race_raw": "Native American",
 		"locations": null,
 		"aliases": [
-			"Luis Enrique Gonzalez",
-			"Luis E. Benitez",
-			"Luis Enrique Benitez Gonzalez"
+			"Matthew Grant",
+			"Matthew R. Grant",
+			"Matthew Rattlesnake",
+			"Matthew Leroy Lee Ray Rattlesnake",
+			"Matthew Leroy Lee Ray Grant Rattlesnake"
 		],
 		"warning_message": null,
-		"person_classification": "Main",
-		"scars_and_marks": "None known",
+		"person_classification": "Victim",
+		"scars_and_marks": "Grant had a tattoo on his left forearm of praying hands and the words \"Ray Grant.\" He also had a tattoo of a tribal design on his left shoulder.",
 		"complexion": null,
 		"age_min": null,
-		"reward_text": null,
+		"reward_text": "The FBI is offering a reward of up to $10,000 for information that leads to an arrest in the investigation of the murder of Matthew Leroy Grant.",
 		"build": null,
 		"reward_min": 0,
-		"ncic": "W484468798",
+		"ncic": null,
 		"status": "na",
-		"publication": "2010-08-12T19:35:00",
-		"occupations": [
-			"Businessman"
-		],
-		"weight_min": 180,
+		"publication": "2017-11-20T09:06:00",
+		"occupations": null,
+		"weight_min": 150,
 		"subjects": [
-			"White-Collar Crime"
+			"Seeking Information",
+			"Indian Country"
 		],
 		"eyes": "brown",
 		"field_offices": [
-			"miami"
+			"saltlakecity"
 		],
-		"@id": "https://api.fbi.gov/@wanted-person/574e3cf3531d3fe1c7903a75a023209a"
+		"@id": "https://api.fbi.gov/@wanted-person/a2e45434e25048c789c3a4d76070c3d7"
 	},
 	{
 		"additional_information": null,
@@ -70752,97 +70751,6 @@
 		"age_max": null,
 		"suspects": null,
 		"reward_max": 0,
-		"height_min": 61,
-		"nationality": "American",
-		"hair_raw": "Brown",
-		"coordinates": [],
-		"modified": "2023-02-04T00:01:54+00:00",
-		"legat_names": null,
-		"details": "<p>Faloma and <a href=\"https://www.fbi.gov/wanted/kidnap/maleina-luhk\" data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/kidnap/maleina-luhk\" data-linktype=\"external\">Maleina Luhk</a> were last seen at the bus stop near their home in the village of As Tao, Saipan, Northern Mariana Islands, on May 25, 2011. The sisters, ages 10 and 9 at the time, were waiting for the school bus to arrive and have not been seen since that time.</p>",
-		"sex": "Female",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/@@images/image",
-				"large": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/@@images/image/large"
-			},
-			{
-				"caption": "Photograph age progressed to 13 years",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/luhkfage.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/luhkfage.jpg",
-				"large": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/luhkfage.jpg/@@images/image/large"
-			}
-		],
-		"caution": null,
-		"weight_max": 90,
-		"race": "asian",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/lukhfchinese.pdf/@@download/file/LukhFChinese.pdf",
-				"name": "\u666e\u901a\u8bdd"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/lukhfkorean.pdf/@@download/file/LukhFKorean.pdf",
-				"name": "\ud55c\uad6d\uc5b4\ub85c"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/lukhfjapanese.pdf/@@download/file/LukhFJapanese.pdf",
-				"name": "\u65e5\u672c\u8a9e\u3067"
-			}
-		],
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": [
-			"February 9, 2001"
-		],
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/kidnap/faloma-luhk",
-		"remarks": "<p>Faloma was last seen wearing a light green shirt with a butterfly design and blue jeans.</p>",
-		"languages": null,
-		"hair": "brown",
-		"weight": "90 pounds (at time of disappearance)",
-		"uid": "841529a7-2d02-4cfa-9027-6d5a1951c66d",
-		"description": "May 25, 2011\r\nSaipan, Northern Mariana Islands",
-		"title": "FALOMA LUHK",
-		"height_max": 61,
-		"url": "https://www.fbi.gov/wanted/kidnap/faloma-luhk",
-		"place_of_birth": "Saipan, Northern Mariana Islands",
-		"race_raw": "Asian (Pacific Islander)",
-		"locations": null,
-		"aliases": null,
-		"warning_message": null,
-		"person_classification": "Main",
-		"scars_and_marks": null,
-		"complexion": null,
-		"age_min": null,
-		"reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the whereabouts of Faloma and Maleina Luhk.",
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2014-10-14T07:00:00",
-		"occupations": null,
-		"weight_min": 90,
-		"subjects": [
-			"Kidnappings and Missing Persons"
-		],
-		"eyes": "brown",
-		"field_offices": [
-			"honolulu"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/841529a7-2d02-4cfa-9027-6d5a1951c66d"
-	},
-	{
-		"additional_information": null,
-		"age_range": null,
-		"age_max": null,
-		"suspects": null,
-		"reward_max": 0,
 		"height_min": 55,
 		"nationality": "American",
 		"hair_raw": "Brown",
@@ -70927,58 +70835,68 @@
 		"age_range": null,
 		"age_max": null,
 		"suspects": null,
-		"reward_max": 10000,
-		"height_min": 50,
-		"nationality": null,
+		"reward_max": 0,
+		"height_min": 61,
+		"nationality": "American",
 		"hair_raw": "Brown",
 		"coordinates": [],
-		"modified": "2023-02-04T00:01:53+00:00",
+		"modified": "2023-02-04T00:01:54+00:00",
 		"legat_names": null,
-		"details": "<p>On July 6, 2001, (then) ten-year-old Tionda Z. Bradley and her sister, (then) three-year-old <a href=\"https://www.fbi.gov/wanted/kidnap/diamond-yvette-bradley\" data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/kidnap/diamond-yvette-bradley\" data-linktype=\"external\">Diamond Yvette Bradley</a>, were reported missing to the Chicago Police Department, Chicago, Illinois. According to their mother, a note written by Tionda was found, stating that the two girls were going to the store and to the school playground. An extensive search of the area and surrounding neighborhood met with negative results.</p>",
+		"details": "<p>Faloma and <a href=\"https://www.fbi.gov/wanted/kidnap/maleina-luhk\" data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/kidnap/maleina-luhk\" data-linktype=\"external\">Maleina Luhk</a> were last seen at the bus stop near their home in the village of As Tao, Saipan, Northern Mariana Islands, on May 25, 2011. The sisters, ages 10 and 9 at the time, were waiting for the school bus to arrive and have not been seen since that time.</p>",
 		"sex": "Female",
 		"images": [
 			{
 				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/@@images/image",
-				"large": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/@@images/image/large"
+				"thumb": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/@@images/image",
+				"large": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/@@images/image/large"
 			},
 			{
-				"caption": "Photo age-progressed to age 26",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/tionda-age-progressed.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/tionda-age-progressed.jpg",
-				"large": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/tionda-age-progressed.jpg/@@images/image/large"
+				"caption": "Photograph age progressed to 13 years",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/luhkfage.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/luhkfage.jpg",
+				"large": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/luhkfage.jpg/@@images/image/large"
 			}
 		],
 		"caution": null,
-		"weight_max": 70,
-		"race": "black",
+		"weight_max": 90,
+		"race": "asian",
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/download.pdf",
+				"url": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/download.pdf",
 				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/lukhfchinese.pdf/@@download/file/LukhFChinese.pdf",
+				"name": "\u666e\u901a\u8bdd"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/lukhfkorean.pdf/@@download/file/LukhFKorean.pdf",
+				"name": "\ud55c\uad6d\uc5b4\ub85c"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/faloma-luhk/lukhfjapanese.pdf/@@download/file/LukhFJapanese.pdf",
+				"name": "\u65e5\u672c\u8a9e\u3067"
 			}
 		],
 		"eyes_raw": "Brown",
 		"dates_of_birth_used": [
-			"January 20, 1991"
+			"February 9, 2001"
 		],
 		"possible_countries": null,
-		"possible_states": [
-			"US-IL"
-		],
-		"path": "/wanted/kidnap/tionda-z.-bradley",
-		"remarks": "<p>At the time of her disappearance, Tionda Bradley had a light complexion, a slim build, and wore her hair in long ponytails. She had a burn scar on her left forearm about the size of a quarter. Tionda was last seen wearing green ponytail holders in her hair, and had a scrape on her left calf. She is described as being shy with strangers, and loved to run track and dance.</p>",
+		"possible_states": null,
+		"path": "/wanted/kidnap/faloma-luhk",
+		"remarks": "<p>Faloma was last seen wearing a light green shirt with a butterfly design and blue jeans.</p>",
 		"languages": null,
 		"hair": "brown",
-		"weight": "70 pounds (at time of disappearance)",
-		"uid": "22398b29f59496df2bda1e22b5dbf197",
-		"description": "July 6, 2001\r\nChicago, Illinois",
-		"title": "TIONDA Z. BRADLEY",
-		"height_max": 50,
-		"url": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley",
-		"place_of_birth": "Chicago, Illinois",
-		"race_raw": "Black",
+		"weight": "90 pounds (at time of disappearance)",
+		"uid": "841529a7-2d02-4cfa-9027-6d5a1951c66d",
+		"description": "May 25, 2011\r\nSaipan, Northern Mariana Islands",
+		"title": "FALOMA LUHK",
+		"height_max": 61,
+		"url": "https://www.fbi.gov/wanted/kidnap/faloma-luhk",
+		"place_of_birth": "Saipan, Northern Mariana Islands",
+		"race_raw": "Asian (Pacific Islander)",
 		"locations": null,
 		"aliases": null,
 		"warning_message": null,
@@ -70986,22 +70904,22 @@
 		"scars_and_marks": null,
 		"complexion": null,
 		"age_min": null,
-		"reward_text": "A reward of up to $10,000 is being offered for information regarding the current whereabouts of Tionda and Diamond Bradley.",
+		"reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the whereabouts of Faloma and Maleina Luhk.",
 		"build": null,
 		"reward_min": 0,
 		"ncic": null,
 		"status": "na",
-		"publication": "2010-09-10T09:25:00",
+		"publication": "2014-10-14T07:00:00",
 		"occupations": null,
-		"weight_min": 70,
+		"weight_min": 90,
 		"subjects": [
 			"Kidnappings and Missing Persons"
 		],
 		"eyes": "brown",
 		"field_offices": [
-			"chicago"
+			"honolulu"
 		],
-		"@id": "https://api.fbi.gov/@wanted-person/22398b29f59496df2bda1e22b5dbf197"
+		"@id": "https://api.fbi.gov/@wanted-person/841529a7-2d02-4cfa-9027-6d5a1951c66d"
 	},
 	{
 		"additional_information": null,
@@ -71168,6 +71086,87 @@
 			"denver"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/9e65bba223d947dfbb508d71062fe170"
+	},
+	{
+		"additional_information": null,
+		"age_range": null,
+		"age_max": null,
+		"suspects": null,
+		"reward_max": 10000,
+		"height_min": 50,
+		"nationality": null,
+		"hair_raw": "Brown",
+		"coordinates": [],
+		"modified": "2023-02-04T00:01:53+00:00",
+		"legat_names": null,
+		"details": "<p>On July 6, 2001, (then) ten-year-old Tionda Z. Bradley and her sister, (then) three-year-old <a href=\"https://www.fbi.gov/wanted/kidnap/diamond-yvette-bradley\" data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/kidnap/diamond-yvette-bradley\" data-linktype=\"external\">Diamond Yvette Bradley</a>, were reported missing to the Chicago Police Department, Chicago, Illinois. According to their mother, a note written by Tionda was found, stating that the two girls were going to the store and to the school playground. An extensive search of the area and surrounding neighborhood met with negative results.</p>",
+		"sex": "Female",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/@@images/image",
+				"large": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/@@images/image/large"
+			},
+			{
+				"caption": "Photo age-progressed to age 26",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/tionda-age-progressed.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/tionda-age-progressed.jpg",
+				"large": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/tionda-age-progressed.jpg/@@images/image/large"
+			}
+		],
+		"caution": null,
+		"weight_max": 70,
+		"race": "black",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley/download.pdf",
+				"name": "English"
+			}
+		],
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": [
+			"January 20, 1991"
+		],
+		"possible_countries": null,
+		"possible_states": [
+			"US-IL"
+		],
+		"path": "/wanted/kidnap/tionda-z.-bradley",
+		"remarks": "<p>At the time of her disappearance, Tionda Bradley had a light complexion, a slim build, and wore her hair in long ponytails. She had a burn scar on her left forearm about the size of a quarter. Tionda was last seen wearing green ponytail holders in her hair, and had a scrape on her left calf. She is described as being shy with strangers, and loved to run track and dance.</p>",
+		"languages": null,
+		"hair": "brown",
+		"weight": "70 pounds (at time of disappearance)",
+		"uid": "22398b29f59496df2bda1e22b5dbf197",
+		"description": "July 6, 2001\r\nChicago, Illinois",
+		"title": "TIONDA Z. BRADLEY",
+		"height_max": 50,
+		"url": "https://www.fbi.gov/wanted/kidnap/tionda-z.-bradley",
+		"place_of_birth": "Chicago, Illinois",
+		"race_raw": "Black",
+		"locations": null,
+		"aliases": null,
+		"warning_message": null,
+		"person_classification": "Main",
+		"scars_and_marks": null,
+		"complexion": null,
+		"age_min": null,
+		"reward_text": "A reward of up to $10,000 is being offered for information regarding the current whereabouts of Tionda and Diamond Bradley.",
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2010-09-10T09:25:00",
+		"occupations": null,
+		"weight_min": 70,
+		"subjects": [
+			"Kidnappings and Missing Persons"
+		],
+		"eyes": "brown",
+		"field_offices": [
+			"chicago"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/22398b29f59496df2bda1e22b5dbf197"
 	},
 	{
 		"additional_information": null,
@@ -72497,91 +72496,6 @@
 		"age_max": null,
 		"suspects": null,
 		"reward_max": 0,
-		"height_min": 67,
-		"nationality": null,
-		"hair_raw": "Brown",
-		"coordinates": [],
-		"modified": "2023-02-04T00:01:48+00:00",
-		"legat_names": null,
-		"details": "<p>The Charlotte Division of the FBI and the Lumberton Police Department in North Carolina are seeking assistance from the public to locate Abby Lynn Patterson.</p>\r\n<p>\u00a0</p>\r\n<p>Patterson was last seen on Tuesday, September 5, 2017, around 11:30 a.m. She left her home on East 9th Street in Lumberton, North Carolina, and was seen getting into a brown Buick. Patterson has not been seen since and has not had any contact with family or friends.</p>",
-		"sex": "Female",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/@@images/image",
-				"large": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747245-abby-paterson-90e73.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747245-abby-paterson-90e73.jpg",
-				"large": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747245-abby-paterson-90e73.jpg/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747244-abby-paterson-2552d.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747244-abby-paterson-2552d.jpg",
-				"large": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747244-abby-paterson-2552d.jpg/@@images/image/large"
-			}
-		],
-		"caution": null,
-		"weight_max": 140,
-		"race": "white",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/download.pdf",
-				"name": "English"
-			}
-		],
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": [
-			"February 15, 1997"
-		],
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/kidnap/abby-lynn-patterson",
-		"remarks": "<p>Patterson was last seen wearing brown shorts and a white shirt.</p>",
-		"languages": null,
-		"hair": "brown",
-		"weight": "140 pounds",
-		"uid": "8645dfe9051f4f208f0d27ab37d581f1",
-		"description": "September 5, 2017\r\nLumberton, North Carolina",
-		"title": "ABBY LYNN PATTERSON",
-		"height_max": 67,
-		"url": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson",
-		"place_of_birth": null,
-		"race_raw": "White",
-		"locations": null,
-		"aliases": null,
-		"warning_message": null,
-		"person_classification": "Main",
-		"scars_and_marks": "Patterson has a tattoo of a bird on her shoulder, and a birthmark on the back of her right thigh.",
-		"complexion": null,
-		"age_min": null,
-		"reward_text": null,
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2017-11-15T08:58:00",
-		"occupations": null,
-		"weight_min": 140,
-		"subjects": [
-			"Kidnappings and Missing Persons"
-		],
-		"eyes": "brown",
-		"field_offices": [
-			"charlotte"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/8645dfe9051f4f208f0d27ab37d581f1"
-	},
-	{
-		"additional_information": null,
-		"age_range": null,
-		"age_max": null,
-		"suspects": null,
-		"reward_max": 0,
 		"height_min": 60,
 		"nationality": null,
 		"hair_raw": "Black",
@@ -72666,6 +72580,91 @@
 			"newark"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/6710e4653a744fdca0229ad920f3469c"
+	},
+	{
+		"additional_information": null,
+		"age_range": null,
+		"age_max": null,
+		"suspects": null,
+		"reward_max": 0,
+		"height_min": 67,
+		"nationality": null,
+		"hair_raw": "Brown",
+		"coordinates": [],
+		"modified": "2023-02-04T00:01:48+00:00",
+		"legat_names": null,
+		"details": "<p>The Charlotte Division of the FBI and the Lumberton Police Department in North Carolina are seeking assistance from the public to locate Abby Lynn Patterson.</p>\r\n<p>\u00a0</p>\r\n<p>Patterson was last seen on Tuesday, September 5, 2017, around 11:30 a.m. She left her home on East 9th Street in Lumberton, North Carolina, and was seen getting into a brown Buick. Patterson has not been seen since and has not had any contact with family or friends.</p>",
+		"sex": "Female",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/@@images/image",
+				"large": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747245-abby-paterson-90e73.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747245-abby-paterson-90e73.jpg",
+				"large": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747245-abby-paterson-90e73.jpg/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747244-abby-paterson-2552d.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747244-abby-paterson-2552d.jpg",
+				"large": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747244-abby-paterson-2552d.jpg/@@images/image/large"
+			}
+		],
+		"caution": null,
+		"weight_max": 140,
+		"race": "white",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/download.pdf",
+				"name": "English"
+			}
+		],
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": [
+			"February 15, 1997"
+		],
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/kidnap/abby-lynn-patterson",
+		"remarks": "<p>Patterson was last seen wearing brown shorts and a white shirt.</p>",
+		"languages": null,
+		"hair": "brown",
+		"weight": "140 pounds",
+		"uid": "8645dfe9051f4f208f0d27ab37d581f1",
+		"description": "September 5, 2017\r\nLumberton, North Carolina",
+		"title": "ABBY LYNN PATTERSON",
+		"height_max": 67,
+		"url": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson",
+		"place_of_birth": null,
+		"race_raw": "White",
+		"locations": null,
+		"aliases": null,
+		"warning_message": null,
+		"person_classification": "Main",
+		"scars_and_marks": "Patterson has a tattoo of a bird on her shoulder, and a birthmark on the back of her right thigh.",
+		"complexion": null,
+		"age_min": null,
+		"reward_text": null,
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2017-11-15T08:58:00",
+		"occupations": null,
+		"weight_min": 140,
+		"subjects": [
+			"Kidnappings and Missing Persons"
+		],
+		"eyes": "brown",
+		"field_offices": [
+			"charlotte"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/8645dfe9051f4f208f0d27ab37d581f1"
 	},
 	{
 		"additional_information": null,
@@ -75687,6 +75686,107 @@
 		"age_range": null,
 		"age_max": null,
 		"suspects": null,
+		"reward_max": 0,
+		"height_min": 61,
+		"nationality": "American",
+		"hair_raw": "Black",
+		"coordinates": [],
+		"modified": "2023-02-04T00:01:17+00:00",
+		"legat_names": null,
+		"details": null,
+		"sex": "Female",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image",
+				"large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg",
+				"large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg/@@images/image/large"
+			},
+			{
+				"caption": "Age-progressed photograph",
+				"thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg",
+				"large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg/@@images/image/large"
+			}
+		],
+		"caution": "<p>Rosemary Lorraine Godbolt-Molder is being sought for the murder of her 5-year-old stepson. On August 22, 1989, Rayshon Omar Alexxander was transported from his residence in Fort Bliss, Texas, to an army medical center with injuries. Alexxander was pronounced dead on the same date by physicians at the medical facility. Additionally, examination of the victim disclosed numerous bruises throughout his body, which indicated a fractured skull and possible physical abuse. An autopsy later revealed that Alexxander died as a result of extensive child abuse.</p>\r\n<p>\u00a0</p>\r\n<p>Godbolt-Molder was arrested and indicted by a Western District of Texas Federal Grand Jury at El Paso, Texas, for homicide on a government reservation. Godbolt-Molder was released on bond on October 4, 1989. After Godbolt-Molder violated the terms of her release, by failing to report to her Pre-trial Service Officer while her trial was still pending, her bond was revoked on April 27, 1993. A federal warrant was then issued by the United States District Court, Western District of Texas, for Godbolt-Molder's arrest.</p>",
+		"weight_max": 123,
+		"race": "black",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/download.pdf",
+				"name": "English"
+			}
+		],
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": [
+			"July 29, 1967"
+		],
+		"possible_countries": [
+			"USA"
+		],
+		"possible_states": [
+			"US-NJ",
+			"US-TX"
+		],
+		"path": "/wanted/murders/rosemary-lorraine-godbolt-molder",
+		"remarks": "<p>Rosemary Lorraine Godbolt-Molder has ties to Trenton, New Jersey; and the Fort Bliss and El Paso, Texas, areas. On occasion, Godbolt-Molder is known to gamble.</p>",
+		"languages": null,
+		"hair": "black",
+		"weight": "123 pounds",
+		"uid": "6497efc926f214c3f18d95e51aad5946",
+		"description": "Crime On a Government Reservation - Homicide",
+		"title": "ROSEMARY LORRAINE GODBOLT-MOLDER",
+		"height_max": 61,
+		"url": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder",
+		"place_of_birth": "New Jersey",
+		"race_raw": "Black",
+		"locations": null,
+		"aliases": [
+			"Rosemary L. Godbolt",
+			"Rosemary Lorraine Molder",
+			"Rosemary Lorraine Davis",
+			"Rosemary L. Molder",
+			"Rosemary Lorraine Godbolt",
+			"Ann Godbolt",
+			"R. Lorraine Godbolt-Molder"
+		],
+		"warning_message": "SHOULD BE CONSIDERED AN ESCAPE RISK",
+		"person_classification": "Main",
+		"scars_and_marks": "Rosemary Lorraine Godbolt-Molder has scars on both knees.",
+		"complexion": null,
+		"age_min": null,
+		"reward_text": null,
+		"build": null,
+		"reward_min": 0,
+		"ncic": "W016118996",
+		"status": "na",
+		"publication": "2010-09-07T22:55:00",
+		"occupations": [
+			"Police dispatcher",
+			"Convenience store clerk"
+		],
+		"weight_min": 123,
+		"subjects": [
+			"Violent Crime - Murders"
+		],
+		"eyes": "brown",
+		"field_offices": [
+			"elpaso"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/6497efc926f214c3f18d95e51aad5946"
+	},
+	{
+		"additional_information": null,
+		"age_range": null,
+		"age_max": null,
+		"suspects": null,
 		"reward_max": 99999,
 		"height_min": 70,
 		"nationality": "American",
@@ -75860,107 +75960,6 @@
 			"atlanta"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/d52c79b4ff32763458d4a50fd70f3361"
-	},
-	{
-		"additional_information": null,
-		"age_range": null,
-		"age_max": null,
-		"suspects": null,
-		"reward_max": 0,
-		"height_min": 61,
-		"nationality": "American",
-		"hair_raw": "Black",
-		"coordinates": [],
-		"modified": "2023-02-04T00:01:17+00:00",
-		"legat_names": null,
-		"details": null,
-		"sex": "Female",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image",
-				"large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg",
-				"large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg/@@images/image/large"
-			},
-			{
-				"caption": "Age-progressed photograph",
-				"thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg",
-				"large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg/@@images/image/large"
-			}
-		],
-		"caution": "<p>Rosemary Lorraine Godbolt-Molder is being sought for the murder of her 5-year-old stepson. On August 22, 1989, Rayshon Omar Alexxander was transported from his residence in Fort Bliss, Texas, to an army medical center with injuries. Alexxander was pronounced dead on the same date by physicians at the medical facility. Additionally, examination of the victim disclosed numerous bruises throughout his body, which indicated a fractured skull and possible physical abuse. An autopsy later revealed that Alexxander died as a result of extensive child abuse.</p>\r\n<p>\u00a0</p>\r\n<p>Godbolt-Molder was arrested and indicted by a Western District of Texas Federal Grand Jury at El Paso, Texas, for homicide on a government reservation. Godbolt-Molder was released on bond on October 4, 1989. After Godbolt-Molder violated the terms of her release, by failing to report to her Pre-trial Service Officer while her trial was still pending, her bond was revoked on April 27, 1993. A federal warrant was then issued by the United States District Court, Western District of Texas, for Godbolt-Molder's arrest.</p>",
-		"weight_max": 123,
-		"race": "black",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/download.pdf",
-				"name": "English"
-			}
-		],
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": [
-			"July 29, 1967"
-		],
-		"possible_countries": [
-			"USA"
-		],
-		"possible_states": [
-			"US-NJ",
-			"US-TX"
-		],
-		"path": "/wanted/murders/rosemary-lorraine-godbolt-molder",
-		"remarks": "<p>Rosemary Lorraine Godbolt-Molder has ties to Trenton, New Jersey; and the Fort Bliss and El Paso, Texas, areas. On occasion, Godbolt-Molder is known to gamble.</p>",
-		"languages": null,
-		"hair": "black",
-		"weight": "123 pounds",
-		"uid": "6497efc926f214c3f18d95e51aad5946",
-		"description": "Crime On a Government Reservation - Homicide",
-		"title": "ROSEMARY LORRAINE GODBOLT-MOLDER",
-		"height_max": 61,
-		"url": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder",
-		"place_of_birth": "New Jersey",
-		"race_raw": "Black",
-		"locations": null,
-		"aliases": [
-			"Rosemary L. Godbolt",
-			"Rosemary Lorraine Molder",
-			"Rosemary Lorraine Davis",
-			"Rosemary L. Molder",
-			"Rosemary Lorraine Godbolt",
-			"Ann Godbolt",
-			"R. Lorraine Godbolt-Molder"
-		],
-		"warning_message": "SHOULD BE CONSIDERED AN ESCAPE RISK",
-		"person_classification": "Main",
-		"scars_and_marks": "Rosemary Lorraine Godbolt-Molder has scars on both knees.",
-		"complexion": null,
-		"age_min": null,
-		"reward_text": null,
-		"build": null,
-		"reward_min": 0,
-		"ncic": "W016118996",
-		"status": "na",
-		"publication": "2010-09-07T22:55:00",
-		"occupations": [
-			"Police dispatcher",
-			"Convenience store clerk"
-		],
-		"weight_min": 123,
-		"subjects": [
-			"Violent Crime - Murders"
-		],
-		"eyes": "brown",
-		"field_offices": [
-			"elpaso"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/6497efc926f214c3f18d95e51aad5946"
 	},
 	{
 		"additional_information": null,
@@ -79046,88 +79045,6 @@
 		"age_range": null,
 		"age_max": null,
 		"suspects": null,
-		"reward_max": 4999999,
-		"height_min": 69,
-		"nationality": "Lebanese",
-		"hair_raw": "Black",
-		"coordinates": [],
-		"modified": "2023-02-04T00:00:53+00:00",
-		"legat_names": null,
-		"details": null,
-		"sex": "Male",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din/@@images/image",
-				"large": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din/@@images/image/large"
-			}
-		],
-		"caution": "<p>Hasan Izz-Al-Din was indicted for his role in planning and participating in the June 14, 1985, hijacking of a commercial airliner which resulted in the assault on various passengers and crew members, and the murder of one United States citizen.</p>",
-		"weight_max": 150,
-		"race": null,
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din/download.pdf",
-				"name": "English"
-			}
-		],
-		"eyes_raw": "Black",
-		"dates_of_birth_used": [
-			"1963"
-		],
-		"possible_countries": [
-			"LBN",
-			"USA"
-		],
-		"possible_states": null,
-		"path": "/wanted/wanted_terrorists/hasan-izz-al-din",
-		"remarks": "<p>Izz-Al-Din is an alleged member of the terrorist organization, Lebanese Hizballah. He is thought to be in Lebanon.</p>",
-		"languages": [
-			"Arabic"
-		],
-		"hair": "black",
-		"weight": "145 to 150 pounds",
-		"uid": "eb8ce6b4848d05f3a2ba0e768954c9cd",
-		"description": "Conspiracy to Commit Aircraft Piracy, to Commit Hostage Taking, to Commit Air Piracy Resulting in Murder, to Interfere With a Flight Crew, to Place a Destructive Device Aboard an Aircraft, to Have Explosive Devices About the Person on an Aircraft, and to Assault Passengers and Crew; Air Piracy Resulting in Murder; Air Piracy; Hostage Taking; Interference With Flight Crew; and Placing Explosives Aboard Aircraft; Placing Destructive Devices Aboard Aircraft; Assault Aboard Aircraft With Intent to Hijack With a Dangerous Weapon and Resulting in Serious Bodily Injury; Aiding and Abetting",
-		"title": "HASAN IZZ-AL-DIN",
-		"height_max": 71,
-		"url": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din",
-		"place_of_birth": "Lebanon",
-		"race_raw": null,
-		"locations": null,
-		"aliases": [
-			"Ahmed Garbaya",
-			"Samir Salwwan",
-			"Sa-id"
-		],
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
-		"person_classification": "Main",
-		"scars_and_marks": "None known",
-		"complexion": null,
-		"age_min": null,
-		"reward_text": "The Rewards For Justice Program, United States Department of State, is offering a reward of up to $5 million for information leading directly to the apprehension or conviction of Hasan Izz-Al-Din.",
-		"build": "Slender",
-		"reward_min": 1000000,
-		"ncic": null,
-		"status": "na",
-		"publication": "2010-07-27T10:00:00",
-		"occupations": null,
-		"weight_min": 145,
-		"subjects": [
-			"Most Wanted Terrorists"
-		],
-		"eyes": "black",
-		"field_offices": [
-			"washingtondc"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/eb8ce6b4848d05f3a2ba0e768954c9cd"
-	},
-	{
-		"additional_information": null,
-		"age_range": null,
-		"age_max": null,
-		"suspects": null,
 		"reward_max": 0,
 		"height_min": null,
 		"nationality": "Jordanian",
@@ -79233,6 +79150,88 @@
 			"washingtondc"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/5f4d64e8ae914e028a344ff95f7969c5"
+	},
+	{
+		"additional_information": null,
+		"age_range": null,
+		"age_max": null,
+		"suspects": null,
+		"reward_max": 4999999,
+		"height_min": 69,
+		"nationality": "Lebanese",
+		"hair_raw": "Black",
+		"coordinates": [],
+		"modified": "2023-02-04T00:00:53+00:00",
+		"legat_names": null,
+		"details": null,
+		"sex": "Male",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din/@@images/image",
+				"large": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din/@@images/image/large"
+			}
+		],
+		"caution": "<p>Hasan Izz-Al-Din was indicted for his role in planning and participating in the June 14, 1985, hijacking of a commercial airliner which resulted in the assault on various passengers and crew members, and the murder of one United States citizen.</p>",
+		"weight_max": 150,
+		"race": null,
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din/download.pdf",
+				"name": "English"
+			}
+		],
+		"eyes_raw": "Black",
+		"dates_of_birth_used": [
+			"1963"
+		],
+		"possible_countries": [
+			"LBN",
+			"USA"
+		],
+		"possible_states": null,
+		"path": "/wanted/wanted_terrorists/hasan-izz-al-din",
+		"remarks": "<p>Izz-Al-Din is an alleged member of the terrorist organization, Lebanese Hizballah. He is thought to be in Lebanon.</p>",
+		"languages": [
+			"Arabic"
+		],
+		"hair": "black",
+		"weight": "145 to 150 pounds",
+		"uid": "eb8ce6b4848d05f3a2ba0e768954c9cd",
+		"description": "Conspiracy to Commit Aircraft Piracy, to Commit Hostage Taking, to Commit Air Piracy Resulting in Murder, to Interfere With a Flight Crew, to Place a Destructive Device Aboard an Aircraft, to Have Explosive Devices About the Person on an Aircraft, and to Assault Passengers and Crew; Air Piracy Resulting in Murder; Air Piracy; Hostage Taking; Interference With Flight Crew; and Placing Explosives Aboard Aircraft; Placing Destructive Devices Aboard Aircraft; Assault Aboard Aircraft With Intent to Hijack With a Dangerous Weapon and Resulting in Serious Bodily Injury; Aiding and Abetting",
+		"title": "HASAN IZZ-AL-DIN",
+		"height_max": 71,
+		"url": "https://www.fbi.gov/wanted/wanted_terrorists/hasan-izz-al-din",
+		"place_of_birth": "Lebanon",
+		"race_raw": null,
+		"locations": null,
+		"aliases": [
+			"Ahmed Garbaya",
+			"Samir Salwwan",
+			"Sa-id"
+		],
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+		"person_classification": "Main",
+		"scars_and_marks": "None known",
+		"complexion": null,
+		"age_min": null,
+		"reward_text": "The Rewards For Justice Program, United States Department of State, is offering a reward of up to $5 million for information leading directly to the apprehension or conviction of Hasan Izz-Al-Din.",
+		"build": "Slender",
+		"reward_min": 1000000,
+		"ncic": null,
+		"status": "na",
+		"publication": "2010-07-27T10:00:00",
+		"occupations": null,
+		"weight_min": 145,
+		"subjects": [
+			"Most Wanted Terrorists"
+		],
+		"eyes": "black",
+		"field_offices": [
+			"washingtondc"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/eb8ce6b4848d05f3a2ba0e768954c9cd"
 	},
 	{
 		"additional_information": null,
@@ -81844,6 +81843,85 @@
 		"age_max": null,
 		"suspects": null,
 		"reward_max": 0,
+		"height_min": 68,
+		"nationality": "Iranian",
+		"hair_raw": "Black",
+		"coordinates": [],
+		"modified": "2023-02-04T00:00:30+00:00",
+		"legat_names": null,
+		"details": null,
+		"sex": "Male",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image",
+				"large": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/large"
+			}
+		],
+		"caution": "<p>Mohamad Paryar\u00a0is wanted for his alleged involvement in criminal activities to include computer intrusion and aggravated identity theft.\u00a0 Paryar was allegedly contracted to procure and provide technical support for\u00a0malware in furtherance of a malicious cyber campaign targeting current and former members of the\u00a0United States\u00a0Intelligence Community.\u00a0 Paryar allegedly conducted this activity at the behest of the Islamic Revolutionary Guard Corps (IRGC).\u00a0 On February 8, 2019, a grand jury in the United States District Court, District of Columbia, indicted Paryar, <a href=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\" data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\" data-linktype=\"external\">and others</a>, and a federal arrest warrant was issued for him after he was charged with Conspiracy to Commit Computer Intrusion, Computer Intrusion, Aggravated Identity Theft, and\u00a0Aiding and Abetting.</p>\r\n<p>\u00a0</p>",
+		"weight_max": 160,
+		"race": "white",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/paryarfarsi.pdf/@@download/file/ParyarFarsi.pdf",
+				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc"
+			}
+		],
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": null,
+		"possible_countries": null,
+		"possible_states": null,
+		"path": "/wanted/cyber/mohamad-paryar",
+		"remarks": null,
+		"languages": null,
+		"hair": "black",
+		"weight": "Approximately 160 pounds",
+		"uid": "fcef299db11c4940867aeb66e3cdcd5c",
+		"description": "Conspiracy to Commit Computer Intrusion; Computer Intrusion; Aggravated Identity Theft; Aiding and Abetting",
+		"title": "MOHAMAD PARYAR",
+		"height_max": 68,
+		"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar",
+		"place_of_birth": "Iran",
+		"race_raw": "White",
+		"locations": null,
+		"aliases": [
+			"l_bush_l",
+			"Mohamad Pk",
+			"MPK"
+		],
+		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+		"person_classification": "Main",
+		"scars_and_marks": null,
+		"complexion": null,
+		"age_min": null,
+		"reward_text": null,
+		"build": null,
+		"reward_min": 0,
+		"ncic": null,
+		"status": "na",
+		"publication": "2019-02-07T19:23:00",
+		"occupations": null,
+		"weight_min": 160,
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"eyes": "brown",
+		"field_offices": [
+			"washingtondc"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/fcef299db11c4940867aeb66e3cdcd5c"
+	},
+	{
+		"additional_information": null,
+		"age_range": null,
+		"age_max": null,
+		"suspects": null,
+		"reward_max": 0,
 		"height_min": 69,
 		"nationality": "Iranian",
 		"hair_raw": "Brown",
@@ -81917,85 +81995,6 @@
 			"washingtondc"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/7cb18c1ab6594ccca93c81bddec8eb42"
-	},
-	{
-		"additional_information": null,
-		"age_range": null,
-		"age_max": null,
-		"suspects": null,
-		"reward_max": 0,
-		"height_min": 68,
-		"nationality": "Iranian",
-		"hair_raw": "Black",
-		"coordinates": [],
-		"modified": "2023-02-04T00:00:30+00:00",
-		"legat_names": null,
-		"details": null,
-		"sex": "Male",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image",
-				"large": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/@@images/image/large"
-			}
-		],
-		"caution": "<p>Mohamad Paryar\u00a0is wanted for his alleged involvement in criminal activities to include computer intrusion and aggravated identity theft.\u00a0 Paryar was allegedly contracted to procure and provide technical support for\u00a0malware in furtherance of a malicious cyber campaign targeting current and former members of the\u00a0United States\u00a0Intelligence Community.\u00a0 Paryar allegedly conducted this activity at the behest of the Islamic Revolutionary Guard Corps (IRGC).\u00a0 On February 8, 2019, a grand jury in the United States District Court, District of Columbia, indicted Paryar, <a href=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\" data-urltype=\"/view\" data-val=\"https://www.fbi.gov/wanted/cyber/irgc-affiliated-cyber-actors\" data-linktype=\"external\">and others</a>, and a federal arrest warrant was issued for him after he was charged with Conspiracy to Commit Computer Intrusion, Computer Intrusion, Aggravated Identity Theft, and\u00a0Aiding and Abetting.</p>\r\n<p>\u00a0</p>",
-		"weight_max": 160,
-		"race": "white",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar/paryarfarsi.pdf/@@download/file/ParyarFarsi.pdf",
-				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc"
-			}
-		],
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": null,
-		"possible_countries": null,
-		"possible_states": null,
-		"path": "/wanted/cyber/mohamad-paryar",
-		"remarks": null,
-		"languages": null,
-		"hair": "black",
-		"weight": "Approximately 160 pounds",
-		"uid": "fcef299db11c4940867aeb66e3cdcd5c",
-		"description": "Conspiracy to Commit Computer Intrusion; Computer Intrusion; Aggravated Identity Theft; Aiding and Abetting",
-		"title": "MOHAMAD PARYAR",
-		"height_max": 68,
-		"url": "https://www.fbi.gov/wanted/cyber/mohamad-paryar",
-		"place_of_birth": "Iran",
-		"race_raw": "White",
-		"locations": null,
-		"aliases": [
-			"l_bush_l",
-			"Mohamad Pk",
-			"MPK"
-		],
-		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
-		"person_classification": "Main",
-		"scars_and_marks": null,
-		"complexion": null,
-		"age_min": null,
-		"reward_text": null,
-		"build": null,
-		"reward_min": 0,
-		"ncic": null,
-		"status": "na",
-		"publication": "2019-02-07T19:23:00",
-		"occupations": null,
-		"weight_min": 160,
-		"subjects": [
-			"Cyber's Most Wanted"
-		],
-		"eyes": "brown",
-		"field_offices": [
-			"washingtondc"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/fcef299db11c4940867aeb66e3cdcd5c"
 	},
 	{
 		"additional_information": null,
