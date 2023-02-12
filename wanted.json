@@ -2454,79 +2454,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/421f5461e4b34c82a6930bd1ebb0d792"
 	},
 	{
-		"title": "JAMONA PICKETT",
-		"locations": null,
-		"status": "na",
-		"place_of_birth": null,
-		"occupations": null,
-		"eyes_raw": "Brown",
-		"age_max": null,
-		"eyes": "brown",
-		"aliases": null,
-		"dates_of_birth_used": [
-			"May 24, 2007"
-		],
-		"details": "<p>The Louisville Division of the FBI is seeking the public's assistance in locating Jamona Pickett. Jamona was last seen on May 1, 2022, at approximately 3 p.m. at her foster home in Scottsville, Kentucky. Jamona has a history of running away and took clothes with her when she disappeared.</p>",
-		"weight": "140 pounds",
-		"possible_states": null,
-		"remarks": "<p>Jamona Pickett has ties to Kentucky and Texas.\u00a0</p>",
-		"path": "/wanted/kidnap/jamona-pickett",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/jamona-pickett/download.pdf",
-				"name": "English"
-			}
-		],
-		"sex": "Female",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/kidnap/jamona-pickett/@@images/image",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/kidnap/jamona-pickett/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/jamona-pickett/@@images/image/thumb"
-			}
-		],
-		"race_raw": "Black",
-		"person_classification": "Main",
-		"legat_names": null,
-		"caution": null,
-		"age_range": null,
-		"ncic": null,
-		"url": "https://www.fbi.gov/wanted/kidnap/jamona-pickett",
-		"additional_information": null,
-		"height_min": 65,
-		"field_offices": [
-			"louisville"
-		],
-		"uid": "1e8ab5f701bd4497bf3344a9935f2a7a",
-		"reward_max": 0,
-		"publication": "2022-05-02T17:24:00",
-		"hair": "black",
-		"scars_and_marks": null,
-		"hair_raw": "Black",
-		"reward_min": 0,
-		"modified": "2023-02-11T00:11:41+00:00",
-		"subjects": [
-			"Kidnappins and Missing Persons"
-		],
-		"coordinates": [],
-		"weight_min": 140,
-		"nationality": null,
-		"languages": null,
-		"reward_text": null,
-		"weight_max": 140,
-		"description": "May 1, 2022\r\nScottsville, Kentucky",
-		"complexion": null,
-		"age_min": null,
-		"height_max": 65,
-		"possible_countries": null,
-		"warning_message": null,
-		"suspects": null,
-		"race": "black",
-		"build": null,
-		"@id": "https://api.fbi.gov/@wanted-person/1e8ab5f701bd4497bf3344a9935f2a7a"
-	},
-	{
 		"title": "PATRICK SCOTT, JR.",
 		"locations": null,
 		"status": "na",
@@ -2602,6 +2529,79 @@
 		"race": null,
 		"build": null,
 		"@id": "https://api.fbi.gov/@wanted-person/6bc39f5fe60a404899acd3ea41999ec1"
+	},
+	{
+		"title": "JAMONA PICKETT",
+		"locations": null,
+		"status": "na",
+		"place_of_birth": null,
+		"occupations": null,
+		"eyes_raw": "Brown",
+		"age_max": null,
+		"eyes": "brown",
+		"aliases": null,
+		"dates_of_birth_used": [
+			"May 24, 2007"
+		],
+		"details": "<p>The Louisville Division of the FBI is seeking the public's assistance in locating Jamona Pickett. Jamona was last seen on May 1, 2022, at approximately 3 p.m. at her foster home in Scottsville, Kentucky. Jamona has a history of running away and took clothes with her when she disappeared.</p>",
+		"weight": "140 pounds",
+		"possible_states": null,
+		"remarks": "<p>Jamona Pickett has ties to Kentucky and Texas.\u00a0</p>",
+		"path": "/wanted/kidnap/jamona-pickett",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/jamona-pickett/download.pdf",
+				"name": "English"
+			}
+		],
+		"sex": "Female",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/kidnap/jamona-pickett/@@images/image",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/kidnap/jamona-pickett/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/jamona-pickett/@@images/image/thumb"
+			}
+		],
+		"race_raw": "Black",
+		"person_classification": "Main",
+		"legat_names": null,
+		"caution": null,
+		"age_range": null,
+		"ncic": null,
+		"url": "https://www.fbi.gov/wanted/kidnap/jamona-pickett",
+		"additional_information": null,
+		"height_min": 65,
+		"field_offices": [
+			"louisville"
+		],
+		"uid": "1e8ab5f701bd4497bf3344a9935f2a7a",
+		"reward_max": 0,
+		"publication": "2022-05-02T17:24:00",
+		"hair": "black",
+		"scars_and_marks": null,
+		"hair_raw": "Black",
+		"reward_min": 0,
+		"modified": "2023-02-11T00:11:41+00:00",
+		"subjects": [
+			"Kidnappins and Missing Persons"
+		],
+		"coordinates": [],
+		"weight_min": 140,
+		"nationality": null,
+		"languages": null,
+		"reward_text": null,
+		"weight_max": 140,
+		"description": "May 1, 2022\r\nScottsville, Kentucky",
+		"complexion": null,
+		"age_min": null,
+		"height_max": 65,
+		"possible_countries": null,
+		"warning_message": null,
+		"suspects": null,
+		"race": "black",
+		"build": null,
+		"@id": "https://api.fbi.gov/@wanted-person/1e8ab5f701bd4497bf3344a9935f2a7a"
 	},
 	{
 		"title": "TAN WEE BENG",
@@ -5866,6 +5866,80 @@
 		"@id": "https://api.fbi.gov/@wanted-person/060067357f82a8ab606ef4907c62510f"
 	},
 	{
+		"title": "SHANNON ELAINE ARIF - CLARKSVILLE, TENNESSEE",
+		"locations": null,
+		"status": "na",
+		"place_of_birth": null,
+		"occupations": null,
+		"eyes_raw": "Blue",
+		"age_max": 20,
+		"eyes": "blue",
+		"aliases": [
+			"Shannon Elaine Riley",
+			"Shannon Arif"
+		],
+		"dates_of_birth_used": null,
+		"details": "<p>On March 17, 1998, Shannon Elaine Arif was reported missing by her husband. Her husband advised he last saw his wife at approximately 9:45 am prior to leaving for work that morning. Shannon was scheduled to work at the Clarksville Wal-Mart from 4:30 pm to 9:15 pm, and when she did not return home, her husband went to Wal-Mart and found her car in the parking lot. Shannon\u2019s purse was found in the car. Wal-Mart management advised that Shannon did not report for work that day.</p>",
+		"weight": "100 pounds",
+		"possible_states": [
+			"US-TN"
+		],
+		"remarks": null,
+		"path": "/wanted/vicap/missing-persons/shannon-elaine-arif",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif-9-9-13",
+				"name": "English"
+			}
+		],
+		"sex": "Female",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif/@@images/image",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif/@@images/image/thumb"
+			}
+		],
+		"race_raw": "White",
+		"person_classification": "Victim",
+		"legat_names": null,
+		"caution": null,
+		"age_range": "20 (at time of incident)",
+		"ncic": null,
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif",
+		"additional_information": null,
+		"height_min": 64,
+		"field_offices": null,
+		"uid": "526b1de75efad48668282c95991171d1",
+		"reward_max": 0,
+		"publication": "2010-10-26T16:20:00",
+		"hair": "blond",
+		"scars_and_marks": "Mole (upper lip, left side)",
+		"hair_raw": "Blonde (shoulder length)",
+		"reward_min": 0,
+		"modified": "2023-02-11T00:11:19+00:00",
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"coordinates": [],
+		"weight_min": 100,
+		"nationality": null,
+		"languages": null,
+		"reward_text": null,
+		"weight_max": 100,
+		"description": "Clarksville, Tennessee\r\nMarch 17, 1998",
+		"complexion": null,
+		"age_min": 20,
+		"height_max": 64,
+		"possible_countries": null,
+		"warning_message": null,
+		"suspects": null,
+		"race": "white",
+		"build": null,
+		"@id": "https://api.fbi.gov/@wanted-person/526b1de75efad48668282c95991171d1"
+	},
+	{
 		"title": "ROBERT LEE KELLEY - ARVONIA, VIRGINIA",
 		"locations": null,
 		"status": "na",
@@ -5945,80 +6019,6 @@
 		"race": "white",
 		"build": null,
 		"@id": "https://api.fbi.gov/@wanted-person/913807d0-38a0-420b-842c-f5d5ff6c8938"
-	},
-	{
-		"title": "SHANNON ELAINE ARIF - CLARKSVILLE, TENNESSEE",
-		"locations": null,
-		"status": "na",
-		"place_of_birth": null,
-		"occupations": null,
-		"eyes_raw": "Blue",
-		"age_max": 20,
-		"eyes": "blue",
-		"aliases": [
-			"Shannon Elaine Riley",
-			"Shannon Arif"
-		],
-		"dates_of_birth_used": null,
-		"details": "<p>On March 17, 1998, Shannon Elaine Arif was reported missing by her husband. Her husband advised he last saw his wife at approximately 9:45 am prior to leaving for work that morning. Shannon was scheduled to work at the Clarksville Wal-Mart from 4:30 pm to 9:15 pm, and when she did not return home, her husband went to Wal-Mart and found her car in the parking lot. Shannon\u2019s purse was found in the car. Wal-Mart management advised that Shannon did not report for work that day.</p>",
-		"weight": "100 pounds",
-		"possible_states": [
-			"US-TN"
-		],
-		"remarks": null,
-		"path": "/wanted/vicap/missing-persons/shannon-elaine-arif",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif-9-9-13",
-				"name": "English"
-			}
-		],
-		"sex": "Female",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif/@@images/image",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif/@@images/image/thumb"
-			}
-		],
-		"race_raw": "White",
-		"person_classification": "Victim",
-		"legat_names": null,
-		"caution": null,
-		"age_range": "20 (at time of incident)",
-		"ncic": null,
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif",
-		"additional_information": null,
-		"height_min": 64,
-		"field_offices": null,
-		"uid": "526b1de75efad48668282c95991171d1",
-		"reward_max": 0,
-		"publication": "2010-10-26T16:20:00",
-		"hair": "blond",
-		"scars_and_marks": "Mole (upper lip, left side)",
-		"hair_raw": "Blonde (shoulder length)",
-		"reward_min": 0,
-		"modified": "2023-02-11T00:11:19+00:00",
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"coordinates": [],
-		"weight_min": 100,
-		"nationality": null,
-		"languages": null,
-		"reward_text": null,
-		"weight_max": 100,
-		"description": "Clarksville, Tennessee\r\nMarch 17, 1998",
-		"complexion": null,
-		"age_min": 20,
-		"height_max": 64,
-		"possible_countries": null,
-		"warning_message": null,
-		"suspects": null,
-		"race": "white",
-		"build": null,
-		"@id": "https://api.fbi.gov/@wanted-person/526b1de75efad48668282c95991171d1"
 	},
 	{
 		"title": "ROBERT LEE HOURIHAN - PALMYRA, VIRGINIA",
@@ -7990,75 +7990,75 @@
 		"@id": "https://api.fbi.gov/@wanted-person/28485090b1013108304956d0cadfe24c"
 	},
 	{
-		"title": "BRANDON VICTOR SWANSON - MARSHALL, MINNESOTA",
+		"title": "AMY WELLS BRIDGEMAN - WELDON, NORTH CAROLINA",
 		"locations": null,
 		"status": "na",
 		"place_of_birth": null,
 		"occupations": null,
 		"eyes_raw": "Blue",
-		"age_max": 19,
+		"age_max": 42,
 		"eyes": "blue",
 		"aliases": null,
 		"dates_of_birth_used": null,
-		"details": "<p>Brandon was last seen on May 14, 2008 leaving a friend\u2019s house. His car was found abandoned in a ditch with the car doors open and keys missing.</p>",
-		"weight": "120 pounds",
+		"details": "<p>On June 24, 2013, Amy Wells Bridgeman left her home in Weldon, North Carolina. She was last seen wearing a white shirt with four black stripes and white Capri-style pants. Investigations reveal that the victim may have left the Weldon area with a long haul truck driver.</p>",
+		"weight": "180 pounds",
 		"possible_states": [
-			"US-MN"
+			"US-UM"
 		],
 		"remarks": null,
-		"path": "/wanted/vicap/missing-persons/brandon-victor-swanson",
+		"path": "/wanted/vicap/missing-persons/amy-wells-bridgeman",
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/swanson-11-6-14.pdf",
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/amy-wells-bridgeman/bridgeman_aw_revisedupdatedjune2015-2.pdf",
 				"name": "English"
 			}
 		],
-		"sex": "Male",
+		"sex": "Female",
 		"images": [
 			{
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/brandon-victor-swanson/@@images/image",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/amy-wells-bridgeman/@@images/image",
 				"caption": null,
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/brandon-victor-swanson/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/brandon-victor-swanson/@@images/image/thumb"
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/amy-wells-bridgeman/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/amy-wells-bridgeman/@@images/image/thumb"
 			}
 		],
 		"race_raw": "White",
 		"person_classification": "Victim",
 		"legat_names": null,
 		"caution": null,
-		"age_range": "19 years old (at time of disappearance)",
+		"age_range": "42 years old",
 		"ncic": null,
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/brandon-victor-swanson",
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/amy-wells-bridgeman",
 		"additional_information": null,
-		"height_min": 66,
+		"height_min": 62,
 		"field_offices": null,
-		"uid": "c32d396e1fb2b0d2318a6f9e312f6284",
+		"uid": "680822c5-0b9a-4e0e-8608-6d14f46df08f",
 		"reward_max": 0,
-		"publication": "2010-10-26T14:00:00",
+		"publication": "2014-02-20T07:00:00",
 		"hair": "brown",
-		"scars_and_marks": "Ears pierced",
-		"hair_raw": "Brown",
+		"scars_and_marks": "Back of Neck:  \"True Slave\" and \"Pain is Beauty\"\r\nLeft Shoulder:  Zombie\r\nRight Shoulder:  Slave Girl\r\nBack:  Cherry Tree",
+		"hair_raw": "Brown (changes it to black)",
 		"reward_min": 0,
 		"modified": "2023-02-11T00:11:11+00:00",
 		"subjects": [
 			"ViCAP Missing Persons"
 		],
 		"coordinates": [],
-		"weight_min": 120,
+		"weight_min": 180,
 		"nationality": null,
 		"languages": null,
 		"reward_text": null,
-		"weight_max": 120,
-		"description": "Marshall, Minnesota\r\nMay 14, 2008",
+		"weight_max": 180,
+		"description": "Weldon, North Carolina\r\nJune 24, 2013",
 		"complexion": null,
-		"age_min": 19,
-		"height_max": 66,
+		"age_min": 42,
+		"height_max": 62,
 		"possible_countries": null,
 		"warning_message": null,
 		"suspects": null,
 		"race": "white",
 		"build": null,
-		"@id": "https://api.fbi.gov/@wanted-person/c32d396e1fb2b0d2318a6f9e312f6284"
+		"@id": "https://api.fbi.gov/@wanted-person/680822c5-0b9a-4e0e-8608-6d14f46df08f"
 	},
 	{
 		"title": "AMY WELLS BRIDGEMAN - WELDON, NORTH CAROLINA",
@@ -61104,6 +61104,86 @@
 		"@id": "https://api.fbi.gov/@wanted-person/fbe2ac6171f1c41e7aeae919d89ab3c7"
 	},
 	{
+		"title": "KATHRYN MENENDEZ",
+		"locations": null,
+		"status": "na",
+		"place_of_birth": null,
+		"occupations": null,
+		"eyes_raw": "Brown",
+		"age_max": 17,
+		"eyes": "brown",
+		"aliases": null,
+		"dates_of_birth_used": null,
+		"details": null,
+		"weight": "144 pounds",
+		"possible_states": [
+			"US-OH",
+			"US-PA"
+		],
+		"remarks": null,
+		"path": "/wanted/seeking-info/kathryn-menendez",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/download.pdf",
+				"name": "English"
+			}
+		],
+		"sex": "Female",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/@@images/image",
+				"caption": "Kathryn Menendez",
+				"large": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/@@images/image/thumb"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/boehm.jpg",
+				"caption": "Sarah Rae Boehm",
+				"large": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/boehm.jpg/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/boehm.jpg/@@images/image/thumb"
+			}
+		],
+		"race_raw": "White",
+		"person_classification": "Victim",
+		"legat_names": null,
+		"caution": "<p><a href=\"https://www.fbi.gov/wanted/seeking-info/sarah-rae-boehm\" data-urltype=\"_direct_\" data-val=\"ff53f2cc6e796d35d5f35d2dd0a3ada3\" data-linktype=\"internal\">Sarah Rae Boehm</a>, a fourteen-year-old female teen, was reported missing by her parents on July 14, 1994, to local law enforcement in Beaver County, Pennsylvania. Several months later, on November 4, 1994, Sarah's remains were discovered in the \"Berlin Reservoir,\" located within an Ohio state park, Portage County, Ohio. This rural community in Ohio was located approximately two hours away from the victim's home in Pennsylvania.</p>\r\n<p>\u00a0</p>\r\n<p>Additionally, Kathryn Menendez, another female teen victim, went missing on August 25, 1994, and her nude body was found several days later on an oil road near the \"Berlin Reservoir.\" Kathryn had been strangled to death. Both Sarah and Kathryn's bodies were located approximately 1/2 mile apart in the same Ohio state park. Seventeen-year-old Kathryn was from Portage County, Ohio.</p>\r\n<p>\u00a0</p>\r\n<p>Information is being sought in both cases. Specifically, how Boehm from Pennsylvania ended up murdered in Ohio and information regarding the murder of Menendez. Investigators believe the two cases may be related. The FBI from both Pennsylvania and Ohio have been working closely with local law enforcement from Portage County, Ohio, as well as Beaver County, Pennsylvania.</p>",
+		"age_range": "17 years old",
+		"ncic": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez",
+		"additional_information": null,
+		"height_min": 62,
+		"field_offices": [
+			"pittsburgh"
+		],
+		"uid": "29d5e9c8cdcf5d12cce28ea91362826f",
+		"reward_max": 0,
+		"publication": "2010-09-14T16:35:00",
+		"hair": "blond",
+		"scars_and_marks": null,
+		"hair_raw": "Blonde",
+		"reward_min": 0,
+		"modified": "2023-02-11T00:03:45+00:00",
+		"subjects": [
+			"Seeking Information"
+		],
+		"coordinates": [],
+		"weight_min": 144,
+		"nationality": null,
+		"languages": null,
+		"reward_text": null,
+		"weight_max": 144,
+		"description": "Murder Victim\r\nAlliance, Portage County, Ohio\r\nAugust 25, 1994",
+		"complexion": null,
+		"age_min": 17,
+		"height_max": 62,
+		"possible_countries": null,
+		"warning_message": null,
+		"suspects": null,
+		"race": "white",
+		"build": null,
+		"@id": "https://api.fbi.gov/@wanted-person/29d5e9c8cdcf5d12cce28ea91362826f"
+	},
+	{
 		"title": "ALEXANDRA (ALEX) ANAYA",
 		"locations": [
 			"Chicago"
@@ -61185,86 +61265,6 @@
 		"race": "hispanic",
 		"build": null,
 		"@id": "https://api.fbi.gov/@wanted-person/6655664b392a4fa6ab61864ffd37b239"
-	},
-	{
-		"title": "KATHRYN MENENDEZ",
-		"locations": null,
-		"status": "na",
-		"place_of_birth": null,
-		"occupations": null,
-		"eyes_raw": "Brown",
-		"age_max": 17,
-		"eyes": "brown",
-		"aliases": null,
-		"dates_of_birth_used": null,
-		"details": null,
-		"weight": "144 pounds",
-		"possible_states": [
-			"US-OH",
-			"US-PA"
-		],
-		"remarks": null,
-		"path": "/wanted/seeking-info/kathryn-menendez",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/download.pdf",
-				"name": "English"
-			}
-		],
-		"sex": "Female",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/@@images/image",
-				"caption": "Kathryn Menendez",
-				"large": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/@@images/image/thumb"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/boehm.jpg",
-				"caption": "Sarah Rae Boehm",
-				"large": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/boehm.jpg/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez/boehm.jpg/@@images/image/thumb"
-			}
-		],
-		"race_raw": "White",
-		"person_classification": "Victim",
-		"legat_names": null,
-		"caution": "<p><a href=\"https://www.fbi.gov/wanted/seeking-info/sarah-rae-boehm\" data-urltype=\"_direct_\" data-val=\"ff53f2cc6e796d35d5f35d2dd0a3ada3\" data-linktype=\"internal\">Sarah Rae Boehm</a>, a fourteen-year-old female teen, was reported missing by her parents on July 14, 1994, to local law enforcement in Beaver County, Pennsylvania. Several months later, on November 4, 1994, Sarah's remains were discovered in the \"Berlin Reservoir,\" located within an Ohio state park, Portage County, Ohio. This rural community in Ohio was located approximately two hours away from the victim's home in Pennsylvania.</p>\r\n<p>\u00a0</p>\r\n<p>Additionally, Kathryn Menendez, another female teen victim, went missing on August 25, 1994, and her nude body was found several days later on an oil road near the \"Berlin Reservoir.\" Kathryn had been strangled to death. Both Sarah and Kathryn's bodies were located approximately 1/2 mile apart in the same Ohio state park. Seventeen-year-old Kathryn was from Portage County, Ohio.</p>\r\n<p>\u00a0</p>\r\n<p>Information is being sought in both cases. Specifically, how Boehm from Pennsylvania ended up murdered in Ohio and information regarding the murder of Menendez. Investigators believe the two cases may be related. The FBI from both Pennsylvania and Ohio have been working closely with local law enforcement from Portage County, Ohio, as well as Beaver County, Pennsylvania.</p>",
-		"age_range": "17 years old",
-		"ncic": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/kathryn-menendez",
-		"additional_information": null,
-		"height_min": 62,
-		"field_offices": [
-			"pittsburgh"
-		],
-		"uid": "29d5e9c8cdcf5d12cce28ea91362826f",
-		"reward_max": 0,
-		"publication": "2010-09-14T16:35:00",
-		"hair": "blond",
-		"scars_and_marks": null,
-		"hair_raw": "Blonde",
-		"reward_min": 0,
-		"modified": "2023-02-11T00:03:45+00:00",
-		"subjects": [
-			"Seeking Information"
-		],
-		"coordinates": [],
-		"weight_min": 144,
-		"nationality": null,
-		"languages": null,
-		"reward_text": null,
-		"weight_max": 144,
-		"description": "Murder Victim\r\nAlliance, Portage County, Ohio\r\nAugust 25, 1994",
-		"complexion": null,
-		"age_min": 17,
-		"height_max": 62,
-		"possible_countries": null,
-		"warning_message": null,
-		"suspects": null,
-		"race": "white",
-		"build": null,
-		"@id": "https://api.fbi.gov/@wanted-person/29d5e9c8cdcf5d12cce28ea91362826f"
 	},
 	{
 		"title": "STOLEN ANDY WARHOL PRINTS",
@@ -61374,77 +61374,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/9fa9dcd0971948a9af42bb349b71b6b3"
 	},
 	{
-		"title": "AMY RENEE MIHALJEVIC",
-		"locations": null,
-		"status": "na",
-		"place_of_birth": null,
-		"occupations": null,
-		"eyes_raw": null,
-		"age_max": null,
-		"eyes": null,
-		"aliases": null,
-		"dates_of_birth_used": null,
-		"details": "<p>Amy Renee Mihaljevic was 10 years old when she was abducted from the Bay Village Square shopping center in Bay Village, Ohio, on Friday, October 27, 1989. Mihaljevic left her school on foot and headed to the shopping center, where she was last seen outside a business. She appeared to be waiting for someone. It is reported that a man approached Mihaljevic and put his hand on her shoulder as he walked her through the parking lot.</p>\r\n<p>\u00a0</p>\r\n<p>Further investigation revealed that Mihaljevic had received a phone call prior to her abduction from an unknown person. That person arranged a meeting with Mihaljevic to assist the caller in selecting a gift to give to Mihaljevic's mother because of her promotion at \"Trading Times Magazine.\"</p>\r\n<p>\u00a0</p>\r\n<p>On February 8, 1990, Mihaljevic's body was discovered by a jogger in a field adjacent to Township Road 1181 in rural Ashland County near New London, Ohio. The body was dressed in clothing that Mihaljevic was last seen wearing. Three items - a turquoise horse earring, black ankle boots, and a black leather binder, were believed to have been with Mihaljevic at the time of her abduction and have never been recovered.</p>",
-		"weight": null,
-		"possible_states": null,
-		"remarks": null,
-		"path": "/wanted/seeking-info/amy-renee-mihaljevic",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/download.pdf",
-				"name": "English"
-			}
-		],
-		"sex": "",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image/thumb"
-			}
-		],
-		"race_raw": null,
-		"person_classification": "Victim",
-		"legat_names": null,
-		"caution": null,
-		"age_range": null,
-		"ncic": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic",
-		"additional_information": null,
-		"height_min": null,
-		"field_offices": [
-			"cleveland"
-		],
-		"uid": "f3ea2fb6-7ad4-4d6f-b0ab-81b3ff0ddb3b",
-		"reward_max": 0,
-		"publication": "2014-01-22T07:00:00",
-		"hair": null,
-		"scars_and_marks": null,
-		"hair_raw": null,
-		"reward_min": 0,
-		"modified": "2023-02-11T00:03:43+00:00",
-		"subjects": [
-			"Seeking Information"
-		],
-		"coordinates": [],
-		"weight_min": null,
-		"nationality": null,
-		"languages": null,
-		"reward_text": "The FBI is offering a reward up to $25,000 for information leading to the arrest and conviction of the individual(s) responsible for the death of Amy Renee Mihaljevic.",
-		"weight_max": null,
-		"description": "Murder Victim\r\nBay Village, Ohio\r\nOctober 27, 1989",
-		"complexion": null,
-		"age_min": null,
-		"height_max": null,
-		"possible_countries": null,
-		"warning_message": null,
-		"suspects": null,
-		"race": null,
-		"build": null,
-		"@id": "https://api.fbi.gov/@wanted-person/f3ea2fb6-7ad4-4d6f-b0ab-81b3ff0ddb3b"
-	},
-	{
 		"title": "SARAH RAE BOEHM",
 		"locations": null,
 		"status": "na",
@@ -61523,6 +61452,77 @@
 		"race": "white",
 		"build": null,
 		"@id": "https://api.fbi.gov/@wanted-person/ff53f2cc6e796d35d5f35d2dd0a3ada3"
+	},
+	{
+		"title": "AMY RENEE MIHALJEVIC",
+		"locations": null,
+		"status": "na",
+		"place_of_birth": null,
+		"occupations": null,
+		"eyes_raw": null,
+		"age_max": null,
+		"eyes": null,
+		"aliases": null,
+		"dates_of_birth_used": null,
+		"details": "<p>Amy Renee Mihaljevic was 10 years old when she was abducted from the Bay Village Square shopping center in Bay Village, Ohio, on Friday, October 27, 1989. Mihaljevic left her school on foot and headed to the shopping center, where she was last seen outside a business. She appeared to be waiting for someone. It is reported that a man approached Mihaljevic and put his hand on her shoulder as he walked her through the parking lot.</p>\r\n<p>\u00a0</p>\r\n<p>Further investigation revealed that Mihaljevic had received a phone call prior to her abduction from an unknown person. That person arranged a meeting with Mihaljevic to assist the caller in selecting a gift to give to Mihaljevic's mother because of her promotion at \"Trading Times Magazine.\"</p>\r\n<p>\u00a0</p>\r\n<p>On February 8, 1990, Mihaljevic's body was discovered by a jogger in a field adjacent to Township Road 1181 in rural Ashland County near New London, Ohio. The body was dressed in clothing that Mihaljevic was last seen wearing. Three items - a turquoise horse earring, black ankle boots, and a black leather binder, were believed to have been with Mihaljevic at the time of her abduction and have never been recovered.</p>",
+		"weight": null,
+		"possible_states": null,
+		"remarks": null,
+		"path": "/wanted/seeking-info/amy-renee-mihaljevic",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/download.pdf",
+				"name": "English"
+			}
+		],
+		"sex": "",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image/thumb"
+			}
+		],
+		"race_raw": null,
+		"person_classification": "Victim",
+		"legat_names": null,
+		"caution": null,
+		"age_range": null,
+		"ncic": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic",
+		"additional_information": null,
+		"height_min": null,
+		"field_offices": [
+			"cleveland"
+		],
+		"uid": "f3ea2fb6-7ad4-4d6f-b0ab-81b3ff0ddb3b",
+		"reward_max": 0,
+		"publication": "2014-01-22T07:00:00",
+		"hair": null,
+		"scars_and_marks": null,
+		"hair_raw": null,
+		"reward_min": 0,
+		"modified": "2023-02-11T00:03:43+00:00",
+		"subjects": [
+			"Seeking Information"
+		],
+		"coordinates": [],
+		"weight_min": null,
+		"nationality": null,
+		"languages": null,
+		"reward_text": "The FBI is offering a reward up to $25,000 for information leading to the arrest and conviction of the individual(s) responsible for the death of Amy Renee Mihaljevic.",
+		"weight_max": null,
+		"description": "Murder Victim\r\nBay Village, Ohio\r\nOctober 27, 1989",
+		"complexion": null,
+		"age_min": null,
+		"height_max": null,
+		"possible_countries": null,
+		"warning_message": null,
+		"suspects": null,
+		"race": null,
+		"build": null,
+		"@id": "https://api.fbi.gov/@wanted-person/f3ea2fb6-7ad4-4d6f-b0ab-81b3ff0ddb3b"
 	},
 	{
 		"title": "THOMAS CRANE WALES",
@@ -64771,89 +64771,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/92ba8dc7-a13e-45e1-a1b6-9f8f39333690"
 	},
 	{
-		"title": "DANIEL GUZMAN",
-		"locations": null,
-		"status": "na",
-		"place_of_birth": "Dominican Republic",
-		"occupations": [
-			"Pharmacy Worker"
-		],
-		"eyes_raw": "Brown",
-		"age_max": null,
-		"eyes": "brown",
-		"aliases": null,
-		"dates_of_birth_used": [
-			"July 21, 1959"
-		],
-		"details": null,
-		"weight": "160 pounds",
-		"possible_states": [
-			"US-NY"
-		],
-		"remarks": "<p>Guzman is known to speak Spanish.</p>",
-		"path": "/wanted/wcc/daniel-guzman",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/wcc/daniel-guzman/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/wcc/daniel-guzman/daniel-guzman-en-espanol.pdf/@@download/file/Daniel Guzm\u00e1n EN ESPA\u00d1OL.pdf",
-				"name": "EN ESPA\u00d1OL"
-			}
-		],
-		"sex": "Male",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/wcc/daniel-guzman/@@images/image",
-				"caption": "Photograph taken in 2010",
-				"large": "https://www.fbi.gov/wanted/wcc/daniel-guzman/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/wcc/daniel-guzman/@@images/image/thumb"
-			}
-		],
-		"race_raw": "White (Hispanic)",
-		"person_classification": "Main",
-		"legat_names": null,
-		"caution": "<p>Daniel Guzman is wanted for his alleged involvement in a health care fraud scheme that cost Medicaid millions of dollars. Guzman allegedly conspired with others in a scheme to defraud Medicaid by fraudulently obtaining reimbursements from the Medicaid program for prescription drugs that were not dispensed. Guzman worked in a pharmacy in the Washington Heights area of the Borough of Manhattan in New York City wherein he received prescriptions from Medicaid beneficiaries and then submitted phony reimbursement claims to the Medicaid program requesting reimbursement for the full value of the prescription drugs.</p>\r\n<p>\u00a0</p>\r\n<p>On August 13, 2008, Guzman was arrested pursuant to a federal arrest warrant issued by the Southern District of New York and released on bond. Subsequently, Guzman failed to appear for a court date and a federal arrest warrant was issued by the Southern District of New York on January 16, 2009. Guzman was charged with failure to appear.</p>",
-		"age_range": null,
-		"ncic": "W295847500",
-		"url": "https://www.fbi.gov/wanted/wcc/daniel-guzman",
-		"additional_information": null,
-		"height_min": 65,
-		"field_offices": [
-			"newyork"
-		],
-		"uid": "fb1f85e0f75bcbf9e937692adb9146c2",
-		"reward_max": 0,
-		"publication": "2010-10-05T19:25:00",
-		"hair": "black",
-		"scars_and_marks": "None known",
-		"hair_raw": "Black",
-		"reward_min": 0,
-		"modified": "2023-02-11T00:03:10+00:00",
-		"subjects": [
-			"White-Collar Crime"
-		],
-		"coordinates": [],
-		"weight_min": 160,
-		"nationality": "Dominican",
-		"languages": null,
-		"reward_text": null,
-		"weight_max": 160,
-		"description": "Failure to Appear (Health Care Fraud)",
-		"complexion": null,
-		"age_min": null,
-		"height_max": 65,
-		"possible_countries": [
-			"DOM"
-		],
-		"warning_message": null,
-		"suspects": null,
-		"race": "hispanic",
-		"build": null,
-		"@id": "https://api.fbi.gov/@wanted-person/fb1f85e0f75bcbf9e937692adb9146c2"
-	},
-	{
 		"title": "LUIS FERREIRA",
 		"locations": null,
 		"status": "na",
@@ -65079,6 +64996,89 @@
 		"race": null,
 		"build": null,
 		"@id": "https://api.fbi.gov/@wanted-person/35e0f3468009a01e4250fd62d3b433fe"
+	},
+	{
+		"title": "DANIEL GUZMAN",
+		"locations": null,
+		"status": "na",
+		"place_of_birth": "Dominican Republic",
+		"occupations": [
+			"Pharmacy Worker"
+		],
+		"eyes_raw": "Brown",
+		"age_max": null,
+		"eyes": "brown",
+		"aliases": null,
+		"dates_of_birth_used": [
+			"July 21, 1959"
+		],
+		"details": null,
+		"weight": "160 pounds",
+		"possible_states": [
+			"US-NY"
+		],
+		"remarks": "<p>Guzman is known to speak Spanish.</p>",
+		"path": "/wanted/wcc/daniel-guzman",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/wcc/daniel-guzman/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/wcc/daniel-guzman/daniel-guzman-en-espanol.pdf/@@download/file/Daniel Guzm\u00e1n EN ESPA\u00d1OL.pdf",
+				"name": "EN ESPA\u00d1OL"
+			}
+		],
+		"sex": "Male",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/wcc/daniel-guzman/@@images/image",
+				"caption": "Photograph taken in 2010",
+				"large": "https://www.fbi.gov/wanted/wcc/daniel-guzman/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/wcc/daniel-guzman/@@images/image/thumb"
+			}
+		],
+		"race_raw": "White (Hispanic)",
+		"person_classification": "Main",
+		"legat_names": null,
+		"caution": "<p>Daniel Guzman is wanted for his alleged involvement in a health care fraud scheme that cost Medicaid millions of dollars. Guzman allegedly conspired with others in a scheme to defraud Medicaid by fraudulently obtaining reimbursements from the Medicaid program for prescription drugs that were not dispensed. Guzman worked in a pharmacy in the Washington Heights area of the Borough of Manhattan in New York City wherein he received prescriptions from Medicaid beneficiaries and then submitted phony reimbursement claims to the Medicaid program requesting reimbursement for the full value of the prescription drugs.</p>\r\n<p>\u00a0</p>\r\n<p>On August 13, 2008, Guzman was arrested pursuant to a federal arrest warrant issued by the Southern District of New York and released on bond. Subsequently, Guzman failed to appear for a court date and a federal arrest warrant was issued by the Southern District of New York on January 16, 2009. Guzman was charged with failure to appear.</p>",
+		"age_range": null,
+		"ncic": "W295847500",
+		"url": "https://www.fbi.gov/wanted/wcc/daniel-guzman",
+		"additional_information": null,
+		"height_min": 65,
+		"field_offices": [
+			"newyork"
+		],
+		"uid": "fb1f85e0f75bcbf9e937692adb9146c2",
+		"reward_max": 0,
+		"publication": "2010-10-05T19:25:00",
+		"hair": "black",
+		"scars_and_marks": "None known",
+		"hair_raw": "Black",
+		"reward_min": 0,
+		"modified": "2023-02-11T00:03:10+00:00",
+		"subjects": [
+			"White-Collar Crime"
+		],
+		"coordinates": [],
+		"weight_min": 160,
+		"nationality": "Dominican",
+		"languages": null,
+		"reward_text": null,
+		"weight_max": 160,
+		"description": "Failure to Appear (Health Care Fraud)",
+		"complexion": null,
+		"age_min": null,
+		"height_max": 65,
+		"possible_countries": [
+			"DOM"
+		],
+		"warning_message": null,
+		"suspects": null,
+		"race": "hispanic",
+		"build": null,
+		"@id": "https://api.fbi.gov/@wanted-person/fb1f85e0f75bcbf9e937692adb9146c2"
 	},
 	{
 		"title": "NATALIA WOLF",
@@ -66048,104 +66048,101 @@
 		"@id": "https://api.fbi.gov/@wanted-person/3940d83476dec718ff36a9a63e7975f0"
 	},
 	{
-		"title": "GILBERT ARREDONDO HERNANDEZ",
+		"title": "GABRIELLE DAHM",
 		"locations": null,
 		"status": "na",
-		"place_of_birth": null,
+		"place_of_birth": "Florida",
 		"occupations": null,
-		"eyes_raw": "Brown",
+		"eyes_raw": "Blue",
 		"age_max": null,
-		"eyes": "brown",
+		"eyes": "blue",
 		"aliases": [
-			"Gilbert Arrendondo Hernandez",
-			"Gilbert Arredondo Hernandez, Jr.",
-			"\"Gil\"",
-			"\"Junior\""
+			"\"Gabby\"",
+			"Gabriella Nicole Dahm",
+			"Gabrielle Delbecq"
 		],
 		"dates_of_birth_used": [
-			"March 15, 1965"
+			"December 26, 2008"
 		],
 		"details": null,
-		"weight": "150 pounds",
+		"weight": "22 pounds (at the time of her disappearance)",
 		"possible_states": [
-			"US-CA",
-			"US-NV"
+			"US-FL"
 		],
-		"remarks": "<p>Hernandez may be in the area of Las Vegas, Nevada; Los Angeles or San Bernadino counties of California, or Mexico.</p>",
-		"path": "/wanted/parental-kidnappings/gilbert-arredondo-hernandez",
+		"remarks": null,
+		"path": "/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm",
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez/download.pdf",
+				"url": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/download.pdf",
 				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez/gilbert-arredondo-hernandez-en-espanol.pdf/@@download/file/Gilbert Arredondo Hern\u00e1ndez EN ESPA\u00d1OL.pdf",
-				"name": "EN ESPA\u00d1OL"
 			}
 		],
-		"sex": "Male",
+		"sex": "Female",
 		"images": [
 			{
-				"original": "https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez/@@images/image",
+				"original": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/@@images/image",
 				"caption": null,
-				"large": "https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez/@@images/image/thumb"
+				"large": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/@@images/image/thumb"
 			},
 			{
-				"original": "https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez/pkghernandezglass.jpg",
-				"caption": "Retouched photograph",
-				"large": "https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez/pkghernandezglass.jpg/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez/pkghernandezglass.jpg/@@images/image/thumb"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez/pkghernandezage.jpg",
-				"caption": "Photograph age progressed to 46 years of age",
-				"large": "https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez/pkghernandezage.jpg/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez/pkghernandezage.jpg/@@images/image/thumb"
+				"original": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/dahm_g2.jpg",
+				"caption": "",
+				"large": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/dahm_g2.jpg/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/dahm_g2.jpg/@@images/image/thumb"
 			}
 		],
-		"race_raw": "White (Hispanic)",
-		"person_classification": "Main",
+		"race_raw": "White",
+		"person_classification": "Victim",
 		"legat_names": null,
-		"caution": "<p>Gilbert Arredondo Hernandez is wanted for allegedly kidnapping his son, <a href=\"https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez/austin-cole-hernandez\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez/austin-cole-hernandez\" data-urltype=\"/view\">Austin Cole Hernandez</a>, from Tehachapi, California, on April 28, 1997. A local arrest warrant was issued for Hernandez on May 28, 1997, by the Kern County Sheriff's Office after he was charged with parental abduction. A federal arrest warrant was issued for Hernandez on November 4, 1997, in the United States District Court, Eastern District of California, Bakersfield, California, after he was charged with unlawful flight to avoid prosecution.</p>",
+		"caution": null,
 		"age_range": null,
-		"ncic": "W036768144",
-		"url": "https://www.fbi.gov/wanted/parental-kidnappings/gilbert-arredondo-hernandez",
+		"ncic": null,
+		"url": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm",
 		"additional_information": null,
-		"height_min": 65,
+		"height_min": 27,
 		"field_offices": [
-			"sacramento"
+			"miami"
 		],
-		"uid": "7c0e9ca4-104d-420d-8e84-faba744b270c",
+		"uid": "9d500eb637c97e2e41a606433180bdd4",
 		"reward_max": 0,
-		"publication": "2014-02-11T07:00:00",
-		"hair": "black",
-		"scars_and_marks": "Hernandez has a scar on the back of his head.",
-		"hair_raw": "Black",
+		"publication": "2012-02-12T07:00:00",
+		"hair": "brown",
+		"scars_and_marks": null,
+		"hair_raw": "Brown",
 		"reward_min": 0,
 		"modified": "2023-02-11T00:02:48+00:00",
 		"subjects": [
-			"Parental Kidnapping"
+			"Parental Kidnapping Victim",
+			"Gabrielle Dahm",
+			"Dahm"
 		],
-		"coordinates": [],
-		"weight_min": 150,
-		"nationality": null,
+		"coordinates": [
+			{
+				"lng": -81.51575350000002,
+				"formatted": "Florida, USA",
+				"lat": 27.6648274
+			}
+		],
+		"weight_min": 22,
+		"nationality": "American",
 		"languages": null,
 		"reward_text": null,
-		"weight_max": 150,
-		"description": "Unlawful Flight to Avoid Prosecution - Parental Abduction",
+		"weight_max": 22,
+		"description": "International Parental Kidnapping",
 		"complexion": null,
 		"age_min": null,
-		"height_max": 65,
+		"height_max": 27,
 		"possible_countries": [
-			"MEX",
+			"BEL",
+			"ARE",
 			"USA"
 		],
 		"warning_message": null,
 		"suspects": null,
-		"race": "hispanic",
+		"race": "white",
 		"build": null,
-		"@id": "https://api.fbi.gov/@wanted-person/7c0e9ca4-104d-420d-8e84-faba744b270c"
+		"@id": "https://api.fbi.gov/@wanted-person/9d500eb637c97e2e41a606433180bdd4"
 	},
 	{
 		"title": "GILBERT ARREDONDO HERNANDEZ",
@@ -73764,6 +73761,104 @@
 		"@id": "https://api.fbi.gov/@wanted-person/959a6c8e33f9e1a18935bcd6fff2b9ae"
 	},
 	{
+		"title": "VICTOR ALFONSO ARGUETA",
+		"locations": null,
+		"status": "na",
+		"place_of_birth": "San Salvador, El Salvador",
+		"occupations": [
+			"Drywall Contractor"
+		],
+		"eyes_raw": "Brown",
+		"age_max": null,
+		"eyes": "brown",
+		"aliases": [
+			"\"Pelon\""
+		],
+		"dates_of_birth_used": [
+			"January 17, 1985",
+			"November 17, 1985"
+		],
+		"details": null,
+		"weight": "160 pounds",
+		"possible_states": [
+			"US-MD"
+		],
+		"remarks": "<p>Argueta has ties to El Salvador and may have traveled there.</p>",
+		"path": "/wanted/murders/victor-alfonso-argueta",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/arguetaspanish.pdf/@@download/file/arguetaspanish.pdf",
+				"name": "EN ESPA\u00d1OL"
+			}
+		],
+		"sex": "Male",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/@@images/image",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/@@images/image/thumb"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_va2.jpg",
+				"caption": "Photograph taken in 2004",
+				"large": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_va2.jpg/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_va2.jpg/@@images/image/thumb"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_vatat.jpg",
+				"caption": "Photograph of Argueta's Tattoo",
+				"large": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_vatat.jpg/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_vatat.jpg/@@images/image/thumb"
+			}
+		],
+		"race_raw": "White (Hispanic)",
+		"person_classification": "Main",
+		"legat_names": null,
+		"caution": "<p>Victor Alfonso Argueta and <a href=\"https://www.fbi.gov/wanted/murders/carlos-flores-garcia\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/murders/carlos-flores-garcia\" data-urltype=\"/view\">Carlos Flores Garcia</a> are wanted for their alleged involvement in a double murder in Baltimore County, Maryland. On January 8, 2006, the men, all members of the MS-13 street gang, were at a club in South Baltimore when they met the two male victims. It is believed the murders occurred because the suspects thought they saw one of the victims flash a rival gang sign. Law enforcement investigation revealed that the victims had no gang affiliation. When the two victims left the club, they were approached by the suspects and agreed to meet them behind a local school. The two male victims were then stabbed multiple times with knives and died.</p>\r\n<p>\u00a0</p>\r\n<p>Argueta was charged in the District Court of Maryland for Baltimore County with accessory to commit first degree murder after the fact and conspiracy to act as an accessory to commit first degree murder after the fact on September 11, 2006. A federal arrest warrant has been issued for Argueta and he has been charged with unlawful flight to avoid prosecution.</p>",
+		"age_range": null,
+		"ncic": "W680518368",
+		"url": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta",
+		"additional_information": null,
+		"height_min": 65,
+		"field_offices": [
+			"baltimore"
+		],
+		"uid": "2fc3b3ca839875637691c186c15a8d76",
+		"reward_max": 0,
+		"publication": "2010-08-31T08:25:00",
+		"hair": "black",
+		"scars_and_marks": "Argueta has a tattoo of the letters \"MS\" written on his upper chest.",
+		"hair_raw": "Black",
+		"reward_min": 0,
+		"modified": "2023-02-11T00:01:30+00:00",
+		"subjects": [
+			"Violent Crime - Murders"
+		],
+		"coordinates": [],
+		"weight_min": 160,
+		"nationality": "Salvadoran",
+		"languages": null,
+		"reward_text": null,
+		"weight_max": 160,
+		"description": "Unlawful Flight to Avoid Prosecution - Accessory to Commit First Degree Murder After the Fact, Conspiracy to Act as an Accessory to Commit First Degree Murder After the Fact",
+		"complexion": null,
+		"age_min": null,
+		"height_max": 65,
+		"possible_countries": [
+			"SLV"
+		],
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+		"suspects": null,
+		"race": "hispanic",
+		"build": null,
+		"@id": "https://api.fbi.gov/@wanted-person/2fc3b3ca839875637691c186c15a8d76"
+	},
+	{
 		"title": "CESAR VILLARREAL",
 		"locations": null,
 		"status": "na",
@@ -73902,104 +73997,6 @@
 		"race": "hispanic",
 		"build": null,
 		"@id": "https://api.fbi.gov/@wanted-person/5f0b8ad0-7079-4427-bc51-b12802da8fa5"
-	},
-	{
-		"title": "VICTOR ALFONSO ARGUETA",
-		"locations": null,
-		"status": "na",
-		"place_of_birth": "San Salvador, El Salvador",
-		"occupations": [
-			"Drywall Contractor"
-		],
-		"eyes_raw": "Brown",
-		"age_max": null,
-		"eyes": "brown",
-		"aliases": [
-			"\"Pelon\""
-		],
-		"dates_of_birth_used": [
-			"January 17, 1985",
-			"November 17, 1985"
-		],
-		"details": null,
-		"weight": "160 pounds",
-		"possible_states": [
-			"US-MD"
-		],
-		"remarks": "<p>Argueta has ties to El Salvador and may have traveled there.</p>",
-		"path": "/wanted/murders/victor-alfonso-argueta",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/arguetaspanish.pdf/@@download/file/arguetaspanish.pdf",
-				"name": "EN ESPA\u00d1OL"
-			}
-		],
-		"sex": "Male",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/@@images/image",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/@@images/image/thumb"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_va2.jpg",
-				"caption": "Photograph taken in 2004",
-				"large": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_va2.jpg/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_va2.jpg/@@images/image/thumb"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_vatat.jpg",
-				"caption": "Photograph of Argueta's Tattoo",
-				"large": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_vatat.jpg/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta/argueta_vatat.jpg/@@images/image/thumb"
-			}
-		],
-		"race_raw": "White (Hispanic)",
-		"person_classification": "Main",
-		"legat_names": null,
-		"caution": "<p>Victor Alfonso Argueta and <a href=\"https://www.fbi.gov/wanted/murders/carlos-flores-garcia\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/murders/carlos-flores-garcia\" data-urltype=\"/view\">Carlos Flores Garcia</a> are wanted for their alleged involvement in a double murder in Baltimore County, Maryland. On January 8, 2006, the men, all members of the MS-13 street gang, were at a club in South Baltimore when they met the two male victims. It is believed the murders occurred because the suspects thought they saw one of the victims flash a rival gang sign. Law enforcement investigation revealed that the victims had no gang affiliation. When the two victims left the club, they were approached by the suspects and agreed to meet them behind a local school. The two male victims were then stabbed multiple times with knives and died.</p>\r\n<p>\u00a0</p>\r\n<p>Argueta was charged in the District Court of Maryland for Baltimore County with accessory to commit first degree murder after the fact and conspiracy to act as an accessory to commit first degree murder after the fact on September 11, 2006. A federal arrest warrant has been issued for Argueta and he has been charged with unlawful flight to avoid prosecution.</p>",
-		"age_range": null,
-		"ncic": "W680518368",
-		"url": "https://www.fbi.gov/wanted/murders/victor-alfonso-argueta",
-		"additional_information": null,
-		"height_min": 65,
-		"field_offices": [
-			"baltimore"
-		],
-		"uid": "2fc3b3ca839875637691c186c15a8d76",
-		"reward_max": 0,
-		"publication": "2010-08-31T08:25:00",
-		"hair": "black",
-		"scars_and_marks": "Argueta has a tattoo of the letters \"MS\" written on his upper chest.",
-		"hair_raw": "Black",
-		"reward_min": 0,
-		"modified": "2023-02-11T00:01:30+00:00",
-		"subjects": [
-			"Violent Crime - Murders"
-		],
-		"coordinates": [],
-		"weight_min": 160,
-		"nationality": "Salvadoran",
-		"languages": null,
-		"reward_text": null,
-		"weight_max": 160,
-		"description": "Unlawful Flight to Avoid Prosecution - Accessory to Commit First Degree Murder After the Fact, Conspiracy to Act as an Accessory to Commit First Degree Murder After the Fact",
-		"complexion": null,
-		"age_min": null,
-		"height_max": 65,
-		"possible_countries": [
-			"SLV"
-		],
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
-		"suspects": null,
-		"race": "hispanic",
-		"build": null,
-		"@id": "https://api.fbi.gov/@wanted-person/2fc3b3ca839875637691c186c15a8d76"
 	},
 	{
 		"title": "GUSTAVO UBALDO SORIA",
@@ -76998,102 +76995,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/938a82860ca8c2cf19443accf321c4ad"
 	},
 	{
-		"title": "JOSE ANTONIO BARROSO",
-		"locations": null,
-		"status": "na",
-		"place_of_birth": "Mexico",
-		"occupations": [
-			"Unknown"
-		],
-		"eyes_raw": "Brown",
-		"age_max": null,
-		"eyes": "brown",
-		"aliases": [
-			"James Von Kirk",
-			"Juan Antonio Barroso",
-			"Jose A. Barroso",
-			"Jose A. Barroso Martinez"
-		],
-		"dates_of_birth_used": [
-			"January 10, 1973"
-		],
-		"details": null,
-		"weight": "150 pounds",
-		"possible_states": [
-			"US-AR",
-			"US-KS"
-		],
-		"remarks": "<p>Barroso is believed to be in the Ensenada, Baja California, Mexico, area.</p>",
-		"path": "/wanted/cac/jose-antonio-barroso",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso1spanish.pdf/@@download/file/barroso1Spanish.pdf",
-				"name": "EN ESPA\u00d1OL"
-			}
-		],
-		"sex": "Male",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/thumb"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg",
-				"caption": "Photograph taken circa 2021",
-				"large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/thumb"
-			}
-		],
-		"race_raw": "White (Hispanic)",
-		"person_classification": "Main",
-		"legat_names": null,
-		"caution": "<p>Jose Antonio Barroso is wanted for his alleged involvement in a series of rapes involving a young girl in Fort Smith, Arkansas.\u00a0 The rapes allegedly occurred from the time the victim was five years old until she was eleven years old when it was reported.\u00a0 A state arrest warrant was issued by the District Court of Sebastian County, Arkansas, on November 30, 2004, after Barroso was charged with rape. Barroso was charged federally with unlawful flight to avoid prosecution by the United States District Court, Western District of Arkansas, and a federal arrest warrant was issued on February 1, 2005.</p>\r\n<p>\u00a0</p>",
-		"age_range": null,
-		"ncic": "W047103701",
-		"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso",
-		"additional_information": null,
-		"height_min": 67,
-		"field_offices": [
-			"littlerock"
-		],
-		"uid": "f03b9a09ff06f2ea36d26591898a7efe",
-		"reward_max": 0,
-		"publication": "2010-08-27T17:55:00",
-		"hair": "black",
-		"scars_and_marks": "Barroso has a scar on his left cheek near his mouth.",
-		"hair_raw": "Black",
-		"reward_min": 0,
-		"modified": "2023-02-11T00:01:02+00:00",
-		"subjects": [
-			"Crimes Against Children"
-		],
-		"coordinates": [],
-		"weight_min": 150,
-		"nationality": "Mexican",
-		"languages": null,
-		"reward_text": null,
-		"weight_max": 150,
-		"description": "Unlawful Flight To Avoid Prosecution - Rape",
-		"complexion": null,
-		"age_min": null,
-		"height_max": 67,
-		"possible_countries": [
-			"MEX",
-			"USA"
-		],
-		"warning_message": "SHOULD BE CONSIDERED DANGEROUS AND AN ESCAPE RISK",
-		"suspects": null,
-		"race": "hispanic",
-		"build": null,
-		"@id": "https://api.fbi.gov/@wanted-person/f03b9a09ff06f2ea36d26591898a7efe"
-	},
-	{
 		"title": "ELBY JESSIE HARS",
 		"locations": null,
 		"status": "na",
@@ -77197,6 +77098,102 @@
 		"race": "white",
 		"build": null,
 		"@id": "https://api.fbi.gov/@wanted-person/31305e3516930037386ccab1224b45d2"
+	},
+	{
+		"title": "JOSE ANTONIO BARROSO",
+		"locations": null,
+		"status": "na",
+		"place_of_birth": "Mexico",
+		"occupations": [
+			"Unknown"
+		],
+		"eyes_raw": "Brown",
+		"age_max": null,
+		"eyes": "brown",
+		"aliases": [
+			"James Von Kirk",
+			"Juan Antonio Barroso",
+			"Jose A. Barroso",
+			"Jose A. Barroso Martinez"
+		],
+		"dates_of_birth_used": [
+			"January 10, 1973"
+		],
+		"details": null,
+		"weight": "150 pounds",
+		"possible_states": [
+			"US-AR",
+			"US-KS"
+		],
+		"remarks": "<p>Barroso is believed to be in the Ensenada, Baja California, Mexico, area.</p>",
+		"path": "/wanted/cac/jose-antonio-barroso",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso1spanish.pdf/@@download/file/barroso1Spanish.pdf",
+				"name": "EN ESPA\u00d1OL"
+			}
+		],
+		"sex": "Male",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/thumb"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg",
+				"caption": "Photograph taken circa 2021",
+				"large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/thumb"
+			}
+		],
+		"race_raw": "White (Hispanic)",
+		"person_classification": "Main",
+		"legat_names": null,
+		"caution": "<p>Jose Antonio Barroso is wanted for his alleged involvement in a series of rapes involving a young girl in Fort Smith, Arkansas.\u00a0 The rapes allegedly occurred from the time the victim was five years old until she was eleven years old when it was reported.\u00a0 A state arrest warrant was issued by the District Court of Sebastian County, Arkansas, on November 30, 2004, after Barroso was charged with rape. Barroso was charged federally with unlawful flight to avoid prosecution by the United States District Court, Western District of Arkansas, and a federal arrest warrant was issued on February 1, 2005.</p>\r\n<p>\u00a0</p>",
+		"age_range": null,
+		"ncic": "W047103701",
+		"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso",
+		"additional_information": null,
+		"height_min": 67,
+		"field_offices": [
+			"littlerock"
+		],
+		"uid": "f03b9a09ff06f2ea36d26591898a7efe",
+		"reward_max": 0,
+		"publication": "2010-08-27T17:55:00",
+		"hair": "black",
+		"scars_and_marks": "Barroso has a scar on his left cheek near his mouth.",
+		"hair_raw": "Black",
+		"reward_min": 0,
+		"modified": "2023-02-11T00:01:02+00:00",
+		"subjects": [
+			"Crimes Against Children"
+		],
+		"coordinates": [],
+		"weight_min": 150,
+		"nationality": "Mexican",
+		"languages": null,
+		"reward_text": null,
+		"weight_max": 150,
+		"description": "Unlawful Flight To Avoid Prosecution - Rape",
+		"complexion": null,
+		"age_min": null,
+		"height_max": 67,
+		"possible_countries": [
+			"MEX",
+			"USA"
+		],
+		"warning_message": "SHOULD BE CONSIDERED DANGEROUS AND AN ESCAPE RISK",
+		"suspects": null,
+		"race": "hispanic",
+		"build": null,
+		"@id": "https://api.fbi.gov/@wanted-person/f03b9a09ff06f2ea36d26591898a7efe"
 	},
 	{
 		"title": "ERIK KRISTIAN MOLLER",
@@ -77789,99 +77786,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/4570a0381cfddfdcd319a80c5ebe34dd"
 	},
 	{
-		"title": "ABD AL AZIZ AWDA",
-		"locations": null,
-		"status": "na",
-		"place_of_birth": "Jabaliyah, Gaza Strip",
-		"occupations": null,
-		"eyes_raw": "Brown",
-		"age_max": null,
-		"eyes": "brown",
-		"aliases": [
-			"Sheik Odeh",
-			"Abdel Aziz Odeh",
-			"Abd Al Aziz Odeh",
-			"Abed Al Aziz Odeh",
-			"Abu Ahmed",
-			"Sheik Awda",
-			"Fadl Abu Ahmed",
-			"Al Sheik",
-			"The Sheik",
-			"Mawlana"
-		],
-		"dates_of_birth_used": [
-			"December 20, 1950"
-		],
-		"details": null,
-		"weight": "Unknown",
-		"possible_states": [
-			"US-FL"
-		],
-		"remarks": "<p>Awda was educated in Arab and Islamic Studies in Cairo, Egypt. He has worked as a lecturer at a university and as an Imam at a Mosque, both of which were located in the Gaza Strip. He normally wears a moustache and a beard.</p>",
-		"path": "/wanted/wanted_terrorists/abd-al-aziz-awda",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/wanted_terrorists/abd-al-aziz-awda/download.pdf",
-				"name": "English"
-			}
-		],
-		"sex": "Male",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/wanted_terrorists/abd-al-aziz-awda/@@images/image",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/wanted_terrorists/abd-al-aziz-awda/@@images/image/large",
-				"thumb": "https://www.fbi.gov/wanted/wanted_terrorists/abd-al-aziz-awda/@@images/image/thumb"
-			}
-		],
-		"race_raw": null,
-		"person_classification": "Main",
-		"legat_names": null,
-		"caution": "<p>Abd Al Aziz Awda is wanted for conspiracy to conduct the affairs of the designated international terrorist organization known as the \"Palestinian Islamic Jihad\" (PIJ) through a pattern of racketeering activities such as bombings, murders, extortions, and money laundering. Awda was one of the original founders and the spiritual leader of the PIJ and is presently still involved in the organization, which has its headquarters located in Damascus, Syria. He was listed as a \"Specially Designated Terrorist\" under United States law on January 23, 1995. Awda was indicted in a 53 count indictment in the United States District Court, Middle District of Florida, Tampa, Florida.</p>",
-		"age_range": null,
-		"ncic": null,
-		"url": "https://www.fbi.gov/wanted/wanted_terrorists/abd-al-aziz-awda",
-		"additional_information": null,
-		"height_min": null,
-		"field_offices": [
-			"tampa"
-		],
-		"uid": "5670d906617f3a45f804fbab90b337b2",
-		"reward_max": 0,
-		"publication": "2010-08-24T11:25:00",
-		"hair": "black",
-		"scars_and_marks": "None known",
-		"hair_raw": "Black",
-		"reward_min": 0,
-		"modified": "2023-02-11T00:00:56+00:00",
-		"subjects": [
-			"Most Wanted Terrorists"
-		],
-		"coordinates": [],
-		"weight_min": null,
-		"nationality": "Palestinian",
-		"languages": [
-			"Arabic",
-			"English"
-		],
-		"reward_text": null,
-		"weight_max": null,
-		"description": "Racketeering Influenced and Corrupt Organization (RICO); Interstate Transportation in Aid of Racketeering; Conspiracy to Murder Persons in a Foreign Country",
-		"complexion": "Light",
-		"age_min": null,
-		"height_max": null,
-		"possible_countries": [
-			"EGY",
-			"PSE",
-			"USA"
-		],
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
-		"suspects": null,
-		"race": null,
-		"build": "Unknown",
-		"@id": "https://api.fbi.gov/@wanted-person/5670d906617f3a45f804fbab90b337b2"
-	},
-	{
 		"title": "MUHAMMAD AHMED AL-MUNAWAR",
 		"locations": null,
 		"status": "na",
@@ -77986,6 +77890,99 @@
 		"race": null,
 		"build": "Medium",
 		"@id": "https://api.fbi.gov/@wanted-person/4011575512a6c42a328e2022c9aa794a"
+	},
+	{
+		"title": "ABD AL AZIZ AWDA",
+		"locations": null,
+		"status": "na",
+		"place_of_birth": "Jabaliyah, Gaza Strip",
+		"occupations": null,
+		"eyes_raw": "Brown",
+		"age_max": null,
+		"eyes": "brown",
+		"aliases": [
+			"Sheik Odeh",
+			"Abdel Aziz Odeh",
+			"Abd Al Aziz Odeh",
+			"Abed Al Aziz Odeh",
+			"Abu Ahmed",
+			"Sheik Awda",
+			"Fadl Abu Ahmed",
+			"Al Sheik",
+			"The Sheik",
+			"Mawlana"
+		],
+		"dates_of_birth_used": [
+			"December 20, 1950"
+		],
+		"details": null,
+		"weight": "Unknown",
+		"possible_states": [
+			"US-FL"
+		],
+		"remarks": "<p>Awda was educated in Arab and Islamic Studies in Cairo, Egypt. He has worked as a lecturer at a university and as an Imam at a Mosque, both of which were located in the Gaza Strip. He normally wears a moustache and a beard.</p>",
+		"path": "/wanted/wanted_terrorists/abd-al-aziz-awda",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/wanted_terrorists/abd-al-aziz-awda/download.pdf",
+				"name": "English"
+			}
+		],
+		"sex": "Male",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/wanted_terrorists/abd-al-aziz-awda/@@images/image",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/wanted_terrorists/abd-al-aziz-awda/@@images/image/large",
+				"thumb": "https://www.fbi.gov/wanted/wanted_terrorists/abd-al-aziz-awda/@@images/image/thumb"
+			}
+		],
+		"race_raw": null,
+		"person_classification": "Main",
+		"legat_names": null,
+		"caution": "<p>Abd Al Aziz Awda is wanted for conspiracy to conduct the affairs of the designated international terrorist organization known as the \"Palestinian Islamic Jihad\" (PIJ) through a pattern of racketeering activities such as bombings, murders, extortions, and money laundering. Awda was one of the original founders and the spiritual leader of the PIJ and is presently still involved in the organization, which has its headquarters located in Damascus, Syria. He was listed as a \"Specially Designated Terrorist\" under United States law on January 23, 1995. Awda was indicted in a 53 count indictment in the United States District Court, Middle District of Florida, Tampa, Florida.</p>",
+		"age_range": null,
+		"ncic": null,
+		"url": "https://www.fbi.gov/wanted/wanted_terrorists/abd-al-aziz-awda",
+		"additional_information": null,
+		"height_min": null,
+		"field_offices": [
+			"tampa"
+		],
+		"uid": "5670d906617f3a45f804fbab90b337b2",
+		"reward_max": 0,
+		"publication": "2010-08-24T11:25:00",
+		"hair": "black",
+		"scars_and_marks": "None known",
+		"hair_raw": "Black",
+		"reward_min": 0,
+		"modified": "2023-02-11T00:00:56+00:00",
+		"subjects": [
+			"Most Wanted Terrorists"
+		],
+		"coordinates": [],
+		"weight_min": null,
+		"nationality": "Palestinian",
+		"languages": [
+			"Arabic",
+			"English"
+		],
+		"reward_text": null,
+		"weight_max": null,
+		"description": "Racketeering Influenced and Corrupt Organization (RICO); Interstate Transportation in Aid of Racketeering; Conspiracy to Murder Persons in a Foreign Country",
+		"complexion": "Light",
+		"age_min": null,
+		"height_max": null,
+		"possible_countries": [
+			"EGY",
+			"PSE",
+			"USA"
+		],
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+		"suspects": null,
+		"race": null,
+		"build": "Unknown",
+		"@id": "https://api.fbi.gov/@wanted-person/5670d906617f3a45f804fbab90b337b2"
 	},
 	{
 		"title": "JABER A. ELBANEH",
