@@ -19368,6 +19368,79 @@
 	},
 	{
 		"field_offices": [
+			"pittsburgh"
+		],
+		"url": "https://www.fbi.gov/wanted/kidnap/maria-nina-miller",
+		"reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the location of Maria Nina Miller.",
+		"status": "na",
+		"weight_min": 125,
+		"occupations": null,
+		"images": [
+			{
+				"thumb": "https://www.fbi.gov/wanted/kidnap/maria-nina-miller/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/maria-nina-miller/@@images/image",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/kidnap/maria-nina-miller/@@images/image/large"
+			}
+		],
+		"reward_min": 0,
+		"warning_message": null,
+		"complexion": null,
+		"details": "<p>Maria Nina Miller was last seen on February 5, 2011, at the Dandy Mini Mart in Wysox, Pennsylvania.\u00a0 It is believed that she may then have traveled from Pennsylvania to West Virginia with a relative.</p>\r\n<p>\u00a0</p>",
+		"modified": "2023-02-15T00:09:44+00:00",
+		"race_raw": "Asian",
+		"aliases": null,
+		"reward_max": 0,
+		"possible_states": null,
+		"legat_names": null,
+		"coordinates": [],
+		"eyes_raw": "Brown",
+		"title": "MARIA NINA MILLER",
+		"place_of_birth": "Philippines",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/maria-nina-miller/download.pdf",
+				"name": "English"
+			}
+		],
+		"ncic": null,
+		"dates_of_birth_used": [
+			"August 28, 1976"
+		],
+		"scars_and_marks": null,
+		"hair": "black",
+		"caution": null,
+		"weight_max": 125,
+		"nationality": "Filipina",
+		"additional_information": null,
+		"height_min": 61,
+		"person_classification": "Main",
+		"weight": "125 pounds",
+		"hair_raw": "Black",
+		"remarks": null,
+		"publication": "2023-02-01T14:35:00",
+		"uid": "a7c810b0c5e84cc2903eee12cab63e63",
+		"eyes": "brown",
+		"path": "/wanted/kidnap/maria-nina-miller",
+		"race": "asian",
+		"age_range": null,
+		"description": "February 5, 2011\r\nWysox, Pennsylvania",
+		"subjects": [
+			"Kidnappings and Missing Persons"
+		],
+		"suspects": null,
+		"languages": null,
+		"age_min": null,
+		"locations": null,
+		"age_max": null,
+		"height_max": 61,
+		"build": null,
+		"sex": "Female",
+		"possible_countries": null,
+		"@id": "https://api.fbi.gov/@wanted-person/a7c810b0c5e84cc2903eee12cab63e63"
+	},
+	{
+		"field_offices": [
 			"albuquerque"
 		],
 		"url": "https://www.fbi.gov/wanted/cei/elliott-estevan-peralta",
@@ -19444,79 +19517,6 @@
 		"sex": "Male",
 		"possible_countries": null,
 		"@id": "https://api.fbi.gov/@wanted-person/9ce8a58b6497442197e04d739890441c"
-	},
-	{
-		"field_offices": [
-			"pittsburgh"
-		],
-		"url": "https://www.fbi.gov/wanted/kidnap/maria-nina-miller",
-		"reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the location of Maria Nina Miller.",
-		"status": "na",
-		"weight_min": 125,
-		"occupations": null,
-		"images": [
-			{
-				"thumb": "https://www.fbi.gov/wanted/kidnap/maria-nina-miller/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/maria-nina-miller/@@images/image",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/kidnap/maria-nina-miller/@@images/image/large"
-			}
-		],
-		"reward_min": 0,
-		"warning_message": null,
-		"complexion": null,
-		"details": "<p>Maria Nina Miller was last seen on February 5, 2011, at the Dandy Mini Mart in Wysox, Pennsylvania.\u00a0 It is believed that she may then have traveled from Pennsylvania to West Virginia with a relative.</p>\r\n<p>\u00a0</p>",
-		"modified": "2023-02-15T00:09:44+00:00",
-		"race_raw": "Asian",
-		"aliases": null,
-		"reward_max": 0,
-		"possible_states": null,
-		"legat_names": null,
-		"coordinates": [],
-		"eyes_raw": "Brown",
-		"title": "MARIA NINA MILLER",
-		"place_of_birth": "Philippines",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/maria-nina-miller/download.pdf",
-				"name": "English"
-			}
-		],
-		"ncic": null,
-		"dates_of_birth_used": [
-			"August 28, 1976"
-		],
-		"scars_and_marks": null,
-		"hair": "black",
-		"caution": null,
-		"weight_max": 125,
-		"nationality": "Filipina",
-		"additional_information": null,
-		"height_min": 61,
-		"person_classification": "Main",
-		"weight": "125 pounds",
-		"hair_raw": "Black",
-		"remarks": null,
-		"publication": "2023-02-01T14:35:00",
-		"uid": "a7c810b0c5e84cc2903eee12cab63e63",
-		"eyes": "brown",
-		"path": "/wanted/kidnap/maria-nina-miller",
-		"race": "asian",
-		"age_range": null,
-		"description": "February 5, 2011\r\nWysox, Pennsylvania",
-		"subjects": [
-			"Kidnappings and Missing Persons"
-		],
-		"suspects": null,
-		"languages": null,
-		"age_min": null,
-		"locations": null,
-		"age_max": null,
-		"height_max": 61,
-		"build": null,
-		"sex": "Female",
-		"possible_countries": null,
-		"@id": "https://api.fbi.gov/@wanted-person/a7c810b0c5e84cc2903eee12cab63e63"
 	},
 	{
 		"field_offices": null,
@@ -20313,187 +20313,103 @@
 	},
 	{
 		"field_offices": [
-			"newark"
+			"losangeles"
 		],
-		"url": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi",
-		"reward_text": "The Rewards for Justice Program, United States Department of State, is offering a reward of up to $10 million for information on or about the activities of Mansour Ahmadi, Ahmad Khatibi Aghda, and Amir Hossein Nickaein Ravari.",
+		"url": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly",
+		"reward_text": null,
 		"status": "na",
-		"weight_min": null,
-		"occupations": null,
+		"weight_min": 135,
+		"occupations": [
+			"Engineer"
+		],
 		"images": [
 			{
-				"thumb": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/@@images/image",
-				"caption": "Photograph taken in 2018",
-				"large": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/@@images/image/large"
+				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/@@images/image",
+				"caption": "Photograph taken in January 2020",
+				"large": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/@@images/image/large"
 			},
 			{
-				"thumb": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi2.png/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi2.png",
+				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly2.jpg",
 				"caption": "",
-				"large": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi2.png/@@images/image/large"
+				"large": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly2.jpg/@@images/image/large"
 			},
 			{
-				"thumb": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi3.png/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi3.png",
+				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly3.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly3.jpg",
 				"caption": "",
-				"large": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi3.png/@@images/image/large"
+				"large": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly3.jpg/@@images/image/large"
 			}
 		],
 		"reward_min": 0,
 		"warning_message": null,
 		"complexion": null,
-		"details": null,
+		"details": "<p>Mohamed Alaaeldien Mahmoud Hussein Aly is wanted for international parental kidnapping pursuant to an arrest warrant issued on February 7, 2022, in the United States District Court, Central District of California, Los Angeles, California.\u00a0</p>\r\n<p>On September 17, 2021, Hussein Aly, who shared joint custody of his three minor children with his estranged wife, picked the children up from school and never returned them home to their mother in La Canada Flintridge, California, on September 19, 2021. On September 18, 2021, Hussein Aly and the three children flew out of the Los Angeles International Airport to Istanbul, Turkey, with the final destination being Cairo, Egypt, and have never returned.</p>",
 		"modified": "2023-02-15T00:09:34+00:00",
-		"race_raw": null,
+		"race_raw": "White",
 		"aliases": [
-			"Mansur Ahmadi"
+			"Mohamed Aly",
+			"Mohamed A Aly",
+			"Mohamed Alaa El Dien Aly",
+			"Mohamed Alaa Eldien Aly",
+			""
 		],
 		"reward_max": 0,
 		"possible_states": null,
 		"legat_names": null,
 		"coordinates": [],
 		"eyes_raw": "Brown",
-		"title": "MANSOUR AHMADI",
-		"place_of_birth": "Tehran Province, Iran",
+		"title": "MOHAMED ALAAELDIEN MAHMOUD HUSSEIN ALY",
+		"place_of_birth": "Egypt",
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/download.pdf",
+				"url": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/download.pdf",
 				"name": "English"
 			},
 			{
-				"url": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi-farsi.pdf/@@download/file/ahmadi Farsi.pdf",
-				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc"
+				"url": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly_arabic.pdf/@@download/file/Aly_Arabic.pdf",
+				"name": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629"
 			}
 		],
 		"ncic": null,
 		"dates_of_birth_used": [
-			"July 7, 1988"
+			"April 29, 1980"
 		],
 		"scars_and_marks": null,
-		"hair": "brown",
-		"caution": "<p>Mansour Ahmadi, <a data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/cyber/ahmad-khatibi-aghda\" href=\"https://www.fbi.gov/wanted/cyber/ahmad-khatibi-aghda\" data-urltype=\"/view\">Ahmad Khatibi Aghda</a>, and <a data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/cyber/amir-hossein-nickaein-ravari\" href=\"https://www.fbi.gov/wanted/cyber/amir-hossein-nickaein-ravari\" data-urltype=\"/view\">Amir Hossein Nickaein Ravari</a> are wanted for their alleged involvement in a coordinated campaign which compromised hundreds of computer networks across the United States and abroad.\u00a0 Between October 2020 and August 2022, the three men allegedly gained unauthorized access to protected networks, exfiltrated data, encrypted computer systems, and extorted victims for ransom, causing damage to and disrupting operations of organizations across multiple sectors, including critical infrastructure, government agencies, and non-profit organizations.</p>\r\n<p>\u00a0</p>\r\n<p>On August 10, 2022, a federal grand jury sitting in the United States District Court for the District of New Jersey in Newark, New Jersey, indicted Mansour Ahmadi, Ahmad Khatibi Aghda, and Amir Hossein Nickaein Ravari on charges of conspiracy to commit fraud and related activity in connection with computers, intentional damage to a protected computer, and transmitting a demand in relation to damaging a protected computer.</p>\r\n<p>\u00a0</p>",
-		"weight_max": null,
-		"nationality": "Iranian",
+		"hair": "black",
+		"caution": null,
+		"weight_max": 135,
+		"nationality": "Egyptian",
 		"additional_information": null,
-		"height_min": null,
+		"height_min": 66,
 		"person_classification": "Main",
-		"weight": null,
-		"hair_raw": "Dark Brown",
-		"remarks": "<p>Mansour Ahmadi is known to speak Farsi and reside in Iran.</p>",
-		"publication": "2022-08-04T11:02:00",
-		"uid": "b435e412a58943cca158b956819083d5",
+		"weight": "135 pounds",
+		"hair_raw": "Black",
+		"remarks": "<p>Mohamed Alaaeldien Mahmoud Hussein Aly has ties to Egypt, Saudi Arabia, and California.\u00a0</p>",
+		"publication": "2022-02-09T08:37:00",
+		"uid": "eb4a991c48cc4b558440619891ce79ca",
 		"eyes": "brown",
-		"path": "/wanted/cyber/mansour-ahmadi",
-		"race": null,
+		"path": "/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly",
+		"race": "white",
 		"age_range": null,
-		"description": "Conspiracy to Commit Fraud and Related Activity in Connection with Computers; Intentional Damage to a Protected Computer; Transmitting a Demand in Relation to Damaging a Protected Computer",
+		"description": "International Parental Kidnapping",
 		"subjects": [
-			"Cyber's Most Wanted",
-			"Iran"
+			"Parental Kidnapping"
 		],
 		"suspects": null,
-		"languages": null,
+		"languages": [
+			"English",
+			"Arabic"
+		],
 		"age_min": null,
 		"locations": null,
 		"age_max": null,
-		"height_max": null,
+		"height_max": 66,
 		"build": null,
 		"sex": "Male",
 		"possible_countries": null,
-		"@id": "https://api.fbi.gov/@wanted-person/b435e412a58943cca158b956819083d5"
-	},
-	{
-		"field_offices": [
-			"newark"
-		],
-		"url": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi",
-		"reward_text": "The Rewards for Justice Program, United States Department of State, is offering a reward of up to $10 million for information on or about the activities of Mansour Ahmadi, Ahmad Khatibi Aghda, and Amir Hossein Nickaein Ravari.",
-		"status": "na",
-		"weight_min": null,
-		"occupations": null,
-		"images": [
-			{
-				"thumb": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/@@images/image",
-				"caption": "Photograph taken in 2018",
-				"large": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/@@images/image/large"
-			},
-			{
-				"thumb": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi2.png/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi2.png",
-				"caption": "",
-				"large": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi2.png/@@images/image/large"
-			},
-			{
-				"thumb": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi3.png/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi3.png",
-				"caption": "",
-				"large": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi3.png/@@images/image/large"
-			}
-		],
-		"reward_min": 0,
-		"warning_message": null,
-		"complexion": null,
-		"details": null,
-		"modified": "2023-02-15T00:09:34+00:00",
-		"race_raw": null,
-		"aliases": [
-			"Mansur Ahmadi"
-		],
-		"reward_max": 0,
-		"possible_states": null,
-		"legat_names": null,
-		"coordinates": [],
-		"eyes_raw": "Brown",
-		"title": "MANSOUR AHMADI",
-		"place_of_birth": "Tehran Province, Iran",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/cyber/mansour-ahmadi/ahmadi-farsi.pdf/@@download/file/ahmadi Farsi.pdf",
-				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc"
-			}
-		],
-		"ncic": null,
-		"dates_of_birth_used": [
-			"July 7, 1988"
-		],
-		"scars_and_marks": null,
-		"hair": "brown",
-		"caution": "<p>Mansour Ahmadi, <a data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/cyber/ahmad-khatibi-aghda\" href=\"https://www.fbi.gov/wanted/cyber/ahmad-khatibi-aghda\" data-urltype=\"/view\">Ahmad Khatibi Aghda</a>, and <a data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/cyber/amir-hossein-nickaein-ravari\" href=\"https://www.fbi.gov/wanted/cyber/amir-hossein-nickaein-ravari\" data-urltype=\"/view\">Amir Hossein Nickaein Ravari</a> are wanted for their alleged involvement in a coordinated campaign which compromised hundreds of computer networks across the United States and abroad.\u00a0 Between October 2020 and August 2022, the three men allegedly gained unauthorized access to protected networks, exfiltrated data, encrypted computer systems, and extorted victims for ransom, causing damage to and disrupting operations of organizations across multiple sectors, including critical infrastructure, government agencies, and non-profit organizations.</p>\r\n<p>\u00a0</p>\r\n<p>On August 10, 2022, a federal grand jury sitting in the United States District Court for the District of New Jersey in Newark, New Jersey, indicted Mansour Ahmadi, Ahmad Khatibi Aghda, and Amir Hossein Nickaein Ravari on charges of conspiracy to commit fraud and related activity in connection with computers, intentional damage to a protected computer, and transmitting a demand in relation to damaging a protected computer.</p>\r\n<p>\u00a0</p>",
-		"weight_max": null,
-		"nationality": "Iranian",
-		"additional_information": null,
-		"height_min": null,
-		"person_classification": "Main",
-		"weight": null,
-		"hair_raw": "Dark Brown",
-		"remarks": "<p>Mansour Ahmadi is known to speak Farsi and reside in Iran.</p>",
-		"publication": "2022-08-04T11:02:00",
-		"uid": "b435e412a58943cca158b956819083d5",
-		"eyes": "brown",
-		"path": "/wanted/cyber/mansour-ahmadi",
-		"race": null,
-		"age_range": null,
-		"description": "Conspiracy to Commit Fraud and Related Activity in Connection with Computers; Intentional Damage to a Protected Computer; Transmitting a Demand in Relation to Damaging a Protected Computer",
-		"subjects": [
-			"Cyber's Most Wanted",
-			"Iran"
-		],
-		"suspects": null,
-		"languages": null,
-		"age_min": null,
-		"locations": null,
-		"age_max": null,
-		"height_max": null,
-		"build": null,
-		"sex": "Male",
-		"possible_countries": null,
-		"@id": "https://api.fbi.gov/@wanted-person/b435e412a58943cca158b956819083d5"
+		"@id": "https://api.fbi.gov/@wanted-person/eb4a991c48cc4b558440619891ce79ca"
 	},
 	{
 		"field_offices": [
@@ -20575,6 +20491,106 @@
 		"sex": null,
 		"possible_countries": null,
 		"@id": "https://api.fbi.gov/@wanted-person/125f1d52ead3491ea8185251f4547efd"
+	},
+	{
+		"field_offices": [
+			"losangeles"
+		],
+		"url": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly",
+		"reward_text": null,
+		"status": "na",
+		"weight_min": 135,
+		"occupations": [
+			"Engineer"
+		],
+		"images": [
+			{
+				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/@@images/image",
+				"caption": "Photograph taken in January 2020",
+				"large": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/@@images/image/large"
+			},
+			{
+				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly2.jpg",
+				"caption": "",
+				"large": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly2.jpg/@@images/image/large"
+			},
+			{
+				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly3.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly3.jpg",
+				"caption": "",
+				"large": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly3.jpg/@@images/image/large"
+			}
+		],
+		"reward_min": 0,
+		"warning_message": null,
+		"complexion": null,
+		"details": "<p>Mohamed Alaaeldien Mahmoud Hussein Aly is wanted for international parental kidnapping pursuant to an arrest warrant issued on February 7, 2022, in the United States District Court, Central District of California, Los Angeles, California.\u00a0</p>\r\n<p>On September 17, 2021, Hussein Aly, who shared joint custody of his three minor children with his estranged wife, picked the children up from school and never returned them home to their mother in La Canada Flintridge, California, on September 19, 2021. On September 18, 2021, Hussein Aly and the three children flew out of the Los Angeles International Airport to Istanbul, Turkey, with the final destination being Cairo, Egypt, and have never returned.</p>",
+		"modified": "2023-02-15T00:09:34+00:00",
+		"race_raw": "White",
+		"aliases": [
+			"Mohamed Aly",
+			"Mohamed A Aly",
+			"Mohamed Alaa El Dien Aly",
+			"Mohamed Alaa Eldien Aly",
+			""
+		],
+		"reward_max": 0,
+		"possible_states": null,
+		"legat_names": null,
+		"coordinates": [],
+		"eyes_raw": "Brown",
+		"title": "MOHAMED ALAAELDIEN MAHMOUD HUSSEIN ALY",
+		"place_of_birth": "Egypt",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly/aly_arabic.pdf/@@download/file/Aly_Arabic.pdf",
+				"name": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+			}
+		],
+		"ncic": null,
+		"dates_of_birth_used": [
+			"April 29, 1980"
+		],
+		"scars_and_marks": null,
+		"hair": "black",
+		"caution": null,
+		"weight_max": 135,
+		"nationality": "Egyptian",
+		"additional_information": null,
+		"height_min": 66,
+		"person_classification": "Main",
+		"weight": "135 pounds",
+		"hair_raw": "Black",
+		"remarks": "<p>Mohamed Alaaeldien Mahmoud Hussein Aly has ties to Egypt, Saudi Arabia, and California.\u00a0</p>",
+		"publication": "2022-02-09T08:37:00",
+		"uid": "eb4a991c48cc4b558440619891ce79ca",
+		"eyes": "brown",
+		"path": "/wanted/parental-kidnappings/mohamed-alaaeldien-mahmoud-hussein-aly",
+		"race": "white",
+		"age_range": null,
+		"description": "International Parental Kidnapping",
+		"subjects": [
+			"Parental Kidnapping"
+		],
+		"suspects": null,
+		"languages": [
+			"English",
+			"Arabic"
+		],
+		"age_min": null,
+		"locations": null,
+		"age_max": null,
+		"height_max": 66,
+		"build": null,
+		"sex": "Male",
+		"possible_countries": null,
+		"@id": "https://api.fbi.gov/@wanted-person/eb4a991c48cc4b558440619891ce79ca"
 	},
 	{
 		"field_offices": [
@@ -70118,91 +70134,6 @@
 	},
 	{
 		"field_offices": [
-			"albuquerque"
-		],
-		"url": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito",
-		"reward_text": null,
-		"status": "na",
-		"weight_min": 55,
-		"occupations": null,
-		"images": [
-			{
-				"thumb": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/@@images/image",
-				"caption": "Photograph taken in 1986",
-				"large": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/@@images/image/large"
-			},
-			{
-				"thumb": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/cayedito-2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/cayedito-2.jpg",
-				"caption": "Photograph age-progressed to 36 years",
-				"large": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/cayedito-2.jpg/@@images/image/large"
-			}
-		],
-		"reward_min": 0,
-		"warning_message": null,
-		"complexion": null,
-		"details": "<p>Anthonette Cayedito was last seen inside her family\u2019s residence in Gallup, New Mexico, on April 6, 1986.\u00a0 She was last seen wearing a pink nightgown.</p>",
-		"modified": "2023-02-15T00:02:11+00:00",
-		"race_raw": "Biracial (Native American and White)",
-		"aliases": null,
-		"reward_max": 0,
-		"possible_states": null,
-		"legat_names": null,
-		"coordinates": [],
-		"eyes_raw": "Brown",
-		"title": "ANTHONETTE CHRISTINE CAYEDITO",
-		"place_of_birth": "New Mexico",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/cayedito-navajo-12-8-2020.pdf/@@download/file/Cayedito Navajo 12-8-2020.pdf",
-				"name": "DIN\u00c9 BIZAAD K\u2019EHGO"
-			}
-		],
-		"ncic": null,
-		"dates_of_birth_used": [
-			"December 25, 1976"
-		],
-		"scars_and_marks": "Cayedito has freckles, pierced ears, a scar on her knee, and a scar on her lip. She has moles on her back, right cheek, nose, left and right hands, and her right ankle.",
-		"hair": "brown",
-		"caution": null,
-		"weight_max": 55,
-		"nationality": "American",
-		"additional_information": null,
-		"height_min": 55,
-		"person_classification": "Main",
-		"weight": "55 pounds (at the time of her disappearance)",
-		"hair_raw": "Brown",
-		"remarks": "<p>Cayedito is of Navajo and Italian descent. At the time of her disappearance, she wore glasses. She was known to wear a silver chain with a small turquoise cross pendant.</p>",
-		"publication": "2014-07-01T07:00:00",
-		"uid": "5342f633-76b9-4b46-bed9-32599702b86d",
-		"eyes": "brown",
-		"path": "/wanted/kidnap/anthonette-christine-cayedito",
-		"race": "native",
-		"age_range": null,
-		"description": "April 6, 1986\r\nGallup, New Mexico",
-		"subjects": [
-			"Kidnappings and Missing Persons",
-			"Indian Country",
-			"Navajo"
-		],
-		"suspects": null,
-		"languages": null,
-		"age_min": null,
-		"locations": null,
-		"age_max": null,
-		"height_max": 55,
-		"build": null,
-		"sex": "Female",
-		"possible_countries": null,
-		"@id": "https://api.fbi.gov/@wanted-person/5342f633-76b9-4b46-bed9-32599702b86d"
-	},
-	{
-		"field_offices": [
 			"honolulu"
 		],
 		"url": "https://www.fbi.gov/wanted/kidnap/faloma-luhk",
@@ -70291,6 +70222,91 @@
 		"sex": "Female",
 		"possible_countries": null,
 		"@id": "https://api.fbi.gov/@wanted-person/841529a7-2d02-4cfa-9027-6d5a1951c66d"
+	},
+	{
+		"field_offices": [
+			"albuquerque"
+		],
+		"url": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito",
+		"reward_text": null,
+		"status": "na",
+		"weight_min": 55,
+		"occupations": null,
+		"images": [
+			{
+				"thumb": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/@@images/image",
+				"caption": "Photograph taken in 1986",
+				"large": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/@@images/image/large"
+			},
+			{
+				"thumb": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/cayedito-2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/cayedito-2.jpg",
+				"caption": "Photograph age-progressed to 36 years",
+				"large": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/cayedito-2.jpg/@@images/image/large"
+			}
+		],
+		"reward_min": 0,
+		"warning_message": null,
+		"complexion": null,
+		"details": "<p>Anthonette Cayedito was last seen inside her family\u2019s residence in Gallup, New Mexico, on April 6, 1986.\u00a0 She was last seen wearing a pink nightgown.</p>",
+		"modified": "2023-02-15T00:02:11+00:00",
+		"race_raw": "Biracial (Native American and White)",
+		"aliases": null,
+		"reward_max": 0,
+		"possible_states": null,
+		"legat_names": null,
+		"coordinates": [],
+		"eyes_raw": "Brown",
+		"title": "ANTHONETTE CHRISTINE CAYEDITO",
+		"place_of_birth": "New Mexico",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/anthonette-christine-cayedito/cayedito-navajo-12-8-2020.pdf/@@download/file/Cayedito Navajo 12-8-2020.pdf",
+				"name": "DIN\u00c9 BIZAAD K\u2019EHGO"
+			}
+		],
+		"ncic": null,
+		"dates_of_birth_used": [
+			"December 25, 1976"
+		],
+		"scars_and_marks": "Cayedito has freckles, pierced ears, a scar on her knee, and a scar on her lip. She has moles on her back, right cheek, nose, left and right hands, and her right ankle.",
+		"hair": "brown",
+		"caution": null,
+		"weight_max": 55,
+		"nationality": "American",
+		"additional_information": null,
+		"height_min": 55,
+		"person_classification": "Main",
+		"weight": "55 pounds (at the time of her disappearance)",
+		"hair_raw": "Brown",
+		"remarks": "<p>Cayedito is of Navajo and Italian descent. At the time of her disappearance, she wore glasses. She was known to wear a silver chain with a small turquoise cross pendant.</p>",
+		"publication": "2014-07-01T07:00:00",
+		"uid": "5342f633-76b9-4b46-bed9-32599702b86d",
+		"eyes": "brown",
+		"path": "/wanted/kidnap/anthonette-christine-cayedito",
+		"race": "native",
+		"age_range": null,
+		"description": "April 6, 1986\r\nGallup, New Mexico",
+		"subjects": [
+			"Kidnappings and Missing Persons",
+			"Indian Country",
+			"Navajo"
+		],
+		"suspects": null,
+		"languages": null,
+		"age_min": null,
+		"locations": null,
+		"age_max": null,
+		"height_max": 55,
+		"build": null,
+		"sex": "Female",
+		"possible_countries": null,
+		"@id": "https://api.fbi.gov/@wanted-person/5342f633-76b9-4b46-bed9-32599702b86d"
 	},
 	{
 		"field_offices": [
@@ -74786,107 +74802,6 @@
 	},
 	{
 		"field_offices": [
-			"elpaso"
-		],
-		"url": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder",
-		"reward_text": null,
-		"status": "na",
-		"weight_min": 123,
-		"occupations": [
-			"Police dispatcher",
-			"Convenience store clerk"
-		],
-		"images": [
-			{
-				"thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image/large"
-			},
-			{
-				"thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg",
-				"caption": "",
-				"large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg/@@images/image/large"
-			},
-			{
-				"thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg",
-				"caption": "Age-progressed photograph",
-				"large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg/@@images/image/large"
-			}
-		],
-		"reward_min": 0,
-		"warning_message": "SHOULD BE CONSIDERED AN ESCAPE RISK",
-		"complexion": null,
-		"details": null,
-		"modified": "2023-02-15T00:01:25+00:00",
-		"race_raw": "Black",
-		"aliases": [
-			"Rosemary L. Godbolt",
-			"Rosemary Lorraine Molder",
-			"Rosemary Lorraine Davis",
-			"Rosemary L. Molder",
-			"Rosemary Lorraine Godbolt",
-			"Ann Godbolt",
-			"R. Lorraine Godbolt-Molder"
-		],
-		"reward_max": 0,
-		"possible_states": [
-			"US-NJ",
-			"US-TX"
-		],
-		"legat_names": null,
-		"coordinates": [],
-		"eyes_raw": "Brown",
-		"title": "ROSEMARY LORRAINE GODBOLT-MOLDER",
-		"place_of_birth": "New Jersey",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/download.pdf",
-				"name": "English"
-			}
-		],
-		"ncic": "W016118996",
-		"dates_of_birth_used": [
-			"July 29, 1967"
-		],
-		"scars_and_marks": "Rosemary Lorraine Godbolt-Molder has scars on both knees.",
-		"hair": "black",
-		"caution": "<p>Rosemary Lorraine Godbolt-Molder is being sought for the murder of her 5-year-old stepson. On August 22, 1989, Rayshon Omar Alexxander was transported from his residence in Fort Bliss, Texas, to an army medical center with injuries. Alexxander was pronounced dead on the same date by physicians at the medical facility. Additionally, examination of the victim disclosed numerous bruises throughout his body, which indicated a fractured skull and possible physical abuse. An autopsy later revealed that Alexxander died as a result of extensive child abuse.</p>\r\n<p>\u00a0</p>\r\n<p>Godbolt-Molder was arrested and indicted by a Western District of Texas Federal Grand Jury at El Paso, Texas, for homicide on a government reservation. Godbolt-Molder was released on bond on October 4, 1989. After Godbolt-Molder violated the terms of her release, by failing to report to her Pre-trial Service Officer while her trial was still pending, her bond was revoked on April 27, 1993. A federal warrant was then issued by the United States District Court, Western District of Texas, for Godbolt-Molder's arrest.</p>",
-		"weight_max": 123,
-		"nationality": "American",
-		"additional_information": null,
-		"height_min": 61,
-		"person_classification": "Main",
-		"weight": "123 pounds",
-		"hair_raw": "Black",
-		"remarks": "<p>Rosemary Lorraine Godbolt-Molder has ties to Trenton, New Jersey; and the Fort Bliss and El Paso, Texas, areas. On occasion, Godbolt-Molder is known to gamble.</p>",
-		"publication": "2010-09-07T22:55:00",
-		"uid": "6497efc926f214c3f18d95e51aad5946",
-		"eyes": "brown",
-		"path": "/wanted/murders/rosemary-lorraine-godbolt-molder",
-		"race": "black",
-		"age_range": null,
-		"description": "Crime On a Government Reservation - Homicide",
-		"subjects": [
-			"Violent Crime - Murders"
-		],
-		"suspects": null,
-		"languages": null,
-		"age_min": null,
-		"locations": null,
-		"age_max": null,
-		"height_max": 61,
-		"build": null,
-		"sex": "Female",
-		"possible_countries": [
-			"USA"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/6497efc926f214c3f18d95e51aad5946"
-	},
-	{
-		"field_offices": [
 			"mobile"
 		],
 		"url": "https://www.fbi.gov/wanted/murders/kevin-lamont-carter",
@@ -75050,6 +74965,107 @@
 		"sex": "Male",
 		"possible_countries": null,
 		"@id": "https://api.fbi.gov/@wanted-person/a4380d3b-d780-4f0d-a611-057e2443ebef"
+	},
+	{
+		"field_offices": [
+			"elpaso"
+		],
+		"url": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder",
+		"reward_text": null,
+		"status": "na",
+		"weight_min": 123,
+		"occupations": [
+			"Police dispatcher",
+			"Convenience store clerk"
+		],
+		"images": [
+			{
+				"thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/@@images/image/large"
+			},
+			{
+				"thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg",
+				"caption": "",
+				"large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl2.jpg/@@images/image/large"
+			},
+			{
+				"thumb": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg",
+				"caption": "Age-progressed photograph",
+				"large": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/godbolt-molder_rl3.jpg/@@images/image/large"
+			}
+		],
+		"reward_min": 0,
+		"warning_message": "SHOULD BE CONSIDERED AN ESCAPE RISK",
+		"complexion": null,
+		"details": null,
+		"modified": "2023-02-15T00:01:25+00:00",
+		"race_raw": "Black",
+		"aliases": [
+			"Rosemary L. Godbolt",
+			"Rosemary Lorraine Molder",
+			"Rosemary Lorraine Davis",
+			"Rosemary L. Molder",
+			"Rosemary Lorraine Godbolt",
+			"Ann Godbolt",
+			"R. Lorraine Godbolt-Molder"
+		],
+		"reward_max": 0,
+		"possible_states": [
+			"US-NJ",
+			"US-TX"
+		],
+		"legat_names": null,
+		"coordinates": [],
+		"eyes_raw": "Brown",
+		"title": "ROSEMARY LORRAINE GODBOLT-MOLDER",
+		"place_of_birth": "New Jersey",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/murders/rosemary-lorraine-godbolt-molder/download.pdf",
+				"name": "English"
+			}
+		],
+		"ncic": "W016118996",
+		"dates_of_birth_used": [
+			"July 29, 1967"
+		],
+		"scars_and_marks": "Rosemary Lorraine Godbolt-Molder has scars on both knees.",
+		"hair": "black",
+		"caution": "<p>Rosemary Lorraine Godbolt-Molder is being sought for the murder of her 5-year-old stepson. On August 22, 1989, Rayshon Omar Alexxander was transported from his residence in Fort Bliss, Texas, to an army medical center with injuries. Alexxander was pronounced dead on the same date by physicians at the medical facility. Additionally, examination of the victim disclosed numerous bruises throughout his body, which indicated a fractured skull and possible physical abuse. An autopsy later revealed that Alexxander died as a result of extensive child abuse.</p>\r\n<p>\u00a0</p>\r\n<p>Godbolt-Molder was arrested and indicted by a Western District of Texas Federal Grand Jury at El Paso, Texas, for homicide on a government reservation. Godbolt-Molder was released on bond on October 4, 1989. After Godbolt-Molder violated the terms of her release, by failing to report to her Pre-trial Service Officer while her trial was still pending, her bond was revoked on April 27, 1993. A federal warrant was then issued by the United States District Court, Western District of Texas, for Godbolt-Molder's arrest.</p>",
+		"weight_max": 123,
+		"nationality": "American",
+		"additional_information": null,
+		"height_min": 61,
+		"person_classification": "Main",
+		"weight": "123 pounds",
+		"hair_raw": "Black",
+		"remarks": "<p>Rosemary Lorraine Godbolt-Molder has ties to Trenton, New Jersey; and the Fort Bliss and El Paso, Texas, areas. On occasion, Godbolt-Molder is known to gamble.</p>",
+		"publication": "2010-09-07T22:55:00",
+		"uid": "6497efc926f214c3f18d95e51aad5946",
+		"eyes": "brown",
+		"path": "/wanted/murders/rosemary-lorraine-godbolt-molder",
+		"race": "black",
+		"age_range": null,
+		"description": "Crime On a Government Reservation - Homicide",
+		"subjects": [
+			"Violent Crime - Murders"
+		],
+		"suspects": null,
+		"languages": null,
+		"age_min": null,
+		"locations": null,
+		"age_max": null,
+		"height_max": 61,
+		"build": null,
+		"sex": "Female",
+		"possible_countries": [
+			"USA"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/6497efc926f214c3f18d95e51aad5946"
 	},
 	{
 		"field_offices": [
@@ -76635,102 +76651,6 @@
 	},
 	{
 		"field_offices": [
-			"littlerock"
-		],
-		"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso",
-		"reward_text": null,
-		"status": "na",
-		"weight_min": 150,
-		"occupations": [
-			"Unknown"
-		],
-		"images": [
-			{
-				"thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/large"
-			},
-			{
-				"thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg",
-				"caption": "Photograph taken circa 2021",
-				"large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/large"
-			}
-		],
-		"reward_min": 0,
-		"warning_message": "SHOULD BE CONSIDERED DANGEROUS AND AN ESCAPE RISK",
-		"complexion": null,
-		"details": null,
-		"modified": "2023-02-15T00:01:04+00:00",
-		"race_raw": "White (Hispanic)",
-		"aliases": [
-			"James Von Kirk",
-			"Juan Antonio Barroso",
-			"Jose A. Barroso",
-			"Jose A. Barroso Martinez"
-		],
-		"reward_max": 0,
-		"possible_states": [
-			"US-AR",
-			"US-KS"
-		],
-		"legat_names": null,
-		"coordinates": [],
-		"eyes_raw": "Brown",
-		"title": "JOSE ANTONIO BARROSO",
-		"place_of_birth": "Mexico",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso1spanish.pdf/@@download/file/barroso1Spanish.pdf",
-				"name": "EN ESPA\u00d1OL"
-			}
-		],
-		"ncic": "W047103701",
-		"dates_of_birth_used": [
-			"January 10, 1973"
-		],
-		"scars_and_marks": "Barroso has a scar on his left cheek near his mouth.",
-		"hair": "black",
-		"caution": "<p>Jose Antonio Barroso is wanted for his alleged involvement in a series of rapes involving a young girl in Fort Smith, Arkansas.\u00a0 The rapes allegedly occurred from the time the victim was five years old until she was eleven years old when it was reported.\u00a0 A state arrest warrant was issued by the District Court of Sebastian County, Arkansas, on November 30, 2004, after Barroso was charged with rape. Barroso was charged federally with unlawful flight to avoid prosecution by the United States District Court, Western District of Arkansas, and a federal arrest warrant was issued on February 1, 2005.</p>\r\n<p>\u00a0</p>",
-		"weight_max": 150,
-		"nationality": "Mexican",
-		"additional_information": null,
-		"height_min": 67,
-		"person_classification": "Main",
-		"weight": "150 pounds",
-		"hair_raw": "Black",
-		"remarks": "<p>Barroso is believed to be in the Ensenada, Baja California, Mexico, area.</p>",
-		"publication": "2010-08-27T17:55:00",
-		"uid": "f03b9a09ff06f2ea36d26591898a7efe",
-		"eyes": "brown",
-		"path": "/wanted/cac/jose-antonio-barroso",
-		"race": "hispanic",
-		"age_range": null,
-		"description": "Unlawful Flight To Avoid Prosecution - Rape",
-		"subjects": [
-			"Crimes Against Children"
-		],
-		"suspects": null,
-		"languages": null,
-		"age_min": null,
-		"locations": null,
-		"age_max": null,
-		"height_max": 67,
-		"build": null,
-		"sex": "Male",
-		"possible_countries": [
-			"MEX",
-			"USA"
-		],
-		"@id": "https://api.fbi.gov/@wanted-person/f03b9a09ff06f2ea36d26591898a7efe"
-	},
-	{
-		"field_offices": [
 			"columbia"
 		],
 		"url": "https://www.fbi.gov/wanted/cac/elby-jessie-hars",
@@ -76833,6 +76753,102 @@
 			"USA"
 		],
 		"@id": "https://api.fbi.gov/@wanted-person/31305e3516930037386ccab1224b45d2"
+	},
+	{
+		"field_offices": [
+			"littlerock"
+		],
+		"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso",
+		"reward_text": null,
+		"status": "na",
+		"weight_min": 150,
+		"occupations": [
+			"Unknown"
+		],
+		"images": [
+			{
+				"thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/large"
+			},
+			{
+				"thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg",
+				"caption": "Photograph taken circa 2021",
+				"large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/large"
+			}
+		],
+		"reward_min": 0,
+		"warning_message": "SHOULD BE CONSIDERED DANGEROUS AND AN ESCAPE RISK",
+		"complexion": null,
+		"details": null,
+		"modified": "2023-02-15T00:01:04+00:00",
+		"race_raw": "White (Hispanic)",
+		"aliases": [
+			"James Von Kirk",
+			"Juan Antonio Barroso",
+			"Jose A. Barroso",
+			"Jose A. Barroso Martinez"
+		],
+		"reward_max": 0,
+		"possible_states": [
+			"US-AR",
+			"US-KS"
+		],
+		"legat_names": null,
+		"coordinates": [],
+		"eyes_raw": "Brown",
+		"title": "JOSE ANTONIO BARROSO",
+		"place_of_birth": "Mexico",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso1spanish.pdf/@@download/file/barroso1Spanish.pdf",
+				"name": "EN ESPA\u00d1OL"
+			}
+		],
+		"ncic": "W047103701",
+		"dates_of_birth_used": [
+			"January 10, 1973"
+		],
+		"scars_and_marks": "Barroso has a scar on his left cheek near his mouth.",
+		"hair": "black",
+		"caution": "<p>Jose Antonio Barroso is wanted for his alleged involvement in a series of rapes involving a young girl in Fort Smith, Arkansas.\u00a0 The rapes allegedly occurred from the time the victim was five years old until she was eleven years old when it was reported.\u00a0 A state arrest warrant was issued by the District Court of Sebastian County, Arkansas, on November 30, 2004, after Barroso was charged with rape. Barroso was charged federally with unlawful flight to avoid prosecution by the United States District Court, Western District of Arkansas, and a federal arrest warrant was issued on February 1, 2005.</p>\r\n<p>\u00a0</p>",
+		"weight_max": 150,
+		"nationality": "Mexican",
+		"additional_information": null,
+		"height_min": 67,
+		"person_classification": "Main",
+		"weight": "150 pounds",
+		"hair_raw": "Black",
+		"remarks": "<p>Barroso is believed to be in the Ensenada, Baja California, Mexico, area.</p>",
+		"publication": "2010-08-27T17:55:00",
+		"uid": "f03b9a09ff06f2ea36d26591898a7efe",
+		"eyes": "brown",
+		"path": "/wanted/cac/jose-antonio-barroso",
+		"race": "hispanic",
+		"age_range": null,
+		"description": "Unlawful Flight To Avoid Prosecution - Rape",
+		"subjects": [
+			"Crimes Against Children"
+		],
+		"suspects": null,
+		"languages": null,
+		"age_min": null,
+		"locations": null,
+		"age_max": null,
+		"height_max": 67,
+		"build": null,
+		"sex": "Male",
+		"possible_countries": [
+			"MEX",
+			"USA"
+		],
+		"@id": "https://api.fbi.gov/@wanted-person/f03b9a09ff06f2ea36d26591898a7efe"
 	},
 	{
 		"field_offices": [
