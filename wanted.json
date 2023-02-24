@@ -3879,75 +3879,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/e8333eccb199469faa7bfcbaca764306"
 	},
 	{
-		"age_min": 20,
-		"weight_max": 200,
-		"person_classification": "Main",
-		"race_raw": "White",
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": null,
-		"uid": "f481dd60ff664fbcb35991ac974e62f1",
-		"reward_max": 0,
-		"sex": "Female",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Brown",
-		"details": "<p>The body of an unidentified white female was found in a wooded area of Portal Hunting Club in Riceboro, Liberty County, Georgia, on December 2, 2022. The remains appeared to have been placed in the area sometime on or around November 27, 2022. The victim had no scars, marks, or tattoos, but has a single tooth implant in her upper right jaw. Clothing found with the victim includes a dark blue \u201cMerona\u201d brand long-sleeve shirt (size medium), a white camisole top (size large), light gray boy-shorts with a white stripe down the side (size large), and white \u201cAmazon Essentials\u201d brand underwear (size large). The Georgia Bureau of Investigation (GBI) Statesboro Office is seeking help to identify this woman who was the apparent victim of a homicide.</p>",
-		"reward_min": 0,
-		"description": "December 2, 2022\r\nRiceboro, Georgia",
-		"weight_min": 185,
-		"height_min": 69,
-		"path": "/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia",
-		"occupations": null,
-		"modified": "2023-02-23T00:09:30+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/2023-01-02-alert.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": null,
-		"scars_and_marks": null,
-		"race": "white",
-		"weight": "185 to 200 pounds",
-		"remarks": null,
-		"ncic": null,
-		"title": "JANE DOE - RICEBORO, GEORGIA",
-		"height_max": 70,
-		"place_of_birth": null,
-		"coordinates": [],
-		"hair": "brown",
-		"eyes": "brown",
-		"hair_raw": "Brown",
-		"publication": "2023-01-12T11:08:00",
-		"field_offices": null,
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"ViCAP Unidentified Persons"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia",
-		"locations": null,
-		"age_range": "20 to 50 years old",
-		"age_max": 50,
-		"@id": "https://api.fbi.gov/@wanted-person/f481dd60ff664fbcb35991ac974e62f1"
-	},
-	{
 		"age_min": null,
 		"weight_max": null,
 		"person_classification": "Main",
@@ -4017,6 +3948,75 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/38f36a4016aa45a0a21c0c11fcbcd1ed"
+	},
+	{
+		"age_min": 20,
+		"weight_max": 200,
+		"person_classification": "Main",
+		"race_raw": "White",
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": null,
+		"uid": "f481dd60ff664fbcb35991ac974e62f1",
+		"reward_max": 0,
+		"sex": "Female",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Brown",
+		"details": "<p>The body of an unidentified white female was found in a wooded area of Portal Hunting Club in Riceboro, Liberty County, Georgia, on December 2, 2022. The remains appeared to have been placed in the area sometime on or around November 27, 2022. The victim had no scars, marks, or tattoos, but has a single tooth implant in her upper right jaw. Clothing found with the victim includes a dark blue \u201cMerona\u201d brand long-sleeve shirt (size medium), a white camisole top (size large), light gray boy-shorts with a white stripe down the side (size large), and white \u201cAmazon Essentials\u201d brand underwear (size large). The Georgia Bureau of Investigation (GBI) Statesboro Office is seeking help to identify this woman who was the apparent victim of a homicide.</p>",
+		"reward_min": 0,
+		"description": "December 2, 2022\r\nRiceboro, Georgia",
+		"weight_min": 185,
+		"height_min": 69,
+		"path": "/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia",
+		"occupations": null,
+		"modified": "2023-02-23T00:09:30+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/2023-01-02-alert.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": null,
+		"scars_and_marks": null,
+		"race": "white",
+		"weight": "185 to 200 pounds",
+		"remarks": null,
+		"ncic": null,
+		"title": "JANE DOE - RICEBORO, GEORGIA",
+		"height_max": 70,
+		"place_of_birth": null,
+		"coordinates": [],
+		"hair": "brown",
+		"eyes": "brown",
+		"hair_raw": "Brown",
+		"publication": "2023-01-12T11:08:00",
+		"field_offices": null,
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"ViCAP Unidentified Persons"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia",
+		"locations": null,
+		"age_range": "20 to 50 years old",
+		"age_max": 50,
+		"@id": "https://api.fbi.gov/@wanted-person/f481dd60ff664fbcb35991ac974e62f1"
 	},
 	{
 		"age_min": null,
@@ -6997,75 +6997,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/d75f8c24e56c4fe190c4c8933da187f9"
 	},
 	{
-		"age_min": 18,
-		"weight_max": 120,
-		"person_classification": "Victim",
-		"race_raw": "White",
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": null,
-		"uid": "f42dc3a2-2c71-4cb1-b801-20eef76da7cc",
-		"reward_max": 0,
-		"sex": "Female",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Blue",
-		"details": "<p>On Friday, January 2, 2015, Marina Pearl Boelter was reported by her co-workers after she did not show up for work at the IGA grocery store, located off South Highway 231, Bloomfield, Indiana, on January 1, 2015. Marina Boelter was last observed at approximately 6:00 p.m., on December 31, 2014, after she left work at the old Sunoco gas station gravel lot directly north of IGA. She has not been seen since.</p>\r\n<p>Marina was last seen wearing pink and white Nike Shox shoes. Marina frequently wore a cross necklace.</p>",
-		"reward_min": 0,
-		"description": "Bloomfield, Indiana\r\nJanuary 1, 2015",
-		"weight_min": 120,
-		"height_min": 63,
-		"path": "/wanted/vicap/missing-persons/marina-pearl-boelter",
-		"occupations": null,
-		"modified": "2023-02-23T00:09:15+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/vicap-boelter_marina-bloomfield-in-jan-1-2015.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": null,
-		"scars_and_marks": null,
-		"race": "white",
-		"weight": "120 pounds",
-		"remarks": null,
-		"ncic": null,
-		"title": "MARINA PEARL BOELTER - BLOOMFIELD, INDIANA",
-		"height_max": 63,
-		"place_of_birth": null,
-		"coordinates": [],
-		"hair": "blond",
-		"eyes": "blue",
-		"hair_raw": "Blonde/Strawberry blonde",
-		"publication": "2016-02-10T07:00:00",
-		"field_offices": null,
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter",
-		"locations": null,
-		"age_range": "18",
-		"age_max": 18,
-		"@id": "https://api.fbi.gov/@wanted-person/f42dc3a2-2c71-4cb1-b801-20eef76da7cc"
-	},
-	{
 		"age_min": 16,
 		"weight_max": 102,
 		"person_classification": "Victim",
@@ -7139,6 +7070,75 @@
 		"age_range": "16",
 		"age_max": 16,
 		"@id": "https://api.fbi.gov/@wanted-person/a86eed5ea9a07a28b3ab6df96eec5bf1"
+	},
+	{
+		"age_min": 18,
+		"weight_max": 120,
+		"person_classification": "Victim",
+		"race_raw": "White",
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": null,
+		"uid": "f42dc3a2-2c71-4cb1-b801-20eef76da7cc",
+		"reward_max": 0,
+		"sex": "Female",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Blue",
+		"details": "<p>On Friday, January 2, 2015, Marina Pearl Boelter was reported by her co-workers after she did not show up for work at the IGA grocery store, located off South Highway 231, Bloomfield, Indiana, on January 1, 2015. Marina Boelter was last observed at approximately 6:00 p.m., on December 31, 2014, after she left work at the old Sunoco gas station gravel lot directly north of IGA. She has not been seen since.</p>\r\n<p>Marina was last seen wearing pink and white Nike Shox shoes. Marina frequently wore a cross necklace.</p>",
+		"reward_min": 0,
+		"description": "Bloomfield, Indiana\r\nJanuary 1, 2015",
+		"weight_min": 120,
+		"height_min": 63,
+		"path": "/wanted/vicap/missing-persons/marina-pearl-boelter",
+		"occupations": null,
+		"modified": "2023-02-23T00:09:15+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/vicap-boelter_marina-bloomfield-in-jan-1-2015.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": null,
+		"scars_and_marks": null,
+		"race": "white",
+		"weight": "120 pounds",
+		"remarks": null,
+		"ncic": null,
+		"title": "MARINA PEARL BOELTER - BLOOMFIELD, INDIANA",
+		"height_max": 63,
+		"place_of_birth": null,
+		"coordinates": [],
+		"hair": "blond",
+		"eyes": "blue",
+		"hair_raw": "Blonde/Strawberry blonde",
+		"publication": "2016-02-10T07:00:00",
+		"field_offices": null,
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter",
+		"locations": null,
+		"age_range": "18",
+		"age_max": 18,
+		"@id": "https://api.fbi.gov/@wanted-person/f42dc3a2-2c71-4cb1-b801-20eef76da7cc"
 	},
 	{
 		"age_min": 66,
@@ -24802,6 +24802,87 @@
 	},
 	{
 		"age_min": null,
+		"weight_max": 150,
+		"person_classification": "Main",
+		"race_raw": "Black",
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": "The United States Department of State\u2019s Transnational Organized Crime Rewards Program is offering a reward of up to $1 million United States dollars for information leading to the arrest and/or conviction of Vitel'Homme Innocent.",
+		"uid": "b245f0981bf14d35ae94488dfc612cea",
+		"reward_max": 0,
+		"sex": "Male",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent/@@images/image",
+				"large": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Brown",
+		"details": null,
+		"reward_min": 0,
+		"description": "Conspiracy to Commit Hostage Taking; Hostage Taking",
+		"weight_min": 150,
+		"height_min": 67,
+		"path": "/wanted/additional/vitelhomme-innocent",
+		"occupations": null,
+		"modified": "2023-02-23T00:07:05+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent/innocentfrench.pdf/@@download/file/InnocentFrench.pdf",
+				"name": "EN FRAN\u00c7AIS"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent/vitelhomme_innocent-haitian_creole.pdf/@@download/file/Vitelhomme_Innocent.Haitian_Creole.pdf",
+				"name": "Nan Krey\u00f2l Ayisyen"
+			}
+		],
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+		"legat_names": null,
+		"caution": "<p>Vitel'Homme Innocent, as leader of the gang Kraze Barye, allegedly worked together with the gang 400 Mawozo, in the October 2021, kidnapping of 17 Christian Missionaries in Haiti, including five children, one as young as 8 months old. The hostages were allegedly held at gunpoint and most remained captive for 61 days. The gangs demanded ransom payment for each of the victims.</p>\r\n<p>Vitel'Homme Innocent was charged with Conspiracy to Commit Hostage Taking and Hostage Taking by an indictment filed in the United States District Court for the District of Columbia.</p>",
+		"dates_of_birth_used": [
+			"March 27, 1986"
+		],
+		"scars_and_marks": null,
+		"race": "black",
+		"weight": "150 pounds",
+		"remarks": "<p>Innocent has ties to or may travel to the Dominican Republic.</p>",
+		"ncic": null,
+		"title": "VITEL'HOMME INNOCENT",
+		"height_max": 70,
+		"place_of_birth": "Haiti",
+		"coordinates": [],
+		"hair": "black",
+		"eyes": "brown",
+		"hair_raw": "Black",
+		"publication": "2022-11-03T10:49:00",
+		"field_offices": [
+			"miami"
+		],
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"Additional Violent Crimes"
+		],
+		"nationality": "Haitian",
+		"url": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/b245f0981bf14d35ae94488dfc612cea"
+	},
+	{
+		"age_min": null,
 		"weight_max": 190,
 		"person_classification": "Main",
 		"race_raw": "White",
@@ -24897,87 +24978,6 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/59bbe6e57c044de28ae0943b8bd0c53e"
-	},
-	{
-		"age_min": null,
-		"weight_max": 150,
-		"person_classification": "Main",
-		"race_raw": "Black",
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": "The United States Department of State\u2019s Transnational Organized Crime Rewards Program is offering a reward of up to $1 million United States dollars for information leading to the arrest and/or conviction of Vitel'Homme Innocent.",
-		"uid": "b245f0981bf14d35ae94488dfc612cea",
-		"reward_max": 0,
-		"sex": "Male",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent/@@images/image",
-				"large": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Brown",
-		"details": null,
-		"reward_min": 0,
-		"description": "Conspiracy to Commit Hostage Taking; Hostage Taking",
-		"weight_min": 150,
-		"height_min": 67,
-		"path": "/wanted/additional/vitelhomme-innocent",
-		"occupations": null,
-		"modified": "2023-02-23T00:07:05+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent/innocentfrench.pdf/@@download/file/InnocentFrench.pdf",
-				"name": "EN FRAN\u00c7AIS"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent/vitelhomme_innocent-haitian_creole.pdf/@@download/file/Vitelhomme_Innocent.Haitian_Creole.pdf",
-				"name": "Nan Krey\u00f2l Ayisyen"
-			}
-		],
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
-		"legat_names": null,
-		"caution": "<p>Vitel'Homme Innocent, as leader of the gang Kraze Barye, allegedly worked together with the gang 400 Mawozo, in the October 2021, kidnapping of 17 Christian Missionaries in Haiti, including five children, one as young as 8 months old. The hostages were allegedly held at gunpoint and most remained captive for 61 days. The gangs demanded ransom payment for each of the victims.</p>\r\n<p>Vitel'Homme Innocent was charged with Conspiracy to Commit Hostage Taking and Hostage Taking by an indictment filed in the United States District Court for the District of Columbia.</p>",
-		"dates_of_birth_used": [
-			"March 27, 1986"
-		],
-		"scars_and_marks": null,
-		"race": "black",
-		"weight": "150 pounds",
-		"remarks": "<p>Innocent has ties to or may travel to the Dominican Republic.</p>",
-		"ncic": null,
-		"title": "VITEL'HOMME INNOCENT",
-		"height_max": 70,
-		"place_of_birth": "Haiti",
-		"coordinates": [],
-		"hair": "black",
-		"eyes": "brown",
-		"hair_raw": "Black",
-		"publication": "2022-11-03T10:49:00",
-		"field_offices": [
-			"miami"
-		],
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"Additional Violent Crimes"
-		],
-		"nationality": "Haitian",
-		"url": "https://www.fbi.gov/wanted/additional/vitelhomme-innocent",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/b245f0981bf14d35ae94488dfc612cea"
 	},
 	{
 		"age_min": null,
@@ -32861,75 +32861,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/d8dbfb13df06c0a1bdca01b9421a0d3e"
 	},
 	{
-		"age_min": 40,
-		"weight_max": 170,
-		"person_classification": "Victim",
-		"race_raw": "White",
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": null,
-		"uid": "9906c881929d0193fe3acda8adf829dc",
-		"reward_max": 0,
-		"sex": "Female",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-5/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-5/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-5/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Light blue",
-		"details": "<p>On January 11, 2004, at approximately 11:30pm, this victim was last seen walking along the 1400 Block of State Highway 5 in Melissa (Collin County), Texas. The victim was wearing dark-colored clothing and she was walking along an unlighted portion of the Highway when she attempted to cross the road in front of an on-coming vehicle. The victim was struck and killed by the passing vehicle. No charges have been filed against the driver of the vehicle; however, this white female victim remains unidentified to date.</p>",
-		"reward_min": 0,
-		"description": "Melissa, Texas\r\nJanuary 11, 2004",
-		"weight_min": 155,
-		"height_min": 63,
-		"path": "/wanted/vicap/unidentified-persons/jane-doe-5",
-		"occupations": null,
-		"modified": "2023-02-23T00:05:45+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-5/melissatx2.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": null,
-		"scars_and_marks": "Missing all upper teeth, single lower tooth\r\nFourth toes are shortened and webbed",
-		"race": "white",
-		"weight": "155 to 170 pounds",
-		"remarks": "<p>The victim was wearing blue jeans, white tennis shoes, a dark-colored jacket and sweater over a blue T-shirt which has the inscription \u201cJefferson Missouri 2001 Final Four State Championship, Columbia, Missouri\u201d. The inscription refers to a basketball tournament.</p>",
-		"ncic": null,
-		"title": "JANE DOE - MELISSA, TEXAS",
-		"height_max": 65,
-		"place_of_birth": null,
-		"coordinates": [],
-		"hair": "gray",
-		"eyes": "blue",
-		"hair_raw": "Short \u201csalt and pepper\u201d gray",
-		"publication": "2010-10-26T14:35:00",
-		"field_offices": null,
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"ViCAP Unidentified Persons"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-5",
-		"locations": null,
-		"age_range": "40 to 60 years old",
-		"age_max": 60,
-		"@id": "https://api.fbi.gov/@wanted-person/9906c881929d0193fe3acda8adf829dc"
-	},
-	{
 		"age_min": 60,
 		"weight_max": 150,
 		"person_classification": "Victim",
@@ -32997,6 +32928,75 @@
 		"age_range": "Over 60",
 		"age_max": 60,
 		"@id": "https://api.fbi.gov/@wanted-person/f017067bf167647eaf81e10f5ae46d01"
+	},
+	{
+		"age_min": 40,
+		"weight_max": 170,
+		"person_classification": "Victim",
+		"race_raw": "White",
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": null,
+		"uid": "9906c881929d0193fe3acda8adf829dc",
+		"reward_max": 0,
+		"sex": "Female",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-5/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-5/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-5/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Light blue",
+		"details": "<p>On January 11, 2004, at approximately 11:30pm, this victim was last seen walking along the 1400 Block of State Highway 5 in Melissa (Collin County), Texas. The victim was wearing dark-colored clothing and she was walking along an unlighted portion of the Highway when she attempted to cross the road in front of an on-coming vehicle. The victim was struck and killed by the passing vehicle. No charges have been filed against the driver of the vehicle; however, this white female victim remains unidentified to date.</p>",
+		"reward_min": 0,
+		"description": "Melissa, Texas\r\nJanuary 11, 2004",
+		"weight_min": 155,
+		"height_min": 63,
+		"path": "/wanted/vicap/unidentified-persons/jane-doe-5",
+		"occupations": null,
+		"modified": "2023-02-23T00:05:45+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-5/melissatx2.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": null,
+		"scars_and_marks": "Missing all upper teeth, single lower tooth\r\nFourth toes are shortened and webbed",
+		"race": "white",
+		"weight": "155 to 170 pounds",
+		"remarks": "<p>The victim was wearing blue jeans, white tennis shoes, a dark-colored jacket and sweater over a blue T-shirt which has the inscription \u201cJefferson Missouri 2001 Final Four State Championship, Columbia, Missouri\u201d. The inscription refers to a basketball tournament.</p>",
+		"ncic": null,
+		"title": "JANE DOE - MELISSA, TEXAS",
+		"height_max": 65,
+		"place_of_birth": null,
+		"coordinates": [],
+		"hair": "gray",
+		"eyes": "blue",
+		"hair_raw": "Short \u201csalt and pepper\u201d gray",
+		"publication": "2010-10-26T14:35:00",
+		"field_offices": null,
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"ViCAP Unidentified Persons"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-5",
+		"locations": null,
+		"age_range": "40 to 60 years old",
+		"age_max": 60,
+		"@id": "https://api.fbi.gov/@wanted-person/9906c881929d0193fe3acda8adf829dc"
 	},
 	{
 		"age_min": 30,
@@ -33589,6 +33589,75 @@
 		"@id": "https://api.fbi.gov/@wanted-person/7b1421ed820c9c6f039cc85bc412e7ac"
 	},
 	{
+		"age_min": 23,
+		"weight_max": null,
+		"person_classification": "Victim",
+		"race_raw": "White",
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": null,
+		"uid": "fb0dcbe8ccbe9e2516c99f0214486f98",
+		"reward_max": 0,
+		"sex": "Female",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-28/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-28/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-28/@@images/image/large"
+			}
+		],
+		"eyes_raw": null,
+		"details": "<p>Details of Recovery: This unidentified female was recovered on an unused logging road in the woods at the end of Kilton Road, near Bedford, New Hampshire. Kilton Road has since been extended and is an on-ramp to Route 101 West, near Interstate 293. The victim was at this scene for up to three months prior to discovery.</p>",
+		"reward_min": 0,
+		"description": "Bedford, New Hampshire\r\nOctober 6, 1971",
+		"weight_min": null,
+		"height_min": 63,
+		"path": "/wanted/vicap/unidentified-persons/jane-doe-28",
+		"occupations": null,
+		"modified": "2023-02-23T00:05:41+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-nh-updated",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": null,
+		"scars_and_marks": null,
+		"race": "white",
+		"weight": null,
+		"remarks": "<p>Clothing/Belongings: Wearing cut off blue jeans (waist 32\u201d), red pullover blouse, brown leather sandals size 7, underwire bra size 34C, underwear size 6.</p>",
+		"ncic": null,
+		"title": "JANE DOE - BEDFORD, NEW HAMPSHIRE",
+		"height_max": 63,
+		"place_of_birth": null,
+		"coordinates": [],
+		"hair": "brown",
+		"eyes": null,
+		"hair_raw": "Possibly Brown",
+		"publication": "2011-12-05T12:00:00",
+		"field_offices": null,
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"ViCAP Unidentified Persons"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-28",
+		"locations": null,
+		"age_range": "23 to 37 years old",
+		"age_max": 37,
+		"@id": "https://api.fbi.gov/@wanted-person/fb0dcbe8ccbe9e2516c99f0214486f98"
+	},
+	{
 		"age_min": null,
 		"weight_max": null,
 		"person_classification": "Main",
@@ -33668,75 +33737,6 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/4a780d78434241c487a53901ee8b8704"
-	},
-	{
-		"age_min": 23,
-		"weight_max": null,
-		"person_classification": "Victim",
-		"race_raw": "White",
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": null,
-		"uid": "fb0dcbe8ccbe9e2516c99f0214486f98",
-		"reward_max": 0,
-		"sex": "Female",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-28/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-28/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-28/@@images/image/large"
-			}
-		],
-		"eyes_raw": null,
-		"details": "<p>Details of Recovery: This unidentified female was recovered on an unused logging road in the woods at the end of Kilton Road, near Bedford, New Hampshire. Kilton Road has since been extended and is an on-ramp to Route 101 West, near Interstate 293. The victim was at this scene for up to three months prior to discovery.</p>",
-		"reward_min": 0,
-		"description": "Bedford, New Hampshire\r\nOctober 6, 1971",
-		"weight_min": null,
-		"height_min": 63,
-		"path": "/wanted/vicap/unidentified-persons/jane-doe-28",
-		"occupations": null,
-		"modified": "2023-02-23T00:05:41+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-nh-updated",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": null,
-		"scars_and_marks": null,
-		"race": "white",
-		"weight": null,
-		"remarks": "<p>Clothing/Belongings: Wearing cut off blue jeans (waist 32\u201d), red pullover blouse, brown leather sandals size 7, underwire bra size 34C, underwear size 6.</p>",
-		"ncic": null,
-		"title": "JANE DOE - BEDFORD, NEW HAMPSHIRE",
-		"height_max": 63,
-		"place_of_birth": null,
-		"coordinates": [],
-		"hair": "brown",
-		"eyes": null,
-		"hair_raw": "Possibly Brown",
-		"publication": "2011-12-05T12:00:00",
-		"field_offices": null,
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"ViCAP Unidentified Persons"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe-28",
-		"locations": null,
-		"age_range": "23 to 37 years old",
-		"age_max": 37,
-		"@id": "https://api.fbi.gov/@wanted-person/fb0dcbe8ccbe9e2516c99f0214486f98"
 	},
 	{
 		"age_min": null,
@@ -35761,6 +35761,83 @@
 		"@id": "https://api.fbi.gov/@wanted-person/06d2cc402ddc4dc18790dccaaafc905c"
 	},
 	{
+		"age_min": null,
+		"weight_max": null,
+		"person_classification": "Main",
+		"race_raw": null,
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": "The FBI is offering a reward of up to $15,000 for information leading to the arrest and conviction of the individual(s) responsible for the murder of Ja'Mere Malik Brown.",
+		"uid": "aab56d9dbbc44e71a2176b69ae95c9fd",
+		"reward_max": 0,
+		"sex": null,
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/brownj2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/brownj2.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/brownj2.jpg/@@images/image/large"
+			}
+		],
+		"eyes_raw": null,
+		"details": "<p>On December 31, 2020, at approximately 10:30 p.m., police officers responded to reports of a shooting at NE Alberta Street and Mallory Avenue in Portland, Oregon.\u00a0 They found two victims.\u00a0 One victim, Ja'mere Malik Brown, age 18, died as a result of his injuries.\u00a0 The second victim survived.\u00a0 Through investigative efforts, officers learned that the shooting actually occurred about one mile away, in the area of NE Durham Avenue and Madrona Street.</p>\r\n<p>\u00a0</p>",
+		"reward_min": 0,
+		"description": "Homicide Victim\r\nPortland, Oregon\r\nDecember 31, 2020",
+		"weight_min": null,
+		"height_min": null,
+		"path": "/wanted/seeking-info/jamere-malik-brown",
+		"occupations": null,
+		"modified": "2023-02-23T00:05:30+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/download.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": null,
+		"scars_and_marks": null,
+		"race": null,
+		"weight": null,
+		"remarks": null,
+		"ncic": null,
+		"title": "JA'MERE MALIK BROWN",
+		"height_max": null,
+		"place_of_birth": null,
+		"coordinates": [],
+		"hair": null,
+		"eyes": null,
+		"hair_raw": null,
+		"publication": "2022-03-09T08:33:00",
+		"field_offices": [
+			"portland"
+		],
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"Seeking Information"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/aab56d9dbbc44e71a2176b69ae95c9fd"
+	},
+	{
 		"age_min": 19,
 		"weight_max": 122,
 		"person_classification": "Main",
@@ -35842,83 +35919,6 @@
 		"age_range": "19 years old (at time of disappearance)",
 		"age_max": 19,
 		"@id": "https://api.fbi.gov/@wanted-person/842b1afb5c8c4264a70d60df01dc4516"
-	},
-	{
-		"age_min": null,
-		"weight_max": null,
-		"person_classification": "Main",
-		"race_raw": null,
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": "The FBI is offering a reward of up to $15,000 for information leading to the arrest and conviction of the individual(s) responsible for the murder of Ja'Mere Malik Brown.",
-		"uid": "aab56d9dbbc44e71a2176b69ae95c9fd",
-		"reward_max": 0,
-		"sex": null,
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/brownj2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/brownj2.jpg",
-				"large": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/brownj2.jpg/@@images/image/large"
-			}
-		],
-		"eyes_raw": null,
-		"details": "<p>On December 31, 2020, at approximately 10:30 p.m., police officers responded to reports of a shooting at NE Alberta Street and Mallory Avenue in Portland, Oregon.\u00a0 They found two victims.\u00a0 One victim, Ja'mere Malik Brown, age 18, died as a result of his injuries.\u00a0 The second victim survived.\u00a0 Through investigative efforts, officers learned that the shooting actually occurred about one mile away, in the area of NE Durham Avenue and Madrona Street.</p>\r\n<p>\u00a0</p>",
-		"reward_min": 0,
-		"description": "Homicide Victim\r\nPortland, Oregon\r\nDecember 31, 2020",
-		"weight_min": null,
-		"height_min": null,
-		"path": "/wanted/seeking-info/jamere-malik-brown",
-		"occupations": null,
-		"modified": "2023-02-23T00:05:30+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown/download.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": null,
-		"scars_and_marks": null,
-		"race": null,
-		"weight": null,
-		"remarks": null,
-		"ncic": null,
-		"title": "JA'MERE MALIK BROWN",
-		"height_max": null,
-		"place_of_birth": null,
-		"coordinates": [],
-		"hair": null,
-		"eyes": null,
-		"hair_raw": null,
-		"publication": "2022-03-09T08:33:00",
-		"field_offices": [
-			"portland"
-		],
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"Seeking Information"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/jamere-malik-brown",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/aab56d9dbbc44e71a2176b69ae95c9fd"
 	},
 	{
 		"age_min": null,
@@ -36558,81 +36558,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/1ef8c82476104195911bddfb99d4359c"
 	},
 	{
-		"age_min": null,
-		"weight_max": 155,
-		"person_classification": "Victim",
-		"race_raw": "White",
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the identification, arrest and conviction of the individual(s) responsible for the disappearance of Crystal Rogers.",
-		"uid": "ee327febf7294b2a9fb5a3fce7ee7d6c",
-		"reward_max": 0,
-		"sex": "Female",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/kidnap/crystal-rogers/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/crystal-rogers/@@images/image",
-				"large": "https://www.fbi.gov/wanted/kidnap/crystal-rogers/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Blue",
-		"details": "<p>On July 5, 2015, Crystal Rogers was reported missing by her mother, after she had not been seen or heard from since the evening of July 3, 2015. The same day Rogers was reported missing, her car was found abandoned with a flat tire at mile marker 14 on the Bluegrass Parkway in Bardstown, Kentucky. Rogers' keys, phone, and purse were still inside her red Chevrolet Impala. Rogers is the mother of five children and is not known to go anywhere without her children.\u00a0</p>\r\n<p>\u00a0</p>\r\n<p>On November 19, 2016, Rogers' father <a href=\"https://www.fbi.gov/wanted/seeking-info/tommy-ballard\" data-val=\"https://www.fbi.gov/wanted/seeking-info/tommy-ballard\" data-linktype=\"external\" data-urltype=\"/view\">Tommy Ballard</a> was shot and killed on family property near Bluegrass Parkway in Bardstown, Kentucky.</p>\r\n<p>\u00a0</p>",
-		"reward_min": 0,
-		"description": "Bardstown, Kentucky\r\nJuly 3, 2015",
-		"weight_min": 155,
-		"height_min": 69,
-		"path": "/wanted/kidnap/crystal-rogers",
-		"occupations": null,
-		"modified": "2023-02-23T00:05:26+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/crystal-rogers/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/crystal-rogers/crystal-rogers-spanish-final.pdf/@@download/file/crystal-rogers.Spanish.final.pdf",
-				"name": "EN ESPA\u00d1OL"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": null,
-		"scars_and_marks": "Rogers has tattoos on the center of her back, lower back, ankle, and left foot.",
-		"race": "white",
-		"weight": "155 pounds",
-		"remarks": null,
-		"ncic": null,
-		"title": "CRYSTAL ROGERS",
-		"height_max": 69,
-		"place_of_birth": null,
-		"coordinates": [],
-		"hair": "blond",
-		"eyes": "blue",
-		"hair_raw": "Blonde",
-		"publication": "2020-08-03T06:19:00",
-		"field_offices": [
-			"louisville"
-		],
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"Kidnappings and Missing Persons"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/kidnap/crystal-rogers",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/ee327febf7294b2a9fb5a3fce7ee7d6c"
-	},
-	{
 		"age_min": 26,
 		"weight_max": 170,
 		"person_classification": "Main",
@@ -36718,6 +36643,81 @@
 		"age_range": "26 years old (at time of disappearance)",
 		"age_max": 26,
 		"@id": "https://api.fbi.gov/@wanted-person/cdda529025b648ffa416d0c6ed68a9ed"
+	},
+	{
+		"age_min": null,
+		"weight_max": 155,
+		"person_classification": "Victim",
+		"race_raw": "White",
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the identification, arrest and conviction of the individual(s) responsible for the disappearance of Crystal Rogers.",
+		"uid": "ee327febf7294b2a9fb5a3fce7ee7d6c",
+		"reward_max": 0,
+		"sex": "Female",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/kidnap/crystal-rogers/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/crystal-rogers/@@images/image",
+				"large": "https://www.fbi.gov/wanted/kidnap/crystal-rogers/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Blue",
+		"details": "<p>On July 5, 2015, Crystal Rogers was reported missing by her mother, after she had not been seen or heard from since the evening of July 3, 2015. The same day Rogers was reported missing, her car was found abandoned with a flat tire at mile marker 14 on the Bluegrass Parkway in Bardstown, Kentucky. Rogers' keys, phone, and purse were still inside her red Chevrolet Impala. Rogers is the mother of five children and is not known to go anywhere without her children.\u00a0</p>\r\n<p>\u00a0</p>\r\n<p>On November 19, 2016, Rogers' father <a href=\"https://www.fbi.gov/wanted/seeking-info/tommy-ballard\" data-val=\"https://www.fbi.gov/wanted/seeking-info/tommy-ballard\" data-linktype=\"external\" data-urltype=\"/view\">Tommy Ballard</a> was shot and killed on family property near Bluegrass Parkway in Bardstown, Kentucky.</p>\r\n<p>\u00a0</p>",
+		"reward_min": 0,
+		"description": "Bardstown, Kentucky\r\nJuly 3, 2015",
+		"weight_min": 155,
+		"height_min": 69,
+		"path": "/wanted/kidnap/crystal-rogers",
+		"occupations": null,
+		"modified": "2023-02-23T00:05:26+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/crystal-rogers/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/crystal-rogers/crystal-rogers-spanish-final.pdf/@@download/file/crystal-rogers.Spanish.final.pdf",
+				"name": "EN ESPA\u00d1OL"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": null,
+		"scars_and_marks": "Rogers has tattoos on the center of her back, lower back, ankle, and left foot.",
+		"race": "white",
+		"weight": "155 pounds",
+		"remarks": null,
+		"ncic": null,
+		"title": "CRYSTAL ROGERS",
+		"height_max": 69,
+		"place_of_birth": null,
+		"coordinates": [],
+		"hair": "blond",
+		"eyes": "blue",
+		"hair_raw": "Blonde",
+		"publication": "2020-08-03T06:19:00",
+		"field_offices": [
+			"louisville"
+		],
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"Kidnappings and Missing Persons"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/kidnap/crystal-rogers",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/ee327febf7294b2a9fb5a3fce7ee7d6c"
 	},
 	{
 		"age_min": null,
@@ -38750,108 +38750,78 @@
 		"race_raw": null,
 		"suspects": null,
 		"possible_countries": null,
-		"reward_text": null,
-		"uid": "4756cd08191a478f81bd382777d21d2d",
+		"reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest and conviction of the individual(s) responsible for the murders of Sherry Ann Culp and her baby daughter, Kelsey.",
+		"uid": "849f8ab989734b10a289258b08fb2795",
 		"reward_max": 0,
 		"sex": null,
 		"build": null,
 		"status": "na",
 		"images": [
 			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/@@images/image",
-				"large": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/@@images/image/large"
+				"caption": "Sherry Ann Culp",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/@@images/image/large"
 			},
 			{
-				"caption": "Gholamreza Rafatnejad",
-				"thumb": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/rafatnejad.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/rafatnejad.jpg",
-				"large": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/rafatnejad.jpg/@@images/image/large"
+				"caption": "Sherry Ann Culp",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/culp2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/culp2.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/culp2.jpg/@@images/image/large"
 			},
 			{
-				"caption": "Ehsan Mohammadi",
-				"thumb": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/mohammadi.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/mohammadi.jpg",
-				"large": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/mohammadi.jpg/@@images/image/large"
+				"caption": "Kelsey",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/culp3.png/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/culp3.png",
+				"large": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/culp3.png/@@images/image/large"
 			},
 			{
-				"caption": "Seyed Ali Mirkarimi",
-				"thumb": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/mirkarimi.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/mirkarimi.jpg",
-				"large": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/mirkarimi.jpg/@@images/image/large"
+				"caption": "Culp's Car",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/culp4.png/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/culp4.png",
+				"large": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/culp4.png/@@images/image/large"
 			},
 			{
-				"caption": "Abdollah Karima",
-				"thumb": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/karima.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/karima.jpg",
-				"large": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/karima.jpg/@@images/image/large"
-			},
-			{
-				"caption": "Mostafa Sadeghi",
-				"thumb": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/sadeghi.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/sadeghi.jpg",
-				"large": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/sadeghi.jpg/@@images/image/large"
-			},
-			{
-				"caption": "Sajjad Tahmasebi",
-				"thumb": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/tahmasebi.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/tahmasebi.jpg",
-				"large": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/tahmasebi.jpg/@@images/image/large"
-			},
-			{
-				"caption": "Mohammed Reza Sabahi",
-				"thumb": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/sabahim.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/sabahim.jpg",
-				"large": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/sabahim.jpg/@@images/image/large"
-			},
-			{
-				"caption": "Roozbeh Sabahi",
-				"thumb": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/sabahir.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/sabahir.jpg",
-				"large": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/sabahir.jpg/@@images/image/large"
-			},
-			{
-				"caption": "Abuzar Gohari Moqadam",
-				"thumb": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/moqadam.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/moqadam.jpg",
-				"large": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/moqadam.jpg/@@images/image/large"
+				"caption": "Culp's Car",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/culp5.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/culp5.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/culp5.jpg/@@images/image/large"
 			}
 		],
 		"eyes_raw": null,
-		"details": null,
+		"details": "<p>The Federal Bureau of Investigation in Washington, D.C., the Fairfax County Police Department in Virginia, and the United States Attorney's Office for the Eastern District of Virginia are seeking the public's assistance in identifying the unknown individual(s) responsible for the brutal murders of Sherry Ann Culp and her baby daughter, Kelsey, in Springfield, Virginia.\u00a0 On January 16, 1998, at approximately 6 p.m., Sherry Ann Culp, a 36-year-old mother of two who was 8 1/2 months pregnant at the time, was fatally shot at point-blank range with a handgun by an unknown assailant(s) shortly after entering her teal green Honda Civic at the end of her workday.\u00a0 Sherry was flown to Inova Fairfax Hospital where Kelsey was delivered, but only survived for two days.\u00a0 Several witnesses reported hearing gunshots and observing a man running on the sidewalk near the murder scene at Dynatech Court near Cameron Brown Court and Fullerton Road in Newington in Fairfax County.\u00a0 The man wore a dark-colored hooded jumpsuit.\u00a0 Additionally, a suspicious maroon pickup truck was also seen parked in the vicinity where the victim was shot.</p>\r\n<p>\u00a0</p>",
 		"reward_min": 0,
-		"description": "Conspiracy to Commit Computer Intrusions; Conspiracy to Commit Wire Fraud; Computer Fraud\u2013Unauthorized Access for Private Financial Gain; Wire Fraud; Aggravated Identity Theft",
+		"description": "Murder Victim\r\nSpringfield, Virginia\r\nJanuary 16, 1998",
 		"weight_min": null,
 		"height_min": null,
-		"path": "/wanted/cyber/iranian-mabna-hackers",
+		"path": "/wanted/seeking-info/sherry-ann-culp",
 		"occupations": null,
 		"modified": "2023-02-23T00:05:14+00:00",
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers/collage8-5x11.pdf",
+				"url": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp/download.pdf",
 				"name": "English"
 			}
 		],
-		"warning_message": "THESE INDIVIDUALS SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+		"warning_message": null,
 		"legat_names": null,
-		"caution": "<p>On February 7, 2018, a grand jury sitting in the United States District Court for the Southern District of New York, indicted nine Iranian nationals for their alleged involvement in computer intrusion, wire fraud, and aggravated identity theft offenses.\u00a0 As alleged in the indictment, the\u00a0men were involved in a scheme to obtain unauthorized access to computer systems, steal proprietary data from those systems, and sell that stolen data to Iranian customers, including the Iranian government and Iranian universities.\u00a0 Each\u00a0individual was a leader, contractor, associate, hacker for hire, or affiliate of the Mabna Institute, a private government contractor based in the Islamic Republic of Iran that performed this work for the Iranian government, at the behest of the Islamic Revolutionary Guard Corps.\u00a0 Victims of the scheme included approximately 144\u00a0universities in the United States, 176 foreign universities in 21 countries, five federal and state government agencies in the United States, 36\u00a0private companies in the United States, 11 foreign private companies, and two international non-governmental organizations.</p>\r\n<p>\u00a0</p>",
+		"caution": null,
 		"dates_of_birth_used": null,
 		"scars_and_marks": null,
 		"race": null,
 		"weight": null,
 		"remarks": null,
 		"ncic": null,
-		"title": "IRANIAN MABNA HACKERS",
+		"title": "SHERRY ANN CULP",
 		"height_max": null,
 		"place_of_birth": null,
 		"coordinates": [],
 		"hair": null,
 		"eyes": null,
 		"hair_raw": null,
-		"publication": "2018-02-13T08:10:00",
+		"publication": "2023-01-11T12:02:00",
 		"field_offices": [
-			"newyork"
+			"washingtondc"
 		],
 		"complexion": null,
 		"aliases": null,
@@ -38859,14 +38829,14 @@
 		"languages": null,
 		"additional_information": null,
 		"subjects": [
-			"Cyber's Most Wanted"
+			"Seeking Information"
 		],
 		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers",
+		"url": "https://www.fbi.gov/wanted/seeking-info/sherry-ann-culp",
 		"locations": null,
 		"age_range": null,
 		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/4756cd08191a478f81bd382777d21d2d"
+		"@id": "https://api.fbi.gov/@wanted-person/849f8ab989734b10a289258b08fb2795"
 	},
 	{
 		"age_min": null,
@@ -41184,6 +41154,83 @@
 		"weight_max": null,
 		"person_classification": "Main",
 		"race_raw": null,
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the identification, arrest, and conviction of the suspect(s) responsible for this crime.",
+		"uid": "95f1477ec1d34c7196cb15e6b5724b1f",
+		"reward_max": 0,
+		"sex": null,
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": "Unknown Suspect 1",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/@@images/image/large"
+			},
+			{
+				"caption": "Unknown Suspect 2",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/suspect_2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/suspect_2.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/suspect_2.jpg/@@images/image/large"
+			}
+		],
+		"eyes_raw": null,
+		"details": "<p>On March 13, 2022, at approximately 1:00 a.m., two unknown suspects were captured on surveillance video throwing a Molotov cocktail at the front door of a medical building used by Planned Parenthood in Costa Mesa, California.\u00a0<br /><br /></p>\r\n<p>One unknown suspect wore a blue hooded sweatshirt with the hood up, dark-colored pants, a multi-colored facial covering, dark shoes and green gloves. The second unknown suspect\u00a0wore a black hooded sweatshirt with the hood up, jeans, a dark-colored facial covering, black shoes with white trim and dark-colored gloves.</p>\r\n<p>\u00a0</p>",
+		"reward_min": 0,
+		"description": "Costa Mesa, California\r\nMarch 13, 2022",
+		"weight_min": null,
+		"height_min": null,
+		"path": "/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device",
+		"occupations": null,
+		"modified": "2023-02-23T00:05:03+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/download.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": null,
+		"scars_and_marks": null,
+		"race": null,
+		"weight": null,
+		"remarks": null,
+		"ncic": null,
+		"title": "UNKNOWN SUSPECTS - POSSESSION OF A DESTRUCTIVE DEVICE",
+		"height_max": null,
+		"place_of_birth": null,
+		"coordinates": [],
+		"hair": null,
+		"eyes": null,
+		"hair_raw": null,
+		"publication": "2022-10-07T09:07:00",
+		"field_offices": [
+			"losangeles"
+		],
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"Seeking Information"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/95f1477ec1d34c7196cb15e6b5724b1f"
+	},
+	{
+		"age_min": null,
+		"weight_max": null,
+		"person_classification": "Main",
+		"race_raw": null,
 		"suspects": "<p>Suspect #1 is described as a White female between 5'8\" and 5'10\", weighing approximately 120 pounds, with dirty blonde/purple hair. Her eye color is unknown.</p>\r\n<p>Suspect #2 is described as a Black person between 5'5\" and 5'7\", weighing approximately 120 \u00a0pounds. The hair and eye color are unknown.</p>\r\n<p>\u00a0</p>",
 		"possible_countries": null,
 		"reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the identification, arrest, and conviction of the person(s) responsible for this crime.",
@@ -41273,83 +41320,6 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/241eb5a3a3da4308b7031dcc7931c2ad"
-	},
-	{
-		"age_min": null,
-		"weight_max": null,
-		"person_classification": "Main",
-		"race_raw": null,
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the identification, arrest, and conviction of the suspect(s) responsible for this crime.",
-		"uid": "95f1477ec1d34c7196cb15e6b5724b1f",
-		"reward_max": 0,
-		"sex": null,
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": "Unknown Suspect 1",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/@@images/image/large"
-			},
-			{
-				"caption": "Unknown Suspect 2",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/suspect_2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/suspect_2.jpg",
-				"large": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/suspect_2.jpg/@@images/image/large"
-			}
-		],
-		"eyes_raw": null,
-		"details": "<p>On March 13, 2022, at approximately 1:00 a.m., two unknown suspects were captured on surveillance video throwing a Molotov cocktail at the front door of a medical building used by Planned Parenthood in Costa Mesa, California.\u00a0<br /><br /></p>\r\n<p>One unknown suspect wore a blue hooded sweatshirt with the hood up, dark-colored pants, a multi-colored facial covering, dark shoes and green gloves. The second unknown suspect\u00a0wore a black hooded sweatshirt with the hood up, jeans, a dark-colored facial covering, black shoes with white trim and dark-colored gloves.</p>\r\n<p>\u00a0</p>",
-		"reward_min": 0,
-		"description": "Costa Mesa, California\r\nMarch 13, 2022",
-		"weight_min": null,
-		"height_min": null,
-		"path": "/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device",
-		"occupations": null,
-		"modified": "2023-02-23T00:05:03+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device/download.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": null,
-		"scars_and_marks": null,
-		"race": null,
-		"weight": null,
-		"remarks": null,
-		"ncic": null,
-		"title": "UNKNOWN SUSPECTS - POSSESSION OF A DESTRUCTIVE DEVICE",
-		"height_max": null,
-		"place_of_birth": null,
-		"coordinates": [],
-		"hair": null,
-		"eyes": null,
-		"hair_raw": null,
-		"publication": "2022-10-07T09:07:00",
-		"field_offices": [
-			"losangeles"
-		],
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"Seeking Information"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/unknown-suspects---possession-of-a-destructive-device",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/95f1477ec1d34c7196cb15e6b5724b1f"
 	},
 	{
 		"age_min": null,
@@ -42205,94 +42175,86 @@
 	},
 	{
 		"age_min": null,
-		"weight_max": 110,
-		"person_classification": "Victim",
-		"race_raw": "White",
+		"weight_max": 165,
+		"person_classification": "Main",
+		"race_raw": "Asian",
 		"suspects": null,
 		"possible_countries": null,
-		"reward_text": "The FBI is offering a reward of up to $5,000 for information that leads to the location of Karlie Lain Gus\u00e9.",
-		"uid": "29cc5b484ecd417c94e76d49252bd7ba",
+		"reward_text": null,
+		"uid": "646f7e1f7c26487db6857a9a07f663af",
 		"reward_max": 0,
-		"sex": "Female",
+		"sex": "Male",
 		"build": null,
 		"status": "na",
 		"images": [
 			{
 				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse/@@images/image",
-				"large": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse/guse2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse/guse2.jpg",
-				"large": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse/guse2.jpg/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse/guse3.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse/guse3.jpg",
-				"large": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse/guse3.jpg/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse/guse4.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse/guse4.jpg",
-				"large": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse/guse4.jpg/@@images/image/large"
+				"thumb": "https://www.fbi.gov/wanted/human-trafficking/apollo-carreon-quiboloy/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/human-trafficking/apollo-carreon-quiboloy/@@images/image",
+				"large": "https://www.fbi.gov/wanted/human-trafficking/apollo-carreon-quiboloy/@@images/image/large"
 			}
 		],
-		"eyes_raw": "Blue",
-		"details": "<p>Karlie Lain Gus\u00e9, a\u00a0then 16-year-old female, was reported missing by her family on the morning of October 13, 2018. \u00a0Karlie was seen by her family at their residence in the White Mountain Estates area of Chalfant Valley in Mono County, California, during the pre-dawn hours of October 13, 2018.\u00a0 At some time during the early morning, Karlie left the family residence while likely wearing gray sweatpants or jeans, a white t-shirt, and Vans brand shoes.\u00a0 Karlie left her personal belongings behind at the residence including her mobile phone.</p>\r\n<p>Karlie was last seen by witnesses walking south approximately 30 yards east of Highway 6 and 100 yards south of Sierra View Road on the morning of October 13, 2018. \u00a0A thorough search of the area and subsequent investigation has been unsuccessful in locating Karlie and she has not been in contact with family or friends since she went missing.</p>\r\n<p>The Mono County Sheriff's Office and the FBI continue to seek information that will assist in locating Karlie.<br /><br /></p>\r\n<p><strong>The Things They Carry Video Series</strong></p>\r\n<ul>\r\n<li><a href=\"https://www.youtube.com/watch?v=JRxjb2fjpsM\" data-val=\"https://www.youtube.com/watch?v=JRxjb2fjpsM\" data-linktype=\"external\" data-urltype=\"/view\">Zach Gus\u00e9: My Whole Body and Soul</a></li>\r\n<li><a href=\"https://youtu.be/H-hcXObjNnE\" data-val=\"https://youtu.be/H-hcXObjNnE\" data-linktype=\"external\" data-urltype=\"/view\">Melissa Gus\u00e9: Your Mind Wanders</a></li>\r\n<li><a href=\"https://youtu.be/Y_Sj4HYWGIE\" data-val=\"https://youtu.be/Y_Sj4HYWGIE\" data-linktype=\"external\" data-urltype=\"/view\">Richard Eddy: Witness</a></li>\r\n<li><a href=\"https://www.youtube.com/watch?v=Ng9aaHzbLTM\" data-val=\"https://www.youtube.com/watch?v=Ng9aaHzbLTM\" data-linktype=\"external\" data-urltype=\"/view\">Brad Bilderback: Somebody Knows Something</a></li>\r\n<li><a href=\"https://www.fbi.gov/video-repository/5-sc-guse-seeking-dave-kaulk100720.mp4/view\" data-val=\"1f210bcaef09484293088e433799b557\" data-linktype=\"internal\" data-urltype=\"/view\">David Kaulk: We May Never See Her Again</a></li>\r\n<li><a href=\"https://www.youtube.com/watch?v=F-PYj_REAlY&amp;t=4s\" data-val=\"https://www.youtube.com/watch?v=F-PYj_REAlY&amp;t=4s\" data-linktype=\"external\" data-urltype=\"/view\">Zach Gus\u00e9: I Lost My Mind</a></li>\r\n<li><a href=\"https://www.youtube.com/watch?v=mVmwLWyvZPg&amp;t=1s\" data-val=\"https://www.youtube.com/watch?v=mVmwLWyvZPg&amp;t=1s\" data-linktype=\"external\" data-urltype=\"/view\">Melissa Gus\u00e9: Damaged Family</a></li>\r\n<li><a href=\"https://www.youtube.com/watch?v=l5Gus18kgrc&amp;t=2s\" data-val=\"https://www.youtube.com/watch?v=l5Gus18kgrc&amp;t=2s\" data-linktype=\"external\" data-urltype=\"/view\">Kole Gus\u00e9: She's Probably Dead</a></li>\r\n<li><a href=\"https://www.youtube.com/watch?v=Dg_RA77HiRI&amp;t=2s\" data-val=\"https://www.youtube.com/watch?v=Dg_RA77HiRI&amp;t=2s\" data-linktype=\"external\" data-urltype=\"/view\">Ashley Forbes: Nobody in Town Goes Missing Like This</a></li>\r\n<li><a href=\"https://www.youtube.com/watch?v=paSXaTqlgnc&amp;t=2s\" data-val=\"https://www.youtube.com/watch?v=paSXaTqlgnc&amp;t=2s\" data-linktype=\"external\" data-urltype=\"/view\">Branson Jernigan: It Seems Like People Have Been Forgetting About Her</a></li>\r\n<li><a href=\"https://www.youtube.com/watch?v=c25CQsXTJMY&amp;t=2s\" data-val=\"https://www.youtube.com/watch?v=c25CQsXTJMY&amp;t=2s\" data-linktype=\"external\" data-urltype=\"/view\">Zach Gus\u00e9: I Wanted to Let the Light In</a></li>\r\n<li><a href=\"https://www.youtube.com/watch?v=g1YygRvoYZ4&amp;t=3s\" data-val=\"https://www.youtube.com/watch?v=g1YygRvoYZ4&amp;t=3s\" data-linktype=\"external\" data-urltype=\"/view\">Brent Gillespie: Please Come Forward</a></li>\r\n</ul>\r\n<p>\u00a0</p>",
+		"eyes_raw": "Brown",
+		"details": null,
 		"reward_min": 0,
-		"description": "Mono County, California\r\nOctober 13, 2018",
-		"weight_min": 110,
-		"height_min": 67,
-		"path": "/wanted/kidnap/karlie-lain-guse",
+		"description": "Conspiracy to Engage in Sex Trafficking by Force, Fraud and Coercion, and Sex Trafficking of Children; Sex Trafficking by Force, Fraud, and Coercion; Conspiracy; Bulk Cash Smuggling",
+		"weight_min": 165,
+		"height_min": 66,
+		"path": "/wanted/human-trafficking/apollo-carreon-quiboloy",
 		"occupations": null,
 		"modified": "2023-02-23T00:04:58+00:00",
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse/download.pdf",
+				"url": "https://www.fbi.gov/wanted/human-trafficking/apollo-carreon-quiboloy/download.pdf",
 				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/human-trafficking/apollo-carreon-quiboloy/quiboloy-tagalog-1.pdf/@@download/file/quiboloy.Tagalog.pdf",
+				"name": "Sa tagalog"
 			}
 		],
 		"warning_message": null,
 		"legat_names": null,
-		"caution": null,
+		"caution": "<p>Apollo Carreon\u00a0Quiboloy, the founder of a Philippines-based church,\u00a0is\u00a0wanted for\u00a0his alleged\u00a0participation\u00a0in a\u00a0labor\u00a0trafficking scheme that\u00a0brought church members to the United States, via fraudulently obtained visas, and forced the members to solicit donations for a bogus charity,\u00a0donations that\u00a0actually were\u00a0used to finance church operations and the lavish lifestyles of its leaders. Members who proved successful at soliciting for the\u00a0church\u00a0allegedly were forced to\u00a0enter into\u00a0sham marriages or obtain fraudulent student visas to continue soliciting in the United States year-round.\u00a0</p>\r\n<p>Furthermore, it is alleged\u00a0that\u00a0females\u00a0were recruited\u00a0to work as personal assistants, or \u201cpastorals,\u201d for\u00a0Quiboloy\u00a0and that\u00a0victims prepared his meals, cleaned his residences, gave him massages and were required to have sex with\u00a0Quiboloy\u00a0in what the pastorals called \u201cnight duty.\u201d\u00a0</p>\r\n<p>Quiboloy\u00a0was indicted by a federal grand jury in the United States\u00a0District\u00a0Court for the Central District of California, Santa Ana, California, for conspiracy to engage in sex trafficking by force, fraud and coercion\u00a0and sex trafficking of children; sex trafficking by force, fraud and coercion; conspiracy; and bulk cash smuggling, and on November 10, 2021, a federal warrant was issued for his arrest.</p>",
 		"dates_of_birth_used": [
-			"May 13, 2002"
+			"April 25, 1947",
+			"April 25, 1950"
 		],
-		"scars_and_marks": "Gus\u00e9 has her left nostril pierced.",
-		"race": "white",
-		"weight": "110 pounds (at time of disappearance)",
-		"remarks": null,
-		"ncic": null,
-		"title": "KARLIE LAIN GUS\u00c9",
-		"height_max": 67,
-		"place_of_birth": null,
+		"scars_and_marks": null,
+		"race": "asian",
+		"weight": "165 pounds",
+		"remarks": "<p>Quiboloy has ties to Calabasas, California, Las Vegas, Nevada, and Kapolei, Hawaii.\u00a0</p>",
+		"ncic": "W025227807",
+		"title": "APOLLO CARREON QUIBOLOY",
+		"height_max": 66,
+		"place_of_birth": "Philippines",
 		"coordinates": [],
-		"hair": "blond",
-		"eyes": "blue",
-		"hair_raw": "Dark Blonde",
-		"publication": "2019-10-07T11:27:00",
+		"hair": "black",
+		"eyes": "brown",
+		"hair_raw": "Black",
+		"publication": "2022-01-31T07:01:00",
 		"field_offices": [
-			"sacramento"
+			"losangeles"
 		],
 		"complexion": null,
-		"aliases": null,
+		"aliases": [
+			"\"The Appointed Son of God\"",
+			"\"Sir\"",
+			"\"Pastor\"",
+			"\"ACQ\""
+		],
 		"possible_states": null,
 		"languages": null,
 		"additional_information": null,
 		"subjects": [
-			"Kidnappings and Missing Persons"
+			"Human Trafficking"
 		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/kidnap/karlie-lain-guse",
+		"nationality": "Filipino",
+		"url": "https://www.fbi.gov/wanted/human-trafficking/apollo-carreon-quiboloy",
 		"locations": null,
 		"age_range": null,
 		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/29cc5b484ecd417c94e76d49252bd7ba"
+		"@id": "https://api.fbi.gov/@wanted-person/646f7e1f7c26487db6857a9a07f663af"
 	},
 	{
 		"age_min": null,
@@ -47138,6 +47100,80 @@
 	},
 	{
 		"age_min": null,
+		"weight_max": 180,
+		"person_classification": "Main",
+		"race_raw": "White",
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": null,
+		"uid": "a319ca132c9f4505b04aa5257eb9c611",
+		"reward_max": 0,
+		"sex": "Male",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/cyber/roozbeh-sabahi/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cyber/roozbeh-sabahi/@@images/image",
+				"large": "https://www.fbi.gov/wanted/cyber/roozbeh-sabahi/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Brown",
+		"details": null,
+		"reward_min": 0,
+		"description": "Conspiracy to Commit Computer Hacking; Conspiracy to Commit Wire Fraud; Computer Fraud - Unauthorized Access for Private Financial Gain; Wire Fraud; Aggravated Identity Theft",
+		"weight_min": 180,
+		"height_min": 71,
+		"path": "/wanted/cyber/roozbeh-sabahi",
+		"occupations": null,
+		"modified": "2023-02-23T00:04:31+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/cyber/roozbeh-sabahi/download.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+		"legat_names": null,
+		"caution": "<p>Roozbeh\u00a0Sabahi\u00a0is wanted for his alleged involvement in criminal activities, including obtaining unauthorized access to computer systems, stealing proprietary data from those systems, and selling that stolen data to Iranian customers such as Iranian universities and the Iranian government.\u00a0\u00a0Sabahi was a contractor\u00a0for the <a href=\"https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers\" data-urltype=\"/view\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers\">Mabna Institute</a>, a private government contractor based in the Islamic Republic of Iran that performed this work for the Iranian government, at the behest of the Islamic Revolutionary Guard Corps.\u00a0 Victims of the scheme included approximately 144 universities in the United States, 176 foreign universities in 21 countries, five federal and state government agencies in the United States, 36 private companies in the United States, 11 foreign private companies, and two international non-governmental organizations.\u00a0\u00a0 On February 7, 2018, a grand jury sitting in the United States District Court for the Southern District of New York indicted\u00a0Sabahi on computer intrusion, wire fraud, and aggravated identity theft charges, and a federal arrest warrant has been issued for his arrest.</p>",
+		"dates_of_birth_used": [
+			"March 8, 1994",
+			"March 9, 1994"
+		],
+		"scars_and_marks": null,
+		"race": "white",
+		"weight": "180 pounds",
+		"remarks": "<p>Sabahi\u00a0is known to speak Farsi and resides in Iran.</p>",
+		"ncic": "W183096961",
+		"title": "ROOZBEH SABAHI",
+		"height_max": 71,
+		"place_of_birth": "Iran",
+		"coordinates": [],
+		"hair": "brown",
+		"eyes": "brown",
+		"hair_raw": "Brown",
+		"publication": "2018-03-06T12:04:00",
+		"field_offices": [
+			"newyork"
+		],
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"nationality": "Iranian",
+		"url": "https://www.fbi.gov/wanted/cyber/roozbeh-sabahi",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/a319ca132c9f4505b04aa5257eb9c611"
+	},
+	{
+		"age_min": null,
 		"weight_max": null,
 		"person_classification": "Main",
 		"race_raw": null,
@@ -47292,80 +47328,6 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/168ae9479ffd401f8844d5ecc2803de8"
-	},
-	{
-		"age_min": null,
-		"weight_max": 180,
-		"person_classification": "Main",
-		"race_raw": "White",
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": null,
-		"uid": "a319ca132c9f4505b04aa5257eb9c611",
-		"reward_max": 0,
-		"sex": "Male",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/cyber/roozbeh-sabahi/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cyber/roozbeh-sabahi/@@images/image",
-				"large": "https://www.fbi.gov/wanted/cyber/roozbeh-sabahi/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Brown",
-		"details": null,
-		"reward_min": 0,
-		"description": "Conspiracy to Commit Computer Hacking; Conspiracy to Commit Wire Fraud; Computer Fraud - Unauthorized Access for Private Financial Gain; Wire Fraud; Aggravated Identity Theft",
-		"weight_min": 180,
-		"height_min": 71,
-		"path": "/wanted/cyber/roozbeh-sabahi",
-		"occupations": null,
-		"modified": "2023-02-23T00:04:31+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/cyber/roozbeh-sabahi/download.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
-		"legat_names": null,
-		"caution": "<p>Roozbeh\u00a0Sabahi\u00a0is wanted for his alleged involvement in criminal activities, including obtaining unauthorized access to computer systems, stealing proprietary data from those systems, and selling that stolen data to Iranian customers such as Iranian universities and the Iranian government.\u00a0\u00a0Sabahi was a contractor\u00a0for the <a href=\"https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers\" data-urltype=\"/view\" data-linktype=\"external\" data-val=\"https://www.fbi.gov/wanted/cyber/iranian-mabna-hackers\">Mabna Institute</a>, a private government contractor based in the Islamic Republic of Iran that performed this work for the Iranian government, at the behest of the Islamic Revolutionary Guard Corps.\u00a0 Victims of the scheme included approximately 144 universities in the United States, 176 foreign universities in 21 countries, five federal and state government agencies in the United States, 36 private companies in the United States, 11 foreign private companies, and two international non-governmental organizations.\u00a0\u00a0 On February 7, 2018, a grand jury sitting in the United States District Court for the Southern District of New York indicted\u00a0Sabahi on computer intrusion, wire fraud, and aggravated identity theft charges, and a federal arrest warrant has been issued for his arrest.</p>",
-		"dates_of_birth_used": [
-			"March 8, 1994",
-			"March 9, 1994"
-		],
-		"scars_and_marks": null,
-		"race": "white",
-		"weight": "180 pounds",
-		"remarks": "<p>Sabahi\u00a0is known to speak Farsi and resides in Iran.</p>",
-		"ncic": "W183096961",
-		"title": "ROOZBEH SABAHI",
-		"height_max": 71,
-		"place_of_birth": "Iran",
-		"coordinates": [],
-		"hair": "brown",
-		"eyes": "brown",
-		"hair_raw": "Brown",
-		"publication": "2018-03-06T12:04:00",
-		"field_offices": [
-			"newyork"
-		],
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"Cyber's Most Wanted"
-		],
-		"nationality": "Iranian",
-		"url": "https://www.fbi.gov/wanted/cyber/roozbeh-sabahi",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/a319ca132c9f4505b04aa5257eb9c611"
 	},
 	{
 		"age_min": null,
@@ -48125,77 +48087,6 @@
 		"weight_max": null,
 		"person_classification": "Victim",
 		"race_raw": null,
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest and conviction of the person or persons responsible for the bombings.",
-		"uid": "f2860a4c-cf3c-4128-96ab-818e18270022",
-		"reward_max": 0,
-		"sex": "",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image/large"
-			}
-		],
-		"eyes_raw": null,
-		"details": "<p>The FBI and its federal, state, and local law enforcement partners are asking for the public's assistance in identifying a man who may have information regarding the bombings of two churches in Las Cruces, New Mexico, on August 2, 2015.</p>\r\n<p>\u00a0</p>\r\n<p>On Sunday, August 2, 2015, at approximately 8:20 a.m., a device at the Calvary Baptist Church detonated. A detonation at the Holy Cross Catholic Church was reported about 20 minutes later. No one was injured in either explosion, and the resulting damage was minor. It is possible that the explosions were related.</p>\r\n<p>\u00a0</p>\r\n<p>The man recorded on the surveillance video below was seen walking to and from Calvary Baptist Church around the time of the explosion. He was wearing plaid shorts, a blue, short-sleeved T-shirt and hiking boots. He was carrying a package or bag. Authorities are calling this man a person of interest because he may have information regarding the explosion at the Calvary Baptist Church.</p>",
-		"reward_min": 0,
-		"description": "Person of Interest\r\nLas Cruces, New Mexico\r\nAugust 2, 2015",
-		"weight_min": null,
-		"height_min": null,
-		"path": "/wanted/seeking-info/las-cruces-church-bombings",
-		"occupations": null,
-		"modified": "2023-02-23T00:04:26+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/download.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": null,
-		"scars_and_marks": null,
-		"race": null,
-		"weight": null,
-		"remarks": null,
-		"ncic": null,
-		"title": "LAS CRUCES CHURCH BOMBINGS",
-		"height_max": null,
-		"place_of_birth": null,
-		"coordinates": [],
-		"hair": null,
-		"eyes": null,
-		"hair_raw": null,
-		"publication": "2015-10-30T07:00:00",
-		"field_offices": [
-			"albuquerque"
-		],
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": "<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/qlnOAg3KRKA?fs=1&amp;amp;wmode=transparent&amp;amp;rel=0&amp;amp;html5=1&amp;amp;modestbranding=1\" width=\"500\" height=\"300\" frameborder=\"0\"></iframe></p>",
-		"subjects": [
-			"Seeking Information"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/f2860a4c-cf3c-4128-96ab-818e18270022"
-	},
-	{
-		"age_min": null,
-		"weight_max": null,
-		"person_classification": "Victim",
-		"race_raw": null,
 		"suspects": "<p>During the course of the investigation, evidence has led investigators to believe\u00a0the suspect, displayed in the composite sketch, is involved in the murder of\u00a0Joette \"JoJo\" Malone.\u00a0\u00a0</p>\r\n<p>\u00a0</p>\r\n<p>The person depicted in the composite sketch is described as a Black male, approximately 16 to 25 years old, with a thin build, black hair and brown eyes.\u00a0\u00a0</p>",
 		"possible_countries": null,
 		"reward_text": "The FBI is offering a reward of up to $15,000 for information leading to the identification and arrest of the individual(s) responsible for the homicide of Joette \"JoJo\" Malone.",
@@ -48273,6 +48164,77 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/c18bb989cf854661bcb5cdddf1f1ccda"
+	},
+	{
+		"age_min": null,
+		"weight_max": null,
+		"person_classification": "Victim",
+		"race_raw": null,
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest and conviction of the person or persons responsible for the bombings.",
+		"uid": "f2860a4c-cf3c-4128-96ab-818e18270022",
+		"reward_max": 0,
+		"sex": "",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/@@images/image/large"
+			}
+		],
+		"eyes_raw": null,
+		"details": "<p>The FBI and its federal, state, and local law enforcement partners are asking for the public's assistance in identifying a man who may have information regarding the bombings of two churches in Las Cruces, New Mexico, on August 2, 2015.</p>\r\n<p>\u00a0</p>\r\n<p>On Sunday, August 2, 2015, at approximately 8:20 a.m., a device at the Calvary Baptist Church detonated. A detonation at the Holy Cross Catholic Church was reported about 20 minutes later. No one was injured in either explosion, and the resulting damage was minor. It is possible that the explosions were related.</p>\r\n<p>\u00a0</p>\r\n<p>The man recorded on the surveillance video below was seen walking to and from Calvary Baptist Church around the time of the explosion. He was wearing plaid shorts, a blue, short-sleeved T-shirt and hiking boots. He was carrying a package or bag. Authorities are calling this man a person of interest because he may have information regarding the explosion at the Calvary Baptist Church.</p>",
+		"reward_min": 0,
+		"description": "Person of Interest\r\nLas Cruces, New Mexico\r\nAugust 2, 2015",
+		"weight_min": null,
+		"height_min": null,
+		"path": "/wanted/seeking-info/las-cruces-church-bombings",
+		"occupations": null,
+		"modified": "2023-02-23T00:04:26+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings/download.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": null,
+		"scars_and_marks": null,
+		"race": null,
+		"weight": null,
+		"remarks": null,
+		"ncic": null,
+		"title": "LAS CRUCES CHURCH BOMBINGS",
+		"height_max": null,
+		"place_of_birth": null,
+		"coordinates": [],
+		"hair": null,
+		"eyes": null,
+		"hair_raw": null,
+		"publication": "2015-10-30T07:00:00",
+		"field_offices": [
+			"albuquerque"
+		],
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": "<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/qlnOAg3KRKA?fs=1&amp;amp;wmode=transparent&amp;amp;rel=0&amp;amp;html5=1&amp;amp;modestbranding=1\" width=\"500\" height=\"300\" frameborder=\"0\"></iframe></p>",
+		"subjects": [
+			"Seeking Information"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/las-cruces-church-bombings",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/f2860a4c-cf3c-4128-96ab-818e18270022"
 	},
 	{
 		"age_min": 34,
@@ -52083,6 +52045,75 @@
 		"@id": "https://api.fbi.gov/@wanted-person/67c05502982f4bb6a3a23ed71fff9064"
 	},
 	{
+		"age_min": 48,
+		"weight_max": 112,
+		"person_classification": "Victim",
+		"race_raw": "White",
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": null,
+		"uid": "c29de9f7848e48a1864950b71aa21235",
+		"reward_max": 0,
+		"sex": "Female",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/jennifer-cahill-shadle---state-college-pennsylvania/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/jennifer-cahill-shadle---state-college-pennsylvania/@@images/image",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/jennifer-cahill-shadle---state-college-pennsylvania/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Blue",
+		"details": "<p>Jennifer Cahill-Shadle was last seen on May 15, 2014,\u00a0between 10:00 p.m. and 11:00 p.m. walking out of Don Patron Mexican Grill at the North Atherton Place Plaza, North Atherton Street, in Patton Township near State College, Pennsylvania.\u00a0 She was wearing a light colored top, dark capris length leggings, dark colored shoes and carried a dark colored bag over her shoulder.\u00a0 Cahill-Shadle was staying in hotels.\u00a0 Some of her belongings remained at the hotel.\u00a0 Cahill-Shadle traveled around the area by foot, taxi, and she occasionally used the Mega Bus for trips outside of the area.</p>",
+		"reward_min": 0,
+		"description": "May 15, 2014\r\nState College, Pennsylvania",
+		"weight_min": 112,
+		"height_min": 64,
+		"path": "/wanted/vicap/missing-persons/jennifer-cahill-shadle---state-college-pennsylvania",
+		"occupations": null,
+		"modified": "2023-02-23T00:04:05+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/jennifer-cahill-shadle---state-college-pennsylvania/shadlealert-missing_person.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": null,
+		"scars_and_marks": "Cahill-Shadle has a surgical scar on her stomach.",
+		"race": "white",
+		"weight": "112 pounds",
+		"remarks": "<p>Cahill-Shadle was last seen wearing a\u00a0light-colored top, capri pants, dark shoes, and carrying a\u00a0dark shoulder/cross body bag.</p>",
+		"ncic": null,
+		"title": "JENNIFER CAHILL-SHADLE - STATE COLLEGE, PENNSYLVANIA",
+		"height_max": 64,
+		"place_of_birth": null,
+		"coordinates": [],
+		"hair": "brown",
+		"eyes": "blue",
+		"hair_raw": "Brown",
+		"publication": "2018-05-03T10:07:00",
+		"field_offices": null,
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/jennifer-cahill-shadle---state-college-pennsylvania",
+		"locations": null,
+		"age_range": "48 years old",
+		"age_max": 48,
+		"@id": "https://api.fbi.gov/@wanted-person/c29de9f7848e48a1864950b71aa21235"
+	},
+	{
 		"age_min": null,
 		"weight_max": null,
 		"person_classification": "Main",
@@ -52156,75 +52187,6 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/6f34e954ea4e439a8eb119ad966b386d"
-	},
-	{
-		"age_min": 48,
-		"weight_max": 112,
-		"person_classification": "Victim",
-		"race_raw": "White",
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": null,
-		"uid": "c29de9f7848e48a1864950b71aa21235",
-		"reward_max": 0,
-		"sex": "Female",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/jennifer-cahill-shadle---state-college-pennsylvania/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/jennifer-cahill-shadle---state-college-pennsylvania/@@images/image",
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/jennifer-cahill-shadle---state-college-pennsylvania/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Blue",
-		"details": "<p>Jennifer Cahill-Shadle was last seen on May 15, 2014,\u00a0between 10:00 p.m. and 11:00 p.m. walking out of Don Patron Mexican Grill at the North Atherton Place Plaza, North Atherton Street, in Patton Township near State College, Pennsylvania.\u00a0 She was wearing a light colored top, dark capris length leggings, dark colored shoes and carried a dark colored bag over her shoulder.\u00a0 Cahill-Shadle was staying in hotels.\u00a0 Some of her belongings remained at the hotel.\u00a0 Cahill-Shadle traveled around the area by foot, taxi, and she occasionally used the Mega Bus for trips outside of the area.</p>",
-		"reward_min": 0,
-		"description": "May 15, 2014\r\nState College, Pennsylvania",
-		"weight_min": 112,
-		"height_min": 64,
-		"path": "/wanted/vicap/missing-persons/jennifer-cahill-shadle---state-college-pennsylvania",
-		"occupations": null,
-		"modified": "2023-02-23T00:04:05+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/jennifer-cahill-shadle---state-college-pennsylvania/shadlealert-missing_person.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": null,
-		"scars_and_marks": "Cahill-Shadle has a surgical scar on her stomach.",
-		"race": "white",
-		"weight": "112 pounds",
-		"remarks": "<p>Cahill-Shadle was last seen wearing a\u00a0light-colored top, capri pants, dark shoes, and carrying a\u00a0dark shoulder/cross body bag.</p>",
-		"ncic": null,
-		"title": "JENNIFER CAHILL-SHADLE - STATE COLLEGE, PENNSYLVANIA",
-		"height_max": 64,
-		"place_of_birth": null,
-		"coordinates": [],
-		"hair": "brown",
-		"eyes": "blue",
-		"hair_raw": "Brown",
-		"publication": "2018-05-03T10:07:00",
-		"field_offices": null,
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/jennifer-cahill-shadle---state-college-pennsylvania",
-		"locations": null,
-		"age_range": "48 years old",
-		"age_max": 48,
-		"@id": "https://api.fbi.gov/@wanted-person/c29de9f7848e48a1864950b71aa21235"
 	},
 	{
 		"age_min": null,
@@ -58919,69 +58881,65 @@
 	},
 	{
 		"age_min": null,
-		"weight_max": null,
+		"weight_max": 160,
 		"person_classification": "Main",
-		"race_raw": null,
+		"race_raw": "Native American",
 		"suspects": null,
 		"possible_countries": null,
-		"reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the identification, arrest, and conviction of the suspect(s) responsible for this crime.",
-		"uid": "1501448d52d848fb8ed82d78307bf193",
+		"reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the identification, arrest, and conviction of the individual(s) responsible for the homicide of Lee Michael Pahe.",
+		"uid": "a8f5d1d8016247d482214880e3da93c9",
 		"reward_max": 0,
-		"sex": null,
+		"sex": "Male",
 		"build": null,
 		"status": "na",
 		"images": [
 			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/life-choices-arson-and-vandalism/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/life-choices-arson-and-vandalism/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/life-choices-arson-and-vandalism/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/life-choices-arson-and-vandalism/lifechoices2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/life-choices-arson-and-vandalism/lifechoices2.jpg",
-				"large": "https://www.fbi.gov/wanted/seeking-info/life-choices-arson-and-vandalism/lifechoices2.jpg/@@images/image/large"
+				"caption": "Photograph taken in January 2021",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/@@images/image/large"
 			}
 		],
-		"eyes_raw": null,
-		"details": "<p>On Saturday, June 25, 2022, the Life Choices building at 20 Mountain View Ave. in Longmont, Colorado, was vandalized and sustained fire and smoke damage as the result of an arsonist.</p>\r\n<p>\u00a0</p>",
+		"eyes_raw": "Brown",
+		"details": "<p>On July 26, 2021, at approximately 12:52 p.m., Lee Michael Pahe was found deceased on the ground next to a water pump in\u00a0Naschitti, New Mexico, on the Navajo Nation. The cause of death was a gunshot wound.\u00a0Authorities were told that Pahe was last seen leaving a residence\u00a0in Navajo, N.M., at 2 a.m. on the day his body was discovered.</p>\r\n<p>\u00a0</p>\r\n<p>Pahe\u00a0was resident of Fort Defiance, Arizona.</p>",
 		"reward_min": 0,
-		"description": "Longmont, Colorado\r\nJune 25, 2022",
-		"weight_min": null,
-		"height_min": null,
-		"path": "/wanted/seeking-info/life-choices-arson-and-vandalism",
+		"description": "Homicide Victim\r\nNaschitti, New Mexico\r\nJuly 26, 2021",
+		"weight_min": 160,
+		"height_min": 65,
+		"path": "/wanted/seeking-info/lee-michael-pahe",
 		"occupations": null,
 		"modified": "2023-02-23T00:03:28+00:00",
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/life-choices-arson-and-vandalism/download.pdf",
+				"url": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/download.pdf",
 				"name": "English"
 			},
 			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/life-choices-arson-and-vandalism/lifechoicesspanish.pdf/@@download/file/lifechoicesspanish.pdf",
-				"name": "EN ESPA\u00d1OL"
+				"url": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/pahenavajo.pdf/@@download/file/pahenavajo.pdf",
+				"name": "DIN\u00c9 BIZAAD K\u2019EHGO"
 			}
 		],
 		"warning_message": null,
 		"legat_names": null,
 		"caution": null,
-		"dates_of_birth_used": null,
+		"dates_of_birth_used": [
+			"October 19, 1990"
+		],
 		"scars_and_marks": null,
-		"race": null,
-		"weight": null,
+		"race": "native",
+		"weight": "160 pounds",
 		"remarks": null,
 		"ncic": null,
-		"title": "LIFE CHOICES ARSON AND VANDALISM",
-		"height_max": null,
+		"title": "LEE MICHAEL PAHE",
+		"height_max": 65,
 		"place_of_birth": null,
 		"coordinates": [],
-		"hair": null,
-		"eyes": null,
-		"hair_raw": null,
-		"publication": "2022-11-09T07:03:00",
+		"hair": "black",
+		"eyes": "brown",
+		"hair_raw": "Black",
+		"publication": "2022-04-11T10:59:00",
 		"field_offices": [
-			"denver"
+			"albuquerque"
 		],
 		"complexion": null,
 		"aliases": null,
@@ -58989,14 +58947,15 @@
 		"languages": null,
 		"additional_information": null,
 		"subjects": [
-			"Seeking Information"
+			"Seeking Information",
+			"Indian Country"
 		],
 		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/life-choices-arson-and-vandalism",
+		"url": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe",
 		"locations": null,
 		"age_range": null,
 		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/1501448d52d848fb8ed82d78307bf193"
+		"@id": "https://api.fbi.gov/@wanted-person/a8f5d1d8016247d482214880e3da93c9"
 	},
 	{
 		"age_min": null,
@@ -60655,41 +60614,65 @@
 	{
 		"age_min": null,
 		"weight_max": null,
-		"person_classification": "Victim",
+		"person_classification": "Main",
 		"race_raw": null,
 		"suspects": null,
 		"possible_countries": null,
-		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the identification, arrest and conviction of the individual(s) responsible for the death of Bardstown, Kentucky Police Officer Jason Ellis.",
-		"uid": "75215c7f-5dc0-4dfc-a750-4b248cf29a4e",
-		"reward_max": 99999,
+		"reward_text": null,
+		"uid": "e45312fb-109a-4565-87ec-a39d74c85031",
+		"reward_max": 0,
 		"sex": "",
 		"build": null,
 		"status": "na",
 		"images": [
 			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/large"
+				"caption": "Photograph taken in 1999",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/@@images/image/large"
+			},
+			{
+				"caption": "Photograph taken in 1983",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/anderson2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/anderson2.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/anderson2.jpg/@@images/image/large"
+			},
+			{
+				"caption": "Example of 1977 Chevy Sedan",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/andersonchevy.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/andersonchevy.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/andersonchevy.jpg/@@images/image/large"
+			},
+			{
+				"caption": "Example of 1997 Toyota Truck",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/andersontoyota.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/andersontoyota.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/andersontoyota.jpg/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/cdandersonmap.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/cdandersonmap.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/cdandersonmap.jpg/@@images/image/large"
 			}
 		],
 		"eyes_raw": null,
-		"details": "<p>On May\u00a025\u00a02013, Officer Jason Ellis was\u00a0killed\u00a0after finishing his shift for the Bardstown, Kentucky Police Department.\u00a0\u00a0Ellis\u00a0had\u00a0signed off on the radio\u00a0and was driving home when he encountered branches blocking the road\u00a0on\u00a0exit 34 of the Bluegrass Parkway in Bardstown, Kentucky.\u00a0\u00a0To\u00a0ensure\u00a0the safety of the public, he got out of his vehicle to clear the branches.\u00a0While\u00a0attempting to remove the\u00a0debris,\u00a0he\u00a0was\u00a0\u00a0shot\u00a0several times and died shortly after.\u00a0Officer Ellis was discovered by a passing motorist. He was a K-9 handler (narcotics dog) for the police department in addition to his patrol duties. Outside of work, he was heavily involved in the community including coaching youth baseball.\u00a0<br />\u00a0</p>",
-		"reward_min": 10000,
-		"description": "Murder Victim\r\nBardstown, Kentucky\r\nMay 25, 2013",
+		"details": "<p>The FBI is seeking the public\u2019s assistance in identifying alleged victims of convicted killer Curtis Dean Anderson, who died while serving his prison term on December 9, 2007.</p>\r\n<p>Anderson was convicted and sentenced to over 300 years in prison for the 1999 kidnapping and murder of 7-year-old Xiana Fairchild in Vallejo, California, and other crimes. He was captured after one of his kidnap victims was able to escape. Anderson was interviewed by FBI agents in November of 2007, and confessed to murdering eight victims in the United States, including Fairchild and 7-year-old Amber Swartz-Garcia of Pinole, California. Anderson also confessed to two murders in Mexico, but did not provide any information on those victims.</p>\r\n<p>The following is a list of the stateside victims\u2019 descriptions given by Anderson in chronological order:</p>\r\n<p>Late 1984: Victim #1 was described as a female \"runaway\" in her late teens/early 20s. Anderson allegedly met and killed her and then disposed of her body near a local swimming hole in Marysville, California. Victim #2 was a young female hitchhiker in her late teens, whom Anderson claimed he picked up on a road near the northeast side of Clearlake a few days after the death of Victim #1.</p>\r\n<p>Early 1985: Victim #3 was a female in her late teens, also residing in the Marysville area, who was possibly a runaway from Oregon.</p>\r\n<p>November 1986: Victim #4 was about 21 years old. She was a light-skinned Black female whom Anderson met in a bar frequented by African-Americans located in the East Bay, off Interstate-80 on San Pablo Avenue. He claimed this occurred about 10 days after he was paroled from San Quentin State Prison. Anderson allegedly killed her and disposed of the body in the Oakland hills.</p>\r\n<p>June 1988: Victim #5 was Amber Swartz-Garcia, who Anderson said was standing on a street in Pinole, California, when he physically forced her into his car. He eventually murdered her in Arizona.</p>\r\n<p>1988/1989: Victim #6 was allegedly a Navajo Indian woman about 23 to 24 years old. Anderson claimed he picked her up coming out of a bar near 5th or 6th Street in Benicia, California. He said he then killed her near Benson, Arizona.</p>\r\n<p>In 1989, Anderson received a ticket while driving a two-door, brown, 1977 Chevy sedan.</p>\r\n<p>February or March 1997: Victim #7 was a Black/Hispanic female in her early 20s with noticeable \"junkie tracks\" on her arms who went by the name \u201cRosie\u201d. Anderson allegedly met her at \u201cThe Bears\u201d bar, which he described as being frequented by Hispanics. This bar was located under Highway 87 in San Jose, California, near a bowling alley. After killing her, he allegedly disposed of her body near the Ben Lomand turnoff near Santa Cruz, California. During this incident, Anderson stated he had been driving a black Toyota truck from his \u201cParts Company\u201d.</p>\r\n<p>December 1999: Victim #8 was Xiana Fairchild, who disappeared on December 9, 1999.</p>",
+		"reward_min": 0,
+		"description": "Northern California",
 		"weight_min": null,
 		"height_min": null,
-		"path": "/wanted/seeking-info/jason-ellis",
+		"path": "/wanted/seeking-info/curtis-dean-anderson",
 		"occupations": null,
 		"modified": "2023-02-23T00:03:18+00:00",
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/download.pdf",
+				"url": "https://www.fbi.gov/file-repository/andersoncd.pdf",
 				"name": "English"
 			},
 			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/jason-ellis-spanish-final.pdf/@@download/file/jason-ellis.Spanish.final.pdf",
-				"name": "EN ESPA\u00d1OL"
+				"url": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/cdandersonmap.pdf/@@download/file/cdandersonmap.pdf",
+				"name": "Victim Information and Map"
 			}
 		],
 		"warning_message": null,
@@ -60701,16 +60684,17 @@
 		"weight": null,
 		"remarks": null,
 		"ncic": null,
-		"title": "JASON ELLIS",
+		"title": "CURTIS DEAN ANDERSON",
 		"height_max": null,
 		"place_of_birth": null,
 		"coordinates": [],
 		"hair": null,
 		"eyes": null,
 		"hair_raw": null,
-		"publication": "2013-07-22T07:00:00",
+		"publication": "2013-04-09T07:00:00",
 		"field_offices": [
-			"louisville"
+			"sacramento",
+			"sanfrancisco"
 		],
 		"complexion": null,
 		"aliases": null,
@@ -60721,50 +60705,74 @@
 			"Seeking Information"
 		],
 		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis",
+		"url": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson",
 		"locations": null,
 		"age_range": null,
 		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/75215c7f-5dc0-4dfc-a750-4b248cf29a4e"
+		"@id": "https://api.fbi.gov/@wanted-person/e45312fb-109a-4565-87ec-a39d74c85031"
 	},
 	{
 		"age_min": null,
 		"weight_max": null,
-		"person_classification": "Victim",
+		"person_classification": "Main",
 		"race_raw": null,
 		"suspects": null,
 		"possible_countries": null,
-		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the identification, arrest and conviction of the individual(s) responsible for the death of Bardstown, Kentucky Police Officer Jason Ellis.",
-		"uid": "75215c7f-5dc0-4dfc-a750-4b248cf29a4e",
-		"reward_max": 99999,
+		"reward_text": null,
+		"uid": "e45312fb-109a-4565-87ec-a39d74c85031",
+		"reward_max": 0,
 		"sex": "",
 		"build": null,
 		"status": "na",
 		"images": [
 			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/large"
+				"caption": "Photograph taken in 1999",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/@@images/image/large"
+			},
+			{
+				"caption": "Photograph taken in 1983",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/anderson2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/anderson2.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/anderson2.jpg/@@images/image/large"
+			},
+			{
+				"caption": "Example of 1977 Chevy Sedan",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/andersonchevy.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/andersonchevy.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/andersonchevy.jpg/@@images/image/large"
+			},
+			{
+				"caption": "Example of 1997 Toyota Truck",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/andersontoyota.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/andersontoyota.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/andersontoyota.jpg/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/cdandersonmap.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/cdandersonmap.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/cdandersonmap.jpg/@@images/image/large"
 			}
 		],
 		"eyes_raw": null,
-		"details": "<p>On May\u00a025\u00a02013, Officer Jason Ellis was\u00a0killed\u00a0after finishing his shift for the Bardstown, Kentucky Police Department.\u00a0\u00a0Ellis\u00a0had\u00a0signed off on the radio\u00a0and was driving home when he encountered branches blocking the road\u00a0on\u00a0exit 34 of the Bluegrass Parkway in Bardstown, Kentucky.\u00a0\u00a0To\u00a0ensure\u00a0the safety of the public, he got out of his vehicle to clear the branches.\u00a0While\u00a0attempting to remove the\u00a0debris,\u00a0he\u00a0was\u00a0\u00a0shot\u00a0several times and died shortly after.\u00a0Officer Ellis was discovered by a passing motorist. He was a K-9 handler (narcotics dog) for the police department in addition to his patrol duties. Outside of work, he was heavily involved in the community including coaching youth baseball.\u00a0<br />\u00a0</p>",
-		"reward_min": 10000,
-		"description": "Murder Victim\r\nBardstown, Kentucky\r\nMay 25, 2013",
+		"details": "<p>The FBI is seeking the public\u2019s assistance in identifying alleged victims of convicted killer Curtis Dean Anderson, who died while serving his prison term on December 9, 2007.</p>\r\n<p>Anderson was convicted and sentenced to over 300 years in prison for the 1999 kidnapping and murder of 7-year-old Xiana Fairchild in Vallejo, California, and other crimes. He was captured after one of his kidnap victims was able to escape. Anderson was interviewed by FBI agents in November of 2007, and confessed to murdering eight victims in the United States, including Fairchild and 7-year-old Amber Swartz-Garcia of Pinole, California. Anderson also confessed to two murders in Mexico, but did not provide any information on those victims.</p>\r\n<p>The following is a list of the stateside victims\u2019 descriptions given by Anderson in chronological order:</p>\r\n<p>Late 1984: Victim #1 was described as a female \"runaway\" in her late teens/early 20s. Anderson allegedly met and killed her and then disposed of her body near a local swimming hole in Marysville, California. Victim #2 was a young female hitchhiker in her late teens, whom Anderson claimed he picked up on a road near the northeast side of Clearlake a few days after the death of Victim #1.</p>\r\n<p>Early 1985: Victim #3 was a female in her late teens, also residing in the Marysville area, who was possibly a runaway from Oregon.</p>\r\n<p>November 1986: Victim #4 was about 21 years old. She was a light-skinned Black female whom Anderson met in a bar frequented by African-Americans located in the East Bay, off Interstate-80 on San Pablo Avenue. He claimed this occurred about 10 days after he was paroled from San Quentin State Prison. Anderson allegedly killed her and disposed of the body in the Oakland hills.</p>\r\n<p>June 1988: Victim #5 was Amber Swartz-Garcia, who Anderson said was standing on a street in Pinole, California, when he physically forced her into his car. He eventually murdered her in Arizona.</p>\r\n<p>1988/1989: Victim #6 was allegedly a Navajo Indian woman about 23 to 24 years old. Anderson claimed he picked her up coming out of a bar near 5th or 6th Street in Benicia, California. He said he then killed her near Benson, Arizona.</p>\r\n<p>In 1989, Anderson received a ticket while driving a two-door, brown, 1977 Chevy sedan.</p>\r\n<p>February or March 1997: Victim #7 was a Black/Hispanic female in her early 20s with noticeable \"junkie tracks\" on her arms who went by the name \u201cRosie\u201d. Anderson allegedly met her at \u201cThe Bears\u201d bar, which he described as being frequented by Hispanics. This bar was located under Highway 87 in San Jose, California, near a bowling alley. After killing her, he allegedly disposed of her body near the Ben Lomand turnoff near Santa Cruz, California. During this incident, Anderson stated he had been driving a black Toyota truck from his \u201cParts Company\u201d.</p>\r\n<p>December 1999: Victim #8 was Xiana Fairchild, who disappeared on December 9, 1999.</p>",
+		"reward_min": 0,
+		"description": "Northern California",
 		"weight_min": null,
 		"height_min": null,
-		"path": "/wanted/seeking-info/jason-ellis",
+		"path": "/wanted/seeking-info/curtis-dean-anderson",
 		"occupations": null,
 		"modified": "2023-02-23T00:03:18+00:00",
 		"files": [
 			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/download.pdf",
+				"url": "https://www.fbi.gov/file-repository/andersoncd.pdf",
 				"name": "English"
 			},
 			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/jason-ellis-spanish-final.pdf/@@download/file/jason-ellis.Spanish.final.pdf",
-				"name": "EN ESPA\u00d1OL"
+				"url": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson/cdandersonmap.pdf/@@download/file/cdandersonmap.pdf",
+				"name": "Victim Information and Map"
 			}
 		],
 		"warning_message": null,
@@ -60776,16 +60784,17 @@
 		"weight": null,
 		"remarks": null,
 		"ncic": null,
-		"title": "JASON ELLIS",
+		"title": "CURTIS DEAN ANDERSON",
 		"height_max": null,
 		"place_of_birth": null,
 		"coordinates": [],
 		"hair": null,
 		"eyes": null,
 		"hair_raw": null,
-		"publication": "2013-07-22T07:00:00",
+		"publication": "2013-04-09T07:00:00",
 		"field_offices": [
-			"louisville"
+			"sacramento",
+			"sanfrancisco"
 		],
 		"complexion": null,
 		"aliases": null,
@@ -60796,11 +60805,11 @@
 			"Seeking Information"
 		],
 		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis",
+		"url": "https://www.fbi.gov/wanted/seeking-info/curtis-dean-anderson",
 		"locations": null,
 		"age_range": null,
 		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/75215c7f-5dc0-4dfc-a750-4b248cf29a4e"
+		"@id": "https://api.fbi.gov/@wanted-person/e45312fb-109a-4565-87ec-a39d74c85031"
 	},
 	{
 		"age_min": null,
@@ -61456,6 +61465,84 @@
 		"@id": "https://api.fbi.gov/@wanted-person/498569cbb82c4eb88172dc9c014dfe5a"
 	},
 	{
+		"age_min": null,
+		"weight_max": null,
+		"person_classification": "Victim",
+		"race_raw": null,
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest and conviction of the person or persons responsible for the murders of Wilson Edison Black Elk, Jr. and Ronald Owen Hard Heart.",
+		"uid": "fbe2ac6171f1c41e7aeae919d89ab3c7",
+		"reward_max": 99999,
+		"sex": null,
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": "Wilson Edison Black Elk, Jr.",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/@@images/image/large"
+			},
+			{
+				"caption": "Ronald Owen Hard Heart",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/hardhrt.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/hardhrt.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/hardhrt.jpg/@@images/image/large"
+			}
+		],
+		"eyes_raw": null,
+		"details": "<p>On Tuesday, June 8, 1999, the bodies of Wilson Edison Black Elk, Jr. and <a href=\"https://www.fbi.gov/wanted/seeking-info/ronald-owen-hard-heart\" data-urltype=\"_direct_\" data-linktype=\"internal\" data-val=\"c4edcb95f655818fc436cec4826fd85f\">Ronald Owen Hard Heart</a> were found on the Pine Ridge Indian Reservation(PRIR) in South Dakota, several hundred yards north of the Nebraska-South Dakota border near White Clay, Nebraska. The two victims, both residents of PRIR, were last seen on the main road to Pine Ridge, South Dakota from White Clay, Nebraska on Sunday, June 6, 1999. Authorities have determined that both victims were murdered.</p>",
+		"reward_min": 10000,
+		"description": "Murder Victim\r\nJune 1999\r\nSouth Dakota",
+		"weight_min": null,
+		"height_min": null,
+		"path": "/wanted/seeking-info/wilson-edison-black-elk-jr",
+		"occupations": null,
+		"modified": "2023-02-23T00:03:12+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/download.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": null,
+		"scars_and_marks": null,
+		"race": null,
+		"weight": null,
+		"remarks": null,
+		"ncic": null,
+		"title": "WILSON EDISON BLACK ELK, JR.",
+		"height_max": null,
+		"place_of_birth": null,
+		"coordinates": [],
+		"hair": null,
+		"eyes": null,
+		"hair_raw": null,
+		"publication": "2010-09-15T11:05:00",
+		"field_offices": [
+			"minneapolis"
+		],
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"Seeking Information",
+			"Indian Country"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/fbe2ac6171f1c41e7aeae919d89ab3c7"
+	},
+	{
 		"age_min": 24,
 		"weight_max": 125,
 		"person_classification": "Victim",
@@ -61561,84 +61648,6 @@
 		"age_range": "24 years old (At time of death)",
 		"age_max": 24,
 		"@id": "https://api.fbi.gov/@wanted-person/d50d33317f994799b0759f3c0a57c4d6"
-	},
-	{
-		"age_min": null,
-		"weight_max": null,
-		"person_classification": "Victim",
-		"race_raw": null,
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the arrest and conviction of the person or persons responsible for the murders of Wilson Edison Black Elk, Jr. and Ronald Owen Hard Heart.",
-		"uid": "fbe2ac6171f1c41e7aeae919d89ab3c7",
-		"reward_max": 99999,
-		"sex": null,
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": "Wilson Edison Black Elk, Jr.",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/@@images/image/large"
-			},
-			{
-				"caption": "Ronald Owen Hard Heart",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/hardhrt.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/hardhrt.jpg",
-				"large": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/hardhrt.jpg/@@images/image/large"
-			}
-		],
-		"eyes_raw": null,
-		"details": "<p>On Tuesday, June 8, 1999, the bodies of Wilson Edison Black Elk, Jr. and <a href=\"https://www.fbi.gov/wanted/seeking-info/ronald-owen-hard-heart\" data-urltype=\"_direct_\" data-linktype=\"internal\" data-val=\"c4edcb95f655818fc436cec4826fd85f\">Ronald Owen Hard Heart</a> were found on the Pine Ridge Indian Reservation(PRIR) in South Dakota, several hundred yards north of the Nebraska-South Dakota border near White Clay, Nebraska. The two victims, both residents of PRIR, were last seen on the main road to Pine Ridge, South Dakota from White Clay, Nebraska on Sunday, June 6, 1999. Authorities have determined that both victims were murdered.</p>",
-		"reward_min": 10000,
-		"description": "Murder Victim\r\nJune 1999\r\nSouth Dakota",
-		"weight_min": null,
-		"height_min": null,
-		"path": "/wanted/seeking-info/wilson-edison-black-elk-jr",
-		"occupations": null,
-		"modified": "2023-02-23T00:03:12+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr/download.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": null,
-		"scars_and_marks": null,
-		"race": null,
-		"weight": null,
-		"remarks": null,
-		"ncic": null,
-		"title": "WILSON EDISON BLACK ELK, JR.",
-		"height_max": null,
-		"place_of_birth": null,
-		"coordinates": [],
-		"hair": null,
-		"eyes": null,
-		"hair_raw": null,
-		"publication": "2010-09-15T11:05:00",
-		"field_offices": [
-			"minneapolis"
-		],
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"Seeking Information",
-			"Indian Country"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/wilson-edison-black-elk-jr",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/fbe2ac6171f1c41e7aeae919d89ab3c7"
 	},
 	{
 		"age_min": 26,
@@ -62581,91 +62590,6 @@
 		"race_raw": null,
 		"suspects": null,
 		"possible_countries": null,
-		"reward_text": "The Rewards for Justice Program, United States Department of State, is offering a reward of up to $5,000,000 for information leading to the arrest or conviction in any country of any individual who committed, conspired to commit, or aided or abetted in the commission of, the murder of United States citizen Joel Wesley Shrum.",
-		"uid": "b638425c72dd4ae290339fd989d48faf",
-		"reward_max": 0,
-		"sex": null,
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrum2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrum2.jpg",
-				"large": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrum2.jpg/@@images/image/large"
-			}
-		],
-		"eyes_raw": null,
-		"details": "<p>On March 18, 2012,\u00a0United States\u00a0citizen Joel Wesley Shrum was driving to his place of employment in Ta\u2019izz, Yemen, when two gunmen armed with AK-47s approached Shrum\u2019s vehicle on a motorcycle and fired on the vehicle.\u00a0 Shrum was pronounced dead\u00a0at the scene.\u00a0 Al-Qaida in the Arabian Peninsula (AQAP) claimed responsibility for the murder.\u00a0\u00a0At the time of his death, Shrum worked at the International Training and Development Center as an administrator and English teacher.\u00a0 He was living in Yemen with his wife and two young children.</p>\r\n<p>\u00a0</p>",
-		"reward_min": 0,
-		"description": "Murder Victim\r\nTa'izz, Yemen\r\nMarch 18, 2012",
-		"weight_min": null,
-		"height_min": null,
-		"path": "/wanted/seeking-info/joel-wesley-shrum",
-		"occupations": null,
-		"modified": "2023-02-23T00:03:07+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrumarabic.pdf/@@download/file/shrumarabic.pdf",
-				"name": "\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrumturkish.pdf/@@download/file/shrumturkish.pdf",
-				"name": "T\u00fcrk\u00e7e'de"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": null,
-		"scars_and_marks": null,
-		"race": null,
-		"weight": null,
-		"remarks": null,
-		"ncic": null,
-		"title": "JOEL WESLEY SHRUM",
-		"height_max": null,
-		"place_of_birth": null,
-		"coordinates": [],
-		"hair": null,
-		"eyes": null,
-		"hair_raw": null,
-		"publication": "2017-02-22T09:41:00",
-		"field_offices": [
-			"washingtondc"
-		],
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"Seeking Information"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/b638425c72dd4ae290339fd989d48faf"
-	},
-	{
-		"age_min": null,
-		"weight_max": null,
-		"person_classification": "Victim",
-		"race_raw": null,
-		"suspects": null,
-		"possible_countries": null,
 		"reward_text": "The FBI is offering a reward of up to $5,000 for information leading to an arrest in these cases.",
 		"uid": "ee2684cba1b2494ebdba8ab700a50e21",
 		"reward_max": 0,
@@ -62753,6 +62677,91 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/ee2684cba1b2494ebdba8ab700a50e21"
+	},
+	{
+		"age_min": null,
+		"weight_max": null,
+		"person_classification": "Victim",
+		"race_raw": null,
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": "The Rewards for Justice Program, United States Department of State, is offering a reward of up to $5,000,000 for information leading to the arrest or conviction in any country of any individual who committed, conspired to commit, or aided or abetted in the commission of, the murder of United States citizen Joel Wesley Shrum.",
+		"uid": "b638425c72dd4ae290339fd989d48faf",
+		"reward_max": 0,
+		"sex": null,
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrum2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrum2.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrum2.jpg/@@images/image/large"
+			}
+		],
+		"eyes_raw": null,
+		"details": "<p>On March 18, 2012,\u00a0United States\u00a0citizen Joel Wesley Shrum was driving to his place of employment in Ta\u2019izz, Yemen, when two gunmen armed with AK-47s approached Shrum\u2019s vehicle on a motorcycle and fired on the vehicle.\u00a0 Shrum was pronounced dead\u00a0at the scene.\u00a0 Al-Qaida in the Arabian Peninsula (AQAP) claimed responsibility for the murder.\u00a0\u00a0At the time of his death, Shrum worked at the International Training and Development Center as an administrator and English teacher.\u00a0 He was living in Yemen with his wife and two young children.</p>\r\n<p>\u00a0</p>",
+		"reward_min": 0,
+		"description": "Murder Victim\r\nTa'izz, Yemen\r\nMarch 18, 2012",
+		"weight_min": null,
+		"height_min": null,
+		"path": "/wanted/seeking-info/joel-wesley-shrum",
+		"occupations": null,
+		"modified": "2023-02-23T00:03:07+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrumarabic.pdf/@@download/file/shrumarabic.pdf",
+				"name": "\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum/shrumturkish.pdf/@@download/file/shrumturkish.pdf",
+				"name": "T\u00fcrk\u00e7e'de"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": null,
+		"scars_and_marks": null,
+		"race": null,
+		"weight": null,
+		"remarks": null,
+		"ncic": null,
+		"title": "JOEL WESLEY SHRUM",
+		"height_max": null,
+		"place_of_birth": null,
+		"coordinates": [],
+		"hair": null,
+		"eyes": null,
+		"hair_raw": null,
+		"publication": "2017-02-22T09:41:00",
+		"field_offices": [
+			"washingtondc"
+		],
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"Seeking Information"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/joel-wesley-shrum",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/b638425c72dd4ae290339fd989d48faf"
 	},
 	{
 		"age_min": null,
@@ -65988,83 +65997,6 @@
 	},
 	{
 		"age_min": null,
-		"weight_max": 180,
-		"person_classification": "Main",
-		"race_raw": "White (Hispanic)",
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": null,
-		"uid": "757fb3f8-9c36-443c-9577-3fe2443f1cbe",
-		"reward_max": 0,
-		"sex": "Male",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": "Photograph taken in 2004",
-				"thumb": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image",
-				"large": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Brown",
-		"details": null,
-		"reward_min": 0,
-		"description": "Health Care Fraud",
-		"weight_min": 180,
-		"height_min": 68,
-		"path": "/wanted/wcc/jorge-iglesias-vazquez",
-		"occupations": null,
-		"modified": "2023-02-23T00:02:41+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/download.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": "<p>Jorge Iglesias is wanted for his alleged involvement in a scheme to defraud Medicare out of more than one million dollars in Puerto Rico.\u00a0 Iglesias was the owner and resident agent of Affordable Medical Services Group, which was a durable medical equipment (DME) company authorized to do business in Puerto Rico, with its business office located in Carolina, Puerto Rico. DMEs are medically necessary and prescribed by medical doctors or other qualified health care providers. They are designed for repeated use and for medical purposes, such as prosthetic limbs.</p>\r\n<p>\u00a0</p>\r\n<p>Affordable Medical Services Group was in business from August of 2007 until February of 2008. During that time, the company received approximately $1.1 million in Medicare reimbursements for DMEs that were not medically necessary. It is alleged that Iglesias controlled the business activities of the company, including the submission of DME claims to Medicare. Iglesias also had signature authority on the Affordable Medical Services Group bank account where all Medicare deposits were made. From 2007 to 2008, Iglesias allegedly submitted 354 fraudulent claims to Medicare for prosthetic limbs.</p>\r\n<p>\u00a0</p>\r\n<p>On September 24, 2008, a federal arrest warrant was issued for Iglesias by the United States District Court, District of Puerto Rico, after he was indicted federally for health care fraud-related crimes.</p>",
-		"dates_of_birth_used": [
-			"November 25, 1961"
-		],
-		"scars_and_marks": null,
-		"race": "hispanic",
-		"weight": "180 pounds",
-		"remarks": null,
-		"ncic": "W225178837",
-		"title": "JORGE IGLESIAS",
-		"height_max": 68,
-		"place_of_birth": "Cuba",
-		"coordinates": [],
-		"hair": "brown",
-		"eyes": "brown",
-		"hair_raw": "Brown",
-		"publication": "2013-02-20T07:00:00",
-		"field_offices": [
-			"sanjuan"
-		],
-		"complexion": null,
-		"aliases": [
-			"Jorge Iglesias-Vazquez",
-			"Jorge Iglesias Vazquez",
-			"Jorge Islesias Vazquez"
-		],
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"White-Collar Crime"
-		],
-		"nationality": "Cuban",
-		"url": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/757fb3f8-9c36-443c-9577-3fe2443f1cbe"
-	},
-	{
-		"age_min": null,
 		"weight_max": 220,
 		"person_classification": "Main",
 		"race_raw": "White (Hispanic)",
@@ -66143,6 +66075,83 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/9badeee26b4517d1c9071df85daf2653"
+	},
+	{
+		"age_min": null,
+		"weight_max": 180,
+		"person_classification": "Main",
+		"race_raw": "White (Hispanic)",
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": null,
+		"uid": "757fb3f8-9c36-443c-9577-3fe2443f1cbe",
+		"reward_max": 0,
+		"sex": "Male",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": "Photograph taken in 2004",
+				"thumb": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image",
+				"large": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Brown",
+		"details": null,
+		"reward_min": 0,
+		"description": "Health Care Fraud",
+		"weight_min": 180,
+		"height_min": 68,
+		"path": "/wanted/wcc/jorge-iglesias-vazquez",
+		"occupations": null,
+		"modified": "2023-02-23T00:02:41+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/download.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": "<p>Jorge Iglesias is wanted for his alleged involvement in a scheme to defraud Medicare out of more than one million dollars in Puerto Rico.\u00a0 Iglesias was the owner and resident agent of Affordable Medical Services Group, which was a durable medical equipment (DME) company authorized to do business in Puerto Rico, with its business office located in Carolina, Puerto Rico. DMEs are medically necessary and prescribed by medical doctors or other qualified health care providers. They are designed for repeated use and for medical purposes, such as prosthetic limbs.</p>\r\n<p>\u00a0</p>\r\n<p>Affordable Medical Services Group was in business from August of 2007 until February of 2008. During that time, the company received approximately $1.1 million in Medicare reimbursements for DMEs that were not medically necessary. It is alleged that Iglesias controlled the business activities of the company, including the submission of DME claims to Medicare. Iglesias also had signature authority on the Affordable Medical Services Group bank account where all Medicare deposits were made. From 2007 to 2008, Iglesias allegedly submitted 354 fraudulent claims to Medicare for prosthetic limbs.</p>\r\n<p>\u00a0</p>\r\n<p>On September 24, 2008, a federal arrest warrant was issued for Iglesias by the United States District Court, District of Puerto Rico, after he was indicted federally for health care fraud-related crimes.</p>",
+		"dates_of_birth_used": [
+			"November 25, 1961"
+		],
+		"scars_and_marks": null,
+		"race": "hispanic",
+		"weight": "180 pounds",
+		"remarks": null,
+		"ncic": "W225178837",
+		"title": "JORGE IGLESIAS",
+		"height_max": 68,
+		"place_of_birth": "Cuba",
+		"coordinates": [],
+		"hair": "brown",
+		"eyes": "brown",
+		"hair_raw": "Brown",
+		"publication": "2013-02-20T07:00:00",
+		"field_offices": [
+			"sanjuan"
+		],
+		"complexion": null,
+		"aliases": [
+			"Jorge Iglesias-Vazquez",
+			"Jorge Iglesias Vazquez",
+			"Jorge Islesias Vazquez"
+		],
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"White-Collar Crime"
+		],
+		"nationality": "Cuban",
+		"url": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/757fb3f8-9c36-443c-9577-3fe2443f1cbe"
 	},
 	{
 		"age_min": null,
@@ -66693,6 +66702,103 @@
 	},
 	{
 		"age_min": null,
+		"weight_max": 22,
+		"person_classification": "Victim",
+		"race_raw": "White",
+		"suspects": null,
+		"possible_countries": [
+			"BEL",
+			"ARE",
+			"USA"
+		],
+		"reward_text": null,
+		"uid": "9d500eb637c97e2e41a606433180bdd4",
+		"reward_max": 0,
+		"sex": "Female",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/@@images/image",
+				"large": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/dahm_g2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/dahm_g2.jpg",
+				"large": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/dahm_g2.jpg/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Blue",
+		"details": null,
+		"reward_min": 0,
+		"description": "International Parental Kidnapping",
+		"weight_min": 22,
+		"height_min": 27,
+		"path": "/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm",
+		"occupations": null,
+		"modified": "2023-02-23T00:02:25+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/download.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": [
+			"December 26, 2008"
+		],
+		"scars_and_marks": null,
+		"race": "white",
+		"weight": "22 pounds (at the time of her disappearance)",
+		"remarks": null,
+		"ncic": null,
+		"title": "GABRIELLE DAHM",
+		"height_max": 27,
+		"place_of_birth": "Florida",
+		"coordinates": [
+			{
+				"formatted": "Florida, USA",
+				"lng": -81.51575350000002,
+				"lat": 27.6648274
+			}
+		],
+		"hair": "brown",
+		"eyes": "blue",
+		"hair_raw": "Brown",
+		"publication": "2012-02-12T07:00:00",
+		"field_offices": [
+			"miami"
+		],
+		"complexion": null,
+		"aliases": [
+			"\"Gabby\"",
+			"Gabriella Nicole Dahm",
+			"Gabrielle Delbecq"
+		],
+		"possible_states": [
+			"US-FL"
+		],
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"Parental Kidnapping Victim",
+			"Gabrielle Dahm",
+			"Dahm"
+		],
+		"nationality": "American",
+		"url": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/9d500eb637c97e2e41a606433180bdd4"
+	},
+	{
+		"age_min": null,
 		"weight_max": 150,
 		"person_classification": "Main",
 		"race_raw": "White (Hispanic)",
@@ -66884,103 +66990,6 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/1d1dbf1f-1eab-4224-87a1-2786498f195c"
-	},
-	{
-		"age_min": null,
-		"weight_max": 22,
-		"person_classification": "Victim",
-		"race_raw": "White",
-		"suspects": null,
-		"possible_countries": [
-			"BEL",
-			"ARE",
-			"USA"
-		],
-		"reward_text": null,
-		"uid": "9d500eb637c97e2e41a606433180bdd4",
-		"reward_max": 0,
-		"sex": "Female",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/@@images/image",
-				"large": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/dahm_g2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/dahm_g2.jpg",
-				"large": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/dahm_g2.jpg/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Blue",
-		"details": null,
-		"reward_min": 0,
-		"description": "International Parental Kidnapping",
-		"weight_min": 22,
-		"height_min": 27,
-		"path": "/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm",
-		"occupations": null,
-		"modified": "2023-02-23T00:02:25+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm/download.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": [
-			"December 26, 2008"
-		],
-		"scars_and_marks": null,
-		"race": "white",
-		"weight": "22 pounds (at the time of her disappearance)",
-		"remarks": null,
-		"ncic": null,
-		"title": "GABRIELLE DAHM",
-		"height_max": 27,
-		"place_of_birth": "Florida",
-		"coordinates": [
-			{
-				"formatted": "Florida, USA",
-				"lng": -81.51575350000002,
-				"lat": 27.6648274
-			}
-		],
-		"hair": "brown",
-		"eyes": "blue",
-		"hair_raw": "Brown",
-		"publication": "2012-02-12T07:00:00",
-		"field_offices": [
-			"miami"
-		],
-		"complexion": null,
-		"aliases": [
-			"\"Gabby\"",
-			"Gabriella Nicole Dahm",
-			"Gabrielle Delbecq"
-		],
-		"possible_states": [
-			"US-FL"
-		],
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"Parental Kidnapping Victim",
-			"Gabrielle Dahm",
-			"Dahm"
-		],
-		"nationality": "American",
-		"url": "https://www.fbi.gov/wanted/parental-kidnappings/leslie-delbecq/gabrielle-dahm",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/9d500eb637c97e2e41a606433180bdd4"
 	},
 	{
 		"age_min": null,
@@ -69348,97 +69357,6 @@
 	},
 	{
 		"age_min": null,
-		"weight_max": 100,
-		"person_classification": "Victim",
-		"race_raw": "White",
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": null,
-		"uid": "29ca32f5-9ecd-4404-aa2c-48f8131282fe",
-		"reward_max": 0,
-		"sex": "Male",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image",
-				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image/large"
-			},
-			{
-				"caption": "Age-progressed to 25 years.  Courtesy of NCMEC",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png",
-				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg",
-				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg",
-				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Green",
-		"details": "<p>Steven Earl Kraft, Jr. was last seen near his residence in Benton Township, Michigan, on February 15, 2001. Kraft was out walking his two dogs between the hours of 7 and 8 p.m. and failed to return home for dinner. Although his two dogs were subsequently located, Kraft has not been seen since that time.</p>",
-		"reward_min": 0,
-		"description": "February 15, 2001\r\nBenton Township, Michigan",
-		"weight_min": 100,
-		"height_min": 62,
-		"path": "/wanted/kidnap/steven-earl-kraft-jr-1",
-		"occupations": null,
-		"modified": "2023-02-23T00:01:52+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/download.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": [
-			"January 11, 1989"
-		],
-		"scars_and_marks": null,
-		"race": "white",
-		"weight": "100 pounds (at time of disappearance)",
-		"remarks": "<p>Steven Earl Kraft, Jr. was last known to be wearing a blue-green Charlotte Hornets basketball team jacket, a tan and white striped t-shirt, tan parachute pants, and black boots. He has ties to Milwaukee, Wisconsin, and Lexington, Kentucky.</p>",
-		"ncic": null,
-		"title": "STEVEN EARL KRAFT, JR.",
-		"height_max": 62,
-		"place_of_birth": "Milwaukee, Wisconsin",
-		"coordinates": [],
-		"hair": "brown",
-		"eyes": "green",
-		"hair_raw": "Sandy Brown",
-		"publication": "2014-02-04T07:00:00",
-		"field_offices": [
-			"detroit"
-		],
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"Kidnappings and Missing Persons"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/29ca32f5-9ecd-4404-aa2c-48f8131282fe"
-	},
-	{
-		"age_min": null,
 		"weight_max": 35,
 		"person_classification": "Victim",
 		"race_raw": "White",
@@ -69559,6 +69477,97 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/85ebb948-ef25-4e21-b528-7006734b542f"
+	},
+	{
+		"age_min": null,
+		"weight_max": 100,
+		"person_classification": "Victim",
+		"race_raw": "White",
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": null,
+		"uid": "29ca32f5-9ecd-4404-aa2c-48f8131282fe",
+		"reward_max": 0,
+		"sex": "Male",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image",
+				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/@@images/image/large"
+			},
+			{
+				"caption": "Age-progressed to 25 years.  Courtesy of NCMEC",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png",
+				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraftage.png/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg",
+				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-4.jpg/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg",
+				"large": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/kraft-3.jpg/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Green",
+		"details": "<p>Steven Earl Kraft, Jr. was last seen near his residence in Benton Township, Michigan, on February 15, 2001. Kraft was out walking his two dogs between the hours of 7 and 8 p.m. and failed to return home for dinner. Although his two dogs were subsequently located, Kraft has not been seen since that time.</p>",
+		"reward_min": 0,
+		"description": "February 15, 2001\r\nBenton Township, Michigan",
+		"weight_min": 100,
+		"height_min": 62,
+		"path": "/wanted/kidnap/steven-earl-kraft-jr-1",
+		"occupations": null,
+		"modified": "2023-02-23T00:01:52+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1/download.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": [
+			"January 11, 1989"
+		],
+		"scars_and_marks": null,
+		"race": "white",
+		"weight": "100 pounds (at time of disappearance)",
+		"remarks": "<p>Steven Earl Kraft, Jr. was last known to be wearing a blue-green Charlotte Hornets basketball team jacket, a tan and white striped t-shirt, tan parachute pants, and black boots. He has ties to Milwaukee, Wisconsin, and Lexington, Kentucky.</p>",
+		"ncic": null,
+		"title": "STEVEN EARL KRAFT, JR.",
+		"height_max": 62,
+		"place_of_birth": "Milwaukee, Wisconsin",
+		"coordinates": [],
+		"hair": "brown",
+		"eyes": "green",
+		"hair_raw": "Sandy Brown",
+		"publication": "2014-02-04T07:00:00",
+		"field_offices": [
+			"detroit"
+		],
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"Kidnappings and Missing Persons"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/kidnap/steven-earl-kraft-jr-1",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/29ca32f5-9ecd-4404-aa2c-48f8131282fe"
 	},
 	{
 		"age_min": null,
@@ -72601,6 +72610,91 @@
 	},
 	{
 		"age_min": null,
+		"weight_max": 140,
+		"person_classification": "Main",
+		"race_raw": "White",
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": null,
+		"uid": "8645dfe9051f4f208f0d27ab37d581f1",
+		"reward_max": 0,
+		"sex": "Female",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/@@images/image",
+				"large": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747245-abby-paterson-90e73.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747245-abby-paterson-90e73.jpg",
+				"large": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747245-abby-paterson-90e73.jpg/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747244-abby-paterson-2552d.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747244-abby-paterson-2552d.jpg",
+				"large": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747244-abby-paterson-2552d.jpg/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Brown",
+		"details": "<p>The Charlotte Division of the FBI and the Lumberton Police Department in North Carolina are seeking assistance from the public to locate Abby Lynn Patterson.</p>\r\n<p>\u00a0</p>\r\n<p>Patterson was last seen on Tuesday, September 5, 2017, around 11:30 a.m. She left her home on East 9th Street in Lumberton, North Carolina, and was seen getting into a brown Buick. Patterson has not been seen since and has not had any contact with family or friends.</p>",
+		"reward_min": 0,
+		"description": "September 5, 2017\r\nLumberton, North Carolina",
+		"weight_min": 140,
+		"height_min": 67,
+		"path": "/wanted/kidnap/abby-lynn-patterson",
+		"occupations": null,
+		"modified": "2023-02-23T00:01:41+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/download.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": [
+			"February 15, 1997"
+		],
+		"scars_and_marks": "Patterson has a tattoo of a bird on her shoulder, and a birthmark on the back of her right thigh.",
+		"race": "white",
+		"weight": "140 pounds",
+		"remarks": "<p>Patterson was last seen wearing brown shorts and a white shirt.</p>",
+		"ncic": null,
+		"title": "ABBY LYNN PATTERSON",
+		"height_max": 67,
+		"place_of_birth": null,
+		"coordinates": [],
+		"hair": "brown",
+		"eyes": "brown",
+		"hair_raw": "Brown",
+		"publication": "2017-11-15T08:58:00",
+		"field_offices": [
+			"charlotte"
+		],
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"Kidnappings and Missing Persons"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/8645dfe9051f4f208f0d27ab37d581f1"
+	},
+	{
+		"age_min": null,
 		"weight_max": 113,
 		"person_classification": "Main",
 		"race_raw": "Black",
@@ -72689,91 +72783,6 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/6710e4653a744fdca0229ad920f3469c"
-	},
-	{
-		"age_min": null,
-		"weight_max": 140,
-		"person_classification": "Main",
-		"race_raw": "White",
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": null,
-		"uid": "8645dfe9051f4f208f0d27ab37d581f1",
-		"reward_max": 0,
-		"sex": "Female",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/@@images/image",
-				"large": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747245-abby-paterson-90e73.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747245-abby-paterson-90e73.jpg",
-				"large": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747245-abby-paterson-90e73.jpg/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747244-abby-paterson-2552d.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747244-abby-paterson-2552d.jpg",
-				"large": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/747244-abby-paterson-2552d.jpg/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Brown",
-		"details": "<p>The Charlotte Division of the FBI and the Lumberton Police Department in North Carolina are seeking assistance from the public to locate Abby Lynn Patterson.</p>\r\n<p>\u00a0</p>\r\n<p>Patterson was last seen on Tuesday, September 5, 2017, around 11:30 a.m. She left her home on East 9th Street in Lumberton, North Carolina, and was seen getting into a brown Buick. Patterson has not been seen since and has not had any contact with family or friends.</p>",
-		"reward_min": 0,
-		"description": "September 5, 2017\r\nLumberton, North Carolina",
-		"weight_min": 140,
-		"height_min": 67,
-		"path": "/wanted/kidnap/abby-lynn-patterson",
-		"occupations": null,
-		"modified": "2023-02-23T00:01:41+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson/download.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": [
-			"February 15, 1997"
-		],
-		"scars_and_marks": "Patterson has a tattoo of a bird on her shoulder, and a birthmark on the back of her right thigh.",
-		"race": "white",
-		"weight": "140 pounds",
-		"remarks": "<p>Patterson was last seen wearing brown shorts and a white shirt.</p>",
-		"ncic": null,
-		"title": "ABBY LYNN PATTERSON",
-		"height_max": 67,
-		"place_of_birth": null,
-		"coordinates": [],
-		"hair": "brown",
-		"eyes": "brown",
-		"hair_raw": "Brown",
-		"publication": "2017-11-15T08:58:00",
-		"field_offices": [
-			"charlotte"
-		],
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"Kidnappings and Missing Persons"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/kidnap/abby-lynn-patterson",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/8645dfe9051f4f208f0d27ab37d581f1"
 	},
 	{
 		"age_min": null,
@@ -76000,6 +76009,98 @@
 	},
 	{
 		"age_min": null,
+		"weight_max": 170,
+		"person_classification": "Main",
+		"race_raw": "White",
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": "The FBI is offering a reward for information leading directly to the arrest of Alvin Scott.",
+		"uid": "d52c79b4ff32763458d4a50fd70f3361",
+		"reward_max": 0,
+		"sex": "Male",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image",
+				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg",
+				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg",
+				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Brown",
+		"details": null,
+		"reward_min": 0,
+		"description": "Unlawful Flight to Avoid Prosecution - Murder",
+		"weight_min": 170,
+		"height_min": 72,
+		"path": "/wanted/murders/alvin-scott",
+		"occupations": null,
+		"modified": "2023-02-23T00:01:12+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/murders/alvin-scott/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/murders/alvin-scott/scottalvinturkish.pdf/@@download/file/scottalvinturkish.pdf",
+				"name": "T\u00fcrk\u00e7e'de"
+			}
+		],
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND A SUICIDE RISK",
+		"legat_names": null,
+		"caution": "<p>Alvin Scott is wanted in connection with the murder of his estranged wife and her male companion in the Buckhead area of Atlanta, Georgia, on August 3, 2001. Both victims were shot numerous times in both the torso and the head. On August 4, 2001, a City of Atlanta arrest warrant was issued for Scott. Then, on August 7, 2001, the United States District Court, Northern District of Georgia, issued a federal arrest warrant for Scott charging him with unlawful flight to avoid prosecution.</p>",
+		"dates_of_birth_used": [
+			"September 21, 1950",
+			"September 1, 1950"
+		],
+		"scars_and_marks": null,
+		"race": "white",
+		"weight": "170 pounds",
+		"remarks": "<p>Scott is a naturalized citizen of the United States who may be traveling on a U.S. passport back to his native homeland of Turkey.</p>",
+		"ncic": "W101821986",
+		"title": "ALVIN SCOTT",
+		"height_max": 72,
+		"place_of_birth": "Turkey",
+		"coordinates": [],
+		"hair": "gray",
+		"eyes": "brown",
+		"hair_raw": "Gray",
+		"publication": "2010-09-07T22:55:00",
+		"field_offices": [
+			"atlanta"
+		],
+		"complexion": null,
+		"aliases": [
+			"Ahmet Sehsuvar"
+		],
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"Violent Crime - Murders"
+		],
+		"nationality": "Turkish",
+		"url": "https://www.fbi.gov/wanted/murders/alvin-scott",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/d52c79b4ff32763458d4a50fd70f3361"
+	},
+	{
+		"age_min": null,
 		"weight_max": 123,
 		"person_classification": "Main",
 		"race_raw": "Black",
@@ -76098,98 +76199,6 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/6497efc926f214c3f18d95e51aad5946"
-	},
-	{
-		"age_min": null,
-		"weight_max": 170,
-		"person_classification": "Main",
-		"race_raw": "White",
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": "The FBI is offering a reward for information leading directly to the arrest of Alvin Scott.",
-		"uid": "d52c79b4ff32763458d4a50fd70f3361",
-		"reward_max": 0,
-		"sex": "Male",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image",
-				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg",
-				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a2.jpg/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg",
-				"large": "https://www.fbi.gov/wanted/murders/alvin-scott/scott_a3.jpg/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Brown",
-		"details": null,
-		"reward_min": 0,
-		"description": "Unlawful Flight to Avoid Prosecution - Murder",
-		"weight_min": 170,
-		"height_min": 72,
-		"path": "/wanted/murders/alvin-scott",
-		"occupations": null,
-		"modified": "2023-02-23T00:01:12+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/murders/alvin-scott/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/murders/alvin-scott/scottalvinturkish.pdf/@@download/file/scottalvinturkish.pdf",
-				"name": "T\u00fcrk\u00e7e'de"
-			}
-		],
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND A SUICIDE RISK",
-		"legat_names": null,
-		"caution": "<p>Alvin Scott is wanted in connection with the murder of his estranged wife and her male companion in the Buckhead area of Atlanta, Georgia, on August 3, 2001. Both victims were shot numerous times in both the torso and the head. On August 4, 2001, a City of Atlanta arrest warrant was issued for Scott. Then, on August 7, 2001, the United States District Court, Northern District of Georgia, issued a federal arrest warrant for Scott charging him with unlawful flight to avoid prosecution.</p>",
-		"dates_of_birth_used": [
-			"September 21, 1950",
-			"September 1, 1950"
-		],
-		"scars_and_marks": null,
-		"race": "white",
-		"weight": "170 pounds",
-		"remarks": "<p>Scott is a naturalized citizen of the United States who may be traveling on a U.S. passport back to his native homeland of Turkey.</p>",
-		"ncic": "W101821986",
-		"title": "ALVIN SCOTT",
-		"height_max": 72,
-		"place_of_birth": "Turkey",
-		"coordinates": [],
-		"hair": "gray",
-		"eyes": "brown",
-		"hair_raw": "Gray",
-		"publication": "2010-09-07T22:55:00",
-		"field_offices": [
-			"atlanta"
-		],
-		"complexion": null,
-		"aliases": [
-			"Ahmet Sehsuvar"
-		],
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"Violent Crime - Murders"
-		],
-		"nationality": "Turkish",
-		"url": "https://www.fbi.gov/wanted/murders/alvin-scott",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/d52c79b4ff32763458d4a50fd70f3361"
 	},
 	{
 		"age_min": null,
@@ -77385,6 +77394,102 @@
 	},
 	{
 		"age_min": null,
+		"weight_max": 150,
+		"person_classification": "Main",
+		"race_raw": "White (Hispanic)",
+		"suspects": null,
+		"possible_countries": [
+			"MEX",
+			"USA"
+		],
+		"reward_text": null,
+		"uid": "f03b9a09ff06f2ea36d26591898a7efe",
+		"reward_max": 0,
+		"sex": "Male",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image",
+				"large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/large"
+			},
+			{
+				"caption": "Photograph taken circa 2021",
+				"thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg",
+				"large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Brown",
+		"details": null,
+		"reward_min": 0,
+		"description": "Unlawful Flight To Avoid Prosecution - Rape",
+		"weight_min": 150,
+		"height_min": 67,
+		"path": "/wanted/cac/jose-antonio-barroso",
+		"occupations": [
+			"Unknown"
+		],
+		"modified": "2023-02-23T00:00:56+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso1spanish.pdf/@@download/file/barroso1Spanish.pdf",
+				"name": "EN ESPA\u00d1OL"
+			}
+		],
+		"warning_message": "SHOULD BE CONSIDERED DANGEROUS AND AN ESCAPE RISK",
+		"legat_names": null,
+		"caution": "<p>Jose Antonio Barroso is wanted for his alleged involvement in a series of rapes involving a young girl in Fort Smith, Arkansas.\u00a0 The rapes allegedly occurred from the time the victim was five years old until she was eleven years old when it was reported.\u00a0 A state arrest warrant was issued by the District Court of Sebastian County, Arkansas, on November 30, 2004, after Barroso was charged with rape. Barroso was charged federally with unlawful flight to avoid prosecution by the United States District Court, Western District of Arkansas, and a federal arrest warrant was issued on February 1, 2005.</p>\r\n<p>\u00a0</p>",
+		"dates_of_birth_used": [
+			"January 10, 1973"
+		],
+		"scars_and_marks": "Barroso has a scar on his left cheek near his mouth.",
+		"race": "hispanic",
+		"weight": "150 pounds",
+		"remarks": "<p>Barroso is believed to be in the Ensenada, Baja California, Mexico, area.</p>",
+		"ncic": "W047103701",
+		"title": "JOSE ANTONIO BARROSO",
+		"height_max": 67,
+		"place_of_birth": "Mexico",
+		"coordinates": [],
+		"hair": "black",
+		"eyes": "brown",
+		"hair_raw": "Black",
+		"publication": "2010-08-27T17:55:00",
+		"field_offices": [
+			"littlerock"
+		],
+		"complexion": null,
+		"aliases": [
+			"James Von Kirk",
+			"Juan Antonio Barroso",
+			"Jose A. Barroso",
+			"Jose A. Barroso Martinez"
+		],
+		"possible_states": [
+			"US-AR",
+			"US-KS"
+		],
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"Crimes Against Children"
+		],
+		"nationality": "Mexican",
+		"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/f03b9a09ff06f2ea36d26591898a7efe"
+	},
+	{
+		"age_min": null,
 		"weight_max": 245,
 		"person_classification": "Main",
 		"race_raw": "White",
@@ -77487,102 +77592,6 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/31305e3516930037386ccab1224b45d2"
-	},
-	{
-		"age_min": null,
-		"weight_max": 150,
-		"person_classification": "Main",
-		"race_raw": "White (Hispanic)",
-		"suspects": null,
-		"possible_countries": [
-			"MEX",
-			"USA"
-		],
-		"reward_text": null,
-		"uid": "f03b9a09ff06f2ea36d26591898a7efe",
-		"reward_max": 0,
-		"sex": "Male",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image",
-				"large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/large"
-			},
-			{
-				"caption": "Photograph taken circa 2021",
-				"thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg",
-				"large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Brown",
-		"details": null,
-		"reward_min": 0,
-		"description": "Unlawful Flight To Avoid Prosecution - Rape",
-		"weight_min": 150,
-		"height_min": 67,
-		"path": "/wanted/cac/jose-antonio-barroso",
-		"occupations": [
-			"Unknown"
-		],
-		"modified": "2023-02-23T00:00:56+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/download.pdf",
-				"name": "English"
-			},
-			{
-				"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso1spanish.pdf/@@download/file/barroso1Spanish.pdf",
-				"name": "EN ESPA\u00d1OL"
-			}
-		],
-		"warning_message": "SHOULD BE CONSIDERED DANGEROUS AND AN ESCAPE RISK",
-		"legat_names": null,
-		"caution": "<p>Jose Antonio Barroso is wanted for his alleged involvement in a series of rapes involving a young girl in Fort Smith, Arkansas.\u00a0 The rapes allegedly occurred from the time the victim was five years old until she was eleven years old when it was reported.\u00a0 A state arrest warrant was issued by the District Court of Sebastian County, Arkansas, on November 30, 2004, after Barroso was charged with rape. Barroso was charged federally with unlawful flight to avoid prosecution by the United States District Court, Western District of Arkansas, and a federal arrest warrant was issued on February 1, 2005.</p>\r\n<p>\u00a0</p>",
-		"dates_of_birth_used": [
-			"January 10, 1973"
-		],
-		"scars_and_marks": "Barroso has a scar on his left cheek near his mouth.",
-		"race": "hispanic",
-		"weight": "150 pounds",
-		"remarks": "<p>Barroso is believed to be in the Ensenada, Baja California, Mexico, area.</p>",
-		"ncic": "W047103701",
-		"title": "JOSE ANTONIO BARROSO",
-		"height_max": 67,
-		"place_of_birth": "Mexico",
-		"coordinates": [],
-		"hair": "black",
-		"eyes": "brown",
-		"hair_raw": "Black",
-		"publication": "2010-08-27T17:55:00",
-		"field_offices": [
-			"littlerock"
-		],
-		"complexion": null,
-		"aliases": [
-			"James Von Kirk",
-			"Juan Antonio Barroso",
-			"Jose A. Barroso",
-			"Jose A. Barroso Martinez"
-		],
-		"possible_states": [
-			"US-AR",
-			"US-KS"
-		],
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"Crimes Against Children"
-		],
-		"nationality": "Mexican",
-		"url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/f03b9a09ff06f2ea36d26591898a7efe"
 	},
 	{
 		"age_min": null,
@@ -80548,6 +80557,86 @@
 	},
 	{
 		"age_min": null,
+		"weight_max": 135,
+		"person_classification": "Main",
+		"race_raw": "White",
+		"suspects": null,
+		"possible_countries": null,
+		"reward_text": null,
+		"uid": "a5c3e19fce0f41db994af0df6fac397c",
+		"reward_max": 0,
+		"sex": "Female",
+		"build": null,
+		"status": "na",
+		"images": [
+			{
+				"caption": null,
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/@@images/image",
+				"large": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/@@images/image/large"
+			},
+			{
+				"caption": "",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/lammers_m-2.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/lammers_m-2.jpg",
+				"large": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/lammers_m-2.jpg/@@images/image/large"
+			}
+		],
+		"eyes_raw": "Blue",
+		"details": "<p>On July 11, 2017, Margaret \u201cPeggy\u201d Thornton Lammers was found deceased inside her family\u2019s vacation home on Stove Point in Deltaville, Virginia. A resident of Cuyahoga County, Ohio, Lammers, who was a married mother of three adult children, was settling the estate of her parents in the Richmond and Middlesex County (Virginia) areas. Lammers departed Richmond for the Deltaville home on July 8, 2017. Her last known contact was the afternoon of July 10, 2017. After receiving a request for a welfare check, Middlesex County Sheriff\u2019s Office arrived at the Deltaville home, where Lammers was found deceased, as a result of blunt force trauma. The FBI is asking for cooperation from the public regarding any information pertaining to Lammers\u2019 death, people she was known to communicate with, or activity occurring near the residence.</p>\r\n<p>\u00a0</p>",
+		"reward_min": 0,
+		"description": "Homicide Victim\r\nDeltaville, Virginia\r\nJuly 11, 2017",
+		"weight_min": 135,
+		"height_min": 68,
+		"path": "/wanted/seeking-info/margaret-thornton-lammers",
+		"occupations": null,
+		"modified": "2023-02-23T00:00:36+00:00",
+		"files": [
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/download.pdf",
+				"name": "English"
+			}
+		],
+		"warning_message": null,
+		"legat_names": null,
+		"caution": null,
+		"dates_of_birth_used": [
+			"January 24, 1956"
+		],
+		"scars_and_marks": null,
+		"race": "white",
+		"weight": "135 pounds",
+		"remarks": null,
+		"ncic": null,
+		"title": "MARGARET THORNTON LAMMERS",
+		"height_max": 68,
+		"place_of_birth": null,
+		"coordinates": [],
+		"hair": "brown",
+		"eyes": "blue",
+		"hair_raw": "Brown",
+		"publication": "2019-11-21T07:04:00",
+		"field_offices": [
+			"cleveland",
+			"richmond"
+		],
+		"complexion": null,
+		"aliases": null,
+		"possible_states": null,
+		"languages": null,
+		"additional_information": null,
+		"subjects": [
+			"Seeking Information"
+		],
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers",
+		"locations": null,
+		"age_range": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/a5c3e19fce0f41db994af0df6fac397c"
+	},
+	{
+		"age_min": null,
 		"weight_max": null,
 		"person_classification": "Main",
 		"race_raw": "White",
@@ -80635,86 +80724,6 @@
 		"age_range": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/14ad17f74f0443d89bf27890c267b197"
-	},
-	{
-		"age_min": null,
-		"weight_max": 135,
-		"person_classification": "Main",
-		"race_raw": "White",
-		"suspects": null,
-		"possible_countries": null,
-		"reward_text": null,
-		"uid": "a5c3e19fce0f41db994af0df6fac397c",
-		"reward_max": 0,
-		"sex": "Female",
-		"build": null,
-		"status": "na",
-		"images": [
-			{
-				"caption": null,
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/@@images/image",
-				"large": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/@@images/image/large"
-			},
-			{
-				"caption": "",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/lammers_m-2.jpg/@@images/image/thumb",
-				"original": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/lammers_m-2.jpg",
-				"large": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/lammers_m-2.jpg/@@images/image/large"
-			}
-		],
-		"eyes_raw": "Blue",
-		"details": "<p>On July 11, 2017, Margaret \u201cPeggy\u201d Thornton Lammers was found deceased inside her family\u2019s vacation home on Stove Point in Deltaville, Virginia. A resident of Cuyahoga County, Ohio, Lammers, who was a married mother of three adult children, was settling the estate of her parents in the Richmond and Middlesex County (Virginia) areas. Lammers departed Richmond for the Deltaville home on July 8, 2017. Her last known contact was the afternoon of July 10, 2017. After receiving a request for a welfare check, Middlesex County Sheriff\u2019s Office arrived at the Deltaville home, where Lammers was found deceased, as a result of blunt force trauma. The FBI is asking for cooperation from the public regarding any information pertaining to Lammers\u2019 death, people she was known to communicate with, or activity occurring near the residence.</p>\r\n<p>\u00a0</p>",
-		"reward_min": 0,
-		"description": "Homicide Victim\r\nDeltaville, Virginia\r\nJuly 11, 2017",
-		"weight_min": 135,
-		"height_min": 68,
-		"path": "/wanted/seeking-info/margaret-thornton-lammers",
-		"occupations": null,
-		"modified": "2023-02-23T00:00:36+00:00",
-		"files": [
-			{
-				"url": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers/download.pdf",
-				"name": "English"
-			}
-		],
-		"warning_message": null,
-		"legat_names": null,
-		"caution": null,
-		"dates_of_birth_used": [
-			"January 24, 1956"
-		],
-		"scars_and_marks": null,
-		"race": "white",
-		"weight": "135 pounds",
-		"remarks": null,
-		"ncic": null,
-		"title": "MARGARET THORNTON LAMMERS",
-		"height_max": 68,
-		"place_of_birth": null,
-		"coordinates": [],
-		"hair": "brown",
-		"eyes": "blue",
-		"hair_raw": "Brown",
-		"publication": "2019-11-21T07:04:00",
-		"field_offices": [
-			"cleveland",
-			"richmond"
-		],
-		"complexion": null,
-		"aliases": null,
-		"possible_states": null,
-		"languages": null,
-		"additional_information": null,
-		"subjects": [
-			"Seeking Information"
-		],
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/margaret-thornton-lammers",
-		"locations": null,
-		"age_range": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/a5c3e19fce0f41db994af0df6fac397c"
 	},
 	{
 		"age_min": null,
