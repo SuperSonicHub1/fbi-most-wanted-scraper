@@ -2,6 +2,93 @@
 	{
 		"files": [
 			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/download.pdf",
+				"name": "English"
+			},
+			{
+				"url": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquarespanish.pdf/@@download/file/TimesSquareSpanish.pdf",
+				"name": "EN ESPA\u00d1OL"
+			}
+		],
+		"age_range": null,
+		"uid": "51cb961b-fb58-4c6a-a89b-cd34c1df04b7",
+		"weight": null,
+		"occupations": null,
+		"field_offices": [
+			"newyork"
+		],
+		"locations": null,
+		"reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the identification, arrest and conviction of the person(s) responsible for the 2008 bombing of the United States Armed Forces Recruiting Station.",
+		"hair": null,
+		"ncic": null,
+		"dates_of_birth_used": null,
+		"caution": null,
+		"nationality": null,
+		"age_min": null,
+		"age_max": null,
+		"scars_and_marks": null,
+		"subjects": [
+			"Seeking Information"
+		],
+		"aliases": null,
+		"race_raw": null,
+		"suspects": null,
+		"publication": "2013-06-11T07:00:00",
+		"title": "UNSOLVED BOMBINGS",
+		"coordinates": [],
+		"hair_raw": null,
+		"languages": null,
+		"complexion": null,
+		"build": null,
+		"details": "<p>Early on the morning of Thursday, March 6, 2008, a bomb exploded in front of the United States Armed Forces Recruiting Station in New York City\u2019s Times Square. The device, which was built using an ammunition can similar to those found on the battlefields in Iraq and Afghanistan, was filled halfway with black powder and detonated using a time fuse. Although no one was wounded, the device could have caused significant injury and casualties if people had been close to the blast.</p>\r\n<p>The suspect rode a blue \"Ross\" bicycle west on 37th Street, took a right heading north on Sixth Avenue, and made a left heading west on 47th Street before turning left to head south on Seventh Avenue. The suspect got off the bike near the recruiting station at West 43rd Street and Seventh Avenue, placed the explosive device at the recruiting station, lit a fuse, returned to the bicycle, and fled the scene. The suspect rode the bike south on Broadway before making a left on 38th Street. The bike was later recovered in a dumpster near Madison Avenue and 38th Street.</p>\r\n<p>Although the suspect appears to be working alone, he or she may have had a lookout or surveillance team of as many as five individuals located in Times Square at the time the device was placed. The suspect was last seen wearing a gray sweatshirt and pants of an unknown color. The height, weight, age, sex, and race of the suspect are unknown.</p>\r\n<p>Details of this bombing are similar to those of two other unsolved bombings that occurred in New York City, one at the British Consulate in May of 2005, and the other at the Mexican Consulate in October of 2007. All of the devices were delivered by an individual on a bicycle and were detonated between 3 a.m. and 4 a.m. The incidents may be connected.</p>",
+		"status": "na",
+		"legat_names": null,
+		"eyes": null,
+		"person_classification": "Victim",
+		"description": "New York City, New York\r\nMarch 6, 2008",
+		"images": [
+			{
+				"large": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/@@images/image/large",
+				"caption": "Post-Blast Photograph",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/@@images/image"
+			},
+			{
+				"large": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquare2aa.jpg/@@images/image/large",
+				"caption": "Part of the Detonated Ammunition Can",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquare2aa.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquare2aa.jpg"
+			},
+			{
+				"large": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquarebike-1.jpg/@@images/image/large",
+				"caption": "Blue \"Ross\" Bicycle Used by Suspect",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquarebike-1.jpg/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquarebike-1.jpg"
+			}
+		],
+		"possible_countries": null,
+		"weight_min": null,
+		"additional_information": null,
+		"remarks": null,
+		"path": "/wanted/seeking-info/unsolved-bombings",
+		"sex": null,
+		"eyes_raw": null,
+		"weight_max": null,
+		"reward_min": 0,
+		"url": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings",
+		"possible_states": null,
+		"modified": "2023-03-01T17:44:58+00:00",
+		"reward_max": 0,
+		"race": null,
+		"height_max": null,
+		"place_of_birth": null,
+		"height_min": null,
+		"warning_message": null,
+		"@id": "https://api.fbi.gov/@wanted-person/51cb961b-fb58-4c6a-a89b-cd34c1df04b7"
+	},
+	{
+		"files": [
+			{
 				"url": "https://www.fbi.gov/wanted/topten/michael-james-pratt/download.pdf",
 				"name": "English"
 			}
@@ -373,93 +460,6 @@
 		"height_min": 64,
 		"warning_message": null,
 		"@id": "https://api.fbi.gov/@wanted-person/2ff9b54c1a0945709192675d72bad5e1"
-	},
-	{
-		"eyes": null,
-		"complexion": null,
-		"uid": "51cb961b-fb58-4c6a-a89b-cd34c1df04b7",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/@@images/image/thumb",
-				"caption": "Post-Blast Photograph",
-				"large": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/@@images/image/large"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquare2aa.jpg",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquare2aa.jpg/@@images/image/thumb",
-				"caption": "Part of the Detonated Ammunition Can",
-				"large": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquare2aa.jpg/@@images/image/large"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquarebike-1.jpg",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquarebike-1.jpg/@@images/image/thumb",
-				"caption": "Blue \"Ross\" Bicycle Used by Suspect",
-				"large": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquarebike-1.jpg/@@images/image/large"
-			}
-		],
-		"coordinates": [],
-		"suspects": null,
-		"eyes_raw": null,
-		"caution": null,
-		"publication": "2013-06-11T07:00:00",
-		"ncic": null,
-		"occupations": null,
-		"dates_of_birth_used": null,
-		"path": "/wanted/seeking-info/unsolved-bombings",
-		"remarks": null,
-		"weight": null,
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/download.pdf"
-			},
-			{
-				"name": "EN ESPA\u00d1OL",
-				"url": "https://www.fbi.gov/wanted/seeking-info/unsolved-bombings/timessquarespanish.pdf/@@download/file/TimesSquareSpanish.pdf"
-			}
-		],
-		"sex": null,
-		"age_range": null,
-		"build": null,
-		"race_raw": null,
-		"aliases": null,
-		"details": "<p>Early on the morning of Thursday, March 6, 2008, a bomb exploded in front of the United States Armed Forces Recruiting Station in New York City\u2019s Times Square. The device, which was built using an ammunition can similar to those found on the battlefields in Iraq and Afghanistan, was filled halfway with black powder and detonated using a time fuse. Although no one was wounded, the device could have caused significant injury and casualties if people had been close to the blast.</p>\r\n<p>The suspect rode a blue \"Ross\" bicycle west on 37th Street, took a right heading north on Sixth Avenue, and made a left heading west on 47th Street before turning left to head south on Seventh Avenue. The suspect got off the bike near the recruiting station at West 43rd Street and Seventh Avenue, placed the explosive device at the recruiting station, lit a fuse, returned to the bicycle, and fled the scene. The suspect rode the bike south on Broadway before making a left on 38th Street. The bike was later recovered in a dumpster near Madison Avenue and 38th Street.</p>\r\n<p>Although the suspect appears to be working alone, he or she may have had a lookout or surveillance team of as many as five individuals located in Times Square at the time the device was placed. The suspect was last seen wearing a gray sweatshirt and pants of an unknown color. The height, weight, age, sex, and race of the suspect are unknown.</p>\r\n<p>Details of this bombing are similar to those of two other unsolved bombings that occurred in New York City, one at the British Consulate in May of 2005, and the other at the Mexican Consulate in October of 2007. All of the devices were delivered by an individual on a bicycle and were detonated between 3 a.m. and 4 a.m. The incidents may be connected.</p>",
-		"field_offices": [
-			"newyork"
-		],
-		"height_min": null,
-		"status": "na",
-		"subjects": [
-			"Seeking Information"
-		],
-		"scars_and_marks": null,
-		"weight_min": null,
-		"modified": "2023-02-28T14:54:25+00:00",
-		"place_of_birth": null,
-		"possible_countries": null,
-		"hair": null,
-		"reward_max": 0,
-		"reward_min": 0,
-		"height_max": null,
-		"locations": null,
-		"weight_max": null,
-		"race": null,
-		"person_classification": "Victim",
-		"reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the identification, arrest and conviction of the person(s) responsible for the 2008 bombing of the United States Armed Forces Recruiting Station.",
-		"title": "UNSOLVED BOMBINGS",
-		"hair_raw": null,
-		"languages": null,
-		"warning_message": null,
-		"additional_information": null,
-		"legat_names": null,
-		"possible_states": null,
-		"description": "New York City, New York\r\nMarch 6, 2008",
-		"age_min": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/51cb961b-fb58-4c6a-a89b-cd34c1df04b7"
 	},
 	{
 		"eyes": "brown",
@@ -12079,87 +12079,6 @@
 	{
 		"eyes": "brown",
 		"complexion": null,
-		"uid": "9d06a9ef84c148439c6493cb15b856b2",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/cyber/amin-shokohi/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/cyber/amin-shokohi/@@images/image/thumb",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/cyber/amin-shokohi/@@images/image/large"
-			}
-		],
-		"coordinates": [],
-		"suspects": null,
-		"eyes_raw": "Brown",
-		"caution": "<p>Amin Shokohi is wanted for his alleged involvement in a conspiracy to conduct a coordinated campaign of <a href=\"https://www.fbi.gov/wanted/cyber/iranian-ddos-attacks/view\">distributed denial of service (\"DDoS\") attacks</a> against the United States financial sector and other United States companies from 2011 through 2013. Shokohi was a computer hacker who worked for ITSecTeam, an Iranian information technology company. He allegedly helped build the botnet that was used to direct the DDoS attacks, and authored attack scripts and created malware that were used to engage in the attacks. Shokohi also allegedly obtained bot shells that were used in the DDoS attacks.</p>\r\n<p>\u00a0</p>\r\n<p>On January 21, 2016, a grand jury in the United States District Court, Southern District of New York, indicted Shokohi for his alleged involvement in the scheme and a federal warrant was issued for his arrest after he was charged with conspiracy to commit, and aid and abet, computer intrusion.</p>",
-		"publication": "2016-07-15T14:41:00",
-		"ncic": "W615874377",
-		"occupations": [
-			"Software Engineer"
-		],
-		"dates_of_birth_used": [
-			"July 11, 1989",
-			"July 11, 1990",
-			"August 5, 1981"
-		],
-		"path": "/wanted/cyber/amin-shokohi",
-		"remarks": "<p>Shokohi is known to speak Farsi and is thought to be living in Iran.</p>",
-		"weight": "Approximately 160 pounds",
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/cyber/amin-shokohi",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/cyber/amin-shokohi/download.pdf"
-			},
-			{
-				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc",
-				"url": "https://www.fbi.gov/wanted/cyber/amin-shokohi/shokohifarsi.pdf/@@download/file/shokohifarsi.pdf"
-			}
-		],
-		"sex": "Male",
-		"age_range": null,
-		"build": null,
-		"race_raw": null,
-		"aliases": null,
-		"details": null,
-		"field_offices": [
-			"newyork"
-		],
-		"height_min": 66,
-		"status": "na",
-		"subjects": [
-			"Cyber's Most Wanted"
-		],
-		"scars_and_marks": null,
-		"weight_min": 160,
-		"modified": "2023-02-28T00:09:57+00:00",
-		"place_of_birth": "Karaj, Iran",
-		"possible_countries": null,
-		"hair": "brown",
-		"reward_max": 0,
-		"reward_min": 0,
-		"height_max": 66,
-		"locations": null,
-		"weight_max": 160,
-		"race": null,
-		"person_classification": "Main",
-		"reward_text": null,
-		"title": "AMIN SHOKOHI",
-		"hair_raw": "Brown",
-		"languages": null,
-		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
-		"additional_information": null,
-		"legat_names": null,
-		"possible_states": null,
-		"description": "Conspiracy to Commit, and Aid and Abet, Computer Intrusion",
-		"age_min": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/9d06a9ef84c148439c6493cb15b856b2"
-	},
-	{
-		"eyes": "brown",
-		"complexion": null,
 		"uid": "c2cfafa4b39848dabce2ff13a7dcec93",
 		"images": [
 			{
@@ -12237,6 +12156,87 @@
 		"age_min": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/c2cfafa4b39848dabce2ff13a7dcec93"
+	},
+	{
+		"eyes": "brown",
+		"complexion": null,
+		"uid": "9d06a9ef84c148439c6493cb15b856b2",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/cyber/amin-shokohi/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/cyber/amin-shokohi/@@images/image/thumb",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/cyber/amin-shokohi/@@images/image/large"
+			}
+		],
+		"coordinates": [],
+		"suspects": null,
+		"eyes_raw": "Brown",
+		"caution": "<p>Amin Shokohi is wanted for his alleged involvement in a conspiracy to conduct a coordinated campaign of <a href=\"https://www.fbi.gov/wanted/cyber/iranian-ddos-attacks/view\">distributed denial of service (\"DDoS\") attacks</a> against the United States financial sector and other United States companies from 2011 through 2013. Shokohi was a computer hacker who worked for ITSecTeam, an Iranian information technology company. He allegedly helped build the botnet that was used to direct the DDoS attacks, and authored attack scripts and created malware that were used to engage in the attacks. Shokohi also allegedly obtained bot shells that were used in the DDoS attacks.</p>\r\n<p>\u00a0</p>\r\n<p>On January 21, 2016, a grand jury in the United States District Court, Southern District of New York, indicted Shokohi for his alleged involvement in the scheme and a federal warrant was issued for his arrest after he was charged with conspiracy to commit, and aid and abet, computer intrusion.</p>",
+		"publication": "2016-07-15T14:41:00",
+		"ncic": "W615874377",
+		"occupations": [
+			"Software Engineer"
+		],
+		"dates_of_birth_used": [
+			"July 11, 1989",
+			"July 11, 1990",
+			"August 5, 1981"
+		],
+		"path": "/wanted/cyber/amin-shokohi",
+		"remarks": "<p>Shokohi is known to speak Farsi and is thought to be living in Iran.</p>",
+		"weight": "Approximately 160 pounds",
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/cyber/amin-shokohi",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/cyber/amin-shokohi/download.pdf"
+			},
+			{
+				"name": "\u0628\u0647 \u0632\u0628\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc",
+				"url": "https://www.fbi.gov/wanted/cyber/amin-shokohi/shokohifarsi.pdf/@@download/file/shokohifarsi.pdf"
+			}
+		],
+		"sex": "Male",
+		"age_range": null,
+		"build": null,
+		"race_raw": null,
+		"aliases": null,
+		"details": null,
+		"field_offices": [
+			"newyork"
+		],
+		"height_min": 66,
+		"status": "na",
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"scars_and_marks": null,
+		"weight_min": 160,
+		"modified": "2023-02-28T00:09:57+00:00",
+		"place_of_birth": "Karaj, Iran",
+		"possible_countries": null,
+		"hair": "brown",
+		"reward_max": 0,
+		"reward_min": 0,
+		"height_max": 66,
+		"locations": null,
+		"weight_max": 160,
+		"race": null,
+		"person_classification": "Main",
+		"reward_text": null,
+		"title": "AMIN SHOKOHI",
+		"hair_raw": "Brown",
+		"languages": null,
+		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+		"additional_information": null,
+		"legat_names": null,
+		"possible_states": null,
+		"description": "Conspiracy to Commit, and Aid and Abet, Computer Intrusion",
+		"age_min": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/9d06a9ef84c148439c6493cb15b856b2"
 	},
 	{
 		"eyes": "brown",
@@ -13621,6 +13621,94 @@
 	{
 		"eyes": "brown",
 		"complexion": null,
+		"uid": "cd2c80af-771e-4b11-b052-c2255f4e010e",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/thumb",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/large"
+			}
+		],
+		"coordinates": [],
+		"suspects": null,
+		"eyes_raw": "Brown",
+		"caution": "<p>Firas Dardar is wanted for his alleged involvement in the Syrian Electronic Army (SEA), a group of individuals who allegedly commit hacks in support of the Syrian Regime. It is alleged that, between September of 2011 and January of 2014, Dardar committed dozens of cyber attacks against United States government agencies, media organizations, and private organizations under the SEA banner while using the online nickname, \"The Shadow\". On June 12, 2014, a criminal complaint was filed in the United States District Court, Eastern District of Virginia, Alexandria, Virginia, charging Dardar with conspiring to violate numerous laws related to the commission of computer intrusions.</p>\r\n<p>\u00a0</p>\r\n<p>Additionally, Dardar is also suspected of being responsible for a series of cyber extortion schemes targeting a variety of American and international companies. A separate criminal complaint charging Dardar with these cyber extortion schemes was filed on September 29, 2015.</p>",
+		"publication": "2016-03-10T07:00:00",
+		"ncic": null,
+		"occupations": null,
+		"dates_of_birth_used": [
+			"March 3, 1989"
+		],
+		"path": "/wanted/cyber/firas-dardar",
+		"remarks": "<p>Dardar is known to be a smoker. He is believed to be residing in Homs, Syria.</p>",
+		"weight": null,
+		"nationality": "Syrian",
+		"url": "https://www.fbi.gov/wanted/cyber/firas-dardar",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/download.pdf"
+			},
+			{
+				"name": "\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/dardararabic.pdf/@@download/file/dardararabic.pdf"
+			}
+		],
+		"sex": "Male",
+		"age_range": null,
+		"build": null,
+		"race_raw": "White",
+		"aliases": [
+			"Firas Nur Al Din Dardar",
+			"Firas Nural Din Dardar",
+			"Firas Nour Alden Dardar",
+			"Feras Firas Nur-al-Din",
+			"Firas Derdar",
+			"Firas Drdr",
+			"Feras Dardar",
+			"\"The Shadow\"",
+			"\"Ethical Dragon\"",
+			"\"Ethical Spectrum\""
+		],
+		"details": null,
+		"field_offices": [
+			"washingtondc"
+		],
+		"height_min": null,
+		"status": "na",
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"scars_and_marks": null,
+		"weight_min": null,
+		"modified": "2023-02-28T00:09:53+00:00",
+		"place_of_birth": "Homs, Syria",
+		"possible_countries": null,
+		"hair": "brown",
+		"reward_max": 0,
+		"reward_min": 0,
+		"height_max": null,
+		"locations": null,
+		"weight_max": null,
+		"race": "white",
+		"person_classification": "Main",
+		"reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest of Firas Dardar.",
+		"title": "FIRAS DARDAR",
+		"hair_raw": "Dark Brown",
+		"languages": null,
+		"warning_message": null,
+		"additional_information": null,
+		"legat_names": null,
+		"possible_states": null,
+		"description": "Conspiracy to Gain Unauthorized Access to and Damage Computers; Conspiracy to Convey False Information Regarding a Terrorist Attack; Conspiracy to Cause Mutiny of United States Military Members; Conspiracy to Commit Identity Theft, Conspiracy to Commit Access Device Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Commit Wire Fraud; Conspiracy to Violate Syrian Sanctions Regulations; Conspiracy to Receive the Proceeds of Extortion; Conspiracy to Send an Unlawful Interstate Communication",
+		"age_min": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/cd2c80af-771e-4b11-b052-c2255f4e010e"
+	},
+	{
+		"eyes": "brown",
+		"complexion": null,
 		"uid": "2ec40393-a9f3-4a1f-ad20-ac71787c5869",
 		"images": [
 			{
@@ -13713,94 +13801,6 @@
 		"age_min": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/2ec40393-a9f3-4a1f-ad20-ac71787c5869"
-	},
-	{
-		"eyes": "brown",
-		"complexion": null,
-		"uid": "cd2c80af-771e-4b11-b052-c2255f4e010e",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/thumb",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/large"
-			}
-		],
-		"coordinates": [],
-		"suspects": null,
-		"eyes_raw": "Brown",
-		"caution": "<p>Firas Dardar is wanted for his alleged involvement in the Syrian Electronic Army (SEA), a group of individuals who allegedly commit hacks in support of the Syrian Regime. It is alleged that, between September of 2011 and January of 2014, Dardar committed dozens of cyber attacks against United States government agencies, media organizations, and private organizations under the SEA banner while using the online nickname, \"The Shadow\". On June 12, 2014, a criminal complaint was filed in the United States District Court, Eastern District of Virginia, Alexandria, Virginia, charging Dardar with conspiring to violate numerous laws related to the commission of computer intrusions.</p>\r\n<p>\u00a0</p>\r\n<p>Additionally, Dardar is also suspected of being responsible for a series of cyber extortion schemes targeting a variety of American and international companies. A separate criminal complaint charging Dardar with these cyber extortion schemes was filed on September 29, 2015.</p>",
-		"publication": "2016-03-10T07:00:00",
-		"ncic": null,
-		"occupations": null,
-		"dates_of_birth_used": [
-			"March 3, 1989"
-		],
-		"path": "/wanted/cyber/firas-dardar",
-		"remarks": "<p>Dardar is known to be a smoker. He is believed to be residing in Homs, Syria.</p>",
-		"weight": null,
-		"nationality": "Syrian",
-		"url": "https://www.fbi.gov/wanted/cyber/firas-dardar",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/download.pdf"
-			},
-			{
-				"name": "\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/dardararabic.pdf/@@download/file/dardararabic.pdf"
-			}
-		],
-		"sex": "Male",
-		"age_range": null,
-		"build": null,
-		"race_raw": "White",
-		"aliases": [
-			"Firas Nur Al Din Dardar",
-			"Firas Nural Din Dardar",
-			"Firas Nour Alden Dardar",
-			"Feras Firas Nur-al-Din",
-			"Firas Derdar",
-			"Firas Drdr",
-			"Feras Dardar",
-			"\"The Shadow\"",
-			"\"Ethical Dragon\"",
-			"\"Ethical Spectrum\""
-		],
-		"details": null,
-		"field_offices": [
-			"washingtondc"
-		],
-		"height_min": null,
-		"status": "na",
-		"subjects": [
-			"Cyber's Most Wanted"
-		],
-		"scars_and_marks": null,
-		"weight_min": null,
-		"modified": "2023-02-28T00:09:53+00:00",
-		"place_of_birth": "Homs, Syria",
-		"possible_countries": null,
-		"hair": "brown",
-		"reward_max": 0,
-		"reward_min": 0,
-		"height_max": null,
-		"locations": null,
-		"weight_max": null,
-		"race": "white",
-		"person_classification": "Main",
-		"reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest of Firas Dardar.",
-		"title": "FIRAS DARDAR",
-		"hair_raw": "Dark Brown",
-		"languages": null,
-		"warning_message": null,
-		"additional_information": null,
-		"legat_names": null,
-		"possible_states": null,
-		"description": "Conspiracy to Gain Unauthorized Access to and Damage Computers; Conspiracy to Convey False Information Regarding a Terrorist Attack; Conspiracy to Cause Mutiny of United States Military Members; Conspiracy to Commit Identity Theft, Conspiracy to Commit Access Device Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Commit Wire Fraud; Conspiracy to Violate Syrian Sanctions Regulations; Conspiracy to Receive the Proceeds of Extortion; Conspiracy to Send an Unlawful Interstate Communication",
-		"age_min": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/cd2c80af-771e-4b11-b052-c2255f4e010e"
 	},
 	{
 		"eyes": "blue",
@@ -30590,194 +30590,148 @@
 		"@id": "https://api.fbi.gov/@wanted-person/e4b00840c50242ddb50cec50244d9e1a"
 	},
 	{
-		"eyes": "brown",
+		"eyes": null,
 		"complexion": null,
-		"uid": "2978c2dee66b4a10a4b3030a00aa7db7",
+		"uid": "0624daf9191641c68ff01fd62bde9d5f",
 		"images": [
 			{
-				"original": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/violence-at-the-united-states-capitol-main/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/violence-at-the-united-states-capitol-main/@@images/image/thumb",
 				"caption": null,
-				"large": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/@@images/image/large"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhin2.jpg",
-				"thumb": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhin2.jpg/@@images/image/thumb",
-				"caption": "",
-				"large": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhin2.jpg/@@images/image/large"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhin3.jpg",
-				"thumb": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhin3.jpg/@@images/image/thumb",
-				"caption": "",
-				"large": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhin3.jpg/@@images/image/large"
+				"large": "https://www.fbi.gov/wanted/seeking-info/violence-at-the-united-states-capitol-main/@@images/image/large"
 			}
 		],
 		"coordinates": [],
 		"suspects": null,
-		"eyes_raw": "Brown",
-		"caution": "<p>Yevgeniy Viktorovich Prigozhin is wanted by the FBI for his alleged involvement in a <a data-val=\"https://www.fbi.gov/wanted/counterintelligence/2016-election-interference\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/counterintelligence/2016-election-interference\" data-urltype=\"/view\">conspiracy to defraud the United States</a> by impairing, obstructing, and defeating the lawful functions of the Federal Election Commission, the United States Department of Justice, and the United States Department of State.\u00a0 This occurred in Washington, D.C., from early 2014 to February 16, 2018.\u00a0 Prigozhin was the primary funder of the St. Petersburg-based Internet Research Agency (IRA).\u00a0 He allegedly oversaw and approved their political and electoral interference operations in the United States which included the purchase of American computer server space, the creation of hundreds of fictitious online personas, and the use of stolen identities of persons from the United States. \u00a0These actions were allegedly taken to reach significant numbers of Americans for the purposes of interfering with the United States political system, including the 2016 Presidential Election.\u00a0</p>\r\n<p>\u00a0</p>\r\n<p>On February 16, 2018, a federal arrest warrant was issued for Yevgeniy Viktorovich Prigozhin in the United States District Court for the District of Columbia after he was charged with conspiracy to defraud the United States.\u00a0</p>\r\n<p>\u00a0</p>",
-		"publication": "2020-06-02T12:39:00",
-		"ncic": "W713167242",
+		"eyes_raw": null,
+		"caution": null,
+		"publication": "2021-02-01T16:13:00",
+		"ncic": null,
 		"occupations": null,
-		"dates_of_birth_used": [
-			"June 1, 1961"
-		],
-		"path": "/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin",
-		"remarks": "<p>Prigozhin speaks Russian and has ties to Russia, Indonesia, and Qatar.</p>",
+		"dates_of_birth_used": null,
+		"path": "/wanted/seeking-info/violence-at-the-united-states-capitol-main",
+		"remarks": null,
 		"weight": null,
-		"nationality": "Russian",
-		"url": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin",
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/violence-at-the-united-states-capitol-main",
 		"files": [
 			{
 				"name": "English",
-				"url": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/yevgeniy-vicktorovich-prigozhin3.pdf"
-			},
-			{
-				"name": "\u041d\u0410 \u0420\u0423\u0421\u0421\u041a\u041e\u041c",
-				"url": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhinrussian3.pdf/@@download/file/PrigozhinRussian3.pdf"
-			},
-			{
-				"name": "\u043d\u0430 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456\u0439 \u043c\u043e\u0432\u0456",
-				"url": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhinukrainian3.pdf/@@download/file/PrigozhinUkrainian3.pdf"
+				"url": "https://www.fbi.gov/wanted/seeking-info/violence-at-the-united-states-capitol-main/download.pdf"
 			}
 		],
-		"sex": "Male",
+		"sex": null,
 		"age_range": null,
 		"build": null,
-		"race_raw": "White",
-		"aliases": [
-			"\"Yevgeny\""
-		],
-		"details": null,
+		"race_raw": null,
+		"aliases": null,
+		"details": "<p>The Federal Bureau of Investigation\u2019s (FBI) Washington Field Office is seeking the public\u2019s assistance in identifying individuals who made unlawful entry into the United States Capitol Building and various other alleged criminal violations, such as destruction of property, assaulting law enforcement personnel, targeting members of the media for assault, and other unlawful conduct, on January 6, 2021, in Washington, D.C.</p>\r\n<p>\u00a0</p>\r\n<p>As of February 2, 2021, all images of individuals being sought in connection with Violence at the United States Capitol can be found on the FBI's main <a data-val=\"https://www.fbi.gov/wanted/capitol-violence\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/capitol-violence\" data-urltype=\"/view\">Capitol Violence page</a>.</p>\r\n<p>\u00a0</p>",
 		"field_offices": [
 			"washingtondc"
 		],
 		"height_min": null,
 		"status": "na",
 		"subjects": [
-			"Counterintelligence"
+			"Capitol",
+			"Seeking Information"
 		],
 		"scars_and_marks": null,
 		"weight_min": null,
 		"modified": "2023-02-28T00:07:21+00:00",
-		"place_of_birth": "Russia",
+		"place_of_birth": null,
 		"possible_countries": null,
-		"hair": "bald",
+		"hair": null,
 		"reward_max": 0,
 		"reward_min": 0,
 		"height_max": null,
 		"locations": null,
 		"weight_max": null,
-		"race": "white",
+		"race": null,
 		"person_classification": "Main",
-		"reward_text": "The FBI is offering a reward of up to $250,000 for information leading to the arrest of Yevgeniy Viktorovich Prigozhin.",
-		"title": "YEVGENIY VIKTOROVICH PRIGOZHIN",
-		"hair_raw": "Bald",
+		"reward_text": null,
+		"title": "VIOLENCE AT THE UNITED STATES CAPITOL",
+		"hair_raw": null,
 		"languages": null,
-		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+		"warning_message": null,
 		"additional_information": null,
 		"legat_names": null,
 		"possible_states": null,
-		"description": "Conspiracy to Defraud the United States",
+		"description": "Washington, D.C.\r\nJanuary 6, 2021",
 		"age_min": null,
 		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/2978c2dee66b4a10a4b3030a00aa7db7"
+		"@id": "https://api.fbi.gov/@wanted-person/0624daf9191641c68ff01fd62bde9d5f"
 	},
 	{
-		"eyes": "brown",
+		"eyes": null,
 		"complexion": null,
-		"uid": "2978c2dee66b4a10a4b3030a00aa7db7",
+		"uid": "0624daf9191641c68ff01fd62bde9d5f",
 		"images": [
 			{
-				"original": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/@@images/image/thumb",
+				"original": "https://www.fbi.gov/wanted/seeking-info/violence-at-the-united-states-capitol-main/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/violence-at-the-united-states-capitol-main/@@images/image/thumb",
 				"caption": null,
-				"large": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/@@images/image/large"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhin2.jpg",
-				"thumb": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhin2.jpg/@@images/image/thumb",
-				"caption": "",
-				"large": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhin2.jpg/@@images/image/large"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhin3.jpg",
-				"thumb": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhin3.jpg/@@images/image/thumb",
-				"caption": "",
-				"large": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhin3.jpg/@@images/image/large"
+				"large": "https://www.fbi.gov/wanted/seeking-info/violence-at-the-united-states-capitol-main/@@images/image/large"
 			}
 		],
 		"coordinates": [],
 		"suspects": null,
-		"eyes_raw": "Brown",
-		"caution": "<p>Yevgeniy Viktorovich Prigozhin is wanted by the FBI for his alleged involvement in a <a data-val=\"https://www.fbi.gov/wanted/counterintelligence/2016-election-interference\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/counterintelligence/2016-election-interference\" data-urltype=\"/view\">conspiracy to defraud the United States</a> by impairing, obstructing, and defeating the lawful functions of the Federal Election Commission, the United States Department of Justice, and the United States Department of State.\u00a0 This occurred in Washington, D.C., from early 2014 to February 16, 2018.\u00a0 Prigozhin was the primary funder of the St. Petersburg-based Internet Research Agency (IRA).\u00a0 He allegedly oversaw and approved their political and electoral interference operations in the United States which included the purchase of American computer server space, the creation of hundreds of fictitious online personas, and the use of stolen identities of persons from the United States. \u00a0These actions were allegedly taken to reach significant numbers of Americans for the purposes of interfering with the United States political system, including the 2016 Presidential Election.\u00a0</p>\r\n<p>\u00a0</p>\r\n<p>On February 16, 2018, a federal arrest warrant was issued for Yevgeniy Viktorovich Prigozhin in the United States District Court for the District of Columbia after he was charged with conspiracy to defraud the United States.\u00a0</p>\r\n<p>\u00a0</p>",
-		"publication": "2020-06-02T12:39:00",
-		"ncic": "W713167242",
+		"eyes_raw": null,
+		"caution": null,
+		"publication": "2021-02-01T16:13:00",
+		"ncic": null,
 		"occupations": null,
-		"dates_of_birth_used": [
-			"June 1, 1961"
-		],
-		"path": "/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin",
-		"remarks": "<p>Prigozhin speaks Russian and has ties to Russia, Indonesia, and Qatar.</p>",
+		"dates_of_birth_used": null,
+		"path": "/wanted/seeking-info/violence-at-the-united-states-capitol-main",
+		"remarks": null,
 		"weight": null,
-		"nationality": "Russian",
-		"url": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin",
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/violence-at-the-united-states-capitol-main",
 		"files": [
 			{
 				"name": "English",
-				"url": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/yevgeniy-vicktorovich-prigozhin3.pdf"
-			},
-			{
-				"name": "\u041d\u0410 \u0420\u0423\u0421\u0421\u041a\u041e\u041c",
-				"url": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhinrussian3.pdf/@@download/file/PrigozhinRussian3.pdf"
-			},
-			{
-				"name": "\u043d\u0430 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456\u0439 \u043c\u043e\u0432\u0456",
-				"url": "https://www.fbi.gov/wanted/counterintelligence/yevgeniy-viktorovich-prigozhin/prigozhinukrainian3.pdf/@@download/file/PrigozhinUkrainian3.pdf"
+				"url": "https://www.fbi.gov/wanted/seeking-info/violence-at-the-united-states-capitol-main/download.pdf"
 			}
 		],
-		"sex": "Male",
+		"sex": null,
 		"age_range": null,
 		"build": null,
-		"race_raw": "White",
-		"aliases": [
-			"\"Yevgeny\""
-		],
-		"details": null,
+		"race_raw": null,
+		"aliases": null,
+		"details": "<p>The Federal Bureau of Investigation\u2019s (FBI) Washington Field Office is seeking the public\u2019s assistance in identifying individuals who made unlawful entry into the United States Capitol Building and various other alleged criminal violations, such as destruction of property, assaulting law enforcement personnel, targeting members of the media for assault, and other unlawful conduct, on January 6, 2021, in Washington, D.C.</p>\r\n<p>\u00a0</p>\r\n<p>As of February 2, 2021, all images of individuals being sought in connection with Violence at the United States Capitol can be found on the FBI's main <a data-val=\"https://www.fbi.gov/wanted/capitol-violence\" data-linktype=\"external\" href=\"https://www.fbi.gov/wanted/capitol-violence\" data-urltype=\"/view\">Capitol Violence page</a>.</p>\r\n<p>\u00a0</p>",
 		"field_offices": [
 			"washingtondc"
 		],
 		"height_min": null,
 		"status": "na",
 		"subjects": [
-			"Counterintelligence"
+			"Capitol",
+			"Seeking Information"
 		],
 		"scars_and_marks": null,
 		"weight_min": null,
 		"modified": "2023-02-28T00:07:21+00:00",
-		"place_of_birth": "Russia",
+		"place_of_birth": null,
 		"possible_countries": null,
-		"hair": "bald",
+		"hair": null,
 		"reward_max": 0,
 		"reward_min": 0,
 		"height_max": null,
 		"locations": null,
 		"weight_max": null,
-		"race": "white",
+		"race": null,
 		"person_classification": "Main",
-		"reward_text": "The FBI is offering a reward of up to $250,000 for information leading to the arrest of Yevgeniy Viktorovich Prigozhin.",
-		"title": "YEVGENIY VIKTOROVICH PRIGOZHIN",
-		"hair_raw": "Bald",
+		"reward_text": null,
+		"title": "VIOLENCE AT THE UNITED STATES CAPITOL",
+		"hair_raw": null,
 		"languages": null,
-		"warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+		"warning_message": null,
 		"additional_information": null,
 		"legat_names": null,
 		"possible_states": null,
-		"description": "Conspiracy to Defraud the United States",
+		"description": "Washington, D.C.\r\nJanuary 6, 2021",
 		"age_min": null,
 		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/2978c2dee66b4a10a4b3030a00aa7db7"
+		"@id": "https://api.fbi.gov/@wanted-person/0624daf9191641c68ff01fd62bde9d5f"
 	},
 	{
 		"eyes": "brown",
@@ -46267,77 +46221,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/f150c3ca72c849a4a13f387adddf496c"
 	},
 	{
-		"eyes": null,
-		"complexion": null,
-		"uid": "569e5d14a4964a328baeca98a03a503b",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image/thumb",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image/large"
-			}
-		],
-		"coordinates": [],
-		"suspects": null,
-		"eyes_raw": null,
-		"caution": null,
-		"publication": "2019-04-08T09:13:00",
-		"ncic": null,
-		"occupations": null,
-		"dates_of_birth_used": null,
-		"path": "/wanted/seeking-info/badraldeen-mohamad-elwaseem",
-		"remarks": null,
-		"weight": null,
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/download.pdf"
-			}
-		],
-		"sex": null,
-		"age_range": null,
-		"build": null,
-		"race_raw": null,
-		"aliases": null,
-		"details": "<p>Law enforcement officials are seeking information regarding the murder of 12-year-old Badraldeen Mohamad Elwaseem who was shot and killed on April 6, 2019, in Buffalo, New York. Badraldeen was in the kitchen\u00a0of his apartment around 8:30 p.m. when he was fatally shot in the head by a stray bullet.\u00a0</p>\r\n<p>\u00a0</p>",
-		"field_offices": [
-			"buffalo"
-		],
-		"height_min": null,
-		"status": "na",
-		"subjects": [
-			"Seeking Information"
-		],
-		"scars_and_marks": null,
-		"weight_min": null,
-		"modified": "2023-02-28T00:05:02+00:00",
-		"place_of_birth": null,
-		"possible_countries": null,
-		"hair": null,
-		"reward_max": 0,
-		"reward_min": 0,
-		"height_max": null,
-		"locations": null,
-		"weight_max": null,
-		"race": null,
-		"person_classification": "Victim",
-		"reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the arrest of the person(s) responsible for the shooting death of Badraldeen Mohamad Elwaseem.",
-		"title": "BADRALDEEN MOHAMAD ELWASEEM",
-		"hair_raw": null,
-		"languages": null,
-		"warning_message": null,
-		"additional_information": null,
-		"legat_names": null,
-		"possible_states": null,
-		"description": "Murder Victim\r\nBuffalo, New York\r\nApril 6, 2019",
-		"age_min": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/569e5d14a4964a328baeca98a03a503b"
-	},
-	{
 		"eyes": "brown",
 		"complexion": null,
 		"uid": "253e37234fa64996a0f6e41110ee60d3",
@@ -46420,6 +46303,77 @@
 		"age_min": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/253e37234fa64996a0f6e41110ee60d3"
+	},
+	{
+		"eyes": null,
+		"complexion": null,
+		"uid": "569e5d14a4964a328baeca98a03a503b",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image/thumb",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/@@images/image/large"
+			}
+		],
+		"coordinates": [],
+		"suspects": null,
+		"eyes_raw": null,
+		"caution": null,
+		"publication": "2019-04-08T09:13:00",
+		"ncic": null,
+		"occupations": null,
+		"dates_of_birth_used": null,
+		"path": "/wanted/seeking-info/badraldeen-mohamad-elwaseem",
+		"remarks": null,
+		"weight": null,
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/seeking-info/badraldeen-mohamad-elwaseem/download.pdf"
+			}
+		],
+		"sex": null,
+		"age_range": null,
+		"build": null,
+		"race_raw": null,
+		"aliases": null,
+		"details": "<p>Law enforcement officials are seeking information regarding the murder of 12-year-old Badraldeen Mohamad Elwaseem who was shot and killed on April 6, 2019, in Buffalo, New York. Badraldeen was in the kitchen\u00a0of his apartment around 8:30 p.m. when he was fatally shot in the head by a stray bullet.\u00a0</p>\r\n<p>\u00a0</p>",
+		"field_offices": [
+			"buffalo"
+		],
+		"height_min": null,
+		"status": "na",
+		"subjects": [
+			"Seeking Information"
+		],
+		"scars_and_marks": null,
+		"weight_min": null,
+		"modified": "2023-02-28T00:05:02+00:00",
+		"place_of_birth": null,
+		"possible_countries": null,
+		"hair": null,
+		"reward_max": 0,
+		"reward_min": 0,
+		"height_max": null,
+		"locations": null,
+		"weight_max": null,
+		"race": null,
+		"person_classification": "Victim",
+		"reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the arrest of the person(s) responsible for the shooting death of Badraldeen Mohamad Elwaseem.",
+		"title": "BADRALDEEN MOHAMAD ELWASEEM",
+		"hair_raw": null,
+		"languages": null,
+		"warning_message": null,
+		"additional_information": null,
+		"legat_names": null,
+		"possible_states": null,
+		"description": "Murder Victim\r\nBuffalo, New York\r\nApril 6, 2019",
+		"age_min": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/569e5d14a4964a328baeca98a03a503b"
 	},
 	{
 		"eyes": "brown",
@@ -51234,85 +51188,6 @@
 	{
 		"eyes": "brown",
 		"complexion": null,
-		"uid": "7e7d6aca17a64b919be681951e994465",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/@@images/image/thumb",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/@@images/image/large"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/mcdaniel2.jpg",
-				"thumb": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/mcdaniel2.jpg/@@images/image/thumb",
-				"caption": "Photograph age-progressed to age 33",
-				"large": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/mcdaniel2.jpg/@@images/image/large"
-			}
-		],
-		"coordinates": [],
-		"suspects": null,
-		"eyes_raw": "Brown",
-		"caution": null,
-		"publication": "2020-04-15T13:23:00",
-		"ncic": null,
-		"occupations": null,
-		"dates_of_birth_used": [
-			"July 14, 1982"
-		],
-		"path": "/wanted/kidnap/cayce-lynn-mcdaniel",
-		"remarks": null,
-		"weight": "120 pounds (at time of disappearance)",
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/download.pdf"
-			}
-		],
-		"sex": "Female",
-		"age_range": null,
-		"build": null,
-		"race_raw": "White",
-		"aliases": null,
-		"details": "<p>On August 17, 1996, Cayce Lynn McDaniel, then 14 years old, was reported missing from her residence in Milan, Tennessee. Cayce was dropped at her residence after a church function late on August 16, 1996. Her family returned home to find her missing and the back door left open. Cayce was never seen again.</p>\r\n<p>In October 2019, a Gibson County, Tennessee, grand jury indicted an individual for Cayce's rape and murder. Cayce's remains have not been found, and the case against the individual is on-going.</p>",
-		"field_offices": [
-			"memphis"
-		],
-		"height_min": 64,
-		"status": "na",
-		"subjects": [
-			"Kidnappings and Missing Persons"
-		],
-		"scars_and_marks": "McDaniel has a strawberry birthmark on the underside of her lower left arm.",
-		"weight_min": 120,
-		"modified": "2023-02-28T00:04:33+00:00",
-		"place_of_birth": null,
-		"possible_countries": null,
-		"hair": "brown",
-		"reward_max": 0,
-		"reward_min": 0,
-		"height_max": 64,
-		"locations": null,
-		"weight_max": 120,
-		"race": "white",
-		"person_classification": "Main",
-		"reward_text": null,
-		"title": "CAYCE LYNN MCDANIEL",
-		"hair_raw": "Light brown",
-		"languages": null,
-		"warning_message": null,
-		"additional_information": null,
-		"legat_names": null,
-		"possible_states": null,
-		"description": "August 16, 1996\r\nMilan, Tennessee",
-		"age_min": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/7e7d6aca17a64b919be681951e994465"
-	},
-	{
-		"eyes": "brown",
-		"complexion": null,
 		"uid": "b659218ef3554ffe960878620f184cb6",
 		"images": [
 			{
@@ -51391,6 +51266,85 @@
 		"age_min": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/b659218ef3554ffe960878620f184cb6"
+	},
+	{
+		"eyes": "brown",
+		"complexion": null,
+		"uid": "7e7d6aca17a64b919be681951e994465",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/@@images/image/thumb",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/@@images/image/large"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/mcdaniel2.jpg",
+				"thumb": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/mcdaniel2.jpg/@@images/image/thumb",
+				"caption": "Photograph age-progressed to age 33",
+				"large": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/mcdaniel2.jpg/@@images/image/large"
+			}
+		],
+		"coordinates": [],
+		"suspects": null,
+		"eyes_raw": "Brown",
+		"caution": null,
+		"publication": "2020-04-15T13:23:00",
+		"ncic": null,
+		"occupations": null,
+		"dates_of_birth_used": [
+			"July 14, 1982"
+		],
+		"path": "/wanted/kidnap/cayce-lynn-mcdaniel",
+		"remarks": null,
+		"weight": "120 pounds (at time of disappearance)",
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/kidnap/cayce-lynn-mcdaniel/download.pdf"
+			}
+		],
+		"sex": "Female",
+		"age_range": null,
+		"build": null,
+		"race_raw": "White",
+		"aliases": null,
+		"details": "<p>On August 17, 1996, Cayce Lynn McDaniel, then 14 years old, was reported missing from her residence in Milan, Tennessee. Cayce was dropped at her residence after a church function late on August 16, 1996. Her family returned home to find her missing and the back door left open. Cayce was never seen again.</p>\r\n<p>In October 2019, a Gibson County, Tennessee, grand jury indicted an individual for Cayce's rape and murder. Cayce's remains have not been found, and the case against the individual is on-going.</p>",
+		"field_offices": [
+			"memphis"
+		],
+		"height_min": 64,
+		"status": "na",
+		"subjects": [
+			"Kidnappings and Missing Persons"
+		],
+		"scars_and_marks": "McDaniel has a strawberry birthmark on the underside of her lower left arm.",
+		"weight_min": 120,
+		"modified": "2023-02-28T00:04:33+00:00",
+		"place_of_birth": null,
+		"possible_countries": null,
+		"hair": "brown",
+		"reward_max": 0,
+		"reward_min": 0,
+		"height_max": 64,
+		"locations": null,
+		"weight_max": 120,
+		"race": "white",
+		"person_classification": "Main",
+		"reward_text": null,
+		"title": "CAYCE LYNN MCDANIEL",
+		"hair_raw": "Light brown",
+		"languages": null,
+		"warning_message": null,
+		"additional_information": null,
+		"legat_names": null,
+		"possible_states": null,
+		"description": "August 16, 1996\r\nMilan, Tennessee",
+		"age_min": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/7e7d6aca17a64b919be681951e994465"
 	},
 	{
 		"eyes": "brown",
@@ -56306,77 +56260,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/714a6cb5814f4dae95aa04beb0f7b2bf"
 	},
 	{
-		"eyes": null,
-		"complexion": null,
-		"uid": "831d5853b3cd48e7be34107871d07c1f",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/linda-oday/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/linda-oday/@@images/image/thumb",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/seeking-info/linda-oday/@@images/image/large"
-			}
-		],
-		"coordinates": [],
-		"suspects": null,
-		"eyes_raw": null,
-		"caution": null,
-		"publication": "2020-11-23T07:04:00",
-		"ncic": null,
-		"occupations": null,
-		"dates_of_birth_used": null,
-		"path": "/wanted/seeking-info/linda-oday",
-		"remarks": null,
-		"weight": null,
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/linda-oday",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/seeking-info/linda-oday/download.pdf"
-			}
-		],
-		"sex": null,
-		"age_range": null,
-		"build": null,
-		"race_raw": null,
-		"aliases": null,
-		"details": "<p>The Federal Bureau of Investigation\u2019s Baltimore Field Office is seeking the public\u2019s assistance with information regarding the 1981 homicide of Linda O\u2019Day.\u00a0 On Monday, June 1, 1981, at approximately 2:00 p.m., the body of O\u2019Day was discovered in her home at 129 East Third Street in New Castle, Delaware.\u00a0 O\u2019Day was stabbed multiple times and her cause of death was determined to be a stab wound to the chest.</p>\r\n<p>\u00a0</p>",
-		"field_offices": [
-			"baltimore"
-		],
-		"height_min": null,
-		"status": "na",
-		"subjects": [
-			"Seeking Information"
-		],
-		"scars_and_marks": null,
-		"weight_min": null,
-		"modified": "2023-02-28T00:03:59+00:00",
-		"place_of_birth": null,
-		"possible_countries": null,
-		"hair": null,
-		"reward_max": 0,
-		"reward_min": 0,
-		"height_max": null,
-		"locations": null,
-		"weight_max": null,
-		"race": null,
-		"person_classification": "Victim",
-		"reward_text": null,
-		"title": "LINDA O'DAY",
-		"hair_raw": null,
-		"languages": null,
-		"warning_message": null,
-		"additional_information": null,
-		"legat_names": null,
-		"possible_states": null,
-		"description": "Homicide Victim\r\nNew Castle, Delaware\r\nJune 1, 1981",
-		"age_min": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/831d5853b3cd48e7be34107871d07c1f"
-	},
-	{
 		"eyes": "brown",
 		"complexion": null,
 		"uid": "6161d27c854d4dbab0a10e89b8596cf5",
@@ -56460,6 +56343,77 @@
 		"age_min": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/6161d27c854d4dbab0a10e89b8596cf5"
+	},
+	{
+		"eyes": null,
+		"complexion": null,
+		"uid": "831d5853b3cd48e7be34107871d07c1f",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/linda-oday/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/linda-oday/@@images/image/thumb",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/seeking-info/linda-oday/@@images/image/large"
+			}
+		],
+		"coordinates": [],
+		"suspects": null,
+		"eyes_raw": null,
+		"caution": null,
+		"publication": "2020-11-23T07:04:00",
+		"ncic": null,
+		"occupations": null,
+		"dates_of_birth_used": null,
+		"path": "/wanted/seeking-info/linda-oday",
+		"remarks": null,
+		"weight": null,
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/linda-oday",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/seeking-info/linda-oday/download.pdf"
+			}
+		],
+		"sex": null,
+		"age_range": null,
+		"build": null,
+		"race_raw": null,
+		"aliases": null,
+		"details": "<p>The Federal Bureau of Investigation\u2019s Baltimore Field Office is seeking the public\u2019s assistance with information regarding the 1981 homicide of Linda O\u2019Day.\u00a0 On Monday, June 1, 1981, at approximately 2:00 p.m., the body of O\u2019Day was discovered in her home at 129 East Third Street in New Castle, Delaware.\u00a0 O\u2019Day was stabbed multiple times and her cause of death was determined to be a stab wound to the chest.</p>\r\n<p>\u00a0</p>",
+		"field_offices": [
+			"baltimore"
+		],
+		"height_min": null,
+		"status": "na",
+		"subjects": [
+			"Seeking Information"
+		],
+		"scars_and_marks": null,
+		"weight_min": null,
+		"modified": "2023-02-28T00:03:59+00:00",
+		"place_of_birth": null,
+		"possible_countries": null,
+		"hair": null,
+		"reward_max": 0,
+		"reward_min": 0,
+		"height_max": null,
+		"locations": null,
+		"weight_max": null,
+		"race": null,
+		"person_classification": "Victim",
+		"reward_text": null,
+		"title": "LINDA O'DAY",
+		"hair_raw": null,
+		"languages": null,
+		"warning_message": null,
+		"additional_information": null,
+		"legat_names": null,
+		"possible_states": null,
+		"description": "Homicide Victim\r\nNew Castle, Delaware\r\nJune 1, 1981",
+		"age_min": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/831d5853b3cd48e7be34107871d07c1f"
 	},
 	{
 		"eyes": null,
@@ -58785,6 +58739,84 @@
 		"@id": "https://api.fbi.gov/@wanted-person/6fddfc733ac942bea2ec5fd16b615390"
 	},
 	{
+		"eyes": "brown",
+		"complexion": null,
+		"uid": "a8f5d1d8016247d482214880e3da93c9",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/@@images/image/thumb",
+				"caption": "Photograph taken in January 2021",
+				"large": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/@@images/image/large"
+			}
+		],
+		"coordinates": [],
+		"suspects": null,
+		"eyes_raw": "Brown",
+		"caution": null,
+		"publication": "2022-04-11T10:59:00",
+		"ncic": null,
+		"occupations": null,
+		"dates_of_birth_used": [
+			"October 19, 1990"
+		],
+		"path": "/wanted/seeking-info/lee-michael-pahe",
+		"remarks": null,
+		"weight": "160 pounds",
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/download.pdf"
+			},
+			{
+				"name": "DIN\u00c9 BIZAAD K\u2019EHGO",
+				"url": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/pahenavajo.pdf/@@download/file/pahenavajo.pdf"
+			}
+		],
+		"sex": "Male",
+		"age_range": null,
+		"build": null,
+		"race_raw": "Native American",
+		"aliases": null,
+		"details": "<p>On July 26, 2021, at approximately 12:52 p.m., Lee Michael Pahe was found deceased on the ground next to a water pump in\u00a0Naschitti, New Mexico, on the Navajo Nation. The cause of death was a gunshot wound.\u00a0Authorities were told that Pahe was last seen leaving a residence\u00a0in Navajo, N.M., at 2 a.m. on the day his body was discovered.</p>\r\n<p>\u00a0</p>\r\n<p>Pahe\u00a0was resident of Fort Defiance, Arizona.</p>",
+		"field_offices": [
+			"albuquerque"
+		],
+		"height_min": 65,
+		"status": "na",
+		"subjects": [
+			"Seeking Information",
+			"Indian Country"
+		],
+		"scars_and_marks": null,
+		"weight_min": 160,
+		"modified": "2023-02-28T00:03:46+00:00",
+		"place_of_birth": null,
+		"possible_countries": null,
+		"hair": "black",
+		"reward_max": 0,
+		"reward_min": 0,
+		"height_max": 65,
+		"locations": null,
+		"weight_max": 160,
+		"race": "native",
+		"person_classification": "Main",
+		"reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the identification, arrest, and conviction of the individual(s) responsible for the homicide of Lee Michael Pahe.",
+		"title": "LEE MICHAEL PAHE",
+		"hair_raw": "Black",
+		"languages": null,
+		"warning_message": null,
+		"additional_information": null,
+		"legat_names": null,
+		"possible_states": null,
+		"description": "Homicide Victim\r\nNaschitti, New Mexico\r\nJuly 26, 2021",
+		"age_min": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/a8f5d1d8016247d482214880e3da93c9"
+	},
+	{
 		"eyes": null,
 		"complexion": null,
 		"uid": "1501448d52d848fb8ed82d78307bf193",
@@ -58864,84 +58896,6 @@
 		"age_min": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/1501448d52d848fb8ed82d78307bf193"
-	},
-	{
-		"eyes": "brown",
-		"complexion": null,
-		"uid": "a8f5d1d8016247d482214880e3da93c9",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/@@images/image/thumb",
-				"caption": "Photograph taken in January 2021",
-				"large": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/@@images/image/large"
-			}
-		],
-		"coordinates": [],
-		"suspects": null,
-		"eyes_raw": "Brown",
-		"caution": null,
-		"publication": "2022-04-11T10:59:00",
-		"ncic": null,
-		"occupations": null,
-		"dates_of_birth_used": [
-			"October 19, 1990"
-		],
-		"path": "/wanted/seeking-info/lee-michael-pahe",
-		"remarks": null,
-		"weight": "160 pounds",
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/download.pdf"
-			},
-			{
-				"name": "DIN\u00c9 BIZAAD K\u2019EHGO",
-				"url": "https://www.fbi.gov/wanted/seeking-info/lee-michael-pahe/pahenavajo.pdf/@@download/file/pahenavajo.pdf"
-			}
-		],
-		"sex": "Male",
-		"age_range": null,
-		"build": null,
-		"race_raw": "Native American",
-		"aliases": null,
-		"details": "<p>On July 26, 2021, at approximately 12:52 p.m., Lee Michael Pahe was found deceased on the ground next to a water pump in\u00a0Naschitti, New Mexico, on the Navajo Nation. The cause of death was a gunshot wound.\u00a0Authorities were told that Pahe was last seen leaving a residence\u00a0in Navajo, N.M., at 2 a.m. on the day his body was discovered.</p>\r\n<p>\u00a0</p>\r\n<p>Pahe\u00a0was resident of Fort Defiance, Arizona.</p>",
-		"field_offices": [
-			"albuquerque"
-		],
-		"height_min": 65,
-		"status": "na",
-		"subjects": [
-			"Seeking Information",
-			"Indian Country"
-		],
-		"scars_and_marks": null,
-		"weight_min": 160,
-		"modified": "2023-02-28T00:03:46+00:00",
-		"place_of_birth": null,
-		"possible_countries": null,
-		"hair": "black",
-		"reward_max": 0,
-		"reward_min": 0,
-		"height_max": 65,
-		"locations": null,
-		"weight_max": 160,
-		"race": "native",
-		"person_classification": "Main",
-		"reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the identification, arrest, and conviction of the individual(s) responsible for the homicide of Lee Michael Pahe.",
-		"title": "LEE MICHAEL PAHE",
-		"hair_raw": "Black",
-		"languages": null,
-		"warning_message": null,
-		"additional_information": null,
-		"legat_names": null,
-		"possible_states": null,
-		"description": "Homicide Victim\r\nNaschitti, New Mexico\r\nJuly 26, 2021",
-		"age_min": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/a8f5d1d8016247d482214880e3da93c9"
 	},
 	{
 		"eyes": null,
@@ -59225,81 +59179,6 @@
 	{
 		"eyes": "brown",
 		"complexion": null,
-		"uid": "0d06cafc77644dac8aa21e18a5ee5ea3",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/@@images/image/thumb",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/@@images/image/large"
-			}
-		],
-		"coordinates": [],
-		"suspects": null,
-		"eyes_raw": "Brown",
-		"caution": "<p>The FBI\u2019s Kansas City Field Office is assisting the Kansas City Police Department in Missouri with their search for KaShawn Nicola Roper. Roper is wanted for her alleged involvement in a shooting on August 23, 2020, that resulted in the death of a 23-year-old woman.</p>\r\n<p>\u00a0</p>\r\n<p>On September 10, 2020, Roper was charged with second degree murder, flight from perpetration of a felony, two counts of armed criminal action, and unlawful use of a weapon in the 16th Judicial Circuit, Jackson County, Missouri, and a state warrant was issued for her arrest.</p>",
-		"publication": "2021-03-10T12:37:00",
-		"ncic": null,
-		"occupations": null,
-		"dates_of_birth_used": [
-			"October 7, 1975"
-		],
-		"path": "/wanted/law-enforcement-assistance/kashawn-nicola-roper",
-		"remarks": "<p>Roper has previously resided in Kansas City, Missouri. Roper has ties to, or may visit, Colorado, Kansas, and Missouri. She may have specifically fled to Denver, Colorado.</p>",
-		"weight": "120 pounds",
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/download.pdf"
-			}
-		],
-		"sex": "Female",
-		"age_range": null,
-		"build": null,
-		"race_raw": "Black",
-		"aliases": [
-			"KaShawn Nicola Shaw, KaShawn Nicole Roper, KaShawn Nicole Shaw, KaShawn Nichola Roper, Kashawn N. Roper"
-		],
-		"details": null,
-		"field_offices": [
-			"kansascity"
-		],
-		"height_min": 65,
-		"status": "na",
-		"subjects": [
-			"law enforcement assistance"
-		],
-		"scars_and_marks": "Roper has tattoos on her left arm, upper left arm, upper right arm, back, left calf, neck, right wrist, right breast, and abdomen. Roper also has pierced ears.",
-		"weight_min": 120,
-		"modified": "2023-02-28T00:03:44+00:00",
-		"place_of_birth": "Kansas",
-		"possible_countries": null,
-		"hair": "black",
-		"reward_max": 0,
-		"reward_min": 0,
-		"height_max": 65,
-		"locations": null,
-		"weight_max": 120,
-		"race": "black",
-		"person_classification": "Main",
-		"reward_text": null,
-		"title": "KASHAWN NICOLA ROPER",
-		"hair_raw": "Black",
-		"languages": null,
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
-		"additional_information": null,
-		"legat_names": null,
-		"possible_states": null,
-		"description": "Second Degree Murder; Flight From Perpetration of a Felony; Armed Criminal Action (Two Counts); Unlawful Use of a Weapon",
-		"age_min": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/0d06cafc77644dac8aa21e18a5ee5ea3"
-	},
-	{
-		"eyes": "brown",
-		"complexion": null,
 		"uid": "4c60ddafa619433f81b9e964eca57cef",
 		"images": [
 			{
@@ -59375,6 +59254,81 @@
 		"age_min": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/4c60ddafa619433f81b9e964eca57cef"
+	},
+	{
+		"eyes": "brown",
+		"complexion": null,
+		"uid": "0d06cafc77644dac8aa21e18a5ee5ea3",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/@@images/image/thumb",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/@@images/image/large"
+			}
+		],
+		"coordinates": [],
+		"suspects": null,
+		"eyes_raw": "Brown",
+		"caution": "<p>The FBI\u2019s Kansas City Field Office is assisting the Kansas City Police Department in Missouri with their search for KaShawn Nicola Roper. Roper is wanted for her alleged involvement in a shooting on August 23, 2020, that resulted in the death of a 23-year-old woman.</p>\r\n<p>\u00a0</p>\r\n<p>On September 10, 2020, Roper was charged with second degree murder, flight from perpetration of a felony, two counts of armed criminal action, and unlawful use of a weapon in the 16th Judicial Circuit, Jackson County, Missouri, and a state warrant was issued for her arrest.</p>",
+		"publication": "2021-03-10T12:37:00",
+		"ncic": null,
+		"occupations": null,
+		"dates_of_birth_used": [
+			"October 7, 1975"
+		],
+		"path": "/wanted/law-enforcement-assistance/kashawn-nicola-roper",
+		"remarks": "<p>Roper has previously resided in Kansas City, Missouri. Roper has ties to, or may visit, Colorado, Kansas, and Missouri. She may have specifically fled to Denver, Colorado.</p>",
+		"weight": "120 pounds",
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/law-enforcement-assistance/kashawn-nicola-roper/download.pdf"
+			}
+		],
+		"sex": "Female",
+		"age_range": null,
+		"build": null,
+		"race_raw": "Black",
+		"aliases": [
+			"KaShawn Nicola Shaw, KaShawn Nicole Roper, KaShawn Nicole Shaw, KaShawn Nichola Roper, Kashawn N. Roper"
+		],
+		"details": null,
+		"field_offices": [
+			"kansascity"
+		],
+		"height_min": 65,
+		"status": "na",
+		"subjects": [
+			"law enforcement assistance"
+		],
+		"scars_and_marks": "Roper has tattoos on her left arm, upper left arm, upper right arm, back, left calf, neck, right wrist, right breast, and abdomen. Roper also has pierced ears.",
+		"weight_min": 120,
+		"modified": "2023-02-28T00:03:44+00:00",
+		"place_of_birth": "Kansas",
+		"possible_countries": null,
+		"hair": "black",
+		"reward_max": 0,
+		"reward_min": 0,
+		"height_max": 65,
+		"locations": null,
+		"weight_max": 120,
+		"race": "black",
+		"person_classification": "Main",
+		"reward_text": null,
+		"title": "KASHAWN NICOLA ROPER",
+		"hair_raw": "Black",
+		"languages": null,
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+		"additional_information": null,
+		"legat_names": null,
+		"possible_states": null,
+		"description": "Second Degree Murder; Flight From Perpetration of a Felony; Armed Criminal Action (Two Counts); Unlawful Use of a Weapon",
+		"age_min": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/0d06cafc77644dac8aa21e18a5ee5ea3"
 	},
 	{
 		"eyes": "brown",
@@ -60519,6 +60473,81 @@
 	{
 		"eyes": null,
 		"complexion": null,
+		"uid": "75215c7f-5dc0-4dfc-a750-4b248cf29a4e",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/thumb",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/large"
+			}
+		],
+		"coordinates": [],
+		"suspects": null,
+		"eyes_raw": null,
+		"caution": null,
+		"publication": "2013-07-22T07:00:00",
+		"ncic": null,
+		"occupations": null,
+		"dates_of_birth_used": null,
+		"path": "/wanted/seeking-info/jason-ellis",
+		"remarks": null,
+		"weight": null,
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/download.pdf"
+			},
+			{
+				"name": "EN ESPA\u00d1OL",
+				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/jason-ellis-spanish-final.pdf/@@download/file/jason-ellis.Spanish.final.pdf"
+			}
+		],
+		"sex": "",
+		"age_range": null,
+		"build": null,
+		"race_raw": null,
+		"aliases": null,
+		"details": "<p>On May\u00a025\u00a02013, Officer Jason Ellis was\u00a0killed\u00a0after finishing his shift for the Bardstown, Kentucky Police Department.\u00a0\u00a0Ellis\u00a0had\u00a0signed off on the radio\u00a0and was driving home when he encountered branches blocking the road\u00a0on\u00a0exit 34 of the Bluegrass Parkway in Bardstown, Kentucky.\u00a0\u00a0To\u00a0ensure\u00a0the safety of the public, he got out of his vehicle to clear the branches.\u00a0While\u00a0attempting to remove the\u00a0debris,\u00a0he\u00a0was\u00a0\u00a0shot\u00a0several times and died shortly after.\u00a0Officer Ellis was discovered by a passing motorist. He was a K-9 handler (narcotics dog) for the police department in addition to his patrol duties. Outside of work, he was heavily involved in the community including coaching youth baseball.\u00a0<br />\u00a0</p>",
+		"field_offices": [
+			"louisville"
+		],
+		"height_min": null,
+		"status": "na",
+		"subjects": [
+			"Seeking Information"
+		],
+		"scars_and_marks": null,
+		"weight_min": null,
+		"modified": "2023-02-28T00:03:35+00:00",
+		"place_of_birth": null,
+		"possible_countries": null,
+		"hair": null,
+		"reward_max": 99999,
+		"reward_min": 10000,
+		"height_max": null,
+		"locations": null,
+		"weight_max": null,
+		"race": null,
+		"person_classification": "Victim",
+		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the identification, arrest and conviction of the individual(s) responsible for the death of Bardstown, Kentucky Police Officer Jason Ellis.",
+		"title": "JASON ELLIS",
+		"hair_raw": null,
+		"languages": null,
+		"warning_message": null,
+		"additional_information": null,
+		"legat_names": null,
+		"possible_states": null,
+		"description": "Murder Victim\r\nBardstown, Kentucky\r\nMay 25, 2013",
+		"age_min": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/75215c7f-5dc0-4dfc-a750-4b248cf29a4e"
+	},
+	{
+		"eyes": null,
+		"complexion": null,
 		"uid": "e45312fb-109a-4565-87ec-a39d74c85031",
 		"images": [
 			{
@@ -60615,81 +60644,6 @@
 		"age_min": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/e45312fb-109a-4565-87ec-a39d74c85031"
-	},
-	{
-		"eyes": null,
-		"complexion": null,
-		"uid": "75215c7f-5dc0-4dfc-a750-4b248cf29a4e",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/thumb",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/@@images/image/large"
-			}
-		],
-		"coordinates": [],
-		"suspects": null,
-		"eyes_raw": null,
-		"caution": null,
-		"publication": "2013-07-22T07:00:00",
-		"ncic": null,
-		"occupations": null,
-		"dates_of_birth_used": null,
-		"path": "/wanted/seeking-info/jason-ellis",
-		"remarks": null,
-		"weight": null,
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/download.pdf"
-			},
-			{
-				"name": "EN ESPA\u00d1OL",
-				"url": "https://www.fbi.gov/wanted/seeking-info/jason-ellis/jason-ellis-spanish-final.pdf/@@download/file/jason-ellis.Spanish.final.pdf"
-			}
-		],
-		"sex": "",
-		"age_range": null,
-		"build": null,
-		"race_raw": null,
-		"aliases": null,
-		"details": "<p>On May\u00a025\u00a02013, Officer Jason Ellis was\u00a0killed\u00a0after finishing his shift for the Bardstown, Kentucky Police Department.\u00a0\u00a0Ellis\u00a0had\u00a0signed off on the radio\u00a0and was driving home when he encountered branches blocking the road\u00a0on\u00a0exit 34 of the Bluegrass Parkway in Bardstown, Kentucky.\u00a0\u00a0To\u00a0ensure\u00a0the safety of the public, he got out of his vehicle to clear the branches.\u00a0While\u00a0attempting to remove the\u00a0debris,\u00a0he\u00a0was\u00a0\u00a0shot\u00a0several times and died shortly after.\u00a0Officer Ellis was discovered by a passing motorist. He was a K-9 handler (narcotics dog) for the police department in addition to his patrol duties. Outside of work, he was heavily involved in the community including coaching youth baseball.\u00a0<br />\u00a0</p>",
-		"field_offices": [
-			"louisville"
-		],
-		"height_min": null,
-		"status": "na",
-		"subjects": [
-			"Seeking Information"
-		],
-		"scars_and_marks": null,
-		"weight_min": null,
-		"modified": "2023-02-28T00:03:35+00:00",
-		"place_of_birth": null,
-		"possible_countries": null,
-		"hair": null,
-		"reward_max": 99999,
-		"reward_min": 10000,
-		"height_max": null,
-		"locations": null,
-		"weight_max": null,
-		"race": null,
-		"person_classification": "Victim",
-		"reward_text": "The FBI is offering a reward of up to $50,000 for information leading to the identification, arrest and conviction of the individual(s) responsible for the death of Bardstown, Kentucky Police Officer Jason Ellis.",
-		"title": "JASON ELLIS",
-		"hair_raw": null,
-		"languages": null,
-		"warning_message": null,
-		"additional_information": null,
-		"legat_names": null,
-		"possible_states": null,
-		"description": "Murder Victim\r\nBardstown, Kentucky\r\nMay 25, 2013",
-		"age_min": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/75215c7f-5dc0-4dfc-a750-4b248cf29a4e"
 	},
 	{
 		"eyes": "brown",
@@ -61990,77 +61944,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/097b2351fb835fb04fb8156f2d738a52"
 	},
 	{
-		"eyes": null,
-		"complexion": null,
-		"uid": "f3ea2fb6-7ad4-4d6f-b0ab-81b3ff0ddb3b",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image/thumb",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image/large"
-			}
-		],
-		"coordinates": [],
-		"suspects": null,
-		"eyes_raw": null,
-		"caution": null,
-		"publication": "2014-01-22T07:00:00",
-		"ncic": null,
-		"occupations": null,
-		"dates_of_birth_used": null,
-		"path": "/wanted/seeking-info/amy-renee-mihaljevic",
-		"remarks": null,
-		"weight": null,
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/download.pdf"
-			}
-		],
-		"sex": "",
-		"age_range": null,
-		"build": null,
-		"race_raw": null,
-		"aliases": null,
-		"details": "<p>Amy Renee Mihaljevic was 10 years old when she was abducted from the Bay Village Square shopping center in Bay Village, Ohio, on Friday, October 27, 1989. Mihaljevic left her school on foot and headed to the shopping center, where she was last seen outside a business. She appeared to be waiting for someone. It is reported that a man approached Mihaljevic and put his hand on her shoulder as he walked her through the parking lot.</p>\r\n<p>\u00a0</p>\r\n<p>Further investigation revealed that Mihaljevic had received a phone call prior to her abduction from an unknown person. That person arranged a meeting with Mihaljevic to assist the caller in selecting a gift to give to Mihaljevic's mother because of her promotion at \"Trading Times Magazine.\"</p>\r\n<p>\u00a0</p>\r\n<p>On February 8, 1990, Mihaljevic's body was discovered by a jogger in a field adjacent to Township Road 1181 in rural Ashland County near New London, Ohio. The body was dressed in clothing that Mihaljevic was last seen wearing. Three items - a turquoise horse earring, black ankle boots, and a black leather binder, were believed to have been with Mihaljevic at the time of her abduction and have never been recovered.</p>",
-		"field_offices": [
-			"cleveland"
-		],
-		"height_min": null,
-		"status": "na",
-		"subjects": [
-			"Seeking Information"
-		],
-		"scars_and_marks": null,
-		"weight_min": null,
-		"modified": "2023-02-28T00:03:25+00:00",
-		"place_of_birth": null,
-		"possible_countries": null,
-		"hair": null,
-		"reward_max": 0,
-		"reward_min": 0,
-		"height_max": null,
-		"locations": null,
-		"weight_max": null,
-		"race": null,
-		"person_classification": "Victim",
-		"reward_text": "The FBI is offering a reward up to $25,000 for information leading to the arrest and conviction of the individual(s) responsible for the death of Amy Renee Mihaljevic.",
-		"title": "AMY RENEE MIHALJEVIC",
-		"hair_raw": null,
-		"languages": null,
-		"warning_message": null,
-		"additional_information": null,
-		"legat_names": null,
-		"possible_states": null,
-		"description": "Murder Victim\r\nBay Village, Ohio\r\nOctober 27, 1989",
-		"age_min": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/f3ea2fb6-7ad4-4d6f-b0ab-81b3ff0ddb3b"
-	},
-	{
 		"eyes": "blue",
 		"complexion": null,
 		"uid": "ff53f2cc6e796d35d5f35d2dd0a3ada3",
@@ -62139,6 +62022,77 @@
 		"age_min": 14,
 		"age_max": 14,
 		"@id": "https://api.fbi.gov/@wanted-person/ff53f2cc6e796d35d5f35d2dd0a3ada3"
+	},
+	{
+		"eyes": null,
+		"complexion": null,
+		"uid": "f3ea2fb6-7ad4-4d6f-b0ab-81b3ff0ddb3b",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image/thumb",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/@@images/image/large"
+			}
+		],
+		"coordinates": [],
+		"suspects": null,
+		"eyes_raw": null,
+		"caution": null,
+		"publication": "2014-01-22T07:00:00",
+		"ncic": null,
+		"occupations": null,
+		"dates_of_birth_used": null,
+		"path": "/wanted/seeking-info/amy-renee-mihaljevic",
+		"remarks": null,
+		"weight": null,
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/seeking-info/amy-renee-mihaljevic/download.pdf"
+			}
+		],
+		"sex": "",
+		"age_range": null,
+		"build": null,
+		"race_raw": null,
+		"aliases": null,
+		"details": "<p>Amy Renee Mihaljevic was 10 years old when she was abducted from the Bay Village Square shopping center in Bay Village, Ohio, on Friday, October 27, 1989. Mihaljevic left her school on foot and headed to the shopping center, where she was last seen outside a business. She appeared to be waiting for someone. It is reported that a man approached Mihaljevic and put his hand on her shoulder as he walked her through the parking lot.</p>\r\n<p>\u00a0</p>\r\n<p>Further investigation revealed that Mihaljevic had received a phone call prior to her abduction from an unknown person. That person arranged a meeting with Mihaljevic to assist the caller in selecting a gift to give to Mihaljevic's mother because of her promotion at \"Trading Times Magazine.\"</p>\r\n<p>\u00a0</p>\r\n<p>On February 8, 1990, Mihaljevic's body was discovered by a jogger in a field adjacent to Township Road 1181 in rural Ashland County near New London, Ohio. The body was dressed in clothing that Mihaljevic was last seen wearing. Three items - a turquoise horse earring, black ankle boots, and a black leather binder, were believed to have been with Mihaljevic at the time of her abduction and have never been recovered.</p>",
+		"field_offices": [
+			"cleveland"
+		],
+		"height_min": null,
+		"status": "na",
+		"subjects": [
+			"Seeking Information"
+		],
+		"scars_and_marks": null,
+		"weight_min": null,
+		"modified": "2023-02-28T00:03:25+00:00",
+		"place_of_birth": null,
+		"possible_countries": null,
+		"hair": null,
+		"reward_max": 0,
+		"reward_min": 0,
+		"height_max": null,
+		"locations": null,
+		"weight_max": null,
+		"race": null,
+		"person_classification": "Victim",
+		"reward_text": "The FBI is offering a reward up to $25,000 for information leading to the arrest and conviction of the individual(s) responsible for the death of Amy Renee Mihaljevic.",
+		"title": "AMY RENEE MIHALJEVIC",
+		"hair_raw": null,
+		"languages": null,
+		"warning_message": null,
+		"additional_information": null,
+		"legat_names": null,
+		"possible_states": null,
+		"description": "Murder Victim\r\nBay Village, Ohio\r\nOctober 27, 1989",
+		"age_min": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/f3ea2fb6-7ad4-4d6f-b0ab-81b3ff0ddb3b"
 	},
 	{
 		"eyes": "brown",
@@ -63004,6 +62958,83 @@
 	{
 		"eyes": null,
 		"complexion": null,
+		"uid": "7d7e51ca02504387be5e7ee0cadb11ce",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/@@images/image/thumb",
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/@@images/image/large"
+			},
+			{
+				"original": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/lin2.jpg",
+				"thumb": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/lin2.jpg/@@images/image/thumb",
+				"caption": "",
+				"large": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/lin2.jpg/@@images/image/large"
+			}
+		],
+		"coordinates": [],
+		"suspects": null,
+		"eyes_raw": null,
+		"caution": null,
+		"publication": "2017-05-23T09:25:00",
+		"ncic": null,
+		"occupations": null,
+		"dates_of_birth_used": null,
+		"path": "/wanted/seeking-info/jennifer-lin",
+		"remarks": null,
+		"weight": null,
+		"nationality": null,
+		"url": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/download.pdf"
+			}
+		],
+		"sex": null,
+		"age_range": null,
+		"build": null,
+		"race_raw": null,
+		"aliases": null,
+		"details": "<p>On May 27, 1994, then 14-year-old Jennifer Lin, also known as Jenny Lin,\u00a0was brutally murdered in her home in Castro Valley, California, after returning from school.\u00a0 The Federal Bureau of Investigation (FBI) and the <a data-val=\"https://www.alamedacountysheriff.org/jennylin.php\" data-linktype=\"external\" href=\"https://www.alamedacountysheriff.org/jennylin.php\" data-urltype=\"/view\">Alameda County Sheriff's Office</a> in California,\u00a0are seeking information from the public to help solve this murder.</p>",
+		"field_offices": [
+			"sanfrancisco"
+		],
+		"height_min": null,
+		"status": "na",
+		"subjects": [
+			"Seeking Information"
+		],
+		"scars_and_marks": null,
+		"weight_min": null,
+		"modified": "2023-02-28T00:03:20+00:00",
+		"place_of_birth": null,
+		"possible_countries": null,
+		"hair": null,
+		"reward_max": 0,
+		"reward_min": 0,
+		"height_max": null,
+		"locations": null,
+		"weight_max": null,
+		"race": null,
+		"person_classification": "Victim",
+		"reward_text": null,
+		"title": "JENNIFER LIN",
+		"hair_raw": null,
+		"languages": null,
+		"warning_message": null,
+		"additional_information": null,
+		"legat_names": null,
+		"possible_states": null,
+		"description": "Murder Victim\r\nCastro Valley, California\r\nMay 27, 1994",
+		"age_min": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/7d7e51ca02504387be5e7ee0cadb11ce"
+	},
+	{
+		"eyes": null,
+		"complexion": null,
 		"uid": "140180911cac4749a9e61172e819c55a",
 		"images": [
 			{
@@ -63085,83 +63116,6 @@
 		"age_min": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/140180911cac4749a9e61172e819c55a"
-	},
-	{
-		"eyes": null,
-		"complexion": null,
-		"uid": "7d7e51ca02504387be5e7ee0cadb11ce",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/@@images/image/thumb",
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/@@images/image/large"
-			},
-			{
-				"original": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/lin2.jpg",
-				"thumb": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/lin2.jpg/@@images/image/thumb",
-				"caption": "",
-				"large": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/lin2.jpg/@@images/image/large"
-			}
-		],
-		"coordinates": [],
-		"suspects": null,
-		"eyes_raw": null,
-		"caution": null,
-		"publication": "2017-05-23T09:25:00",
-		"ncic": null,
-		"occupations": null,
-		"dates_of_birth_used": null,
-		"path": "/wanted/seeking-info/jennifer-lin",
-		"remarks": null,
-		"weight": null,
-		"nationality": null,
-		"url": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/seeking-info/jennifer-lin/download.pdf"
-			}
-		],
-		"sex": null,
-		"age_range": null,
-		"build": null,
-		"race_raw": null,
-		"aliases": null,
-		"details": "<p>On May 27, 1994, then 14-year-old Jennifer Lin, also known as Jenny Lin,\u00a0was brutally murdered in her home in Castro Valley, California, after returning from school.\u00a0 The Federal Bureau of Investigation (FBI) and the <a data-val=\"https://www.alamedacountysheriff.org/jennylin.php\" data-linktype=\"external\" href=\"https://www.alamedacountysheriff.org/jennylin.php\" data-urltype=\"/view\">Alameda County Sheriff's Office</a> in California,\u00a0are seeking information from the public to help solve this murder.</p>",
-		"field_offices": [
-			"sanfrancisco"
-		],
-		"height_min": null,
-		"status": "na",
-		"subjects": [
-			"Seeking Information"
-		],
-		"scars_and_marks": null,
-		"weight_min": null,
-		"modified": "2023-02-28T00:03:20+00:00",
-		"place_of_birth": null,
-		"possible_countries": null,
-		"hair": null,
-		"reward_max": 0,
-		"reward_min": 0,
-		"height_max": null,
-		"locations": null,
-		"weight_max": null,
-		"race": null,
-		"person_classification": "Victim",
-		"reward_text": null,
-		"title": "JENNIFER LIN",
-		"hair_raw": null,
-		"languages": null,
-		"warning_message": null,
-		"additional_information": null,
-		"legat_names": null,
-		"possible_states": null,
-		"description": "Murder Victim\r\nCastro Valley, California\r\nMay 27, 1994",
-		"age_min": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/7d7e51ca02504387be5e7ee0cadb11ce"
 	},
 	{
 		"eyes": null,
@@ -64653,93 +64607,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/f149ddba-72d9-4b19-8d3b-5692503d1c4e"
 	},
 	{
-		"eyes": "brown",
-		"complexion": null,
-		"uid": "804ef18c-21ea-4a4b-a206-b82209174299",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/wcc/loy-naovarath/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/wcc/loy-naovarath/@@images/image/thumb",
-				"caption": "Photograph taken in 2009",
-				"large": "https://www.fbi.gov/wanted/wcc/loy-naovarath/@@images/image/large"
-			}
-		],
-		"coordinates": [],
-		"suspects": null,
-		"eyes_raw": "Brown",
-		"caution": "<p>Phet Loi Naovarath is wanted for his involvement in a fraudulent scheme that victimized multiple FDIC insured institutions, as well as many individuals within his own Laotian community in Nevada, from 2005 to 2007. Naovarath promised the Laotian victims that they would be \"investment partners\" on various Las Vegas properties that they would be purchasing. However, instead of being a partner on a legitimate real estate transaction, Naovarath merely used their identities to buy and then quickly resell (flip) the high-end properties.</p>\r\n<p>\u00a0</p>\r\n<p>In some cases, Naovarath used the same buyer to purchase several properties, incurring millions of dollars in mortgage debt. Most, if not all, of the properties within one entire up-scale Las Vegas community were purchased in the same fraudulent manner, resulting in numerous foreclosures and losses exceeding $10 million.</p>\r\n<p>\u00a0</p>\r\n<p>Naovarath used the ill-gotten gains to support his lavish lifestyle. Several of Naovarath's co-conspirators pled guilty and were subsequently sentenced. Due to the overwhelming evidence against him, Naovarath pled guilty and was sentenced to 33 months in federal prison.</p>\r\n<p>\u00a0</p>\r\n<p>In May 2012, just before reporting to the Bureau of Prisons to begin serving his sentence, Naovarath fled Las Vegas, leaving behind his wife and two young children. On June 15, 2012, a federal warrant was issued for Naovarath's arrest.</p>",
-		"publication": "2013-09-23T07:00:00",
-		"ncic": "W355260844",
-		"occupations": [
-			"Car dealer",
-			"Real estate investor",
-			"Card dealer"
-		],
-		"dates_of_birth_used": [
-			"May 1, 1976"
-		],
-		"path": "/wanted/wcc/loy-naovarath",
-		"remarks": "<p>Naovarath enjoys fast cars and previously has owned a Lamborghini. Naovarath may have travelled to Laos; Los Angeles, California; and Las Vegas and Pahrump, Nevada.</p>",
-		"weight": "160 to 165  pounds",
-		"nationality": "Laotian",
-		"url": "https://www.fbi.gov/wanted/wcc/loy-naovarath",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/wcc/loy-naovarath/download.pdf"
-			}
-		],
-		"sex": "Male",
-		"age_range": null,
-		"build": null,
-		"race_raw": "Asian",
-		"aliases": [
-			"\"Loi\"",
-			"\"Loy\"",
-			"Phet Naovarath",
-			"Phetsamone Loi Naovarath",
-			"Phetsamone Loy Naovarath"
-		],
-		"details": null,
-		"field_offices": [
-			"lasvegas"
-		],
-		"height_min": 70,
-		"status": "na",
-		"subjects": [
-			"White-Collar Crime"
-		],
-		"scars_and_marks": "Naovarath has a tattoo on his back and a tattoo on his right shoulder.",
-		"weight_min": 160,
-		"modified": "2023-02-28T00:02:57+00:00",
-		"place_of_birth": "Laos",
-		"possible_countries": [
-			"LAO"
-		],
-		"hair": "brown",
-		"reward_max": 0,
-		"reward_min": 0,
-		"height_max": 70,
-		"locations": null,
-		"weight_max": 165,
-		"race": "asian",
-		"person_classification": "Main",
-		"reward_text": null,
-		"title": "PHET LOI NAOVARATH",
-		"hair_raw": "Black/Brown",
-		"languages": null,
-		"warning_message": null,
-		"additional_information": null,
-		"legat_names": null,
-		"possible_states": [
-			"US-NV"
-		],
-		"description": "Escape",
-		"age_min": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/804ef18c-21ea-4a4b-a206-b82209174299"
-	},
-	{
 		"eyes": "blue",
 		"complexion": null,
 		"uid": "9f1ad7ac37a84797a3d29f47b4cda8aa",
@@ -64838,6 +64705,93 @@
 		"age_min": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/9f1ad7ac37a84797a3d29f47b4cda8aa"
+	},
+	{
+		"eyes": "brown",
+		"complexion": null,
+		"uid": "804ef18c-21ea-4a4b-a206-b82209174299",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/wcc/loy-naovarath/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/wcc/loy-naovarath/@@images/image/thumb",
+				"caption": "Photograph taken in 2009",
+				"large": "https://www.fbi.gov/wanted/wcc/loy-naovarath/@@images/image/large"
+			}
+		],
+		"coordinates": [],
+		"suspects": null,
+		"eyes_raw": "Brown",
+		"caution": "<p>Phet Loi Naovarath is wanted for his involvement in a fraudulent scheme that victimized multiple FDIC insured institutions, as well as many individuals within his own Laotian community in Nevada, from 2005 to 2007. Naovarath promised the Laotian victims that they would be \"investment partners\" on various Las Vegas properties that they would be purchasing. However, instead of being a partner on a legitimate real estate transaction, Naovarath merely used their identities to buy and then quickly resell (flip) the high-end properties.</p>\r\n<p>\u00a0</p>\r\n<p>In some cases, Naovarath used the same buyer to purchase several properties, incurring millions of dollars in mortgage debt. Most, if not all, of the properties within one entire up-scale Las Vegas community were purchased in the same fraudulent manner, resulting in numerous foreclosures and losses exceeding $10 million.</p>\r\n<p>\u00a0</p>\r\n<p>Naovarath used the ill-gotten gains to support his lavish lifestyle. Several of Naovarath's co-conspirators pled guilty and were subsequently sentenced. Due to the overwhelming evidence against him, Naovarath pled guilty and was sentenced to 33 months in federal prison.</p>\r\n<p>\u00a0</p>\r\n<p>In May 2012, just before reporting to the Bureau of Prisons to begin serving his sentence, Naovarath fled Las Vegas, leaving behind his wife and two young children. On June 15, 2012, a federal warrant was issued for Naovarath's arrest.</p>",
+		"publication": "2013-09-23T07:00:00",
+		"ncic": "W355260844",
+		"occupations": [
+			"Car dealer",
+			"Real estate investor",
+			"Card dealer"
+		],
+		"dates_of_birth_used": [
+			"May 1, 1976"
+		],
+		"path": "/wanted/wcc/loy-naovarath",
+		"remarks": "<p>Naovarath enjoys fast cars and previously has owned a Lamborghini. Naovarath may have travelled to Laos; Los Angeles, California; and Las Vegas and Pahrump, Nevada.</p>",
+		"weight": "160 to 165  pounds",
+		"nationality": "Laotian",
+		"url": "https://www.fbi.gov/wanted/wcc/loy-naovarath",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/wcc/loy-naovarath/download.pdf"
+			}
+		],
+		"sex": "Male",
+		"age_range": null,
+		"build": null,
+		"race_raw": "Asian",
+		"aliases": [
+			"\"Loi\"",
+			"\"Loy\"",
+			"Phet Naovarath",
+			"Phetsamone Loi Naovarath",
+			"Phetsamone Loy Naovarath"
+		],
+		"details": null,
+		"field_offices": [
+			"lasvegas"
+		],
+		"height_min": 70,
+		"status": "na",
+		"subjects": [
+			"White-Collar Crime"
+		],
+		"scars_and_marks": "Naovarath has a tattoo on his back and a tattoo on his right shoulder.",
+		"weight_min": 160,
+		"modified": "2023-02-28T00:02:57+00:00",
+		"place_of_birth": "Laos",
+		"possible_countries": [
+			"LAO"
+		],
+		"hair": "brown",
+		"reward_max": 0,
+		"reward_min": 0,
+		"height_max": 70,
+		"locations": null,
+		"weight_max": 165,
+		"race": "asian",
+		"person_classification": "Main",
+		"reward_text": null,
+		"title": "PHET LOI NAOVARATH",
+		"hair_raw": "Black/Brown",
+		"languages": null,
+		"warning_message": null,
+		"additional_information": null,
+		"legat_names": null,
+		"possible_states": [
+			"US-NV"
+		],
+		"description": "Escape",
+		"age_min": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/804ef18c-21ea-4a4b-a206-b82209174299"
 	},
 	{
 		"eyes": "blue",
@@ -65702,6 +65656,83 @@
 		"@id": "https://api.fbi.gov/@wanted-person/55a60c5a-0a99-4724-a74e-7ac66768f0cd"
 	},
 	{
+		"eyes": "brown",
+		"complexion": null,
+		"uid": "757fb3f8-9c36-443c-9577-3fe2443f1cbe",
+		"images": [
+			{
+				"original": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image/thumb",
+				"caption": "Photograph taken in 2004",
+				"large": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image/large"
+			}
+		],
+		"coordinates": [],
+		"suspects": null,
+		"eyes_raw": "Brown",
+		"caution": "<p>Jorge Iglesias is wanted for his alleged involvement in a scheme to defraud Medicare out of more than one million dollars in Puerto Rico.\u00a0 Iglesias was the owner and resident agent of Affordable Medical Services Group, which was a durable medical equipment (DME) company authorized to do business in Puerto Rico, with its business office located in Carolina, Puerto Rico. DMEs are medically necessary and prescribed by medical doctors or other qualified health care providers. They are designed for repeated use and for medical purposes, such as prosthetic limbs.</p>\r\n<p>\u00a0</p>\r\n<p>Affordable Medical Services Group was in business from August of 2007 until February of 2008. During that time, the company received approximately $1.1 million in Medicare reimbursements for DMEs that were not medically necessary. It is alleged that Iglesias controlled the business activities of the company, including the submission of DME claims to Medicare. Iglesias also had signature authority on the Affordable Medical Services Group bank account where all Medicare deposits were made. From 2007 to 2008, Iglesias allegedly submitted 354 fraudulent claims to Medicare for prosthetic limbs.</p>\r\n<p>\u00a0</p>\r\n<p>On September 24, 2008, a federal arrest warrant was issued for Iglesias by the United States District Court, District of Puerto Rico, after he was indicted federally for health care fraud-related crimes.</p>",
+		"publication": "2013-02-20T07:00:00",
+		"ncic": "W225178837",
+		"occupations": null,
+		"dates_of_birth_used": [
+			"November 25, 1961"
+		],
+		"path": "/wanted/wcc/jorge-iglesias-vazquez",
+		"remarks": null,
+		"weight": "180 pounds",
+		"nationality": "Cuban",
+		"url": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/download.pdf"
+			}
+		],
+		"sex": "Male",
+		"age_range": null,
+		"build": null,
+		"race_raw": "White (Hispanic)",
+		"aliases": [
+			"Jorge Iglesias-Vazquez",
+			"Jorge Iglesias Vazquez",
+			"Jorge Islesias Vazquez"
+		],
+		"details": null,
+		"field_offices": [
+			"sanjuan"
+		],
+		"height_min": 68,
+		"status": "na",
+		"subjects": [
+			"White-Collar Crime"
+		],
+		"scars_and_marks": null,
+		"weight_min": 180,
+		"modified": "2023-02-28T00:02:54+00:00",
+		"place_of_birth": "Cuba",
+		"possible_countries": null,
+		"hair": "brown",
+		"reward_max": 0,
+		"reward_min": 0,
+		"height_max": 68,
+		"locations": null,
+		"weight_max": 180,
+		"race": "hispanic",
+		"person_classification": "Main",
+		"reward_text": null,
+		"title": "JORGE IGLESIAS",
+		"hair_raw": "Brown",
+		"languages": null,
+		"warning_message": null,
+		"additional_information": null,
+		"legat_names": null,
+		"possible_states": null,
+		"description": "Health Care Fraud",
+		"age_min": null,
+		"age_max": null,
+		"@id": "https://api.fbi.gov/@wanted-person/757fb3f8-9c36-443c-9577-3fe2443f1cbe"
+	},
+	{
 		"eyes": "blue",
 		"complexion": null,
 		"uid": "9badeee26b4517d1c9071df85daf2653",
@@ -65781,83 +65812,6 @@
 		"age_min": null,
 		"age_max": null,
 		"@id": "https://api.fbi.gov/@wanted-person/9badeee26b4517d1c9071df85daf2653"
-	},
-	{
-		"eyes": "brown",
-		"complexion": null,
-		"uid": "757fb3f8-9c36-443c-9577-3fe2443f1cbe",
-		"images": [
-			{
-				"original": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image/thumb",
-				"caption": "Photograph taken in 2004",
-				"large": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/@@images/image/large"
-			}
-		],
-		"coordinates": [],
-		"suspects": null,
-		"eyes_raw": "Brown",
-		"caution": "<p>Jorge Iglesias is wanted for his alleged involvement in a scheme to defraud Medicare out of more than one million dollars in Puerto Rico.\u00a0 Iglesias was the owner and resident agent of Affordable Medical Services Group, which was a durable medical equipment (DME) company authorized to do business in Puerto Rico, with its business office located in Carolina, Puerto Rico. DMEs are medically necessary and prescribed by medical doctors or other qualified health care providers. They are designed for repeated use and for medical purposes, such as prosthetic limbs.</p>\r\n<p>\u00a0</p>\r\n<p>Affordable Medical Services Group was in business from August of 2007 until February of 2008. During that time, the company received approximately $1.1 million in Medicare reimbursements for DMEs that were not medically necessary. It is alleged that Iglesias controlled the business activities of the company, including the submission of DME claims to Medicare. Iglesias also had signature authority on the Affordable Medical Services Group bank account where all Medicare deposits were made. From 2007 to 2008, Iglesias allegedly submitted 354 fraudulent claims to Medicare for prosthetic limbs.</p>\r\n<p>\u00a0</p>\r\n<p>On September 24, 2008, a federal arrest warrant was issued for Iglesias by the United States District Court, District of Puerto Rico, after he was indicted federally for health care fraud-related crimes.</p>",
-		"publication": "2013-02-20T07:00:00",
-		"ncic": "W225178837",
-		"occupations": null,
-		"dates_of_birth_used": [
-			"November 25, 1961"
-		],
-		"path": "/wanted/wcc/jorge-iglesias-vazquez",
-		"remarks": null,
-		"weight": "180 pounds",
-		"nationality": "Cuban",
-		"url": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/wcc/jorge-iglesias-vazquez/download.pdf"
-			}
-		],
-		"sex": "Male",
-		"age_range": null,
-		"build": null,
-		"race_raw": "White (Hispanic)",
-		"aliases": [
-			"Jorge Iglesias-Vazquez",
-			"Jorge Iglesias Vazquez",
-			"Jorge Islesias Vazquez"
-		],
-		"details": null,
-		"field_offices": [
-			"sanjuan"
-		],
-		"height_min": 68,
-		"status": "na",
-		"subjects": [
-			"White-Collar Crime"
-		],
-		"scars_and_marks": null,
-		"weight_min": 180,
-		"modified": "2023-02-28T00:02:54+00:00",
-		"place_of_birth": "Cuba",
-		"possible_countries": null,
-		"hair": "brown",
-		"reward_max": 0,
-		"reward_min": 0,
-		"height_max": 68,
-		"locations": null,
-		"weight_max": 180,
-		"race": "hispanic",
-		"person_classification": "Main",
-		"reward_text": null,
-		"title": "JORGE IGLESIAS",
-		"hair_raw": "Brown",
-		"languages": null,
-		"warning_message": null,
-		"additional_information": null,
-		"legat_names": null,
-		"possible_states": null,
-		"description": "Health Care Fraud",
-		"age_min": null,
-		"age_max": null,
-		"@id": "https://api.fbi.gov/@wanted-person/757fb3f8-9c36-443c-9577-3fe2443f1cbe"
 	},
 	{
 		"eyes": "brown",
