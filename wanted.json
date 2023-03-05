@@ -3579,6 +3579,75 @@
 		"@id": "https://api.fbi.gov/@wanted-person/e8333eccb199469faa7bfcbaca764306"
 	},
 	{
+		"sex": "Female",
+		"legat_names": null,
+		"additional_information": null,
+		"weight_max": 200,
+		"coordinates": [],
+		"caution": null,
+		"race": "white",
+		"reward_min": 0,
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": null,
+		"race_raw": "White",
+		"aliases": null,
+		"description": "December 2, 2022\r\nRiceboro, Georgia",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/2023-01-02-alert.pdf"
+			}
+		],
+		"possible_states": null,
+		"weight": "185 to 200 pounds",
+		"hair": "brown",
+		"languages": null,
+		"locations": null,
+		"occupations": null,
+		"age_max": 50,
+		"ncic": null,
+		"suspects": null,
+		"height_min": 69,
+		"nationality": null,
+		"age_range": "20 to 50 years old",
+		"images": [
+			{
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/@@images/image/thumb"
+			}
+		],
+		"hair_raw": "Brown",
+		"modified": "2023-03-04T00:09:47+00:00",
+		"weight_min": 185,
+		"complexion": null,
+		"height_max": 70,
+		"age_min": 20,
+		"reward_text": null,
+		"details": "<p>The body of an unidentified white female was found in a wooded area of Portal Hunting Club in Riceboro, Liberty County, Georgia, on December 2, 2022. The remains appeared to have been placed in the area sometime on or around November 27, 2022. The victim had no scars, marks, or tattoos, but has a single tooth implant in her upper right jaw. Clothing found with the victim includes a dark blue \u201cMerona\u201d brand long-sleeve shirt (size medium), a white camisole top (size large), light gray boy-shorts with a white stripe down the side (size large), and white \u201cAmazon Essentials\u201d brand underwear (size large). The Georgia Bureau of Investigation (GBI) Statesboro Office is seeking help to identify this woman who was the apparent victim of a homicide.</p>",
+		"status": "na",
+		"person_classification": "Main",
+		"publication": "2023-01-12T11:08:00",
+		"scars_and_marks": null,
+		"field_offices": null,
+		"subjects": [
+			"ViCAP Unidentified Persons"
+		],
+		"eyes": "brown",
+		"title": "JANE DOE - RICEBORO, GEORGIA",
+		"uid": "f481dd60ff664fbcb35991ac974e62f1",
+		"remarks": null,
+		"possible_countries": null,
+		"path": "/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia",
+		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia",
+		"build": null,
+		"place_of_birth": null,
+		"warning_message": null,
+		"reward_max": 0,
+		"@id": "https://api.fbi.gov/@wanted-person/f481dd60ff664fbcb35991ac974e62f1"
+	},
+	{
 		"sex": null,
 		"legat_names": null,
 		"additional_information": null,
@@ -3648,75 +3717,6 @@
 		"warning_message": null,
 		"reward_max": 0,
 		"@id": "https://api.fbi.gov/@wanted-person/38f36a4016aa45a0a21c0c11fcbcd1ed"
-	},
-	{
-		"sex": "Female",
-		"legat_names": null,
-		"additional_information": null,
-		"weight_max": 200,
-		"coordinates": [],
-		"caution": null,
-		"race": "white",
-		"reward_min": 0,
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": null,
-		"race_raw": "White",
-		"aliases": null,
-		"description": "December 2, 2022\r\nRiceboro, Georgia",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/2023-01-02-alert.pdf"
-			}
-		],
-		"possible_states": null,
-		"weight": "185 to 200 pounds",
-		"hair": "brown",
-		"languages": null,
-		"locations": null,
-		"occupations": null,
-		"age_max": 50,
-		"ncic": null,
-		"suspects": null,
-		"height_min": 69,
-		"nationality": null,
-		"age_range": "20 to 50 years old",
-		"images": [
-			{
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/@@images/image/large",
-				"original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia/@@images/image/thumb"
-			}
-		],
-		"hair_raw": "Brown",
-		"modified": "2023-03-04T00:09:47+00:00",
-		"weight_min": 185,
-		"complexion": null,
-		"height_max": 70,
-		"age_min": 20,
-		"reward_text": null,
-		"details": "<p>The body of an unidentified white female was found in a wooded area of Portal Hunting Club in Riceboro, Liberty County, Georgia, on December 2, 2022. The remains appeared to have been placed in the area sometime on or around November 27, 2022. The victim had no scars, marks, or tattoos, but has a single tooth implant in her upper right jaw. Clothing found with the victim includes a dark blue \u201cMerona\u201d brand long-sleeve shirt (size medium), a white camisole top (size large), light gray boy-shorts with a white stripe down the side (size large), and white \u201cAmazon Essentials\u201d brand underwear (size large). The Georgia Bureau of Investigation (GBI) Statesboro Office is seeking help to identify this woman who was the apparent victim of a homicide.</p>",
-		"status": "na",
-		"person_classification": "Main",
-		"publication": "2023-01-12T11:08:00",
-		"scars_and_marks": null,
-		"field_offices": null,
-		"subjects": [
-			"ViCAP Unidentified Persons"
-		],
-		"eyes": "brown",
-		"title": "JANE DOE - RICEBORO, GEORGIA",
-		"uid": "f481dd60ff664fbcb35991ac974e62f1",
-		"remarks": null,
-		"possible_countries": null,
-		"path": "/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia",
-		"url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---riceboro-georgia",
-		"build": null,
-		"place_of_birth": null,
-		"warning_message": null,
-		"reward_max": 0,
-		"@id": "https://api.fbi.gov/@wanted-person/f481dd60ff664fbcb35991ac974e62f1"
 	},
 	{
 		"sex": null,
@@ -5858,80 +5858,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/060067357f82a8ab606ef4907c62510f"
 	},
 	{
-		"sex": "Female",
-		"legat_names": null,
-		"additional_information": null,
-		"weight_max": 100,
-		"coordinates": [],
-		"caution": null,
-		"race": "white",
-		"reward_min": 0,
-		"eyes_raw": "Blue",
-		"dates_of_birth_used": null,
-		"race_raw": "White",
-		"aliases": [
-			"Shannon Elaine Riley",
-			"Shannon Arif"
-		],
-		"description": "Clarksville, Tennessee\r\nMarch 17, 1998",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif-9-9-13"
-			}
-		],
-		"possible_states": [
-			"US-TN"
-		],
-		"weight": "100 pounds",
-		"hair": "blond",
-		"languages": null,
-		"locations": null,
-		"occupations": null,
-		"age_max": 20,
-		"ncic": null,
-		"suspects": null,
-		"height_min": 64,
-		"nationality": null,
-		"age_range": "20 (at time of incident)",
-		"images": [
-			{
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif/@@images/image/large",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif/@@images/image/thumb"
-			}
-		],
-		"hair_raw": "Blonde (shoulder length)",
-		"modified": "2023-03-04T00:09:34+00:00",
-		"weight_min": 100,
-		"complexion": null,
-		"height_max": 64,
-		"age_min": 20,
-		"reward_text": null,
-		"details": "<p>On March 17, 1998, Shannon Elaine Arif was reported missing by her husband. Her husband advised he last saw his wife at approximately 9:45 am prior to leaving for work that morning. Shannon was scheduled to work at the Clarksville Wal-Mart from 4:30 pm to 9:15 pm, and when she did not return home, her husband went to Wal-Mart and found her car in the parking lot. Shannon\u2019s purse was found in the car. Wal-Mart management advised that Shannon did not report for work that day.</p>",
-		"status": "na",
-		"person_classification": "Victim",
-		"publication": "2010-10-26T16:20:00",
-		"scars_and_marks": "Mole (upper lip, left side)",
-		"field_offices": null,
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"eyes": "blue",
-		"title": "SHANNON ELAINE ARIF - CLARKSVILLE, TENNESSEE",
-		"uid": "526b1de75efad48668282c95991171d1",
-		"remarks": null,
-		"possible_countries": null,
-		"path": "/wanted/vicap/missing-persons/shannon-elaine-arif",
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif",
-		"build": null,
-		"place_of_birth": null,
-		"warning_message": null,
-		"reward_max": 0,
-		"@id": "https://api.fbi.gov/@wanted-person/526b1de75efad48668282c95991171d1"
-	},
-	{
 		"sex": "Male",
 		"legat_names": null,
 		"additional_information": null,
@@ -6011,6 +5937,80 @@
 		"warning_message": null,
 		"reward_max": 0,
 		"@id": "https://api.fbi.gov/@wanted-person/913807d0-38a0-420b-842c-f5d5ff6c8938"
+	},
+	{
+		"sex": "Female",
+		"legat_names": null,
+		"additional_information": null,
+		"weight_max": 100,
+		"coordinates": [],
+		"caution": null,
+		"race": "white",
+		"reward_min": 0,
+		"eyes_raw": "Blue",
+		"dates_of_birth_used": null,
+		"race_raw": "White",
+		"aliases": [
+			"Shannon Elaine Riley",
+			"Shannon Arif"
+		],
+		"description": "Clarksville, Tennessee\r\nMarch 17, 1998",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif-9-9-13"
+			}
+		],
+		"possible_states": [
+			"US-TN"
+		],
+		"weight": "100 pounds",
+		"hair": "blond",
+		"languages": null,
+		"locations": null,
+		"occupations": null,
+		"age_max": 20,
+		"ncic": null,
+		"suspects": null,
+		"height_min": 64,
+		"nationality": null,
+		"age_range": "20 (at time of incident)",
+		"images": [
+			{
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif/@@images/image/thumb"
+			}
+		],
+		"hair_raw": "Blonde (shoulder length)",
+		"modified": "2023-03-04T00:09:34+00:00",
+		"weight_min": 100,
+		"complexion": null,
+		"height_max": 64,
+		"age_min": 20,
+		"reward_text": null,
+		"details": "<p>On March 17, 1998, Shannon Elaine Arif was reported missing by her husband. Her husband advised he last saw his wife at approximately 9:45 am prior to leaving for work that morning. Shannon was scheduled to work at the Clarksville Wal-Mart from 4:30 pm to 9:15 pm, and when she did not return home, her husband went to Wal-Mart and found her car in the parking lot. Shannon\u2019s purse was found in the car. Wal-Mart management advised that Shannon did not report for work that day.</p>",
+		"status": "na",
+		"person_classification": "Victim",
+		"publication": "2010-10-26T16:20:00",
+		"scars_and_marks": "Mole (upper lip, left side)",
+		"field_offices": null,
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"eyes": "blue",
+		"title": "SHANNON ELAINE ARIF - CLARKSVILLE, TENNESSEE",
+		"uid": "526b1de75efad48668282c95991171d1",
+		"remarks": null,
+		"possible_countries": null,
+		"path": "/wanted/vicap/missing-persons/shannon-elaine-arif",
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/shannon-elaine-arif",
+		"build": null,
+		"place_of_birth": null,
+		"warning_message": null,
+		"reward_max": 0,
+		"@id": "https://api.fbi.gov/@wanted-person/526b1de75efad48668282c95991171d1"
 	},
 	{
 		"sex": "Female",
@@ -6234,75 +6234,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/703513207f19ef8f6d7a432541e9e8fc"
 	},
 	{
-		"sex": "Male",
-		"legat_names": null,
-		"additional_information": null,
-		"weight_max": 250,
-		"coordinates": [],
-		"caution": null,
-		"race": "white",
-		"reward_min": 0,
-		"eyes_raw": "Blue",
-		"dates_of_birth_used": null,
-		"race_raw": "White",
-		"aliases": null,
-		"description": "Palmyra, Virginia\r\nApril 8, 2011",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-lee-hourihan/hourihan_-palmyra-va.pdf"
-			}
-		],
-		"possible_states": null,
-		"weight": "Approximately 200 to 250 pounds",
-		"hair": null,
-		"languages": null,
-		"locations": null,
-		"occupations": null,
-		"age_max": 33,
-		"ncic": null,
-		"suspects": null,
-		"height_min": 68,
-		"nationality": null,
-		"age_range": "33 (time of incident)",
-		"images": [
-			{
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-lee-hourihan/@@images/image/large",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-lee-hourihan/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-lee-hourihan/@@images/image/thumb"
-			}
-		],
-		"hair_raw": "Red  (Also has beard)",
-		"modified": "2023-03-04T00:09:33+00:00",
-		"weight_min": 200,
-		"complexion": null,
-		"height_max": 71,
-		"age_min": 33,
-		"reward_text": null,
-		"details": "<p>On April 8, 2011, Robert Lee Hourihan disappeared after visiting the E.W. Thomas Grocery store at approximately 8:00 a.m. in Palmyra, Virginia. The victim's last cell phone call was at 7:41 a.m. in Palmyra, Virginia. The victim was driving a white 2004 Chevrolet Cavalier with personalized license plates \"TARAMAE.\" on May 28, 2011, the vehicle was located in a Target parking lot in La Plata, Maryland. For additional information regarding this victim, refer to the National Missing and Unidentified Persons System (NamUs) missing person database, case report number MP#10497.</p>",
-		"status": "na",
-		"person_classification": "Victim",
-		"publication": "2013-07-03T07:00:00",
-		"scars_and_marks": null,
-		"field_offices": null,
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"eyes": "blue",
-		"title": "ROBERT LEE HOURIHAN - PALMYRA, VIRGINIA",
-		"uid": "1c26a402-662d-48e7-9360-824999ddb506",
-		"remarks": "<p>The victim wore blue work pants, a light gray T-Shirt, and work boots.</p>",
-		"possible_countries": null,
-		"path": "/wanted/vicap/missing-persons/robert-lee-hourihan",
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-lee-hourihan",
-		"build": null,
-		"place_of_birth": null,
-		"warning_message": null,
-		"reward_max": 0,
-		"@id": "https://api.fbi.gov/@wanted-person/1c26a402-662d-48e7-9360-824999ddb506"
-	},
-	{
 		"sex": "Female",
 		"legat_names": null,
 		"additional_information": null,
@@ -6370,6 +6301,75 @@
 		"warning_message": null,
 		"reward_max": 0,
 		"@id": "https://api.fbi.gov/@wanted-person/fab00701-def5-45c5-8d6e-b82bae202d7c"
+	},
+	{
+		"sex": "Male",
+		"legat_names": null,
+		"additional_information": null,
+		"weight_max": 250,
+		"coordinates": [],
+		"caution": null,
+		"race": "white",
+		"reward_min": 0,
+		"eyes_raw": "Blue",
+		"dates_of_birth_used": null,
+		"race_raw": "White",
+		"aliases": null,
+		"description": "Palmyra, Virginia\r\nApril 8, 2011",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-lee-hourihan/hourihan_-palmyra-va.pdf"
+			}
+		],
+		"possible_states": null,
+		"weight": "Approximately 200 to 250 pounds",
+		"hair": null,
+		"languages": null,
+		"locations": null,
+		"occupations": null,
+		"age_max": 33,
+		"ncic": null,
+		"suspects": null,
+		"height_min": 68,
+		"nationality": null,
+		"age_range": "33 (time of incident)",
+		"images": [
+			{
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-lee-hourihan/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-lee-hourihan/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-lee-hourihan/@@images/image/thumb"
+			}
+		],
+		"hair_raw": "Red  (Also has beard)",
+		"modified": "2023-03-04T00:09:33+00:00",
+		"weight_min": 200,
+		"complexion": null,
+		"height_max": 71,
+		"age_min": 33,
+		"reward_text": null,
+		"details": "<p>On April 8, 2011, Robert Lee Hourihan disappeared after visiting the E.W. Thomas Grocery store at approximately 8:00 a.m. in Palmyra, Virginia. The victim's last cell phone call was at 7:41 a.m. in Palmyra, Virginia. The victim was driving a white 2004 Chevrolet Cavalier with personalized license plates \"TARAMAE.\" on May 28, 2011, the vehicle was located in a Target parking lot in La Plata, Maryland. For additional information regarding this victim, refer to the National Missing and Unidentified Persons System (NamUs) missing person database, case report number MP#10497.</p>",
+		"status": "na",
+		"person_classification": "Victim",
+		"publication": "2013-07-03T07:00:00",
+		"scars_and_marks": null,
+		"field_offices": null,
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"eyes": "blue",
+		"title": "ROBERT LEE HOURIHAN - PALMYRA, VIRGINIA",
+		"uid": "1c26a402-662d-48e7-9360-824999ddb506",
+		"remarks": "<p>The victim wore blue work pants, a light gray T-Shirt, and work boots.</p>",
+		"possible_countries": null,
+		"path": "/wanted/vicap/missing-persons/robert-lee-hourihan",
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-lee-hourihan",
+		"build": null,
+		"place_of_birth": null,
+		"warning_message": null,
+		"reward_max": 0,
+		"@id": "https://api.fbi.gov/@wanted-person/1c26a402-662d-48e7-9360-824999ddb506"
 	},
 	{
 		"sex": "Female",
@@ -6585,70 +6585,76 @@
 		"sex": "Female",
 		"legat_names": null,
 		"additional_information": null,
-		"weight_max": 120,
+		"weight_max": 102,
 		"coordinates": [],
 		"caution": null,
 		"race": "white",
 		"reward_min": 0,
-		"eyes_raw": "Blue",
+		"eyes_raw": "Hazel",
 		"dates_of_birth_used": null,
 		"race_raw": "White",
 		"aliases": null,
-		"description": "Bloomfield, Indiana\r\nJanuary 1, 2015",
+		"description": "Chicago, Illinois\r\nJuly 15, 1963",
 		"files": [
 			{
 				"name": "English",
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/vicap-boelter_marina-bloomfield-in-jan-1-2015.pdf"
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/mary-ann-ruth-switalski"
 			}
 		],
 		"possible_states": null,
-		"weight": "120 pounds",
+		"weight": "102 pounds",
 		"hair": "blond",
 		"languages": null,
 		"locations": null,
 		"occupations": null,
-		"age_max": 18,
+		"age_max": 16,
 		"ncic": null,
 		"suspects": null,
-		"height_min": 63,
+		"height_min": 62,
 		"nationality": null,
-		"age_range": "18",
+		"age_range": "16",
 		"images": [
 			{
 				"caption": null,
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image/large",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter/@@images/image/thumb"
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/mary-ann-ruth-switalski-1/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/mary-ann-ruth-switalski-1/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/mary-ann-ruth-switalski-1/@@images/image/thumb"
+			},
+			{
+				"caption": "",
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/mary-ann-ruth-switalski-1/ann2.jpg/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/mary-ann-ruth-switalski-1/ann2.jpg",
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/mary-ann-ruth-switalski-1/ann2.jpg/@@images/image/thumb"
 			}
 		],
-		"hair_raw": "Blonde/Strawberry blonde",
+		"hair_raw": "Blonde",
 		"modified": "2023-03-04T00:09:32+00:00",
-		"weight_min": 120,
+		"weight_min": 102,
 		"complexion": null,
-		"height_max": 63,
-		"age_min": 18,
+		"height_max": 62,
+		"age_min": 16,
 		"reward_text": null,
-		"details": "<p>On Friday, January 2, 2015, Marina Pearl Boelter was reported by her co-workers after she did not show up for work at the IGA grocery store, located off South Highway 231, Bloomfield, Indiana, on January 1, 2015. Marina Boelter was last observed at approximately 6:00 p.m., on December 31, 2014, after she left work at the old Sunoco gas station gravel lot directly north of IGA. She has not been seen since.</p>\r\n<p>Marina was last seen wearing pink and white Nike Shox shoes. Marina frequently wore a cross necklace.</p>",
+		"details": "<p>Mary Ann was last seen at a carnival at St. Priscilla's Catholic Church in Chicago, IL on 7/15/1963. Two days after her disappearance, her parents received a letter believed to be from Mary Ann, which was postmarked from Oak Park, IL. The letter (apparently written in her handwriting, but not her writing style) stated she was fine and she was going to make some money to support them. No further contact was made. It is believed Mary Ann may have been coerced to join a door-to-door sales group that was headed to California.</p>",
 		"status": "na",
 		"person_classification": "Victim",
-		"publication": "2016-02-10T07:00:00",
+		"publication": "2012-02-02T07:00:00",
 		"scars_and_marks": null,
 		"field_offices": null,
 		"subjects": [
 			"ViCAP Missing Persons"
 		],
-		"eyes": "blue",
-		"title": "MARINA PEARL BOELTER - BLOOMFIELD, INDIANA",
-		"uid": "f42dc3a2-2c71-4cb1-b801-20eef76da7cc",
-		"remarks": null,
+		"eyes": "hazel",
+		"title": "MARY ANN RUTH SWITALSKI - CHICAGO, ILLINOIS",
+		"uid": "a86eed5ea9a07a28b3ab6df96eec5bf1",
+		"remarks": "<p>Subject was last seen wearing a black sleeveless blouse, white shorts and straw sandals.</p>",
 		"possible_countries": null,
-		"path": "/wanted/vicap/missing-persons/marina-pearl-boelter",
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/marina-pearl-boelter",
+		"path": "/wanted/vicap/missing-persons/mary-ann-ruth-switalski-1",
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/mary-ann-ruth-switalski-1",
 		"build": null,
 		"place_of_birth": null,
 		"warning_message": null,
 		"reward_max": 0,
-		"@id": "https://api.fbi.gov/@wanted-person/f42dc3a2-2c71-4cb1-b801-20eef76da7cc"
+		"@id": "https://api.fbi.gov/@wanted-person/a86eed5ea9a07a28b3ab6df96eec5bf1"
 	},
 	{
 		"sex": "Male",
@@ -7095,75 +7101,6 @@
 		"@id": "https://api.fbi.gov/@wanted-person/4f642fe76e0d2ad923ca9bb6195f3936"
 	},
 	{
-		"sex": "Female",
-		"legat_names": null,
-		"additional_information": null,
-		"weight_max": 140,
-		"coordinates": [],
-		"caution": null,
-		"race": "white",
-		"reward_min": 0,
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": null,
-		"race_raw": "White",
-		"aliases": null,
-		"description": "Lock Haven, Pennsylvania\r\nJuly 15, 1991",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/vicap-alert-2013-11-01-katherine-dolan-heckel.pdf"
-			}
-		],
-		"possible_states": null,
-		"weight": "140 pounds",
-		"hair": "brown",
-		"languages": null,
-		"locations": null,
-		"occupations": null,
-		"age_max": 40,
-		"ncic": null,
-		"suspects": null,
-		"height_min": 65,
-		"nationality": null,
-		"age_range": "40 years old \u2013 (Time of Incident)",
-		"images": [
-			{
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/katherine-dolan-heckel/@@images/image/large",
-				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/katherine-dolan-heckel/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/katherine-dolan-heckel/@@images/image/thumb"
-			}
-		],
-		"hair_raw": "Brown - Curly",
-		"modified": "2023-03-04T00:09:30+00:00",
-		"weight_min": 140,
-		"complexion": null,
-		"height_max": 65,
-		"age_min": 40,
-		"reward_text": null,
-		"details": "<p>On July 15, 1991, Katherine Dolan Heckel was last seen as she left her place of employment for lunch. Heckel\u2019s vehicle was found abandoned in the parking lot of the local hospital on July 18, 1991. Heckel has not been seen or heard from since and evidence suggests foul play is involved in her disappearance. For additional information and photographs regarding this victim, refer to the National Missing and Unidentified Persons System (NamUs) missing persons database, case report number MP# 14211.</p>",
-		"status": "na",
-		"person_classification": "Victim",
-		"publication": "2013-12-19T07:00:00",
-		"scars_and_marks": "Heckel has a surgery scar on her abdomen from where her right kidney was removed.",
-		"field_offices": null,
-		"subjects": [
-			"ViCAP Missing Persons"
-		],
-		"eyes": "brown",
-		"title": "KATHERINE DOLAN HECKEL - LOCK HAVEN, PENNSYLVANIA",
-		"uid": "aeca77f2-0f24-42f8-81f5-71db3c106372",
-		"remarks": "<p>Heckel was last wearing a maroon, blue and yellow print sleeveless dress; potentially tan flat shoes; and a gold engagement right with one carat diamond.</p>",
-		"possible_countries": null,
-		"path": "/wanted/vicap/missing-persons/katherine-dolan-heckel",
-		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/katherine-dolan-heckel",
-		"build": null,
-		"place_of_birth": null,
-		"warning_message": null,
-		"reward_max": 0,
-		"@id": "https://api.fbi.gov/@wanted-person/aeca77f2-0f24-42f8-81f5-71db3c106372"
-	},
-	{
 		"sex": "Male",
 		"legat_names": null,
 		"additional_information": null,
@@ -7233,6 +7170,75 @@
 		"warning_message": null,
 		"reward_max": 0,
 		"@id": "https://api.fbi.gov/@wanted-person/4dd0b610ead0993317e9c20b1bc4f8ca"
+	},
+	{
+		"sex": "Female",
+		"legat_names": null,
+		"additional_information": null,
+		"weight_max": 140,
+		"coordinates": [],
+		"caution": null,
+		"race": "white",
+		"reward_min": 0,
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": null,
+		"race_raw": "White",
+		"aliases": null,
+		"description": "Lock Haven, Pennsylvania\r\nJuly 15, 1991",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/vicap/missing-persons/vicap-alert-2013-11-01-katherine-dolan-heckel.pdf"
+			}
+		],
+		"possible_states": null,
+		"weight": "140 pounds",
+		"hair": "brown",
+		"languages": null,
+		"locations": null,
+		"occupations": null,
+		"age_max": 40,
+		"ncic": null,
+		"suspects": null,
+		"height_min": 65,
+		"nationality": null,
+		"age_range": "40 years old \u2013 (Time of Incident)",
+		"images": [
+			{
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/vicap/missing-persons/katherine-dolan-heckel/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/vicap/missing-persons/katherine-dolan-heckel/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/katherine-dolan-heckel/@@images/image/thumb"
+			}
+		],
+		"hair_raw": "Brown - Curly",
+		"modified": "2023-03-04T00:09:30+00:00",
+		"weight_min": 140,
+		"complexion": null,
+		"height_max": 65,
+		"age_min": 40,
+		"reward_text": null,
+		"details": "<p>On July 15, 1991, Katherine Dolan Heckel was last seen as she left her place of employment for lunch. Heckel\u2019s vehicle was found abandoned in the parking lot of the local hospital on July 18, 1991. Heckel has not been seen or heard from since and evidence suggests foul play is involved in her disappearance. For additional information and photographs regarding this victim, refer to the National Missing and Unidentified Persons System (NamUs) missing persons database, case report number MP# 14211.</p>",
+		"status": "na",
+		"person_classification": "Victim",
+		"publication": "2013-12-19T07:00:00",
+		"scars_and_marks": "Heckel has a surgery scar on her abdomen from where her right kidney was removed.",
+		"field_offices": null,
+		"subjects": [
+			"ViCAP Missing Persons"
+		],
+		"eyes": "brown",
+		"title": "KATHERINE DOLAN HECKEL - LOCK HAVEN, PENNSYLVANIA",
+		"uid": "aeca77f2-0f24-42f8-81f5-71db3c106372",
+		"remarks": "<p>Heckel was last wearing a maroon, blue and yellow print sleeveless dress; potentially tan flat shoes; and a gold engagement right with one carat diamond.</p>",
+		"possible_countries": null,
+		"path": "/wanted/vicap/missing-persons/katherine-dolan-heckel",
+		"url": "https://www.fbi.gov/wanted/vicap/missing-persons/katherine-dolan-heckel",
+		"build": null,
+		"place_of_birth": null,
+		"warning_message": null,
+		"reward_max": 0,
+		"@id": "https://api.fbi.gov/@wanted-person/aeca77f2-0f24-42f8-81f5-71db3c106372"
 	},
 	{
 		"sex": "Female",
@@ -13188,6 +13194,94 @@
 		"sex": "Male",
 		"legat_names": null,
 		"additional_information": null,
+		"weight_max": null,
+		"coordinates": [],
+		"caution": "<p>Firas Dardar is wanted for his alleged involvement in the Syrian Electronic Army (SEA), a group of individuals who allegedly commit hacks in support of the Syrian Regime. It is alleged that, between September of 2011 and January of 2014, Dardar committed dozens of cyber attacks against United States government agencies, media organizations, and private organizations under the SEA banner while using the online nickname, \"The Shadow\". On June 12, 2014, a criminal complaint was filed in the United States District Court, Eastern District of Virginia, Alexandria, Virginia, charging Dardar with conspiring to violate numerous laws related to the commission of computer intrusions.</p>\r\n<p>\u00a0</p>\r\n<p>Additionally, Dardar is also suspected of being responsible for a series of cyber extortion schemes targeting a variety of American and international companies. A separate criminal complaint charging Dardar with these cyber extortion schemes was filed on September 29, 2015.</p>",
+		"race": "white",
+		"reward_min": 0,
+		"eyes_raw": "Brown",
+		"dates_of_birth_used": [
+			"March 3, 1989"
+		],
+		"race_raw": "White",
+		"aliases": [
+			"Firas Nur Al Din Dardar",
+			"Firas Nural Din Dardar",
+			"Firas Nour Alden Dardar",
+			"Feras Firas Nur-al-Din",
+			"Firas Derdar",
+			"Firas Drdr",
+			"Feras Dardar",
+			"\"The Shadow\"",
+			"\"Ethical Dragon\"",
+			"\"Ethical Spectrum\""
+		],
+		"description": "Conspiracy to Gain Unauthorized Access to and Damage Computers; Conspiracy to Convey False Information Regarding a Terrorist Attack; Conspiracy to Cause Mutiny of United States Military Members; Conspiracy to Commit Identity Theft, Conspiracy to Commit Access Device Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Commit Wire Fraud; Conspiracy to Violate Syrian Sanctions Regulations; Conspiracy to Receive the Proceeds of Extortion; Conspiracy to Send an Unlawful Interstate Communication",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/download.pdf"
+			},
+			{
+				"name": "\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/dardararabic.pdf/@@download/file/dardararabic.pdf"
+			}
+		],
+		"possible_states": null,
+		"weight": null,
+		"hair": "brown",
+		"languages": null,
+		"locations": null,
+		"occupations": null,
+		"age_max": null,
+		"ncic": null,
+		"suspects": null,
+		"height_min": null,
+		"nationality": "Syrian",
+		"age_range": null,
+		"images": [
+			{
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/thumb"
+			}
+		],
+		"hair_raw": "Dark Brown",
+		"modified": "2023-03-04T00:09:05+00:00",
+		"weight_min": null,
+		"complexion": null,
+		"height_max": null,
+		"age_min": null,
+		"reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest of Firas Dardar.",
+		"details": null,
+		"status": "na",
+		"person_classification": "Main",
+		"publication": "2016-03-10T07:00:00",
+		"scars_and_marks": null,
+		"field_offices": [
+			"washingtondc"
+		],
+		"subjects": [
+			"Cyber's Most Wanted"
+		],
+		"eyes": "brown",
+		"title": "FIRAS DARDAR",
+		"uid": "cd2c80af-771e-4b11-b052-c2255f4e010e",
+		"remarks": "<p>Dardar is known to be a smoker. He is believed to be residing in Homs, Syria.</p>",
+		"possible_countries": null,
+		"path": "/wanted/cyber/firas-dardar",
+		"url": "https://www.fbi.gov/wanted/cyber/firas-dardar",
+		"build": null,
+		"place_of_birth": "Homs, Syria",
+		"warning_message": null,
+		"reward_max": 0,
+		"@id": "https://api.fbi.gov/@wanted-person/cd2c80af-771e-4b11-b052-c2255f4e010e"
+	},
+	{
+		"sex": "Male",
+		"legat_names": null,
+		"additional_information": null,
 		"weight_max": 110,
 		"coordinates": [],
 		"caution": "<p>Ahmed Al Agha is wanted for his alleged involvement in the Syrian Electronic Army (SEA), a group of individuals who allegedly commit hacks in support of the Syrian Regime. It is alleged that, between September of 2011 and January of 2014, Al Agha committed dozens of cyber attacks against United States government agencies, media organizations, and private organizations under the SEA banner while using the online nickname, \"Th3 Pr0\". On June 12, 2014, a criminal complaint was filed in the United States District Court, Eastern District of Virginia, Alexandria, Virginia, charging Al Agha with conspiring to violate numerous laws related to the commission of computer intrusions.</p>",
@@ -13279,94 +13373,6 @@
 		"warning_message": null,
 		"reward_max": 0,
 		"@id": "https://api.fbi.gov/@wanted-person/2ec40393-a9f3-4a1f-ad20-ac71787c5869"
-	},
-	{
-		"sex": "Male",
-		"legat_names": null,
-		"additional_information": null,
-		"weight_max": null,
-		"coordinates": [],
-		"caution": "<p>Firas Dardar is wanted for his alleged involvement in the Syrian Electronic Army (SEA), a group of individuals who allegedly commit hacks in support of the Syrian Regime. It is alleged that, between September of 2011 and January of 2014, Dardar committed dozens of cyber attacks against United States government agencies, media organizations, and private organizations under the SEA banner while using the online nickname, \"The Shadow\". On June 12, 2014, a criminal complaint was filed in the United States District Court, Eastern District of Virginia, Alexandria, Virginia, charging Dardar with conspiring to violate numerous laws related to the commission of computer intrusions.</p>\r\n<p>\u00a0</p>\r\n<p>Additionally, Dardar is also suspected of being responsible for a series of cyber extortion schemes targeting a variety of American and international companies. A separate criminal complaint charging Dardar with these cyber extortion schemes was filed on September 29, 2015.</p>",
-		"race": "white",
-		"reward_min": 0,
-		"eyes_raw": "Brown",
-		"dates_of_birth_used": [
-			"March 3, 1989"
-		],
-		"race_raw": "White",
-		"aliases": [
-			"Firas Nur Al Din Dardar",
-			"Firas Nural Din Dardar",
-			"Firas Nour Alden Dardar",
-			"Feras Firas Nur-al-Din",
-			"Firas Derdar",
-			"Firas Drdr",
-			"Feras Dardar",
-			"\"The Shadow\"",
-			"\"Ethical Dragon\"",
-			"\"Ethical Spectrum\""
-		],
-		"description": "Conspiracy to Gain Unauthorized Access to and Damage Computers; Conspiracy to Convey False Information Regarding a Terrorist Attack; Conspiracy to Cause Mutiny of United States Military Members; Conspiracy to Commit Identity Theft, Conspiracy to Commit Access Device Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Commit Wire Fraud; Conspiracy to Violate Syrian Sanctions Regulations; Conspiracy to Receive the Proceeds of Extortion; Conspiracy to Send an Unlawful Interstate Communication",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/download.pdf"
-			},
-			{
-				"name": "\u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-				"url": "https://www.fbi.gov/wanted/cyber/firas-dardar/dardararabic.pdf/@@download/file/dardararabic.pdf"
-			}
-		],
-		"possible_states": null,
-		"weight": null,
-		"hair": "brown",
-		"languages": null,
-		"locations": null,
-		"occupations": null,
-		"age_max": null,
-		"ncic": null,
-		"suspects": null,
-		"height_min": null,
-		"nationality": "Syrian",
-		"age_range": null,
-		"images": [
-			{
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/large",
-				"original": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/cyber/firas-dardar/@@images/image/thumb"
-			}
-		],
-		"hair_raw": "Dark Brown",
-		"modified": "2023-03-04T00:09:05+00:00",
-		"weight_min": null,
-		"complexion": null,
-		"height_max": null,
-		"age_min": null,
-		"reward_text": "The FBI is offering a reward of up to $100,000 for information leading to the arrest of Firas Dardar.",
-		"details": null,
-		"status": "na",
-		"person_classification": "Main",
-		"publication": "2016-03-10T07:00:00",
-		"scars_and_marks": null,
-		"field_offices": [
-			"washingtondc"
-		],
-		"subjects": [
-			"Cyber's Most Wanted"
-		],
-		"eyes": "brown",
-		"title": "FIRAS DARDAR",
-		"uid": "cd2c80af-771e-4b11-b052-c2255f4e010e",
-		"remarks": "<p>Dardar is known to be a smoker. He is believed to be residing in Homs, Syria.</p>",
-		"possible_countries": null,
-		"path": "/wanted/cyber/firas-dardar",
-		"url": "https://www.fbi.gov/wanted/cyber/firas-dardar",
-		"build": null,
-		"place_of_birth": "Homs, Syria",
-		"warning_message": null,
-		"reward_max": 0,
-		"@id": "https://api.fbi.gov/@wanted-person/cd2c80af-771e-4b11-b052-c2255f4e010e"
 	},
 	{
 		"sex": "Male",
@@ -14628,6 +14634,81 @@
 		"sex": "Male",
 		"legat_names": null,
 		"additional_information": null,
+		"weight_max": 210,
+		"coordinates": [],
+		"caution": "<p>Andrey Vusik is wanted for his alleged participation in the involuntary manslaughter of a man in a Sacramento, California, area park. On July 1, 2007, Vusik and several other individuals were at the park when a verbal confrontation ensued between them and a group of other males. It is alleged that Vusik and his group made derogatory comments about the sexual orientation of one of the men in the other group and, in return, the other group of males made insulting comments about Vusik and his group's heritage. The altercation escalated and a fist fight erupted. Vusik allegedly struck the victim, who fell and hit his head. The victim was in a coma for a few days before dying.</p>\r\n<p>\u00a0</p>\r\n<p>On July 27, 2007, the Sacramento Superior Court for the County of Sacramento, California, issued a warrant for Vusik's arrest and he was charged with involuntary manslaughter. After it was discovered that Vusik had fled the country, a federal arrest warrant was issued by the United States District Court for the Eastern District of California, Sacramento, California, on August 16, 2007, and Vusik was charged with unlawful flight to avoid prosecution.</p>",
+		"race": "white",
+		"reward_min": 0,
+		"eyes_raw": "Gray",
+		"dates_of_birth_used": [
+			"February 26, 1978"
+		],
+		"race_raw": "White",
+		"aliases": [
+			"Brian Joseph DeVirgilio"
+		],
+		"description": "Unlawful Flight to Avoid Prosecution - Involuntary Manslaughter",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/additional/andrey-vusik/download.pdf"
+			}
+		],
+		"possible_states": null,
+		"weight": "210 pounds",
+		"hair": "brown",
+		"languages": null,
+		"locations": null,
+		"occupations": null,
+		"age_max": null,
+		"ncic": "W242860636",
+		"suspects": null,
+		"height_min": 75,
+		"nationality": "Ukrainian",
+		"age_range": null,
+		"images": [
+			{
+				"caption": "Photograph taken in 2006",
+				"large": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image/thumb"
+			}
+		],
+		"hair_raw": "Brown (May be Shaved)",
+		"modified": "2023-03-04T00:08:45+00:00",
+		"weight_min": 210,
+		"complexion": null,
+		"height_max": 75,
+		"age_min": null,
+		"reward_text": null,
+		"details": null,
+		"status": "na",
+		"person_classification": "Main",
+		"publication": "2010-08-31T11:40:00",
+		"scars_and_marks": null,
+		"field_offices": [
+			"sacramento"
+		],
+		"subjects": [
+			"Additional Violent Crimes"
+		],
+		"eyes": null,
+		"title": "ANDREY VUSIK",
+		"uid": "fc2735d51fd7e08112dcebb6cae97fdc",
+		"remarks": "<p>Vusik is a legal resident alien of the United States. He may have traveled to Moscow, Russia, or the Ukraine.</p>",
+		"possible_countries": null,
+		"path": "/wanted/additional/andrey-vusik",
+		"url": "https://www.fbi.gov/wanted/additional/andrey-vusik",
+		"build": null,
+		"place_of_birth": "Ukraine",
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+		"reward_max": 0,
+		"@id": "https://api.fbi.gov/@wanted-person/fc2735d51fd7e08112dcebb6cae97fdc"
+	},
+	{
+		"sex": "Male",
+		"legat_names": null,
+		"additional_information": null,
 		"weight_max": 1998,
 		"coordinates": [],
 		"caution": "<p>Miguel Angel Morales Orozco is wanted for his alleged involvement in the attempted murder of a man in Newhall, California, on September 13, 1998. Morales Orozco allegedly stabbed a man several times, causing serious injuries, after an altercation that occurred in the victim's apartment.</p>\r\n<p>\u00a0</p>\r\n<p>Morales Orozco was charged with one count of attempted murder by the Los Angeles County, California Superior Court. On October 28, 1998, a state warrant was issued for his arrest. A federal arrest warrant was issued by the United States District Court, Central District of California, on March 27, 2000, after Morales Orozco was charged federally with unlawful flight to avoid prosecution.</p>",
@@ -14700,81 +14781,6 @@
 		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN ESCAPE RISK",
 		"reward_max": 0,
 		"@id": "https://api.fbi.gov/@wanted-person/4f9a111a-104a-4b2e-9e34-ee15ad88395a"
-	},
-	{
-		"sex": "Male",
-		"legat_names": null,
-		"additional_information": null,
-		"weight_max": 210,
-		"coordinates": [],
-		"caution": "<p>Andrey Vusik is wanted for his alleged participation in the involuntary manslaughter of a man in a Sacramento, California, area park. On July 1, 2007, Vusik and several other individuals were at the park when a verbal confrontation ensued between them and a group of other males. It is alleged that Vusik and his group made derogatory comments about the sexual orientation of one of the men in the other group and, in return, the other group of males made insulting comments about Vusik and his group's heritage. The altercation escalated and a fist fight erupted. Vusik allegedly struck the victim, who fell and hit his head. The victim was in a coma for a few days before dying.</p>\r\n<p>\u00a0</p>\r\n<p>On July 27, 2007, the Sacramento Superior Court for the County of Sacramento, California, issued a warrant for Vusik's arrest and he was charged with involuntary manslaughter. After it was discovered that Vusik had fled the country, a federal arrest warrant was issued by the United States District Court for the Eastern District of California, Sacramento, California, on August 16, 2007, and Vusik was charged with unlawful flight to avoid prosecution.</p>",
-		"race": "white",
-		"reward_min": 0,
-		"eyes_raw": "Gray",
-		"dates_of_birth_used": [
-			"February 26, 1978"
-		],
-		"race_raw": "White",
-		"aliases": [
-			"Brian Joseph DeVirgilio"
-		],
-		"description": "Unlawful Flight to Avoid Prosecution - Involuntary Manslaughter",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/additional/andrey-vusik/download.pdf"
-			}
-		],
-		"possible_states": null,
-		"weight": "210 pounds",
-		"hair": "brown",
-		"languages": null,
-		"locations": null,
-		"occupations": null,
-		"age_max": null,
-		"ncic": "W242860636",
-		"suspects": null,
-		"height_min": 75,
-		"nationality": "Ukrainian",
-		"age_range": null,
-		"images": [
-			{
-				"caption": "Photograph taken in 2006",
-				"large": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image/large",
-				"original": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/additional/andrey-vusik/@@images/image/thumb"
-			}
-		],
-		"hair_raw": "Brown (May be Shaved)",
-		"modified": "2023-03-04T00:08:45+00:00",
-		"weight_min": 210,
-		"complexion": null,
-		"height_max": 75,
-		"age_min": null,
-		"reward_text": null,
-		"details": null,
-		"status": "na",
-		"person_classification": "Main",
-		"publication": "2010-08-31T11:40:00",
-		"scars_and_marks": null,
-		"field_offices": [
-			"sacramento"
-		],
-		"subjects": [
-			"Additional Violent Crimes"
-		],
-		"eyes": null,
-		"title": "ANDREY VUSIK",
-		"uid": "fc2735d51fd7e08112dcebb6cae97fdc",
-		"remarks": "<p>Vusik is a legal resident alien of the United States. He may have traveled to Moscow, Russia, or the Ukraine.</p>",
-		"possible_countries": null,
-		"path": "/wanted/additional/andrey-vusik",
-		"url": "https://www.fbi.gov/wanted/additional/andrey-vusik",
-		"build": null,
-		"place_of_birth": "Ukraine",
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
-		"reward_max": 0,
-		"@id": "https://api.fbi.gov/@wanted-person/fc2735d51fd7e08112dcebb6cae97fdc"
 	},
 	{
 		"sex": "Male",
@@ -15085,89 +15091,6 @@
 		"sex": "Male",
 		"legat_names": null,
 		"additional_information": null,
-		"weight_max": 200,
-		"coordinates": [],
-		"caution": "<p>Cesar Munguia is wanted for his alleged involvement in the armed robbery of the Webster Bank located on McLean Avenue in Yonkers, New York, and the armed robbery of a bodega on Warburton Avenue in Yonkers, New York, both of which occurred on October 14, 2014. Munguia is allegedly an associate of the Cruddy 650, a violent criminal street gang which is allegedly responsible for a pattern of bank robberies and commercial robberies in Yonkers and its surrounding neighborhoods in October and November of 2014. A federal arrest warrant was issued for Munguia on February 17, 2015, after he was indicted by a grand jury in the Southern District of New York, White Plains, New York, for conspiracy to commit Hobbs Act robbery and firearms offenses.</p>",
-		"race": "hispanic",
-		"reward_min": 0,
-		"eyes_raw": "Blue",
-		"dates_of_birth_used": [
-			"July 18, 1994"
-		],
-		"race_raw": "White (Hispanic)",
-		"aliases": [
-			"Cesar Atraega",
-			"Cesar Munguia Arteaga",
-			"Cesar Munguia Artaega",
-			"Cesar Mungua",
-			"Cesar C"
-		],
-		"description": "Conspiracy to Commit Hobbs Act Robbery; Firearms Offenses",
-		"files": [
-			{
-				"name": "English",
-				"url": "https://www.fbi.gov/wanted/additional/cesar-munguia/download.pdf"
-			},
-			{
-				"name": "EN ESPA\u00d1OL",
-				"url": "https://www.fbi.gov/wanted/additional/cesar-munguia/cesar-munguia-en-espanol.pdf/@@download/file/Cesar Mungu\u00eda EN ESPA\u00d1OL.pdf"
-			}
-		],
-		"possible_states": null,
-		"weight": "200 pounds",
-		"hair": "brown",
-		"languages": null,
-		"locations": null,
-		"occupations": null,
-		"age_max": null,
-		"ncic": "W812976080",
-		"suspects": null,
-		"height_min": 72,
-		"nationality": "Mexican",
-		"age_range": null,
-		"images": [
-			{
-				"caption": null,
-				"large": "https://www.fbi.gov/wanted/additional/cesar-munguia/@@images/image/large",
-				"original": "https://www.fbi.gov/wanted/additional/cesar-munguia/@@images/image",
-				"thumb": "https://www.fbi.gov/wanted/additional/cesar-munguia/@@images/image/thumb"
-			}
-		],
-		"hair_raw": "Brown",
-		"modified": "2023-03-04T00:08:43+00:00",
-		"weight_min": 200,
-		"complexion": null,
-		"height_max": 72,
-		"age_min": null,
-		"reward_text": null,
-		"details": null,
-		"status": "na",
-		"person_classification": "Main",
-		"publication": "2015-03-30T07:00:00",
-		"scars_and_marks": null,
-		"field_offices": [
-			"newyork"
-		],
-		"subjects": [
-			"Additional Violent Crimes"
-		],
-		"eyes": "blue",
-		"title": "CESAR MUNGUIA",
-		"uid": "2611092a-4356-46c3-a573-5081ee8771bf",
-		"remarks": "<p>Munguia speaks Spanish and has ties to Mexico.</p>",
-		"possible_countries": null,
-		"path": "/wanted/additional/cesar-munguia",
-		"url": "https://www.fbi.gov/wanted/additional/cesar-munguia",
-		"build": null,
-		"place_of_birth": "Mexico",
-		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
-		"reward_max": 0,
-		"@id": "https://api.fbi.gov/@wanted-person/2611092a-4356-46c3-a573-5081ee8771bf"
-	},
-	{
-		"sex": "Male",
-		"legat_names": null,
-		"additional_information": null,
 		"weight_max": 140,
 		"coordinates": [],
 		"caution": "<p>On September 16, 1994, Timothy Thomas Coombs allegedly shot a Missouri Highway Trooper in the chest, while the officer was standing in his rural Missouri home. Although the officer was seriously injured, he survived the attack. It is believed that the shooting was in retalitation for the officer's arrest of a man who was an acquaintance of Coombs.</p>\r\n<p>\u00a0</p>\r\n<p>On September 23, 1994, a state arrest warrant was issued in the Division II Circuit Court in the State of Missouri, County of McDonald, charging Coombs with first degree assault of a law enforcement officer. On October 19, 1994, a federal arrest warrant was issued in the Western District of Missouri, Springfield, Missouri, after Coombs was charged with unlawful flight to avoid prosecution.</p>",
@@ -15260,6 +15183,89 @@
 		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
 		"reward_max": 0,
 		"@id": "https://api.fbi.gov/@wanted-person/a3256627-a975-4c76-afa6-56e7d2db01f5"
+	},
+	{
+		"sex": "Male",
+		"legat_names": null,
+		"additional_information": null,
+		"weight_max": 200,
+		"coordinates": [],
+		"caution": "<p>Cesar Munguia is wanted for his alleged involvement in the armed robbery of the Webster Bank located on McLean Avenue in Yonkers, New York, and the armed robbery of a bodega on Warburton Avenue in Yonkers, New York, both of which occurred on October 14, 2014. Munguia is allegedly an associate of the Cruddy 650, a violent criminal street gang which is allegedly responsible for a pattern of bank robberies and commercial robberies in Yonkers and its surrounding neighborhoods in October and November of 2014. A federal arrest warrant was issued for Munguia on February 17, 2015, after he was indicted by a grand jury in the Southern District of New York, White Plains, New York, for conspiracy to commit Hobbs Act robbery and firearms offenses.</p>",
+		"race": "hispanic",
+		"reward_min": 0,
+		"eyes_raw": "Blue",
+		"dates_of_birth_used": [
+			"July 18, 1994"
+		],
+		"race_raw": "White (Hispanic)",
+		"aliases": [
+			"Cesar Atraega",
+			"Cesar Munguia Arteaga",
+			"Cesar Munguia Artaega",
+			"Cesar Mungua",
+			"Cesar C"
+		],
+		"description": "Conspiracy to Commit Hobbs Act Robbery; Firearms Offenses",
+		"files": [
+			{
+				"name": "English",
+				"url": "https://www.fbi.gov/wanted/additional/cesar-munguia/download.pdf"
+			},
+			{
+				"name": "EN ESPA\u00d1OL",
+				"url": "https://www.fbi.gov/wanted/additional/cesar-munguia/cesar-munguia-en-espanol.pdf/@@download/file/Cesar Mungu\u00eda EN ESPA\u00d1OL.pdf"
+			}
+		],
+		"possible_states": null,
+		"weight": "200 pounds",
+		"hair": "brown",
+		"languages": null,
+		"locations": null,
+		"occupations": null,
+		"age_max": null,
+		"ncic": "W812976080",
+		"suspects": null,
+		"height_min": 72,
+		"nationality": "Mexican",
+		"age_range": null,
+		"images": [
+			{
+				"caption": null,
+				"large": "https://www.fbi.gov/wanted/additional/cesar-munguia/@@images/image/large",
+				"original": "https://www.fbi.gov/wanted/additional/cesar-munguia/@@images/image",
+				"thumb": "https://www.fbi.gov/wanted/additional/cesar-munguia/@@images/image/thumb"
+			}
+		],
+		"hair_raw": "Brown",
+		"modified": "2023-03-04T00:08:43+00:00",
+		"weight_min": 200,
+		"complexion": null,
+		"height_max": 72,
+		"age_min": null,
+		"reward_text": null,
+		"details": null,
+		"status": "na",
+		"person_classification": "Main",
+		"publication": "2015-03-30T07:00:00",
+		"scars_and_marks": null,
+		"field_offices": [
+			"newyork"
+		],
+		"subjects": [
+			"Additional Violent Crimes"
+		],
+		"eyes": "blue",
+		"title": "CESAR MUNGUIA",
+		"uid": "2611092a-4356-46c3-a573-5081ee8771bf",
+		"remarks": "<p>Munguia speaks Spanish and has ties to Mexico.</p>",
+		"possible_countries": null,
+		"path": "/wanted/additional/cesar-munguia",
+		"url": "https://www.fbi.gov/wanted/additional/cesar-munguia",
+		"build": null,
+		"place_of_birth": "Mexico",
+		"warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+		"reward_max": 0,
+		"@id": "https://api.fbi.gov/@wanted-person/2611092a-4356-46c3-a573-5081ee8771bf"
 	},
 	{
 		"sex": "Male",
